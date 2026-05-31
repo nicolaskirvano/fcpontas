@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:33.000Z
+pubDatetime: 2026-05-31T22:13:01.000Z
 title: "Pontas no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Jeremie Frimpong (86) — 95% de probabilidade de alta, a 137k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 58 cartas em alta contra 119 em queda (média -1.35%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 61 cartas em alta contra 115 em queda (média -1.13%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **58 subiram** e **119 caíram**, com variação média de **-1.35%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **61 subiram** e **115 caíram**, com variação média de **-1.13%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Jérémy Doku (84) **+46.8%** · 🔴 **Maior baixa:** Rayan Cherki (87) **-29%**
 
@@ -37,7 +37,7 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Jérémy Doku | 84 | Premier League | 124k coins | +46.8% | -58.9% |
 | Ivan Perišić | 90 | Eredivisie | 35k coins | +42.9% | +20.7% |
 | Anders Dreyer | 84 | MLS | 21k coins | +40.7% | +66% |
-| Gervinho | 85 | Serie A TIM | 39k coins | +34.5% | -26.4% |
+| Gervinho | 85 | Serie A TIM | 40k coins | +37.9% | -8% |
 | Bradley Barcola | 90 | Ligue 1 McDonald's | 215k coins | +33.5% | +90.3% |
 | Noa Lang | 91 | Trendyol Süper Lig | 50k coins | +31.6% | +25% |
 | Joe Cole | 88 | Premier League | 188k coins | +19.8% | +18.2% |
@@ -129,7 +129,7 @@ Rayan Cherki (87), -29% em 24h, a 98k coins.
 Pelo modelo FutQuant, Jeremie Frimpong (86) — 95% de probabilidade de alta, a 137k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 58 cartas em alta contra 119 em queda (média -1.35%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 61 cartas em alta contra 115 em queda (média -1.13%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

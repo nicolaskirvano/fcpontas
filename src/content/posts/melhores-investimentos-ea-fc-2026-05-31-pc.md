@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:35.000Z
+pubDatetime: 2026-05-31T22:13:02.000Z
 title: "Melhores investimentos em Pontas no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 31/05/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/05/2026) no EA FC?"
-    a: "Anders Dreyer (94, sem liga) lidera, com +71% em 7 dias a 32k coins no PC, e o modelo dá 19% de chance de seguir subindo."
+    a: "Johan Bakayoko (88, Bundesliga) lidera, com +29.3% em 7 dias a 45k coins no PC, e o modelo dá 37% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **31/05/2026** no **PC**:
 
-> 🔝 **Destaque:** Anders Dreyer (94) acumula **+71% em 7 dias** a 32k coins.
+> 🔝 **Destaque:** Johan Bakayoko (88) acumula **+29.3% em 7 dias** a 45k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,31 +31,29 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Anders Dreyer | 94 | — | 32k coins | +22.6% | +71% | 19% |
-| Gabriel Martinelli | 87 | Premier League | 78k coins | +12.1% | +33% | 33% |
-| Antony | 86 | LALIGA EA SPORTS | 110k coins | +11.7% | +25% | 44% |
-| Naomie Feller | 88 | — | 54k coins | +20% | +24.1% | 25% |
-| Léo Scienza | 95 | — | 30k coins | +20.2% | +22.7% | 0% |
+| Johan Bakayoko | 88 | Bundesliga | 45k coins | +24% | +29.3% | 37% |
+| Oumar Camara | 90 | — | 20k coins | +6.7% | +29% | 0% |
+| Raphinha | 93 | — | 149k coins | +9.6% | +27.4% | 0% |
+| Antony | 86 | LALIGA EA SPORTS | 110k coins | +14% | +25% | 44% |
 | Harry Kewell | 87 | Premier League | 31k coins | +1.6% | +21.6% | 54% |
-| Oumar Camara | 90 | — | 19k coins | +2.7% | +18.8% | 0% |
-| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 104k coins | +19.5% | +15.6% | 22% |
-| Florian Thauvin | 96 | — | 114k coins | +4.6% | +11.8% | 0% |
-| Kim Seung Sub | 90 | — | 22k coins | +2.3% | +7.1% | 0% |
-| Gervinho | 87 | Serie A TIM | 250k coins | +16.3% | +6.8% | 20% |
-| Said El Mala | 90 | — | 20k coins | +3.9% | +6.7% | 0% |
+| Ivan Perišić | 90 | Eredivisie | 38k coins | +10.8% | +19.4% | 54% |
+| Rayan Cherki | 93 | — | 140k coins | +2.2% | +18.6% | 0% |
+| Anders Dreyer | 94 | — | 28k coins | +5.7% | +17.9% | 19% |
+| Ernest Muçi | 92 | — | 22k coins | +7.5% | +7.5% | 0% |
+| Florian Thauvin | 96 | — | 105k coins | +5% | +6.6% | 0% |
 
 
 ## 📈 Análise dos destaques
 
-- **Anders Dreyer (94)** — 32k coins, **+71% em 7 dias** (+22.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Johan Bakayoko (88)** — 45k coins, **+29.3% em 7 dias** (+24% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Gabriel Martinelli (87)** — 78k coins, **+33% em 7 dias** (+12.1% em 24h). Preço -24% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Oumar Camara (90)** — 20k coins, **+29% em 7 dias** (+6.7% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Antony (86)** — 110k coins, **+25% em 7 dias** (+11.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Raphinha (93)** — 149k coins, **+27.4% em 7 dias** (+9.6% em 24h). Preço em linha com a média de 7 dias (+8%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Naomie Feller (88)** — 54k coins, **+24.1% em 7 dias** (+20% em 24h). Preço em linha com a média de 7 dias (+8%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Antony (86)** — 110k coins, **+25% em 7 dias** (+14% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Léo Scienza (95)** — 30k coins, **+22.7% em 7 dias** (+20.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Harry Kewell (87)** — 31k coins, **+21.6% em 7 dias** (+1.6% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -73,7 +71,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/05/2026) no EA FC?**  
-Anders Dreyer (94, sem liga) lidera, com +71% em 7 dias a 32k coins no PC, e o modelo dá 19% de chance de seguir subindo.
+Johan Bakayoko (88, Bundesliga) lidera, com +29.3% em 7 dias a 45k coins no PC, e o modelo dá 37% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

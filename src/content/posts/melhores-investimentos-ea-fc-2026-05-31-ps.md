@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:34.000Z
+pubDatetime: 2026-05-31T22:13:01.000Z
 title: "Melhores investimentos em Pontas no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -37,11 +37,11 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Ernest Muçi | 92 | — | 22k coins | +4.6% | +30.4% | 60% |
 | Noa Lang | 91 | Trendyol Süper Lig | 50k coins | +31.6% | +25% | 5% |
 | Juan Iturbe | 85 | Libertadores | 41k coins | +2.5% | +20.7% | 5% |
-| Rivaldo | 90 | Icons | 104k coins | +8.9% | +18.9% | 44% |
 | Joe Cole | 88 | Premier League | 188k coins | +19.8% | +18.2% | 5% |
 | Oumar Camara | 90 | — | 20k coins | +7.9% | +17.1% | 55% |
 | Oscar Bobb | 88 | Premier League | 37k coins | +6.5% | +15.6% | 68% |
 | Kadidiatou Diani | 91 | D1 Arkema | 158k coins | +2.6% | +14.5% | 53% |
+| Rivaldo | 90 | Icons | 97k coins | +14.8% | +14.1% | 44% |
 | Raphinha | 91 | LALIGA EA SPORTS | 200k coins | +10.5% | +13.6% | 43% |
 | Malcom | 87 | ROSHN Saudi League | 16k coins | +4.8% | +11.9% | 8% |
 | Paulo Futre | 92 | Liga Portugal | 91k coins | +8.3% | +11.7% | 5% |

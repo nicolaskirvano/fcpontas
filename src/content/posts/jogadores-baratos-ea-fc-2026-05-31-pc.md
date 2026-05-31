@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:35.000Z
+pubDatetime: 2026-05-31T22:13:03.000Z
 title: "Jogadores baratos de Pontas no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -33,17 +33,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Bukayo Saka | 88 | RW | Premier League | 4k coins | +17.1% |
 | Kadidiatou Diani | 88 | RW | D1 Arkema | 4k coins | -4.4% |
 | Lauren Hemp | 87 | LW | Barclays WSL | 3k coins | +13% |
-| Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 11k coins | -73.4% |
-| Gustav Isaksen | 87 | RW | Serie A TIM | 11k coins | -8.2% |
-| Sandy Baltimore | 87 | LW | Barclays WSL | 12k coins | -63.8% |
+| Gustav Isaksen | 87 | RW | Serie A TIM | 11k coins | -10.2% |
+| Matteo Politano | 87 | RW | — | 11k coins | -4.3% |
+| Sandy Baltimore | 87 | LW | Barclays WSL | 12k coins | -58.8% |
 | Pernille Harder | 87 | LW | Liga F | 12k coins | -2% |
-| Matteo Politano | 87 | RW | — | 12k coins | 0% |
-| Temwa Chawinga | 86 | LW | NWSL | 2k coins | +36.4% |
-| Iago Aspas | 86 | RW | LALIGA EA SPORTS | 11k coins | -69.2% |
-| Ferran Torres | 86 | LW | LALIGA EA SPORTS | 11k coins | -15.1% |
-| Claudiu Petrila | 86 | LW | SUPERLIGA | 12k coins | -76.9% |
-| Caroline Weir | 86 | RW | Liga F | 12k coins | -72.9% |
-| Olivia Smith | 86 | LW | Barclays WSL | 12k coins | -70.6% |
+| Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 12k coins | -14.3% |
+| Merveille Kanjinga | 86 | RW | D1 Arkema | 11k coins | -62.7% |
+| Athenea | 86 | RW | Liga F | 11k coins | -69.2% |
+| Iago Aspas | 86 | RW | LALIGA EA SPORTS | 11k coins | -60.2% |
+| Wesley Saïd | 86 | LW | Ligue 1 McDonald's | 11k coins | -64.6% |
+| Ferran Torres | 86 | LW | LALIGA EA SPORTS | 11k coins | -10% |
+| Harvey Barnes | 86 | RW | Premier League | 11k coins | -58.7% |
 
 
 ## 📈 Destaques
@@ -56,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Lauren Hemp (87, LW)** da Barclays WSL, a apenas **3k coins**
 
-- **Florian Thauvin (87, RW)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gustav Isaksen (87, RW)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
