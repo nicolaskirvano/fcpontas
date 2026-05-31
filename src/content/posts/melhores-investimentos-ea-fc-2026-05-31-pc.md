@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:30.000Z
+pubDatetime: 2026-05-31T21:28:35.000Z
 title: "Melhores investimentos em Pontas no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -36,6 +36,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Antony | 86 | LALIGA EA SPORTS | 110k coins | +11.7% | +25% | 44% |
 | Naomie Feller | 88 | — | 54k coins | +20% | +24.1% | 25% |
 | Léo Scienza | 95 | — | 30k coins | +20.2% | +22.7% | 0% |
+| Harry Kewell | 87 | Premier League | 31k coins | +1.6% | +21.6% | 54% |
 | Oumar Camara | 90 | — | 19k coins | +2.7% | +18.8% | 0% |
 | Anthony Nwakaeme | 87 | Trendyol Süper Lig | 104k coins | +19.5% | +15.6% | 22% |
 | Florian Thauvin | 96 | — | 114k coins | +4.6% | +11.8% | 0% |
@@ -80,6 +81,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
 
 ---
 

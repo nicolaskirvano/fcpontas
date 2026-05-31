@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:29.000Z
+pubDatetime: 2026-05-31T21:28:34.000Z
 title: "Jogadores baratos de Pontas no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -32,18 +32,18 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Bukayo Saka | 88 | RW | Premier League | 3k coins | +34.8% |
 | Kadidiatou Diani | 88 | RW | D1 Arkema | 4k coins | +5.3% |
 | Khvicha Kvaratskhelia | 87 | LW | Ligue 1 McDonald's | 2k coins | +20% |
-| Gustav Isaksen | 87 | RW | Serie A TIM | 12k coins | -14.3% |
-| Pernille Harder | 87 | LW | Liga F | 12k coins | -12.7% |
-| Sandy Baltimore | 87 | LW | Barclays WSL | 12k coins | -59% |
-| Matteo Politano | 87 | RW | — | 12k coins | -12.5% |
-| Denis Bouanga | 86 | LW | — | 12k coins | -57.3% |
-| Wesley Saïd | 86 | LW | Ligue 1 McDonald's | 12k coins | -58% |
-| Claudiu Petrila | 86 | LW | SUPERLIGA | 12k coins | -60.8% |
-| Athenea | 86 | RW | Liga F | 12k coins | -62.1% |
-| Harvey Barnes | 86 | RW | Premier League | 12k coins | -56.4% |
-| Iago Aspas | 86 | RW | LALIGA EA SPORTS | 12k coins | -57.1% |
-| Caroline Weir | 86 | RW | Liga F | 12k coins | -56.8% |
-| Merveille Kanjinga | 86 | RW | D1 Arkema | 12k coins | -60% |
+| Gustav Isaksen | 87 | RW | Serie A TIM | 12k coins | -16.4% |
+| Sandy Baltimore | 87 | LW | Barclays WSL | 12k coins | -59.6% |
+| Matteo Politano | 87 | RW | — | 12k coins | -16.4% |
+| Pernille Harder | 87 | LW | Liga F | 12k coins | -19% |
+| Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 12k coins | -16.1% |
+| Michelle Cooper | 87 | RW | NWSL | 14k coins | +5.9% |
+| Wesley Saïd | 86 | LW | Ligue 1 McDonald's | 11k coins | -63.3% |
+| Merveille Kanjinga | 86 | RW | D1 Arkema | 11k coins | -60.9% |
+| Denis Bouanga | 86 | LW | — | 11k coins | -61.2% |
+| Ferran Torres | 86 | LW | LALIGA EA SPORTS | 11k coins | -22.4% |
+| Harvey Barnes | 86 | RW | Premier League | 11k coins | -60.5% |
+| Caroline Weir | 86 | RW | Liga F | 11k coins | -60.2% |
 
 
 ## 📈 Destaques
@@ -56,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Gustav Isaksen (87, RW)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Pernille Harder (87, LW)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sandy Baltimore (87, LW)** da Barclays WSL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
 
 ---
 
