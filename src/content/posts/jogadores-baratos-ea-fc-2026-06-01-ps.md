@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:13:02.000Z
+pubDatetime: 2026-06-01T13:13:02.000Z
 title: "Jogadores baratos de Pontas no EA FC (01/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -37,13 +37,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 11k coins | -21.4% |
 | Gustav Isaksen | 87 | RW | Serie A TIM | 11k coins | -20% |
 | Sandy Baltimore | 87 | LW | Barclays WSL | 11k coins | -62.1% |
-| Matteo Politano | 87 | RW | — | 11k coins | -20% |
+| Matteo Politano | 87 | RW | — | 11k coins | -22.8% |
 | Malcom | 87 | RW | ROSHN Saudi League | 14k coins | -6.9% |
 | Michelle Cooper | 87 | RW | NWSL | 14k coins | -9.4% |
-| Claudiu Petrila | 86 | LW | SUPERLIGA | 11k coins | -23.2% |
+| Denis Bouanga | 86 | LW | — | 11k coins | -62% |
 | Caroline Weir | 86 | RW | Liga F | 11k coins | -23.2% |
-| Merveille Kanjinga | 86 | RW | D1 Arkema | 11k coins | -63.6% |
-| Iago Aspas | 86 | RW | LALIGA EA SPORTS | 11k coins | -63.9% |
+| Athenea | 86 | RW | Liga F | 11k coins | -23.2% |
+| Wesley Saïd | 86 | LW | Ligue 1 McDonald's | 11k coins | -62.9% |
 
 
 ## 📈 Destaques

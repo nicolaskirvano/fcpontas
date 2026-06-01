@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:13:03.000Z
+pubDatetime: 2026-06-01T13:13:03.000Z
 title: "Jogadores baratos de Pontas no EA FC (01/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 01/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (01/06/2026)?"
-    a: "Caroline Graham Hansen (90, Liga F) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Caroline Graham Hansen (90, Liga F) aparece como melhor custo-benefício, a 13k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **01/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Caroline Graham Hansen (90) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Caroline Graham Hansen (90) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Caroline Graham Hansen | 90 | RW | Liga F | 14k coins | -9.8% |
-| Bukayo Saka | 88 | RW | Premier League | 4k coins | -5.4% |
-| Kadidiatou Diani | 88 | RW | D1 Arkema | 4k coins | -18.2% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 13k coins | -13.3% |
+| Bukayo Saka | 88 | RW | Premier League | 4k coins | 0% |
+| Kadidiatou Diani | 88 | RW | D1 Arkema | 4k coins | -9.1% |
+| Khvicha Kvaratskhelia | 87 | LW | Ligue 1 McDonald's | 3k coins | +10.7% |
 | Pernille Harder | 87 | LW | Liga F | 11k coins | -10.2% |
-| Matteo Politano | 87 | RW | — | 11k coins | -6.4% |
+| Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 11k coins | -12% |
 | Gustav Isaksen | 87 | RW | Serie A TIM | 11k coins | -10.2% |
-| Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 11k coins | -17% |
-| Sandy Baltimore | 87 | LW | Barclays WSL | 11k coins | -64.5% |
-| Michelle Cooper | 87 | RW | NWSL | 14k coins | -15.2% |
-| Merveille Kanjinga | 86 | RW | D1 Arkema | 11k coins | -63.6% |
-| Wesley Saïd | 86 | LW | Ligue 1 McDonald's | 11k coins | -71.3% |
-| Claudiu Petrila | 86 | LW | SUPERLIGA | 11k coins | -17.3% |
-| Iago Aspas | 86 | RW | LALIGA EA SPORTS | 11k coins | -72.2% |
-| Ferran Torres | 86 | LW | LALIGA EA SPORTS | 11k coins | -10.2% |
-| Harvey Barnes | 86 | RW | Premier League | 11k coins | -73% |
+| Sandy Baltimore | 87 | LW | Barclays WSL | 11k coins | -66.2% |
+| Matteo Politano | 87 | RW | — | 11k coins | -6.4% |
+| Iago Aspas | 86 | RW | LALIGA EA SPORTS | 11k coins | -60.9% |
+| Merveille Kanjinga | 86 | RW | D1 Arkema | 11k coins | -70.3% |
+| Olivia Smith | 86 | LW | Barclays WSL | 11k coins | -81.8% |
+| Harvey Barnes | 86 | RW | Premier League | 11k coins | -73.6% |
+| Wesley Saïd | 86 | LW | Ligue 1 McDonald's | 11k coins | -62.9% |
+| Denis Bouanga | 86 | LW | — | 11k coins | -60.9% |
 
 
 ## 📈 Destaques
 
-- **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Bukayo Saka (88, RW)** da Premier League, a apenas **4k coins**
 
 - **Kadidiatou Diani (88, RW)** da D1 Arkema, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Pernille Harder (87, LW)** da Liga F, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Khvicha Kvaratskhelia (87, LW)** da Ligue 1 McDonald's, a apenas **3k coins**
 
-- **Matteo Politano (87, RW)** da —, a apenas **11k coins**
+- **Pernille Harder (87, LW)** da Liga F, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (01/06/2026)?**  
-Caroline Graham Hansen (90, Liga F) aparece como melhor custo-benefício, a 14k coins no PC.
+Caroline Graham Hansen (90, Liga F) aparece como melhor custo-benefício, a 13k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

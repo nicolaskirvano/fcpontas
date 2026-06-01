@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:13:02.000Z
+pubDatetime: 2026-06-01T13:13:02.000Z
 title: "Pontas no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,69 +13,69 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 01/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/06/2026)?"
-    a: "Kiko Seike (87, Barclays WSL), com +50% em 24h, a 38k coins no PC."
+    a: "Yan Diomande (92, sem liga), com +50.5% em 24h, a 40k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Mary Fowler (87), -50% em 24h, a 22k coins."
+    a: "Saeed Al Owairan (85), -36% em 24h, a 24k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 52 cartas em alta contra 102 em queda (média -0.28%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 45 cartas em alta contra 98 em queda (média 0.41%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **52 subiram** e **102 caíram**, com variação média de **-0.28%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **45 subiram** e **98 caíram**, com variação média de **0.41%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Kiko Seike (87) **+50%** · 🔴 **Maior baixa:** Mary Fowler (87) **-50%**
+> 🟢 **Maior alta:** Yan Diomande (92) **+50.5%** · 🔴 **Maior baixa:** Saeed Al Owairan (85) **-36%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kiko Seike | 87 | Barclays WSL | 38k coins | +50% | +29.3% |
-| Noni Madueke | 86 | Premier League | 60k coins | +44.6% | -20% |
-| Yan Diomande | 92 | — | 36k coins | +42% | +7.6% |
-| Gabriel Pec | 81 | MLS | 50k coins | +37.9% | +1% |
-| Marco Asensio | 85 | Trendyol Süper Lig | 24k coins | +27.3% | -5.8% |
-| Gervinho | 85 | Serie A TIM | 38k coins | +25% | +14.5% |
-| Mika Godts | 93 | — | 30k coins | +23.2% | -19.7% |
-| Caroline Graham Hansen | 92 | Liga F | 429k coins | +22.9% | +43% |
-| Claudia Pina | 92 | Liga F | 7.90M coins | +20.5% | +71.7% |
-| Désiré Doué | 94 | — | 9M coins | +20% | +60.7% |
+| Yan Diomande | 92 | — | 40k coins | +50.5% | +30.6% |
+| Anass Zaroury | 86 | Hellas Liga | 58k coins | +46.8% | -3.3% |
+| Bartosz Nowak | 93 | — | 36k coins | +42% | -5.3% |
+| Mary Fowler | 87 | Barclays Women’s Super League | 58k coins | +36.9% | +27.1% |
+| Madison Haley | 85 | Barclays WSL | 27k coins | +36.2% | +34.6% |
+| Paulo Futre | 92 | Liga Portugal | 148k coins | +31% | +37% |
+| Gabriel Pec | 81 | MLS | 50k coins | +29.9% | +1% |
+| Naomie Feller | 88 | — | 60k coins | +24.4% | +9.1% |
+| Timo Werner | 87 | Bundesliga | 100k coins | +23.5% | +61.3% |
+| Désiré Doué | 94 | — | 8M coins | +23.1% | +42.9% |
 
 
 ### Análise das altas
 
-- **Kiko Seike (87)** subiu **+50%** em 24h, a **38k coins** (faixa do dia: 25k–38k). Está +54% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Yan Diomande (92)** subiu **+50.5%** em 24h, a **40k coins** (faixa do dia: 28k–48k). Está +18% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Noni Madueke (86)** subiu **+44.6%** em 24h, a **60k coins** (faixa do dia: 40k–62k). Está em linha com a média de 7 dias (-4%). O modelo vê **estabilização** no curto prazo.
+- **Anass Zaroury (86)** subiu **+46.8%** em 24h, a **58k coins** (faixa do dia: 40k–60k). Está em linha com a média de 7 dias (+4%). O modelo vê **estabilização** no curto prazo.
 
-- **Yan Diomande (92)** subiu **+42%** em 24h, a **36k coins** (faixa do dia: 25k–48k). Está em linha com a média de 7 dias (+6%). O modelo vê **estabilização** no curto prazo.
+- **Bartosz Nowak (93)** subiu **+42%** em 24h, a **36k coins** (faixa do dia: 21k–40k). Está em linha com a média de 7 dias (+6%). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mary Fowler | 87 | Barclays Women’s Super League | 22k coins | -50% | -51.9% |
-| George Best | 90 | Icons | 119k coins | -40.5% | -0.8% |
-| Tabitha Chawinga | 86 | D1 Arkema | 55k coins | -38.6% | -73.8% |
-| Caroline Graham Hansen | 95 | Liga F | 1.08M coins | -38.3% | +4.2% |
-| Antoine Semenyo | 91 | Premier League | 494k coins | -29.9% | -34% |
-| Mohamed Salah | 92 | Premier League | 205k coins | -29.3% | -16% |
-| Lauren Hemp | 90 | Barclays WSL | 40k coins | -27.7% | -22.9% |
-| Kadidiatou Diani | 91 | D1 Arkema | 187k coins | -26.4% | -22.1% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 2M coins | -25.9% | -36.4% |
-| Víctor Ibarbo | 85 | Serie A TIM | 41k coins | -25.9% | -17.3% |
+| Saeed Al Owairan | 85 | ROSHN Saudi League | 24k coins | -36% | -71.7% |
+| Jens Petter Hauge | 90 | Eliteserien | 22k coins | -35.7% | -13.5% |
+| Quaresma | 89 | Liga Portugal | 300k coins | -30.1% | +29.3% |
+| Víctor Ibarbo | 85 | Serie A TIM | 38k coins | -28.3% | -22.8% |
+| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 345k coins | -28.1% | -31% |
+| Bradley Barcola | 92 | — | 85k coins | -27.4% | -15% |
+| Kadidiatou Diani | 91 | D1 Arkema | 174k coins | -26.3% | -26.6% |
+| Lauren Hemp | 90 | Barclays WSL | 44k coins | -24.8% | -16.2% |
+| George Best | 90 | Icons | 124k coins | -22% | +7.8% |
+| Athenea | 86 | Liga F | 60k coins | -20% | +50% |
 
 
 ### Análise das baixas
 
-- **Mary Fowler (87)** caiu **-50%** em 24h, a **22k coins** (faixa do dia: 22k–60k). Está -46% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Saeed Al Owairan (85)** caiu **-36%** em 24h, a **24k coins** (faixa do dia: 24k–38k). Está -58% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **George Best (90)** caiu **-40.5%** em 24h, a **119k coins** (faixa do dia: 119k–200k). Está em linha com a média de 7 dias (-1%). O modelo vê **estabilização** no curto prazo.
+- **Jens Petter Hauge (90)** caiu **-35.7%** em 24h, a **22k coins** (faixa do dia: 18k–34k). Está -9% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Tabitha Chawinga (86)** caiu **-38.6%** em 24h, a **55k coins** (faixa do dia: 15k–230k). Está -50% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Quaresma (89)** caiu **-30.1%** em 24h, a **300k coins** (faixa do dia: 300k–499k). Está em linha com a média de 7 dias (-3%). O modelo vê **estabilização** no curto prazo.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -84,7 +84,7 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Mikel Gogorza | 86 | 75k coins | -14.4% |
+| Mikel Gogorza | 86 | 74k coins | -14.4% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -95,13 +95,13 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/06/2026)?**  
-Kiko Seike (87, Barclays WSL), com +50% em 24h, a 38k coins no PC.
+Yan Diomande (92, sem liga), com +50.5% em 24h, a 40k coins no PC.
 
 **E a maior queda do dia?**  
-Mary Fowler (87), -50% em 24h, a 22k coins.
+Saeed Al Owairan (85), -36% em 24h, a 24k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 52 cartas em alta contra 102 em queda (média -0.28%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 45 cartas em alta contra 98 em queda (média 0.41%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

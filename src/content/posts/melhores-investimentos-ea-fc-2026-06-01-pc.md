@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:13:03.000Z
+pubDatetime: 2026-06-01T13:13:03.000Z
 title: "Melhores investimentos em Pontas no EA FC (01/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 01/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/06/2026) no EA FC?"
-    a: "Rivaldo (90, Icons) lidera, com +42.4% em 7 dias a 99k coins no PC, e o modelo dá 37% de chance de seguir subindo."
+    a: "Jeremie Frimpong (86, Premier League) lidera, com +70.8% em 7 dias a 193k coins no PC, e o modelo dá 12% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **01/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Rivaldo (90) acumula **+42.4% em 7 dias** a 99k coins.
+> 🔝 **Destaque:** Jeremie Frimpong (86) acumula **+70.8% em 7 dias** a 193k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,31 +31,31 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rivaldo | 90 | Icons | 99k coins | +16.5% | +42.4% | 37% |
-| Ivan Perišić | 86 | Eredivisie | 30k coins | +14.4% | +41.7% | 32% |
-| Oumar Camara | 90 | — | 22k coins | +18.4% | +36.4% | 0% |
-| Paulo Futre | 92 | Liga Portugal | 147k coins | +14.8% | +36.1% | 42% |
-| Jerzy Dudek | 87 | Premier League | 74k coins | +14.6% | +31.9% | 33% |
-| Vini Jr. | 89 | LALIGA EA SPORTS | 24k coins | +15.3% | +25.6% | 18% |
-| Gervinho | 85 | Serie A TIM | 38k coins | +25% | +14.5% | 60% |
-| Noa Lang | 91 | Trendyol Süper Lig | 55k coins | +11.7% | +10.6% | 44% |
-| Kim Seung Sub | 90 | — | 22k coins | +7.3% | +8.6% | 0% |
-| Raphinha | 91 | LALIGA EA SPORTS | 107k coins | +12.6% | +8.1% | 30% |
-| Said El Mala | 90 | — | 21k coins | +7.6% | +7.6% | 0% |
-| Aoba Fujino | 91 | — | 21k coins | +10.5% | +5% | 0% |
+| Jeremie Frimpong | 86 | Premier League | 193k coins | +10.3% | +70.8% | 12% |
+| Timo Werner | 87 | Bundesliga | 100k coins | +23.5% | +61.3% | 36% |
+| Rivaldo | 90 | Icons | 98k coins | +19.6% | +42.3% | 37% |
+| Paulo Futre | 92 | Liga Portugal | 148k coins | +31% | +37% | 42% |
+| Madison Haley | 85 | Barclays WSL | 27k coins | +36.2% | +34.6% | 55% |
+| Mary Fowler | 87 | Barclays Women’s Super League | 58k coins | +36.9% | +27.1% | 19% |
+| Rubén García | 87 | LALIGA EA SPORTS | 36k coins | +4.4% | +25.2% | 58% |
+| Tabitha Chawinga | 90 | D1 Arkema | 227k coins | +13.5% | +20.1% | 11% |
+| Reyes Cleary | 90 | — | 23k coins | +2.2% | +16.7% | 0% |
+| Noa Lang | 91 | Trendyol Süper Lig | 56k coins | +2.8% | +12.6% | 44% |
+| Naomie Feller | 88 | — | 60k coins | +24.4% | +9.1% | 25% |
+| Said El Mala | 90 | — | 21k coins | +6.2% | +7.6% | 0% |
 
 
 ## 📈 Análise dos destaques
 
-- **Rivaldo (90)** — 99k coins, **+42.4% em 7 dias** (+16.5% em 24h). Preço +33% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jeremie Frimpong (86)** — 193k coins, **+70.8% em 7 dias** (+10.3% em 24h). Preço em linha com a média de 7 dias (-6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Ivan Perišić (86)** — 30k coins, **+41.7% em 7 dias** (+14.4% em 24h). Preço em linha com a média de 7 dias (-1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Timo Werner (87)** — 100k coins, **+61.3% em 7 dias** (+23.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Oumar Camara (90)** — 22k coins, **+36.4% em 7 dias** (+18.4% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Rivaldo (90)** — 98k coins, **+42.3% em 7 dias** (+19.6% em 24h). Preço +29% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Paulo Futre (92)** — 147k coins, **+36.1% em 7 dias** (+14.8% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Paulo Futre (92)** — 148k coins, **+37% em 7 dias** (+31% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Jerzy Dudek (87)** — 74k coins, **+31.9% em 7 dias** (+14.6% em 24h). Preço em linha com a média de 7 dias (-7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Madison Haley (85)** — 27k coins, **+34.6% em 7 dias** (+36.2% em 24h). Preço +45% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -73,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/06/2026) no EA FC?**  
-Rivaldo (90, Icons) lidera, com +42.4% em 7 dias a 99k coins no PC, e o modelo dá 37% de chance de seguir subindo.
+Jeremie Frimpong (86, Premier League) lidera, com +70.8% em 7 dias a 193k coins no PC, e o modelo dá 12% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
