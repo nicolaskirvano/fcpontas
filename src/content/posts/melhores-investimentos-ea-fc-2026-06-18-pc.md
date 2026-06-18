@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T20:25:33.000Z
+pubDatetime: 2026-06-18T22:14:17.000Z
 title: "Melhores investimentos em Pontas no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Rivaldo (91, Icons) lidera, com +63% em 7 dias a 150k coins no PC, e o modelo dá 24% de chance de seguir subindo."
+    a: "Yan Diomande (92, sem liga) lidera, com +76% em 7 dias a 88k coins no PC."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,15 +23,17 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Rivaldo (91) acumula **+63% em 7 dias** a 150k coins.
+> 🔝 **Destaque:** Yan Diomande (92) acumula **+76% em 7 dias** a 88k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-No cenário do EA FC Ultimate Team para PC, datado de 18 de junho de 2026, a análise das tendências de valorização de 7 dias aponta oportunidades distintas para a posição de ponta. O destaque absoluto para investimento de alto risco e recompensa é George Best, com 90 de rating na categoria Icons. Sua cotação de 190k coins reflete um aumento de 13.6% nas últimas 24 horas, sustentado por uma probabilidade de alta robusta de 43%. Essa expectativa positiva sugere que a carta deve manter sua valorização, consolidando-se como uma opção premium para traders que buscam estabilidade em ativos de alto valor dentro do mercado.
+No cenário atual do mercado de Ultimate Team, a volatilidade nas posições de ponta exige uma análise criteriosa para identificar oportunidades de investimento sólidas. Entre as cartas em tendência de alta nos últimos sete dias, destacam-se aquelas que combinam crescimento recente de preço com uma probabilidade estatística favorável para continuação da valorização. É fundamental observar não apenas o percentual de alta nas últimas 24 horas, mas sim a probabilidade de alta projetada, que serve como indicador mais confiável para decisões de compra estratégica em PC.
 
-Para quem prefere carteiras de investimento mais acessíveis, o mercado feminino apresenta indicadores promissores. Claudia Pina, com 88 de rating na Liga F, registrou alta de 17.6% em 24 horas e possui 40% de probabilidade de continuar subindo, cotada a 240k coins. Embora o preço inicial seja elevado, a tendência é favorável. Já em faixas de preço mais baixas, Emilie Haavi (87, Calcio A Femminile) destaca-se com 16.5% de alta e 30% de probabilidade de valorização, custando apenas 28k coins. Essa combinação de custo baixo e expectativa positiva a torna uma entrada segura para diversificação.
+Dentre as opções mais promissoras, Debinha se posiciona como a principal candidata para entrada imediata. A lateral-direita da NWSL, com carta de 89 OVR, apresentou um impressionante aumento de 37,9% em 24 horas, atingindo a marca de 120k coins. O fator decisivo, contudo, é sua probabilidade de alta de 58%, a mais robusta da lista analisada. Esse cenário sugere forte demanda sustentada, tornando o investimento menos arriscado apesar do preço elevado, ideal para jogadores que buscam retornos consistentes em mercados de alto nível.
 
-Em termos de volume e liquidez, Rivaldo (91, Icons) merece atenção imediata. Com 36.4% de alta em 24 horas e 24% de probabilidade de continuação, sua cotação de 150k coins indica forte demanda. Por outro lado, cartas como Kim Seung Sub (90), apesar de subir 10%, possuem probabilidade de alta de 0%, sinalizando saturação ou risco de correção, devendo ser evitadas. Portanto, as melhores entradas hoje são George Best pela solidez, Claudia Pina pelo potencial e Emilie Haavi pela relação custo-benefício, enquanto Rivaldo serve como indicador de curto prazo.
+Para quem busca oportunidades em faixas de preço mais acessíveis, Wilson Odobert e Athenea oferecem perfis atrativos. Odobert, do Premier League (87 OVR), subiu 10,4% nas últimas 24h e está cotado a 36k, com uma probabilidade de alta de 30%. Já Athenea, da Liga F (86 OVR), apresenta uma alta de 4% a 45k coins, mas se destaca com uma probabilidade de alta de 53%. Essa última oferece uma excelente relação risco-retorno, sendo uma aposta sensata para carteiras limitadas que priorizam a segurança estatística sobre ganhos explosivos imediatos.
+
+Por outro lado, cautela é recomendada com Yan Diomande (92 OVR, s/liga) e Kim Seung Sub (90 OVR, s/liga). Embora Diomande tenha disparado 37,5% em 24h a 88k, sua probabilidade de alta é de 0%, indicando um pico de valorização de curto prazo sem suporte para continuidade. Da mesma forma, Kim Seung Sub, a 52k com alta de 6,9%, também possui probabilidade nula de alta. Esses ativos parecem estar em fase de correção ou saturação, devendo ser evitados para investimento de longo prazo neste momento específico.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -39,34 +41,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rivaldo | 91 | Icons | 150k coins | +36.4% | +63% | 24% |
-| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 100k coins | +9.9% | +49.3% | 22% |
-| Mary Fowler | 87 | Barclays Women’s Super League | 42k coins | +20.7% | +42% | 19% |
-| Kim Seung Sub | 90 | — | 55k coins | +10% | +41% | 0% |
-| Mikel Gogorza | 86 | 3F Superliga | 70k coins | +16.8% | +37.6% | 9% |
-| Emilie Haavi | 87 | Calcio A Femminile | 28k coins | +16.5% | +34.5% | 30% |
-| Ivan Perišić | 86 | Eredivisie | 31k coins | +2.5% | +33.3% | 32% |
-| George Best | 90 | Icons | 190k coins | +13.6% | +30.7% | 43% |
-| Claudia Pina | 88 | Liga F | 240k coins | +17.6% | +30.7% | 40% |
-| Yan Diomande | 84 | Bundesliga | 50k coins | +2.6% | +26.8% | 28% |
-| Noni Madueke | 86 | Premier League | 50k coins | +4.2% | +23.5% | 46% |
-| Debinha | 89 | NWSL | 120k coins | +37.9% | +23.1% | 58% |
-| Víctor Ibarbo | 85 | Serie A TIM | 60k coins | +29.7% | +20% | 66% |
-| Said El Mala | 90 | — | 39k coins | +13.9% | +18.2% | 0% |
-| Lauren Hemp | 90 | Barclays WSL | 35k coins | +2.1% | +16.5% | 73% |
+| Yan Diomande | 92 | — | 88k coins | +37.5% | +76% | 0% |
+| Jérémy Doku | 84 | Premier League | 170k coins | +6.2% | +70% | 18% |
+| Athenea | 86 | Liga F | 45k coins | +4% | +50% | 53% |
+| Rivaldo | 91 | Icons | 120k coins | +23.6% | +47.8% | 24% |
+| Wilson Odobert | 87 | Premier League | 36k coins | +10.4% | +36.4% | 30% |
+| Kim Seung Sub | 90 | — | 52k coins | +6.9% | +35.8% | 0% |
+| Mary Fowler | 87 | Barclays Women’s Super League | 36k coins | +13.3% | +28.6% | 19% |
+| Debinha | 89 | NWSL | 120k coins | +37.9% | +27% | 58% |
+| Noni Madueke | 86 | Premier League | 44k coins | +6.2% | +25.9% | 46% |
+| Yan Diomande | 84 | Bundesliga | 48k coins | +1% | +21.2% | 28% |
+| Rivaldo | 90 | Icons | 98k coins | +10.1% | +18.8% | 37% |
+| Quaresma | 89 | Liga Portugal | 245k coins | +8.8% | +18.6% | 61% |
+| Said El Mala | 90 | — | 42k coins | +10.2% | +14.4% | 0% |
+| Afonso Moreira | 84 | Ligue 1 McDonald's | 40k coins | +2.6% | +14.3% | 39% |
+| Armand Laurienté | 86 | Serie A TIM | 36k coins | +12.8% | +13.9% | 15% |
 
 
 ## 📈 Análise dos destaques
 
-- **Rivaldo (91)** — 150k coins, **+63% em 7 dias** (+36.4% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Yan Diomande (92)** — 88k coins, **+76% em 7 dias** (+37.5% em 24h). Preço +46% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Anthony Nwakaeme (87)** — 100k coins, **+49.3% em 7 dias** (+9.9% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jérémy Doku (84)** — 170k coins, **+70% em 7 dias** (+6.2% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mary Fowler (87)** — 42k coins, **+42% em 7 dias** (+20.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Athenea (86)** — 45k coins, **+50% em 7 dias** (+4% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Kim Seung Sub (90)** — 55k coins, **+41% em 7 dias** (+10% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Rivaldo (91)** — 120k coins, **+47.8% em 7 dias** (+23.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mikel Gogorza (86)** — 70k coins, **+37.6% em 7 dias** (+16.8% em 24h). Preço em linha com a média de 7 dias (+3%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Wilson Odobert (87)** — 36k coins, **+36.4% em 7 dias** (+10.4% em 24h). Preço -20% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -84,7 +86,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Rivaldo (91, Icons) lidera, com +63% em 7 dias a 150k coins no PC, e o modelo dá 24% de chance de seguir subindo.
+Yan Diomande (92, sem liga) lidera, com +76% em 7 dias a 88k coins no PC.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

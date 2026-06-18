@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T20:25:04.000Z
+pubDatetime: 2026-06-18T22:13:59.000Z
 title: "Pontas no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,57 +13,57 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Armand Laurienté (86, Serie A TIM), com +41% em 24h, a 32k coins no PC."
+    a: "John Barnes (89, Icons), com +51% em 24h, a 148k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Michelle Cooper (87), -34.2% em 24h, a 26k coins."
+    a: "Paulo Futre (92), -43.2% em 24h, a 135k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 76 cartas em alta contra 73 em queda (média 2.62%)."
+    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 68 cartas em alta contra 95 em queda (média 0.13%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado de pontas no PC exibe um claro clima comprador hoje, com uma leve vantagem para as altas que somam 76 contra 73 quedas. A média de variação foi de 2.62% em 24 horas, indicando um dia de oportunidades seletivas para traders ágeis.
+O mercado de pontas opera em uma zona de lateralidade clara hoje, com 68 altas e 95 quedas registradas nas últimas 24 horas. Essa dinâmica resulta em uma variação média de apenas 0.13%, indicando que os traders estão hesitantes e que as forças de compra e venda estão praticamente equilibradas.
 
-> 🟢 **Maior alta:** Armand Laurienté (86) **+41%** · 🔴 **Maior baixa:** Michelle Cooper (87) **-34.2%**
+> 🟢 **Maior alta:** John Barnes (89) **+51%** · 🔴 **Maior baixa:** Paulo Futre (92) **-43.2%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Armand Laurienté | 86 | Serie A TIM | 32k coins | +41% | +30.6% |
-| Denis Bouanga | 95 | — | 146k coins | +40.4% | +46% |
-| Quaresma | 88 | Trendyol Süper Lig | 330k coins | +39.8% | +29.4% |
-| Mohamed Salah | 92 | Premier League | 220k coins | +38.4% | +1.4% |
-| Debinha | 89 | NWSL | 120k coins | +37.9% | +23.1% |
+| John Barnes | 89 | Icons | 148k coins | +51% | +13% |
+| Kiko Seike | 87 | Barclays WSL | 32k coins | +43.2% | +10.5% |
+| Debinha | 89 | NWSL | 120k coins | +37.9% | +27% |
 | Chloe Kelly | 88 | Barclays WSL | 65k coins | +37.6% | +4.8% |
-| Rivaldo | 91 | Icons | 150k coins | +36.4% | +63% |
-| Anass Zaroury | 86 | Hellas Liga | 50k coins | +32.9% | +1.8% |
-| Quaresma | 89 | Liga Portugal | 261k coins | +31.3% | +20.5% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 185k coins | +30% | -1.5% |
+| Yan Diomande | 92 | — | 88k coins | +37.5% | +76% |
+| Mika Godts | 93 | — | 50k coins | +28.2% | +11.1% |
+| George Best | 91 | Icons | 287k coins | +26.4% | +32.3% |
+| Khvicha Kvaratskhelia | 96 | — | 4.25M coins | +25% | -28.6% |
+| Rivaldo | 91 | Icons | 120k coins | +23.6% | +47.8% |
+| Borja Sainz | 83 | Liga Portugal | 42k coins | +23.2% | +0.6% |
 
 
-Armand Laurienté lidera com alta de 41% a 32k, seguido de perto por Denis Bouanga com 40.4% a 146k. Quaresma saltou 39.8% atingindo 330k, enquanto Mohamed Salah subiu 38.4% para 220k, mostrando forte demanda por esses perfis.
+John Barnes lidera o lado comprista com uma alta expressiva de 51% para 148k coins, seguido de perto por Kiko Seike e Debinha, que subiram 43.2% e 37.9% respectivamente. A demanda por Icons como George Best e nomes de seleções ou ligas específicas como Chloe Kelly também impulsionou preços significativamente acima da média.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Michelle Cooper | 87 | NWSL | 26k coins | -34.2% | +1.4% |
-| Timo Werner | 87 | Bundesliga | 44k coins | -27.5% | +8.8% |
-| Paulo Futre | 92 | Liga Portugal | 99k coins | -23.8% | -28.8% |
-| Rubén García | 87 | LALIGA EA SPORTS | 21k coins | -22.7% | -5.6% |
-| Claudia Pina | 95 | Liga F | 1.55M coins | -20.5% | +6.9% |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 31k coins | -19.5% | -19% |
-| Michael Duffy | 84 | SSE Airtricity PD | 32k coins | -17.8% | -20.4% |
-| Raphinha | 91 | LALIGA EA SPORTS | 98k coins | -16.8% | -29.1% |
-| Aoba Fujino | 91 | — | 28k coins | -16.7% | -15.4% |
-| Anthony Gordon | 88 | Premier League | 376k coins | -16.4% | -22.5% |
+| Paulo Futre | 92 | Liga Portugal | 135k coins | -43.2% | -28.9% |
+| Raphinha | 91 | LALIGA EA SPORTS | 88k coins | -35% | -31% |
+| Désiré Doué | 96 | — | 5.30M coins | -31.2% | -11.1% |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 100k coins | -27.3% | +21.2% |
+| Claudia Pina | 95 | Liga F | 1.55M coins | -23.8% | +5.9% |
+| Naomie Feller | 88 | — | 62k coins | -23.1% | -16.3% |
+| Harvey Barnes | 84 | Premier League | 34k coins | -23% | -22.1% |
+| Marco Asensio | 85 | Trendyol Süper Lig | 24k coins | -22.2% | -5.2% |
+| Léo Scienza | 95 | — | 36k coins | -21.7% | -11.3% |
+| Zlatko Tripić | 96 | — | 37k coins | -20.9% | -18.7% |
 
 
-Michelle Cooper despencou 34.2% e agora custa apenas 26k, representando uma queda significativa no mercado feminino. Timo Werner caiu 27.5% para 44k e Paulo Futre recuou 23.8% a 99k, enquanto Claudia Pina perdeu 20.5% valendo 1.55M.
+Paulo Futre sofreu a maior desvalorização com uma queda de 43.2% para 135k coins, enquanto Raphinha e Désiré Doué também registraram quedas acentuadas de 35% e 31.2%. Bradley Barcola, Claudia Pina e Naomie Feller completam o quadro de pressão vendedora, perdendo mais de 23% de seu valor em um dia.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -76,7 +76,7 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 
 ## 🎯 Conclusão do dia
-Foco na compra de ativos como Laurienté e Bouanga para revenda rápida, aproveitando a momentum positiva. Evite segurar Cooper e Werner a longo prazo sem cobertura, pois as quedas recentes indicam desvalorização momentânea.
+Dada a volatilidade equilibrada, o conselho é evitar operações de apalavramento agressivo e focar em oportunidades de compra nos ativos com alta probabilidade de continuidade, como Barnes. Traders mais conservadores devem observar as quedas de Futre e Doué como potenciais pontos de entrada reversos, aguardando confirmação de suporte.
 
 
 ## ⚙️ A engine por tras deste post
@@ -86,13 +86,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Armand Laurienté (86, Serie A TIM), com +41% em 24h, a 32k coins no PC.
+John Barnes (89, Icons), com +51% em 24h, a 148k coins no PC.
 
 **E a maior queda do dia?**  
-Michelle Cooper (87), -34.2% em 24h, a 26k coins.
+Paulo Futre (92), -43.2% em 24h, a 135k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 76 cartas em alta contra 73 em queda (média 2.62%).
+Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 68 cartas em alta contra 95 em queda (média 0.13%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

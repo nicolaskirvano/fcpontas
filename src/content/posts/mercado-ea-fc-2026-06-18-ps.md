@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:33:08.000Z
+pubDatetime: 2026-06-18T22:13:21.000Z
 title: "Pontas no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,126 +13,120 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Anthony Nwakaeme (87, Trendyol Süper Lig), com +50% em 24h, a 26k coins no Console (PS)."
+    a: "Anthony Nwakaeme (87, Trendyol Süper Lig), com +50% em 24h, a 29k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Quaresma (85), -25.7% em 24h, a 52k coins."
+    a: "Anthony Gordon (88), -29.8% em 24h, a 198k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 133k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 69 cartas em alta contra 80 em queda (média 0.44%)."
+    a: "Pelo modelo FutQuant, Garrincha (92) — 95% de probabilidade de alta, a 175k coins."
+  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 61 cartas em alta contra 92 em queda (média -0.58%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
-## 📊 Resumo do mercado hoje
+## 📈 O mercado hoje, em resumo
 
-Em **18/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **69 subiram** e **80 caíram**, com variação média de **0.44%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+O mercado de pontas em console apresenta um clima predominantemente vendedor, com 92 quedas contra apenas 61 altas e uma média negativa de -0.58% nas últimas 24 horas. Essa dinâmica de desvalorização generalizada exige cautela, pois a maioria das cartas recuou de preço diante da pressão vendedora.
 
-> 🟢 **Maior alta:** Anthony Nwakaeme (87) **+50%** · 🔴 **Maior baixa:** Quaresma (85) **-25.7%**
+> 🟢 **Maior alta:** Anthony Nwakaeme (87) **+50%** · 🔴 **Maior baixa:** Anthony Gordon (88) **-29.8%**
 
-## 🟢 Maiores altas (24h)
+## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 26k coins | +50% | -18.2% |
-| Debinha | 89 | NWSL | 98k coins | +37.3% | +50% |
-| Madison Haley | 85 | Barclays WSL | 22k coins | +35.8% | +8.3% |
-| Anders Dreyer | 84 | MLS | 22k coins | +31.3% | +27.5% |
-| Noni Madueke | 86 | Premier League | 55k coins | +31% | +12.2% |
-| Michelle Cooper | 87 | NWSL | 24k coins | +29.3% | +5.4% |
-| Yan Diomande | 92 | — | 73k coins | +29.3% | +55.4% |
-| Kadidiatou Diani | 91 | D1 Arkema | 94k coins | +22.9% | -4.6% |
-| Lionel Messi | 88 | MLS | 576k coins | +22% | +29.8% |
-| Mikel Gogorza | 86 | 3F Superliga | 49k coins | +20.6% | -43.2% |
+| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 29k coins | +50% | -18.2% |
+| Timo Werner | 87 | Bundesliga | 57k coins | +49.6% | +31.4% |
+| Debinha | 89 | NWSL | 95k coins | +29.1% | +40.4% |
+| Gervinho | 87 | Serie A TIM | 119k coins | +28.7% | +62.4% |
+| Linda Caicedo | 87 | Liga F | 50k coins | +24.4% | +95.1% |
+| Alejandro Garnacho | 89 | Premier League | 184k coins | +21.5% | +21.5% |
+| Noa Lang | 91 | Trendyol Süper Lig | 25k coins | +21.3% | -35.3% |
+| George Best | 91 | Icons | 276k coins | +17.6% | +16% |
+| Claudia Pina | 87 | Liga F | 180k coins | +16.7% | +43.4% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 738k coins | +15.3% | +23.8% |
 
 
-### Análise das altas
-
-- **Anthony Nwakaeme (87)** subiu **+50%** em 24h, a **26k coins** (faixa do dia: 18k–32k). Está -18% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **continuidade da alta** (81% de chance de subir mais).
-
-- **Debinha (89)** subiu **+37.3%** em 24h, a **98k coins** (faixa do dia: 70k–98k). Está em linha com a média de 7 dias (+6%). 🔮 O modelo projeta **continuidade da alta** (84% de chance de subir mais).
-
-- **Madison Haley (85)** subiu **+35.8%** em 24h, a **22k coins** (faixa do dia: 17k–30k). Está em linha com a média de 7 dias (+4%). O modelo vê **estabilização** no curto prazo.
+Anthony Nwakaeme lidera as altas com 50% e probabilidade de alta de 81% a 29k, seguido de perto por Timo Werner com 49.6% de ganho e 95% de probabilidade a 57k. Cartas como Debinha (29.1%), Gervinho (28.7%) e Alejandro Garnacho (21.5%) também se destacaram, mostrando que há demanda específica mesmo no cenário de queda.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Quaresma | 85 | Liga Portugal | 52k coins | -25.7% | -2.6% |
-| Juan Iturbe | 85 | Libertadores | 46k coins | -22.7% | -4.2% |
-| Denis Bouanga | 95 | — | 104k coins | -19% | -18.4% |
-| Vini Jr. | 89 | LALIGA EA SPORTS | 24k coins | -18.4% | -34.4% |
-| Rafael Leão | 87 | Serie A TIM | 420k coins | -17.3% | +8.9% |
-| Raphinha | 91 | LALIGA EA SPORTS | 94k coins | -16.4% | -17.8% |
-| Florian Thauvin | 96 | — | 108k coins | -15.6% | -16.9% |
-| Joe Cole | 87 | Premier League | 20k coins | -15.6% | -17.7% |
-| Bradley Barcola | 87 | Ligue 1 McDonald's | 133k coins | -14.9% | +42.5% |
-| Anthony Gordon | 88 | Premier League | 223k coins | -14.6% | -14.6% |
+| Anthony Gordon | 88 | Premier League | 198k coins | -29.8% | -29.3% |
+| Juan Iturbe | 85 | Libertadores | 41k coins | -25.4% | -12.6% |
+| Joe Cole | 88 | Premier League | 150k coins | -20.2% | +3.4% |
+| Khvicha Kvaratskhelia | 88 | Ligue 1 McDonald's | 294k coins | -19.2% | -16.9% |
+| Vini Jr. | 89 | LALIGA EA SPORTS | 24k coins | -18.6% | -25% |
+| Naomie Feller | 88 | — | 22k coins | -18.2% | -32.3% |
+| Athenea | 95 | — | 96k coins | -15.6% | -14.8% |
+| Jens Petter Hauge | 88 | Eliteserien | 50k coins | -15.3% | +33.3% |
+| William Gomes | 84 | Liga Portugal | 40k coins | -14.8% | -8.5% |
+| Gervinho | 85 | Serie A TIM | 42k coins | -14.6% | +41.7% |
 
 
-### Análise das baixas
-
-- **Quaresma (85)** caiu **-25.7%** em 24h, a **52k coins** (faixa do dia: 61k–114k). Está -26% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Juan Iturbe (85)** caiu **-22.7%** em 24h, a **46k coins** (faixa do dia: 43k–60k). Está -16% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
-
-- **Denis Bouanga (95)** caiu **-19%** em 24h, a **104k coins** (faixa do dia: 100k–150k). Está -11% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+Anthony Gordon sofreu a maior queda de -29.8% a 198k, enquanto Juan Iturbe e Joe Cole recuaram 25.4% e 20.2% respectivamente, refletindo a pressão vendedora em nomes caros. Khvicha Kvaratskhelia (-19.2%) e Vini Jr. (-18.6%) também perderam valor, indicando que até estrelas estão sendo liquidadas neste ambiente hostil.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Projeções do modelo para 24h
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Os nomes com **melhor leitura de valorização** segundo o modelo (confiança alta):
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Bradley Barcola | 87 | 133k coins | 179k coins | 95% |
-| Raphinha | 91 | 94k coins | 109k coins | 95% |
-| Quaresma | 88 | 155k coins | 191k coins | 95% |
+| Garrincha | 92 | 175k coins | 208k coins | 95% |
+| Quaresma | 88 | 145k coins | 179k coins | 95% |
+| Bradley Barcola | 87 | 139k coins | 187k coins | 95% |
+| Aoba Fujino | 91 | 33k coins | 42k coins | 95% |
+| Saeed Al Owairan | 85 | 96k coins | 115k coins | 95% |
 | Sandy Baltimore | 87 | 32k coins | 37k coins | 95% |
-| Jeremie Frimpong | 86 | 160k coins | 197k coins | 95% |
-| Timo Werner | 87 | 46k coins | 57k coins | 95% |
-| Saeed Al Owairan | 85 | 108k coins | 128k coins | 95% |
-| Aoba Fujino | 91 | 32k coins | 40k coins | 95% |
+| Anass Zaroury | 86 | 60k coins | 76k coins | 95% |
+| Olivia Smith | 86 | 56k coins | 67k coins | 95% |
 
 
-## ⚠️ Cuidado: o modelo projeta queda
+O modelo projeta alta para Garrincha (92) a 175k com 95% de probabilidade, além de Quaresma a 145k e Bradley Barcola a 139k, ambos com alta chance de valorização. Nomes como Aoba Fujino (33k), Saeed Al Owairan (96k) e Sandy Baltimore (32k) também aparecem com 95% de probabilidade de alta.
+
+
+## ⚠️ Cartas em risco nas próximas 24h
 
 Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite comprar agora:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Gustav Isaksen | 87 | 32k coins | -17.3% |
-| Noa Lang | 91 | 29k coins | -15.6% |
-| Paulo Futre | 92 | 84k coins | -15.6% |
-| Bradley Barcola | 92 | 95k coins | -17.3% |
+| Paulo Futre | 92 | 85k coins | -15.6% |
+| Ivan Perišić | 90 | 40k coins | -29.1% |
 | Florian Thauvin | 87 | 35k coins | -15.6% |
-| Tabitha Chawinga | 91 | 147k coins | -15.7% |
-| Rayan Cherki | 93 | 108k coins | -16.7% |
-| Yan Diomande | 92 | 73k coins | -17.5% |
+| Bradley Barcola | 92 | 100k coins | -17.3% |
+| Gustav Isaksen | 87 | 32k coins | -17.3% |
+| Jens Petter Hauge | 88 | 50k coins | -24% |
+| Noa Lang | 91 | 25k coins | -15.6% |
+| Anders Dreyer | 84 | 20k coins | -29.1% |
 
 
-## 📐 Como o FutQuant lê o mercado
+## 🎯 Conclusão do dia
+Dada a predominância do sentimento vendedor, o foco deve ser evitar compras impulsivas em cartas que ainda estão caindo e aguardar oportunidades de compra nas previsões de alta como Garrincha e Quaresma. Traders devem priorizar a venda de ativos com probabilidade de baixa ou segurar posições sólidas até a estabilização do mercado.
 
-Nossos números vêm de **centenas de milhões de pontos de preço** coletados de múltiplas fontes do mercado do EA FC, atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias de preço** (cotações irreais de cartas extintas ou erros de coleta). As previsões usam um modelo treinado no histórico de cada carta, considerando **médias móveis (24h e 7 dias)**, **níveis de suporte e resistência** e a volatilidade recente. Por isso você vê aqui o que a maioria dos sites não mostra: não só o preço, mas **para onde ele tende a ir**.
+
+## ⚙️ A engine por tras deste post
+Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Anthony Nwakaeme (87, Trendyol Süper Lig), com +50% em 24h, a 26k coins no Console (PS).
+Anthony Nwakaeme (87, Trendyol Süper Lig), com +50% em 24h, a 29k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Quaresma (85), -25.7% em 24h, a 52k coins.
+Anthony Gordon (88), -29.8% em 24h, a 198k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 133k coins.
+Pelo modelo FutQuant, Garrincha (92) — 95% de probabilidade de alta, a 175k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 69 cartas em alta contra 80 em queda (média 0.44%).
+**O mercado do Ultimate Team subiu ou caiu hoje?**  
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 61 cartas em alta contra 92 em queda (média -0.58%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
-Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
+Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
 > 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
