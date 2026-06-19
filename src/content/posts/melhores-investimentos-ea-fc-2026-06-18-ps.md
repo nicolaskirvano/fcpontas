@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:37:14.000Z
+pubDatetime: 2026-06-19T01:14:08.000Z
 title: "Melhores investimentos em Pontas no EA FC (18/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Couhaib Driouech (86, Eredivisie) lidera, com +71.4% em 7 dias a 109k coins no Console (PS), e o modelo dá 80% de chance de seguir subindo."
+    a: "Jens Petter Hauge (88, Eliteserien) lidera, com +75.9% em 7 dias a 48k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Couhaib Driouech (86) acumula **+71.4% em 7 dias** a 109k coins.
+> 🔝 **Destaque:** Jens Petter Hauge (88) acumula **+75.9% em 7 dias** a 48k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-No cenário atual do mercado de EA FC Ultimate Team em consoles PlayStation, datado de 18 de junho de 2026, a análise focada na posição de ponta revela oportunidades distintas para investidores que buscam lucros de curto prazo baseados na volatilidade dos últimos dias. Ao observarmos a tendência de valorização das últimas 24 horas, destaca-se imediatamente Gervinho, com uma carta de 87 de overall da Serie A TIM. Seu preço atual de 114 mil coins reflete um aumento expressivo de 17,9%, o que é ainda mais significativo quando consideramos a probabilidade de alta de 95%. Essa combinação de crescimento recente e expectativa estatística extremamente favorável torna o jogador um dos alvos mais seguros para entrada, sugerindo que a demanda pelo seu perfil está em um pico sustentável, sem sinais imediatos de saturação ou queda brusca no valor.
+No cenário do EA FC Ultimate Team para consoles PlayStation, analisando a data de 18 de junho de 2026, a posição de ponta apresenta uma volatilidade interessante para investidores ágeis. Ao observarmos a tendência de valorização dos últimos sete dias, destacam-se oportunidades claras onde a probabilidade de alta supera significativamente o risco. Entre as opções mais seguras, Mohammed Kudus (90, Premier League) se impõe como o candidato principal. Com uma valorização de 8.3% nas últimas 24 horas e uma impressionante probabilidade de alta de 93%, a carta cotada a 143k coins demonstra uma força de mercado robusta. A combinação de um rating elevado, liga premium e essa expectativa estatística faz dele um ativo de baixo risco e potencial retorno consistente, ideal para quem busca estabilidade no curto prazo.
 
-Outro ponto de atenção crucial é Debinha, cuja carta de 89 da NWSL apresenta o maior percentual de alta entre os listados, com 20,9% em apenas 24 horas. Atualmente cotada a 90 mil coins, a jogadora possui uma probabilidade de alta de 84%, indicando uma forte pressão de compra no mercado. A alta performance relativa da carta, aliada ao preço acessível comparado a outras opções de elite, cria um cenário ideal para investidores que desejam alavancar capital com risco moderado. A consistência do crescimento sugere que a carta está sendo descoberta por novos usuários ou que há uma escassez temporária de supply, fatores que tipicamente precedem valorizações contínuas em curto prazo.
+Outro nome que merece atenção imediata é Alejandro Garnacho (89, Premier League). Apesar de já estar em um patamar alto de 200k coins, a carta registrou um aumento agressivo de 25.3% em apenas 24 horas. O fator decisivo aqui é a probabilidade de alta de 84%, o que sugere que a tendência de valorização ainda não atingiu seu pico. Para investidores com maior capital disponível, a entrada em Garnacho representa uma aposta forte em um jogador da Premier League que está em ascensão constante, aproveitando a inércia do mercado que tende a manter os preços elevados devido à alta demanda de times competitivos.
 
-Para quem busca ativos de maior valor agregado, João Félix oferece uma perspectiva interessante. Sua carta de 86 da ROSHN Saudi League está valorizada em 200 mil coins, com um aumento de 1,5% nas últimas 24 horas. Embora o percentual de alta seja menor, a probabilidade de alta de 84% confere estabilidade ao ativo. Em mercados de alto valor, movimentos menores são comuns devido à menor liquidez, mas a alta probabilidade de continuação da tendência indica que a carta não está em fase de correção. É uma opção de investimento mais conservadora, adequada para portfólios que priorizam a preservação de capital com ganhos graduais, aproveitando a estabilidade do mercado de jogadores de ligas emergentes.
+Para quem prefere perfis de risco moderado com retorno potencial rápido, Jérémy Doku (84, Premier League) oferece um equilíbrio interessante. Cotada a 90k coins, a carta subiu 8.8% em 24 horas e carrega uma probabilidade de alta de 60%. Embora o rating seja inferior aos anteriores, a pertinência na Premier League e a probabilidade superior a 50% indicam que o preço deve continuar firmando ou subindo levemente. É uma opção de "entry-level" para investidores que desejam expor menos capital, mas ainda assim participar de uma tendência positiva no mercado de pontas de elite.
 
-Jeremie Frimpong também merece destaque estratégico. Com uma carta de 86 da Premier League, o jogador subiu 7,4% em 24 horas, atingindo 140 mil coins. A probabilidade de alta de 95% é o indicador mais forte de todos os listados, sugerindo uma tendência quase certa de continuidade. Para investidores experientes, a combinação de uma liga de alto prestígio, como a Premier League, com uma probabilidade estatística tão elevada, minimiza o risco de "pegar uma faca caindo". A entrada nesse ativo parece ser a mais racional para quem busca maximizar o retorno sobre o investimento com a menor margem de erro possível, aproveitando a confiança do mercado na consistência da valorização.
+No segmento feminino, Lauren Hemp (90, Barclays WSL) surge como uma das oportunidades mais quentes do dia. Com um aumento vertiginoso de 22.5% em 24 horas e uma probabilidade de alta de 44%, a carta a 37k coins mostra um momentum excepcional. Embora a probabilidade não seja tão alta quanto a de Kudus, a velocidade da valorização recente sugere uma compra em alta (FOMO) por parte dos usuários, o que pode impulsionar o preço ainda mais no curto prazo. É uma aposta mais arriscada, mas com potencial de retorno percentual muito atraente.
 
-Por outro lado, é fundamental exercitar cautela com cartas como Yan Diomande e Tabitha Chawinga. Embora Diomande tenha apresentado uma alta vertiginosa de 15,4% em 24 horas (carta de 92, 68 mil coins), sua probabilidade de alta é de apenas 5%, o que sugere um pico especulativo de curto prazo que pode reverter rapidamente. Da mesma forma, Chawinga (91, D1 Arkema) teve alta de 3,4% para 150 mil coins, mas com probabilidade de alta de 5%. Esses dados indicam que a valorização recente pode ser um "buy the rumor, sell the news", onde os preços estão inflacionados artificialmente. Entrar nessas posições agora expõe o investidor a um risco elevado de perda, já que o mercado provavelmente corrigirá esses valores excessivos nas próximas horas.
+Mary Fowler (87, Barclays Women’s Super League) também merece destaque. A carta, a 38k coins, teve alta de 8.6% nas últimas 24 horas e uma probabilidade de alta de 84%. Este perfil é estatisticamente muito sólido, oferecendo segurança similar à de Kudus, mas com um investimento inicial muito menor. A alta probabilidade de valorização torna Fowler uma escolha racional para diversificar a carteira com ativos de baixo custo e alta expectativa de ganho, aproveitando a estabilidade do mercado feminino.
 
-Em resumo, a estratégia ideal para hoje em consoles PlayStation deve focar na seleção de ativos com alta probabilidade de continuidade de tendência e percentual de alta saudável. Gervinho, Debinha, João Félix e Jeremie Frimpong compõem o núcleo sólido para entrada, oferecendo equilíbrio entre risco e retorno. A análise dos dados de 7 dias, corroborada pelas métricas de 24 horas, confirma que o mercado está recompensando a seleção criteriosa baseada em probabilidades estatísticas, evitando armadilhas de alta volatilidade sem fundamento sustentável. Investir nessas pontas específicas parece ser a decisão mais lógica para maximizar lucros no cenário atual de 18 de junho de 2026.
+Por fim, é crucial evitar cartas com alta volatilidade e baixa probabilidade de continuidade, como Jens Petter Hauge e Yan Diomande, cujas probabilidades de alta são de apenas 5%. Embora tenham subido, o risco de correção é extremo. Em contraste, Caroline Graham Hansen (90, Liga F) com 56% de probabilidade a 30k coins oferece uma alternativa acessível e segura. Portanto, as melhores entradas hoje são claramente Mohammed Kudus e Mary Fowler pela segurança, e Lauren Hemp pela agressividade do momento, sempre respeitando os limites de risco individuais.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
+| Jens Petter Hauge | 88 | Eliteserien | 48k coins | +13.1% | +75.9% | 5% |
 | Couhaib Driouech | 86 | Eredivisie | 109k coins | +2.9% | +71.4% | 80% |
-| Yan Diomande | 92 | — | 68k coins | +15.4% | +56.2% | 5% |
-| Gervinho | 87 | Serie A TIM | 114k coins | +17.9% | +54.4% | 95% |
-| Claudia Pina | 87 | Liga F | 175k coins | +11.2% | +45.9% | 46% |
-| Caroline Graham Hansen | 90 | Liga F | 30k coins | +3.4% | +39.5% | 56% |
-| João Félix | 86 | ROSHN Saudi League | 200k coins | +1.5% | +36.7% | 84% |
-| Caroline Graham Hansen | 92 | Liga F | 164k coins | +11.9% | +33.3% | 38% |
-| Debinha | 89 | NWSL | 90k coins | +20.9% | +31.6% | 84% |
-| Jeremie Frimpong | 86 | Premier League | 140k coins | +7.4% | +25% | 95% |
-| Tabitha Chawinga | 91 | D1 Arkema | 150k coins | +3.4% | +19% | 5% |
-| Antony | 91 | LALIGA EA SPORTS | 141k coins | +3.7% | +17.6% | 80% |
-| Yan Diomande | 84 | Bundesliga | 55k coins | +11.1% | +15.8% | 50% |
-| Mohamed Salah | 92 | Premier League | 173k coins | +2.2% | +15% | 95% |
-| Anders Dreyer | 84 | MLS | 20k coins | +5.3% | +14.5% | 5% |
-| Antony | 86 | LALIGA EA SPORTS | 76k coins | +4.1% | +10.9% | 42% |
+| Yan Diomande | 92 | — | 76k coins | +7.7% | +45.8% | 5% |
+| Caroline Graham Hansen | 92 | Liga F | 165k coins | +14.7% | +42.6% | 38% |
+| Caroline Graham Hansen | 90 | Liga F | 30k coins | +2.6% | +41.2% | 56% |
+| Lauren Hemp | 90 | Barclays WSL | 37k coins | +22.5% | +36.1% | 44% |
+| Alejandro Garnacho | 89 | Premier League | 200k coins | +25.3% | +35.6% | 84% |
+| Mary Fowler | 87 | Barclays Women’s Super League | 38k coins | +8.6% | +32.2% | 84% |
+| Jérémy Doku | 84 | Premier League | 90k coins | +8.8% | +28.9% | 60% |
+| Mohammed Kudus | 90 | Premier League | 143k coins | +8.3% | +19.2% | 93% |
+| Yan Diomande | 84 | Bundesliga | 55k coins | +12.2% | +16.4% | 50% |
+| Luís Figo | 89 | Icons | 76k coins | +4.7% | +12.9% | 8% |
+| Noni Madueke | 86 | Premier League | 55k coins | +15.8% | +12.2% | 8% |
+| Anders Dreyer | 84 | MLS | 19k coins | +28.3% | +11.6% | 5% |
+| Michelle Cooper | 87 | NWSL | 20k coins | +19% | +6.8% | 93% |
 
 
 ## 📈 Análise dos destaques
 
-- **Couhaib Driouech (86)** — 109k coins, **+71.4% em 7 dias** (+2.9% em 24h). Preço +35% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **80% de chance de seguir subindo**.
+- **Jens Petter Hauge (88)** — 48k coins, **+75.9% em 7 dias** (+13.1% em 24h). Preço +26% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Yan Diomande (92)** — 68k coins, **+56.2% em 7 dias** (+15.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Couhaib Driouech (86)** — 109k coins, **+71.4% em 7 dias** (+2.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **80% de chance de seguir subindo**.
 
-- **Gervinho (87)** — 114k coins, **+54.4% em 7 dias** (+17.9% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Yan Diomande (92)** — 76k coins, **+45.8% em 7 dias** (+7.7% em 24h). Preço +35% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Claudia Pina (87)** — 175k coins, **+45.9% em 7 dias** (+11.2% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Caroline Graham Hansen (92)** — 165k coins, **+42.6% em 7 dias** (+14.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Caroline Graham Hansen (90)** — 30k coins, **+39.5% em 7 dias** (+3.4% em 24h). Preço em linha com a média de 7 dias (+0%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Caroline Graham Hansen (90)** — 30k coins, **+41.2% em 7 dias** (+2.6% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +90,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Couhaib Driouech (86, Eredivisie) lidera, com +71.4% em 7 dias a 109k coins no Console (PS), e o modelo dá 80% de chance de seguir subindo.
+Jens Petter Hauge (88, Eliteserien) lidera, com +75.9% em 7 dias a 48k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
