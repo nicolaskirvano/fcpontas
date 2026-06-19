@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:14:09.000Z
+pubDatetime: 2026-06-19T22:14:20.000Z
 title: "Melhores investimentos em Pontas no EA FC (19/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Emilie Haavi (87, Calcio A Femminile) lidera, com +63.5% em 7 dias a 25k coins no Console (PS), e o modelo dá 53% de chance de seguir subindo."
+    a: "Emilie Haavi (87, Calcio A Femminile) lidera, com +41.9% em 7 dias a 25k coins no Console (PS), e o modelo dá 53% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,19 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Emilie Haavi (87) acumula **+63.5% em 7 dias** a 25k coins.
+> 🔝 **Destaque:** Emilie Haavi (87) acumula **+41.9% em 7 dias** a 25k coins.
 
 
 ## 🧠 A leitura do dia
-A análise do mercado de pontos de ataque em consoles para o dia 19 de junho de 2026 revela uma dinâmica interessante, onde a volatilidade das últimas 24 horas não é o único indicador de sucesso. Para investidores prudentes, a probabilidade de alta futura assume um papel central na decisão de compra. Entre as opções apresentadas, destacam-se cartas que combinam um percentual de valorização recente sólido com uma alta probabilidade estatística de continuação dessa tendência. Essa combinação reduz o risco de especulação e oferece uma base mais segura para alocação de capital no Ultimate Team.
+No cenário atual do mercado de EA FC Ultimate Team para consoles PlayStation, datado de 19 de junho de 2026, a análise das pontas revela oportunidades distintas baseadas na volatilidade recente e nas probabilidades de valorização. O foco principal recai sobre jogadores que demonstram não apenas um aumento percentual significativo em 24 horas, mas também uma probabilidade estatística robusta de continuidade na alta. Entre os destaques absolutos, Mohamed Salah (92, Premier League) emerge como a aposta mais segura para investidores com maior capital, apresentando uma alta de 18,4% em apenas um dia e uma impressionante probabilidade de 95% de continuar valorizando, com seu preço cotado na casa dos 220k coins. Essa combinação de momentum e confiança estatística sugere que a carta está em uma tendência de curto prazo extremamente favorável, justificando a entrada mesmo com o elevado valor de mercado.
 
-Jeremie Frimpong surge como uma das oportunidades mais promissoras no momento. O lateral-direito da Premier League registrou uma alta de 9,1% nas últimas 24 horas, um movimento significativo para uma carta de nível 86. O que realmente chama a atenção, contudo, é a probabilidade de alta de 95%, o maior índice entre todos os jogadores listados. Com um preço atual de 143k coins, Frimpong apresenta um perfil de risco muito baixo para um potencial de retorno considerável, sugerindo que a demanda por suas atributos técnicos ou meta-game está em franco crescimento entre os usuários de console.
+Paralelamente, para aqueles que buscam retornos mais agressivos com menor capital inicial, Ivan Perišić (86, Eredivisie) se destaca como uma oportunidade de alto risco-recompensa. Com um salto vertiginoso de 25,3% em 24 horas e a mesma probabilidade de alta de 95%, a carta está cotada em 30k coins. A magnitude do aumento percentual, combinada com a alta probabilidade de continuidade, indica uma forte demanda de mercado momentânea, possivelmente impulsionada por eventos in-game ou meta shifts. A entrada nesse ativo parece lógica para traders que desejam capitalizar rapidamente sobre a euforia de mercado, desde que haja vigilância constante para realização de lucros, dado o potencial de correção após tal pico abrupto.
 
-Outro nome que merece destaque imediato é Timo Werner. O atacante da Bundesliga também exibe uma probabilidade de alta de 95%, empatando com Frimpong na confiabilidade estatística. Werner valorizou 16% em apenas um dia, atingindo a marca de 47k coins. Essa combinação de alta percentual robusta e probabilidade máxima indica uma forte pressão de compra, possivelmente impulsionada por eventos in-game ou popularidade em times específicos. Para investidores com orçamento médio, Werner oferece uma entrada atrativa com chances muito elevadas de valorização adicional.
+Em outra faixa de preço, Emilie Haavi (87, Calcio A Femminile) oferece um perfil interessante para quem busca diversificação fora dos grandes nomes da Premier League. Com 18,9% de alta em 24h e uma probabilidade de 53% de continuar subindo, a carta está a 25k coins. Embora a probabilidade seja inferior à de Salah e Perišić, ela ainda representa uma chance maior do que não de valorização, tornando-a uma opção viável para portfólios equilibrados. O preço acessível permite que múltiplas unidades sejam adquiridas, mitigando o risco individual caso a tendência se reverta, enquanto ainda captura parte do ganho se a probabilidade de 53% se confirmar.
 
-No segmento de valor mais acessível, Emilie Haavi do Calcio A Femminile apresenta uma oportunidade interessante para quem busca diversificar. Com uma alta de 19,8% em 24 horas e um preço de entrada de apenas 25k coins, a jogadora suíça mostra um momentum agressivo. Embora sua probabilidade de alta futura seja de 53%, o baixo custo inicial torna o risco financeiro aceitável. É uma carta ideal para quem deseja testar a tendência de valorização de atletas de ligas femininas, que frequentemente apresentam oscilações menos correlacionadas com o mercado principal masculino.
+John Barnes (87, Icons) também merece atenção, posicionando-se como um ativo de médio prazo com fundamentos sólidos. A alta de 14,7% em 24h e a probabilidade de 60% de continuidade, a um preço de 77k coins, indicam uma demanda estável e consistente. Diferente dos picos voláteis de outras cartas, Barnes mostra uma trajetória mais orgânica, o que pode ser preferível para investidores menos propensos a riscos extremos. A probabilidade superior a 50% reforça a ideia de que há compradores reais sustentando o preço, e não apenas especulação de curto prazo.
 
-Para investidores com maior capital disponível, João Félix e Chloe Kelly oferecem perfis distintos de segurança. João Félix, apesar de ter uma alta modesta de 1,5% em 24 horas, possui uma probabilidade de alta de 84% e está cotado a 204k coins. Isso sugere um mercado consolidado e estável, onde a valorização pode ser gradual, mas consistente. Já Chloe Kelly, da Barclays WSL, combina uma alta de 1,7% com uma probabilidade de 80% a 60k coins, representando um equilíbrio sólido entre custo, probabilidade e tendência atual, ideal para carteiras que buscam estabilidade em ligas femininas de alto nível.
-
-Por fim, é crucial evitar investimentos em cartas com alta volatilidade mas baixa probabilidade de continuação, como Noni Madueke, que apesar de 14% de alta, tem apenas 8% de chance de continuar subindo. Da mesma forma, Jens Petter Hauge, com 15,9% de alta, possui apenas 16% de probabilidade, indicando um possível pico temporário. Portanto, as melhores entradas hoje concentram-se em Frimpong, Werner, Félix e Kelly, que oferecem o melhor equilíbrio entre dados recentes e projeções futuras confiáveis para o mercado de consoles.
+Por outro lado, cartas como Raphinha (91, LALIGA EA SPORTS) e Mohamed Salah (89, Premier League) apresentam sinais mistos. Raphinha, apesar do alto preço de 209k coins, tem apenas 4,5% de alta e probabilidade de 43% de continuar subindo, o que sugere cautela. Já o Salah (89) a 20k coins tem 20% de alta, mas apenas 44% de probabilidade de continuidade, indicando que o movimento pode ser efêmero. Marco Asensio (85, Trendyol Süper Lig) a 18k coins, com 3,9% de alta e 55% de probabilidade, é uma opção de baixo risco, mas com retorno potencial limitado. Joe Cole (88, Premier League) a 150k coins, com apenas 1,3% de alta e 5% de probabilidade, deve ser evitado, pois os dados indicam estagnação ou possível queda iminente.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,28 +43,27 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Emilie Haavi | 87 | Calcio A Femminile | 25k coins | +19.8% | +63.5% | 53% |
-| Caroline Graham Hansen | 92 | Liga F | 152k coins | +11.5% | +46% | 38% |
-| João Félix | 86 | ROSHN Saudi League | 204k coins | +1.5% | +36.7% | 84% |
-| Yan Diomande | 84 | Bundesliga | 55k coins | +5.8% | +29.4% | 50% |
-| Jeremie Frimpong | 86 | Premier League | 143k coins | +9.1% | +20% | 95% |
-| Noni Madueke | 86 | Premier League | 55k coins | +14% | +14.6% | 8% |
-| Chloe Kelly | 88 | Barclays WSL | 60k coins | +1.7% | +10.1% | 80% |
-| Jens Petter Hauge | 91 | Eliteserien | 38k coins | +15.9% | +7.4% | 16% |
-| Timo Werner | 87 | Bundesliga | 47k coins | +16% | +5% | 95% |
+| Emilie Haavi | 87 | Calcio A Femminile | 25k coins | +18.9% | +41.9% | 53% |
+| Mohamed Salah | 92 | Premier League | 220k coins | +18.4% | +41.3% | 95% |
+| Ivan Perišić | 86 | Eredivisie | 30k coins | +25.3% | +36.3% | 95% |
+| Mohamed Salah | 89 | Premier League | 20k coins | +20% | +35.5% | 44% |
+| John Barnes | 87 | Icons | 77k coins | +14.7% | +18.2% | 60% |
+| Raphinha | 91 | LALIGA EA SPORTS | 209k coins | +4.5% | +10.6% | 43% |
+| Joe Cole | 88 | Premier League | 150k coins | +1.3% | +7% | 5% |
+| Marco Asensio | 85 | Trendyol Süper Lig | 18k coins | +3.9% | +5.3% | 55% |
 
 
 ## 📈 Análise dos destaques
 
-- **Emilie Haavi (87)** — 25k coins, **+63.5% em 7 dias** (+19.8% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Emilie Haavi (87)** — 25k coins, **+41.9% em 7 dias** (+18.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Caroline Graham Hansen (92)** — 152k coins, **+46% em 7 dias** (+11.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Mohamed Salah (92)** — 220k coins, **+41.3% em 7 dias** (+18.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **João Félix (86)** — 204k coins, **+36.7% em 7 dias** (+1.5% em 24h). Preço em linha com a média de 7 dias (+0%). 🔮 O modelo reforça a tese: **84% de chance de seguir subindo**.
+- **Ivan Perišić (86)** — 30k coins, **+36.3% em 7 dias** (+25.3% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Yan Diomande (84)** — 55k coins, **+29.4% em 7 dias** (+5.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Mohamed Salah (89)** — 20k coins, **+35.5% em 7 dias** (+20% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Jeremie Frimpong (86)** — 143k coins, **+20% em 7 dias** (+9.1% em 24h). Preço em linha com a média de 7 dias (+4%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **John Barnes (87)** — 77k coins, **+18.2% em 7 dias** (+14.7% em 24h). Preço em linha com a média de 7 dias (+4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -84,7 +81,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Emilie Haavi (87, Calcio A Femminile) lidera, com +63.5% em 7 dias a 25k coins no Console (PS), e o modelo dá 53% de chance de seguir subindo.
+Emilie Haavi (87, Calcio A Femminile) lidera, com +41.9% em 7 dias a 25k coins no Console (PS), e o modelo dá 53% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

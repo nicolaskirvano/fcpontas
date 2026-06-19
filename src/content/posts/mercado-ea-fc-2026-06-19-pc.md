@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:14:52.000Z
+pubDatetime: 2026-06-19T22:15:21.000Z
 title: "Pontas no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,57 +13,57 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Anders Dreyer (84, MLS), com +40.3% em 24h, a 46k coins no PC."
+    a: "Rubén García (87, LALIGA EA SPORTS), com +40.3% em 24h, a 27k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Jérémy Doku (84), -49.1% em 24h, a 77k coins."
+    a: "Rivaldo (91), -46.2% em 24h, a 64k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 50 cartas em alta contra 82 em queda (média -3.25%)."
+    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 46 cartas em alta contra 72 em queda (média -4.32%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O cenário do mercado de EA FC Ultimate Team para o dia 19 de junho de 2026 em PC apresenta uma pressão descendente significativa, caracterizada por uma dinâmica onde as quedas de preço dominam amplamente as altas, refletindo uma cautela generalizada entre os traders. Com um balanço de 50 altas contra 82 quedas e uma média de variação negativa de -3.25% nas últimas 24 horas, o sentimento é de descompressão pós-ciclo ou ajuste de expectativas, exigindo que os investidores mantenham os olhos abertos para oportunidades de compra em ativos premium que estão sendo vendidos em pânico. A volatilidade está concentrada em segmentos específicos, onde a falta de demanda imediata para novos conteúdos ou a conclusão de desafios de temporada está drenando liquidez dos cartões mais populares. Neste contexto de mercado pressionado, a estratégia não deve ser reativa, mas sim analítica, identificando quais ativos estão caindo por fundamentos fracos e quais estão caindo por correção exagerada de alta anterior. O tom do dia é de oportunidade seletiva, onde a paciência é premiada e a impulsividade penalizada, especialmente para quem opera com grandes quantias de moedas.
+O mercado de Pontas em EA FC Ultimate Team exibe um cenário de extrema pressão vendedora neste 19 de junho de 2026, onde a liquidez parece ter evaporado para os ativos mais especulativos, deixando os traders em estado de alerta máximo. Com uma proporção desequilibrada de 72 quedas contra apenas 46 altas, o índice geral de variação negativa atingiu uma média de -4.32% nas últimas 24 horas, sinalizando que o medo domina a ganância entre os comerciantes de alto volume. Este ambiente hostil sugere que os algoritmos de precificação estão reagindo a uma possível saturação de ofertas ou a uma falta de demanda orgânica por carteiras, forçando uma correção brusca nos preços dos jogadores que antes eram considerados seguros. A volatilidade extrema observada hoje não é apenas um ruído estatístico, mas um indicador claro de que a estrutura do mercado está sendo testada, exigindo que os analistas mantenham uma disciplina férrea e evitem impulsos emocionais de compra em meio a essa queda generalizada. Traders experientes sabem que dias com essa magnitude de quedas são oportunidades para identificar ativos fundamentais que foram vendidos em pânico, mas também servem como alerta para não tentar adivinhar o fundo sem sinais claros de estabilização. O tom do dia é de cautela extrema, onde cada coin investido deve ser justificado por uma estratégia de longo prazo ou por um rebote técnico imediato, e não por esperança vaga de recuperação.
 
-> 🟢 **Maior alta:** Anders Dreyer (84) **+40.3%** · 🔴 **Maior baixa:** Jérémy Doku (84) **-49.1%**
+> 🟢 **Maior alta:** Rubén García (87) **+40.3%** · 🔴 **Maior baixa:** Rivaldo (91) **-46.2%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anders Dreyer | 84 | MLS | 46k coins | +40.3% | +58% |
-| Rubén García | 87 | LALIGA EA SPORTS | 28k coins | +36.4% | -26.1% |
-| Armand Laurienté | 86 | Serie A TIM | 45k coins | +27.7% | +9.8% |
-| Linda Caicedo | 87 | Liga F | 41k coins | +27.5% | -24% |
-| Rodrigo Zalazar | 84 | Liga Portugal | 50k coins | +27.4% | +24.2% |
-| Timo Werner | 87 | Bundesliga | 50k coins | +27.4% | +42.9% |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 39k coins | +26.6% | +6.1% |
-| Bradley Barcola | 87 | Ligue 1 McDonald's | 145k coins | +26.3% | +2.8% |
-| Couhaib Driouech | 86 | Eredivisie | 60k coins | +24% | +29% |
-| Gervinho | 85 | Serie A TIM | 30k coins | +23.6% | +26.4% |
+| Rubén García | 87 | LALIGA EA SPORTS | 27k coins | +40.3% | -17.6% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 95k coins | +38.7% | +75.9% |
+| Couhaib Driouech | 86 | Eredivisie | 94k coins | +34.8% | +90% |
+| Harvey Barnes | 84 | Premier League | 50k coins | +34.7% | +4.4% |
+| Anders Dreyer | 84 | MLS | 44k coins | +33.6% | +50.4% |
+| Antony | 91 | LALIGA EA SPORTS | 113k coins | +33.3% | +5.9% |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 39k coins | +27.6% | +6.1% |
+| Mohamed Salah | 89 | Premier League | 22k coins | +23.8% | +76.8% |
+| Jerzy Dudek | 87 | Premier League | 86k coins | +14.8% | +2.4% |
+| Luís Figo | 89 | Icons | 74k coins | +14.2% | +14.2% |
 
 
-Entre os poucos ativos que conseguiram romper a gravidade do mercado, Anders Dreyer se destaca com uma impressionante alta de 40.3% em 24 horas, atingindo 46k coins, embora sua probabilidade de alta futura seja moderada em 25%, sugerindo que este pode ser um movimento de curto prazo impulsionado por escassez momentânea. Rubén García também apresenta desempenho robusto com alta de 36.4% em 24 horas a 28k coins, e sua probabilidade de alta de 58% indica que há suporte técnico forte e demanda sustentável, possivelmente devido a promoções ou kits de jogador específicos que estão impulsionando seu uso. Armand Laurienté subiu 27.7% em 24 horas para 45k coins, mas com apenas 15% de probabilidade de alta, sinalizando que este movimento pode ser um 'dead cat bounce' ou correção rápida antes de nova queda, exigindo cautela extrema para compras na maré alta. Linda Caicedo, com alta de 27.5% em 24 horas a 41k coins e 26% de probabilidade de alta, mostra sinais de consolidação em nível intermediário, ideal para traders que buscam ganhos rápidos de revenda sem expor grandes capitais. Rodrigo Zalazar e Timo Werner empataram em alta de 27.4% em 24 horas, ambos a 50k coins, com probabilidades de alta de 26% e 36% respectivamente, indicando que Werner tem ligeiramente mais força de mercado para continuar subindo, enquanto Zalazar pode estar mais suscetível a correções imediatas.
+Apesar da tendência bearish dominante, alguns ativos específicos demonstraram resiliência surpreendente, liderados por Rubén García, que registrou uma alta de 40.3% em 24 horas, atingindo 27k coins com uma probabilidade de alta de 58%, o que indica forte interesse especulativo em sua faixa de preço acessível. Anis Hadj-Moussa também se destaca como um dos ativos mais quentes, subindo 38.7% para 95k coins, impulsionado por uma probabilidade de alta de 57%, sugerindo que traders estão acumulando posições em jogadores de Eredivisie com bom custo-benefício para meta-builds competitivos. Couhaib Driouech apresentou um movimento técnico interessante com alta de 34.8% para 94k coins, embora sua probabilidade de alta de apenas 22% indique que esse movimento pode ser mais especulativo e de curto prazo, baseado em flutuações de volume do que em fundamentos sólidos de demanda. Harvey Barnes, da Premier League, subiu 34.7% para 50k coins com uma probabilidade de alta de 47%, reforçando a tese de que jogadores de ligas principais mantêm uma base de compradores mais estável mesmo em dias de crise, atraindo quem busca segurança relativa. Anders Dreyer, da MLS, completou o top 5 com alta de 33.6% para 44k coins, mas sua baixa probabilidade de alta de 25% alerta para a fragilidade desse movimento, que pode ser facilmente revertido se a venda em massa continuar. Vale notar que até mesmo nomes de elite como Antony, com alta de 33.3% para 113k coins, mostraram sinais de vida, mas com probabilidade de alta de apenas 12%, o que sugere que a alta foi mais por falta de vendedores do que por excesso de compradores agressivos.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jérémy Doku | 84 | Premier League | 77k coins | -49.1% | -35% |
-| Mary Fowler | 87 | Barclays Women’s Super League | 23k coins | -40.5% | -19.7% |
-| Rivaldo | 91 | Icons | 74k coins | -37% | +18.1% |
-| Rodrygo | 89 | LALIGA EA SPORTS | 562k coins | -31% | -29.8% |
-| Khvicha Kvaratskhelia | 88 | Ligue 1 McDonald's | 623k coins | -29.8% | +13% |
-| Neymar Jr | 87 | ROSHN Saudi League | 46k coins | -29.5% | -64.3% |
-| Khvicha Kvaratskhelia | 96 | — | 3.98M coins | -27% | -8.8% |
-| Noni Madueke | 86 | Premier League | 37k coins | -26.5% | -30.7% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 1.89M coins | -24.4% | -32.5% |
-| Rayan Cherki | 93 | — | 100k coins | -21.7% | -17.4% |
+| Rivaldo | 91 | Icons | 64k coins | -46.2% | -17.8% |
+| Neymar Jr | 87 | ROSHN Saudi League | 35k coins | -44.4% | -75.2% |
+| Bradley Barcola | 92 | — | 70k coins | -42.7% | -33.3% |
+| Mohammed Kudus | 90 | Premier League | 87k coins | -31.6% | -25.6% |
+| João Félix | 86 | ROSHN Saudi League | 134k coins | -30.5% | -69.5% |
+| Rivaldo | 90 | Icons | 84k coins | -30% | -14.6% |
+| Jairzinho | 94 | Icons | 881k coins | -29.7% | -7.8% |
+| Mary Fowler | 87 | Barclays Women’s Super League | 23k coins | -27.8% | -20.2% |
+| Rayan Cherki | 93 | — | 100k coins | -27.3% | -17% |
+| Saeed Al Owairan | 85 | ROSHN Saudi League | 35k coins | -25.9% | -42.9% |
 
 
-O lado das quedas é dominado por uma sangria de valores em ativos de alto perfil, liderada por Jérémy Doku, que despencou 49.1% em 24 horas para 77k coins, uma queda brutal que sugere venda massiva por parte de usuários que precisavam de moedas rapidamente ou fechamento de ciclos de meta. Mary Fowler caiu 40.5% em 24 horas para 23k coins, com baixa probabilidade de alta de 19%, indicando que o mercado feminino, apesar de nicho, está sofrendo com a mesma pressão de liquidez geral e falta de incentivos imediatos para retenção. Rivaldo, um ícone com rating 91, sofreu queda de 37% em 24 horas para 74k coins, e sua probabilidade de alta de 24% sugere que a nostalgia não foi suficiente para sustentar o preço frente à oferta excedente no mercado. Rodrygo e Khvicha Kvaratskhelia (versão 88) estão entre os mais afetados em valor absoluto, caindo 31% e 29.8% respectivamente em 24 horas, para 562k e 623k coins, demonstrando que até mesmo os ativos premium não estão imunes à desvalorização quando a demanda de squads competitivos diminui. Neymar Jr caiu 29.5% em 24 horas para 46k coins com probabilidade de alta de 0%, o que é um sinal de alerta máximo de que o ativo pode estar em tendência de queda estrutural sem suporte visível, enquanto a versão 96 de Kvaratskhelia caiu 27% para 3.98M coins, mostrando que o topo do mercado também está sangrando.
+O outro lado da moeda revela um massacre nos ativos de maior capitalização, onde Rivaldo (91, Icons) despencou 46.2% para 64k coins, uma queda brutal que reflete a desconexão entre o valor percebido e a liquidez real, com probabilidade de alta de apenas 24%, indicando que os traders estão desesperados para se livrar de carteiras pesadas. Neymar Jr, da ROSHN Saudi League, sofreu uma queda de 44.4% para 35k coins, com probabilidade de alta de 0%, o que sinaliza um colapso total de confiança neste ativo específico, possivelmente devido a mudanças na meta ou falta de utilidade em times competitivos atuais, tornando-o um ativo de risco extremo. Bradley Barcola, classificado como 92 sem liga definida, caiu 42.7% para 70k coins, também com 0% de probabilidade de alta, sugerindo que a incerteza sobre sua disponibilidade ou utilidade está sendo punida severamente pelo mercado, que prefere evitar ativos com status ambíguo. Mohammed Kudus, da Premier League, registrou queda de 31.6% para 87k coins, mas com probabilidade de alta de 32%, o que pode indicar que a venda foi mais técnica ou baseada em stop-loss do que em uma reavaliação fundamental negativa, mantendo uma esperança de recuperação. João Félix, da ROSHN Saudi League, caiu 30.5% para 134k coins com probabilidade de alta de 27%, mostrando que mesmo jogadores de alto preço não estão imunes à pressão vendedora, especialmente quando a liquidez seca e os grandes traders liquidam posições para garantir capital.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -76,7 +76,7 @@ O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
 
 
 ## 🎯 O que fazer hoje
-A estratégia para hoje deve focar em acumular posições em ativos de queda acentuada com suporte fundamental, como Rubén García, que apesar de estar em alta, tem a melhor probabilidade de continuidade (58%) e preço acessível de 28k coins, servindo como um porto seguro em meio à volatilidade. Recomenda-se evitar agressivamente compras em Jérémy Doku e Rivaldo até que haja estabilização nos preços, pois as quedas de 49.1% e 37% respectivamente indicam que o fundo ainda não foi encontrado e há risco de perdas adicionais. Para traders de alto risco, a queda de Noni Madueke de 26.5% para 37k coins, combinada com alta probabilidade de alta de 46%, oferece uma oportunidade de 'buy the dip' com potencial de recuperação rápida nos próximos ciclos. É crucial monitorar de perto os ativos de alto valor como Rodrygo e Kvaratskhelia 96, pois suas quedas significativas podem atrair compradores institucionais ou whales que buscam diversificação em preços descontados, mas a entrada deve ser feita em pequenos lotes para mitigar riscos. Evite comprar Anders Dreyer e Armand Laurienté no topo atual, pois a baixa probabilidade de alta sugere que o movimento é especulativo e de curta duração, preferindo esperar uma correção para entrar com melhor margem de segurança. Em resumo, o dia exige disciplina: compre o que tem suporte técnico forte (Rubén García), espere a estabilização dos ícones (Rivaldo, Neymar) e use a volatilidade dos premium (Rodrygo, Kvaratskhelia) apenas se tiver capital robusto para absorver oscilações.
+Diante desse cenário de alta volatilidade e tendência claramente baixista, a estratégia do dia deve ser extremamente seletiva, focando em acumular posições em ativos que demonstram resiliência relativa, como Rubén García e Anis Hadj-Moussa, que combinam altas percentuais significativas com probabilidades de alta robustas acima de 50%, sugerindo suporte técnico forte. Evite completamente a compra de ativos com probabilidade de alta de 0%, como Neymar Jr e Bradley Barcola, pois a ausência total de sinal de compra indica que a queda pode continuar indefinidamente ou que o ativo está entrando em fase de desvalorização estrutural, onde o risco de perda é desproporcional ao ganho potencial. Considere segurar posições em Harvey Barnes e Santiago Hidalgo, que apresentam probabilidades de alta superiores a 40%, pois eles parecem estar em zonas de consolidação que podem oferecer oportunidades de venda em picos de curto prazo se o mercado encontrar um piso temporário. Para traders de alto risco, monitore de perto as quedas em Mohammed Kudus e João Félix, pois suas probabilidades de alta de 32% e 27% respectivamente podem indicar oportunidades de compra em fundo de mercado se houver uma reversão geral do sentimento nos próximos dias, mas apenas com uso rigoroso de stop-loss. A recomendação final é manter a maioria do capital em coins ou ativos ultra-liquidos, aguardando que a média de variação negativa de -4.32% se estabilize, antes de realizar entradas agressivas em ativos de maior valor como os Icons, que estão mostrando sinais de fragilidade extrema com quedas superiores a 30%.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -86,13 +86,13 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Anders Dreyer (84, MLS), com +40.3% em 24h, a 46k coins no PC.
+Rubén García (87, LALIGA EA SPORTS), com +40.3% em 24h, a 27k coins no PC.
 
 **E a maior queda do dia?**  
-Jérémy Doku (84), -49.1% em 24h, a 77k coins.
+Rivaldo (91), -46.2% em 24h, a 64k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 50 cartas em alta contra 82 em queda (média -3.25%).
+Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 46 cartas em alta contra 72 em queda (média -4.32%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
