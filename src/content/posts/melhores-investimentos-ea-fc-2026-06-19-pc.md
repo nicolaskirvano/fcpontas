@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:15:30.000Z
+pubDatetime: 2026-06-19T19:15:14.000Z
 title: "Melhores investimentos em Pontas no EA FC (19/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Jens Petter Hauge (91, Eliteserien) lidera, com +74% em 7 dias a 42k coins no PC, e o modelo dá 48% de chance de seguir subindo."
+    a: "Anis Hadj-Moussa (86, Eredivisie) lidera, com +82.7% em 7 dias a 95k coins no PC, e o modelo dá 57% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Jens Petter Hauge (91) acumula **+74% em 7 dias** a 42k coins.
+> 🔝 **Destaque:** Anis Hadj-Moussa (86) acumula **+82.7% em 7 dias** a 95k coins.
 
 
 ## 🧠 A leitura do dia
-Ao analisarmos o cenário atual do mercado de EA FC Ultimate Team para a posição de pontas em 19 de junho de 2026, a volatilidade das últimas 24 horas oferece oportunidades distintas para investidores com diferentes perfis de risco. A tendência geral indica que cartas de ligas menores ou médias estão apresentando movimentos mais agressivos em porcentagem, enquanto os ícones e estrelas de topo mantêm uma estabilidade relativa, servindo como refúgio de capital. Para quem busca valorização rápida, o foco deve recair sobre jogadores com alta probabilidade de alta e variação percentual significativa, equilibrando o preço de entrada com o potencial de retorno.
+Ao analisar o mercado de Ultimate Team em 19 de junho de 2026, o foco principal para investidores deve recair sobre as pontas que demonstram uma combinação de alta volatilidade positiva e probabilidade estatística de continuidade dessa tendência. Entre as opções disponíveis, Lauren Hemp se destaca como a aposta mais sólida no momento. A atacante da Barclays WSL, com uma carta de 90 rating, registrou um impressionante aumento de 22,7% em apenas 24 horas. O que torna essa oportunidade particularmente atrativa não é apenas o salto de preço, mas a probabilidade de alta de 73%, a maior entre todos os jogadores listados. Com o preço atual estabelecido em 46 mil coins, a entrada oferece um risco relativamente baixo para um potencial retorno significativo, especialmente considerando a consistência da demanda por talentos femininos de alto nível na construção de squads competitivos.
 
-Dentre as opções de menor investimento, Lukáš Haraslín destaca-se como a aposta mais sólida. Com uma impressionante alta de 28,6% nas últimas 24 horas e uma probabilidade de alta de 62%, este ponta de 89 rating da Česká Liga está cotado a apenas 27 mil coins. Essa combinação de preço acessível e momentum forte sugere que o mercado ainda não saturou a demanda, tornando-o uma excelente entrada para quem deseja lucros rápidos com baixo capital inicial. A confiança no seu desempenho futuro é alta, justificando a entrada imediata antes que o preço se estabilize.
+Outro destaque notável é Anis Hadj-Moussa, cuja carta de 86 rating da Eredivisie subiu 18,8% no último dia. Atualmente negociada por 95 mil coins, a jogadora apresenta uma probabilidade de alta de 57%, o que indica uma tendência de valorização robusta e sustentada. Diferente de picos efêmeros, essa probabilidade superior à média sugere que a base de investidores está acumulando a carta para uso futuro ou revenda, criando um piso de preço mais estável. Para quem busca diversificar o portfólio com ativos de ligas europeias secundárias que costumam ter flutuações interessantes, Hadj-Moussa representa um equilíbrio entre custo e segurança estatística.
 
-Na faixa intermediária, Jens Petter Hauge e Oscar Bobb apresentam perfis complementares de investimento. Hauge, um Elite de 91 rating da Eliteserien, subiu 12,8% em 24 horas com 48% de probabilidade de alta, custando 42 mil coins. É uma opção segura para carteiras médias. Por outro lado, Oscar Bobb, da Premier League com 88 rating, lidera a porcentagem de alta com 29,5% e possui 57% de chance de continuar subindo, mesmo custando 36 mil coins. A liga da Premier League geralmente confere mais visibilidade, o que pode acelerar ainda mais a valorização de Bobb a curto prazo, tornando-o atraente para investidores agressivos.
+No segmento de baixo custo, Gervinho surge como uma oportunidade interessante de "flip". Sua carta de 85 rating da Serie A TIM alcançou 30 mil coins, impulsionada por um aumento de 23,6% em 24 horas. A probabilidade de alta de 60% é um indicador forte para este patamar de preço, sugerindo que a carta está sendo percebida como uma opção viável para squads de baixo orçamento ou para jogadores que buscam preencher posições específicas sem comprometer todo o seu capital. A alta probabilidade combinada com o preço acessível torna Gervinho uma das entradas mais seguras para investidores iniciantes ou aqueles com capital limitado.
 
-Para quem possui maior capital e tolerância ao risco, Couhaib Driouech e Rodrigo Zalazar merecem atenção. Driouech, da Eredivisie com 86 rating, registrou alta de 20,5% em 24 horas, mas sua probabilidade de alta futura é de apenas 22%, custando 68 mil coins. Já Zalazar, da Liga Portugal com 84 rating, também subiu 20,5%, com 26% de probabilidade de alta e preço de 50 mil coins. Ambos indicam um possível topo imediato, sendo mais adequados para trades de curto prazo (flip) do que para investimentos de longo prazo, dada a incerteza da continuidade da tendência.
+Athenea, da Liga F, também merece atenção imediata. Com uma carta de 86 rating e um preço de 48 mil coins, ela segue a mesma trajetória de alta de 18,8% observada em Hadj-Moussa. A probabilidade de alta de 53% coloca-a em uma posição de equilíbrio, nem muito arriscada nem excessivamente segura. Para investidores que já possuem exposição a jogadores da Eredivisie ou da WSL, Athenea oferece uma correlação de mercado interessante, permitindo alavancar a tendência de valorização de ligas emergentes no cenário do EA FC.
 
-No segmento premium, Rivaldo e Paulo Futre oferecem estabilidade. Rivaldo, Icon de 90 rating, subiu 2,8% com 37% de probabilidade de alta a 100 mil coins, enquanto Futre, de 88 rating da LALIGA, subiu 15,7% com 33% de probabilidade a 31 mil coins. Futre, apesar de ser mais barato, não apresenta o mesmo momentum que os jogadores de ligas menores, mas sua liga oferece base de torcedores fiel. Rivaldo, por ser Icon, serve como reserva de valor, com risco de desvalorização menor, ideal para proteger o capital durante incertezas de mercado.
+Jens Petter Hauge, da Eliteserien, apresenta um caso curioso. Sua carta de 91 rating subiu 13,5% em 24 horas, atingindo 42 mil coins. Embora a probabilidade de alta seja de 48%, ligeiramente abaixo da linha de equilíbrio, o rating elevado e a liga específica podem atrair colecionadores de nicho. No entanto, a cautela é recomendada aqui, pois a probabilidade sugere que a tendência pode estar se estabilizando ou revertendo em breve, tornando-a uma aposta mais especulativa do que estratégica no curto prazo.
 
-Por fim, é crucial evitar Bradley Barcola e George Best para investimento especulativo imediato. Barcola, apesar de alta de 14,7% em 24 horas a 125 mil coins, possui probabilidade de alta de 0%, indicando saturação ou iminente queda. George Best, Icon de 90 rating, subiu 4,8% a 173 mil coins com 43% de probabilidade de alta, sendo uma opção muito cara para o risco assumido. Ivan Perišić, com 8,4% de alta e 32% de probabilidade a 29 mil coins, é uma opção neutra. A recomendação final prioriza Haraslín e Bobb para entrada, dado o equilíbrio entre preço, tendência e probabilidade de lucro.
+Finalmente, é crucial evitar cartas com alta volatilidade mas baixa probabilidade de continuidade, como Timo Werner (27,4% de alta, mas apenas 36% de probabilidade) ou Couhaib Driouech (24% de alta, 22% de probabilidade). Embora os números de curto prazo pareçam atraentes, a baixa probabilidade indica que esses movimentos são provavelmente bolhas efêmeras. Da mesma forma, Mohamed Salah, tanto na versão 89 quanto na 92, mostra sinais de estagnação relativa, com probabilidades de alta abaixo de 25%, indicando que não é o momento ideal para entrada nesse ativo específico.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jens Petter Hauge | 91 | Eliteserien | 42k coins | +12.8% | +74% | 48% |
-| Couhaib Driouech | 86 | Eredivisie | 68k coins | +20.5% | +35% | 22% |
-| Rivaldo | 90 | Icons | 100k coins | +2.8% | +33.3% | 37% |
-| Lukáš Haraslín | 89 | Česká Liga | 27k coins | +28.6% | +31.7% | 62% |
-| Bradley Barcola | 92 | — | 125k coins | +14.7% | +31.6% | 0% |
-| Rodrigo Zalazar | 84 | Liga Portugal | 50k coins | +20.5% | +25.8% | 26% |
-| Oscar Bobb | 88 | Premier League | 36k coins | +29.5% | +23.9% | 57% |
-| George Best | 90 | Icons | 173k coins | +4.8% | +15.3% | 43% |
-| Ivan Perišić | 86 | Eredivisie | 29k coins | +8.4% | +14.9% | 32% |
-| Paulo Futre | 88 | LALIGA EA SPORTS | 31k coins | +15.7% | +13.6% | 33% |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 136k coins | +4.2% | +13.6% | 17% |
-| Luís Figo | 89 | Icons | 84k coins | +12.8% | +12.8% | 33% |
-| Yan Diomande | 84 | Bundesliga | 53k coins | +5% | +11.6% | 28% |
-| Michelle Cooper | 87 | NWSL | 24k coins | +15.5% | +11.5% | 23% |
-| Jeremie Frimpong | 86 | Premier League | 200k coins | +10.5% | +11.1% | 12% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 95k coins | +18.8% | +82.7% | 57% |
+| Jens Petter Hauge | 91 | Eliteserien | 42k coins | +13.5% | +75% | 48% |
+| Lauren Hemp | 90 | Barclays WSL | 46k coins | +22.7% | +70.4% | 73% |
+| Athenea | 86 | Liga F | 48k coins | +18.8% | +59.7% | 53% |
+| Mohamed Salah | 89 | Premier League | 22k coins | +2.4% | +47.4% | 22% |
+| Timo Werner | 87 | Bundesliga | 50k coins | +27.4% | +42.9% | 36% |
+| Mohamed Salah | 92 | Premier League | 240k coins | +9.6% | +33.3% | 23% |
+| Couhaib Driouech | 86 | Eredivisie | 60k coins | +24% | +29% | 22% |
+| Gervinho | 85 | Serie A TIM | 30k coins | +23.6% | +26.4% | 60% |
+| Rodrigo Zalazar | 84 | Liga Portugal | 50k coins | +27.4% | +24.2% | 26% |
+| Jeremie Frimpong | 86 | Premier League | 210k coins | +2.4% | +16.7% | 12% |
+| George Best | 90 | Icons | 145k coins | +1.2% | +12.1% | 43% |
+| Naomie Feller | 88 | — | 55k coins | +7.4% | +11.1% | 25% |
+| Armand Laurienté | 86 | Serie A TIM | 45k coins | +27.7% | +9.8% | 15% |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 39k coins | +26.6% | +6.1% | 49% |
 
 
 ## 📈 Análise dos destaques
 
-- **Jens Petter Hauge (91)** — 42k coins, **+74% em 7 dias** (+12.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Anis Hadj-Moussa (86)** — 95k coins, **+82.7% em 7 dias** (+18.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Couhaib Driouech (86)** — 68k coins, **+35% em 7 dias** (+20.5% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jens Petter Hauge (91)** — 42k coins, **+75% em 7 dias** (+13.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Rivaldo (90)** — 100k coins, **+33.3% em 7 dias** (+2.8% em 24h). Preço +13% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Lauren Hemp (90)** — 46k coins, **+70.4% em 7 dias** (+22.7% em 24h). Preço em linha com a média de 7 dias (-1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Lukáš Haraslín (89)** — 27k coins, **+31.7% em 7 dias** (+28.6% em 24h). Preço +37% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Athenea (86)** — 48k coins, **+59.7% em 7 dias** (+18.8% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Bradley Barcola (92)** — 125k coins, **+31.6% em 7 dias** (+14.7% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Mohamed Salah (89)** — 22k coins, **+47.4% em 7 dias** (+2.4% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +90,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Jens Petter Hauge (91, Eliteserien) lidera, com +74% em 7 dias a 42k coins no PC, e o modelo dá 48% de chance de seguir subindo.
+Anis Hadj-Moussa (86, Eredivisie) lidera, com +82.7% em 7 dias a 95k coins no PC, e o modelo dá 57% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
