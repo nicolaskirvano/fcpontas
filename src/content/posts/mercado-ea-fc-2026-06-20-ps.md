@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T13:13:48.000Z
+pubDatetime: 2026-06-20T16:13:42.000Z
 title: "Pontas no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Rubén García (87, LALIGA EA SPORTS), com +48.8% em 24h, a 30k coins no Console (PS)."
+    a: "Mohamed Salah (92, Premier League), com +33.2% em 24h, a 260k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Rayan Cherki (93), -48.2% em 24h, a 56k coins."
+    a: "Rayan Cherki (93), -44.5% em 24h, a 70k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 57k coins."
+    a: "Pelo modelo FutQuant, Mohamed Salah (92) — 95% de probabilidade de alta, a 260k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 23 cartas em alta contra 112 em queda (média -16.97%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 120 em queda (média -15.98%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O cenário do mercado de Pontas em Console para o dia 20 de junho de 2026 apresenta uma dominância absoluta das quedas, com um balanço desfavorável de 112 quedas contra apenas 23 altas, resultando em uma média de desvalorização de -16.97% nas últimas 24 horas. Esse ambiente de baixa generalizada exige uma análise extremamente criteriosa, pois a maioria dos ativos está sendo liquidada agressivamente, criando oportunidades de compra seletiva em ativos resilientes enquanto a maioria dos traders busca realizar perdas ou lucros rápidos em um mercado em colapso. A volatilidade é alta, mas a direção é claramente de venda, o que significa que qualquer decisão de compra deve ser baseada em fundamentos sólidos de demanda futura e não apenas em impulsos de curto prazo, já que o sentimento do mercado é predominantemente negativo e pode pressionar ainda mais os preços para baixo. Neste contexto, a atenção deve ser voltada para os poucos ativos que conseguiram se manter resilientes ou até subir, como Mohamed Salah e Wilson Odobert, que demonstram força relativa em meio ao caos, enquanto a maioria dos jogadores, especialmente os de ligas secundárias ou com demanda cíclica baixa, enfrentam quedas acentuadas que refletem a falta de interesse dos usuários. O trader experiente deve usar este momento de pânico para identificar oportunidades de compra em ativos de alta probabilidade de alta futura, evitando armadilhas de valor em ativos que continuam caindo sem suporte claro.
+O mercado de pontas no console apresenta hoje uma dinâmica extremamente hostil para especuladores de curto prazo, caracterizada por um sentimento de venda massiva que inundou a plataforma com ofertas excessivas em praticamente todos os segmentos de preço. Com uma proporção esmagadora de 120 quedas contra apenas 20 altas registradas nas últimas 24 horas, a média geral do segmento despenhou para -15.98%, sinalizando que a liquidez está sendo drenada rapidamente dos ativos mais voláteis e populares. Este cenário de 'dump' generalizado exige uma leitura técnica apurada, pois a maioria dos jogadores que normalmente mantêm valor está sofrendo pressão de venda indiscriminada, criando oportunidades de compra apenas para quem possui capital suficiente para absorver a queda sem entrar em pânico. O trader experiente reconhece que, em momentos de tanto pessimismo, as oportunidades de lucro não estão nas compras em alta, mas sim na identificação de ativos que estão sendo vendidos abaixo de seu valor fundamental devido a erros de percepção de mercado ou falta de demanda imediata. Portanto, a estratégia do dia deve focar em ignorar o ruído das quedas generalizadas e concentrar recursos nos poucos ativos que demonstram resiliência ou potencial de recompra, evitando-se completamente a tentação de tentar adivinhar o fundo das quedas mais acentuadas.
 
-> 🟢 **Maior alta:** Rubén García (87) **+48.8%** · 🔴 **Maior baixa:** Rayan Cherki (93) **-48.2%**
+> 🟢 **Maior alta:** Mohamed Salah (92) **+33.2%** · 🔴 **Maior baixa:** Rayan Cherki (93) **-44.5%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rubén García | 87 | LALIGA EA SPORTS | 30k coins | +48.8% | -13.8% |
-| Mohamed Salah | 92 | Premier League | 260k coins | +44.4% | +74.5% |
-| Oliver Burke | 80 | Bundesliga | 44k coins | +25.7% | -7.4% |
-| Wilson Odobert | 87 | Premier League | 42k coins | +23.6% | +10.6% |
-| Anass Zaroury | 86 | Hellas Liga | 64k coins | +22.6% | +87.1% |
-| Jerzy Dudek | 87 | Premier League | 42k coins | +17% | -12.2% |
-| Alejandro Garnacho | 89 | Premier League | 147k coins | +14.4% | +25.2% |
-| Florian Thauvin | 83 | Ligue 1 McDonald's | 48k coins | +13.4% | -2% |
-| Raphinha | 91 | LALIGA EA SPORTS | 220k coins | +10% | +15.8% |
-| Gervinho | 85 | Serie A TIM | 58k coins | +9% | +84.7% |
+| Mohamed Salah | 92 | Premier League | 260k coins | +33.2% | +64.4% |
+| Ivan Perišić | 86 | Eredivisie | 34k coins | +31.7% | +50.5% |
+| Gervinho | 85 | Serie A TIM | 50k coins | +30.4% | +74.6% |
+| George Best | 91 | Icons | 237k coins | +26.6% | +16.1% |
+| Florian Thauvin | 83 | Ligue 1 McDonald's | 49k coins | +23.1% | -3.4% |
+| Quaresma | 85 | Liga Portugal | 64k coins | +15.6% | -8.7% |
+| Linda Caicedo | 87 | Liga F | 45k coins | +14% | +21.4% |
+| Quaresma | 88 | Trendyol Süper Lig | 137k coins | +13.6% | +18.3% |
+| Alejandro Garnacho | 89 | Premier League | 158k coins | +12.9% | +23.6% |
+| Salma Paralluelo | 86 | Liga F | 462k coins | +9.2% | +22.5% |
 
 
-Entre as poucas altas destacadas, Mohamed Salah (92, Premier League) lidera com uma impressionante alta de 44.4% em 24 horas, atingindo 260k coins, impulsionado por uma probabilidade de alta de 95% que sinaliza forte demanda institucional e de meta. Rubén García (87, LALIGA EA SPORTS) surpreendeu com uma alta de 48.8% para 30k coins, apesar de uma probabilidade de alta de apenas 23%, o que pode indicar um movimento especulativo de curto prazo ou uma correção técnica em um ativo de baixo capital. Oliver Burke (80, Bundesliga) subiu 25.7% para 44k coins com 50% de probabilidade de alta, sugerindo uma estabilização em meio à volatilidade da Bundesliga, enquanto Wilson Odobert (87, Premier League) registrou 23.6% de alta para 42k coins, apoiado por uma probabilidade de alta de 95% que o torna um ativo confiável para swing trades. Anass Zaroury (86, Hellas Liga) completou o top 5 com 22.6% de alta para 64k coins, também com 95% de probabilidade de alta, indicando uma tendência consistente de valorização em um mercado de nicho. Esses movimentos mostram que, mesmo em um mercado de baixa, ativos com alta probabilidade de alta e liga forte tendem a se preservar ou se valorizar, enquanto ativos de menor capital podem sofrer movimentos erráticos sem fundamento de longo prazo.
+Dentro deste mar vermelho de quedas, Mohamed Salah (92, Premier League) destaca-se como o ativo mais forte, registrando uma alta de 33.2% em 24 horas e atingindo 260k coins, com uma probabilidade de alta futura de 95% que sugere forte recompra institucional ou uso em squads competitivos. Ivan Perišić (86, Eredivisie) também se firmou como uma excelente oportunidade de baixo risco, subindo 31.7% para 34k coins com 95% de probabilidade de alta, indicando que o mercado reconheceu seu valor subestimado em relação aos seus atributos técnicos e velocidade. Gervinho (85, Serie A TIM) completou o trio de altas expressivas com um aumento de 30.4% para 50k coins, também com 95% de probabilidade de alta, o que confirma uma tendência de reposição de estoques por traders que visam kits de promoções ou metas específicas. George Best (91, Icons) apresentou uma alta mais moderada de 26.6% para 237k coins, mas com uma probabilidade de alta de apenas 38%, o que alerta para uma possível exaustão de compradores neste nível de preço, exigindo cautela antes de novas entradas. Florian Thauvin (83, Ligue 1 McDonald's) subiu 23.1% para 49k coins com 60% de probabilidade de alta, mostrando que pontas de nível 83 ainda têm demanda, embora menos consistente que os itens de maior raridade ou utilidade rotativa.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rayan Cherki | 93 | — | 56k coins | -48.2% | -46.2% |
-| Nico Williams | 93 | LALIGA EA SPORTS | 360k coins | -46.2% | -37.8% |
-| Lauren Hemp | 90 | Barclays WSL | 21k coins | -45% | -12% |
-| Lionel Messi | 88 | MLS | 419k coins | -43.7% | -23.4% |
-| Athenea | 95 | — | 50k coins | -41.7% | -46.2% |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 50k coins | -41.5% | -25.9% |
-| Kadidiatou Diani | 91 | D1 Arkema | 54k coins | -40.4% | -39.4% |
-| Ousmane Dembélé | 86 | Ligue 1 McDonald's | 33k coins | -40% | -39.4% |
-| Paulo Futre | 92 | Liga Portugal | 52k coins | -39.7% | -31.4% |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 41k coins | -39.6% | -45.3% |
+| Rayan Cherki | 93 | — | 70k coins | -44.5% | -42.4% |
+| Ousmane Dembélé | 86 | Ligue 1 McDonald's | 27k coins | -44% | -44.5% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 139k coins | -43.1% | -44.3% |
+| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 54k coins | -42.9% | -52.1% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 406k coins | -41.2% | -29.7% |
+| Antony | 86 | LALIGA EA SPORTS | 39k coins | -40.2% | -49.3% |
+| Jairzinho | 89 | Icons | 248k coins | -39.5% | -44.9% |
+| Lionel Messi | 88 | MLS | 347k coins | -38.9% | -18.2% |
+| Denis Bouanga | 95 | — | 58k coins | -37.6% | -49.6% |
+| Yan Diomande | 92 | — | 24k coins | -36.8% | -42.5% |
 
 
-As quedas foram massivas, com Rayan Cherki (93, s/liga) despencando 48.2% para 56k coins, refletindo a extrema volatilidade de ativos sem liga definida e com probabilidade de alta de apenas 5%, o que os torna altamente arriscados. Nico Williams (93, LALIGA EA SPORTS) caiu 46.2% para 360k coins, uma queda significativa mesmo com 33% de probabilidade de alta, sugerindo uma correção de preço após alta anterior ou falta de demanda sustentada em um ativo de alto capital. Lauren Hemp (90, Barclays WSL) registrou queda de 45% para 21k coins, com 44% de probabilidade de alta, indicando que ativos de ligas femininas podem sofrer liquidações rápidas em dias de baixa geral do mercado. Lionel Messi (88, MLS) caiu 43.7% para 419k coins, uma queda brutal para um ícone, mas com apenas 16% de probabilidade de alta, o que confirma que mesmo nomes grandes não estão imunes a vendas em massa quando o sentimento é negativo. Athenea (95, s/liga) caiu 41.7% para 50k coins, reforçando o risco de ativos sem liga e com probabilidade de alta baixa (16%), enquanto Bradley Barcola (90, Ligue 1 McDonald's) caiu 41.5% para 50k coins, apesar de ter 42% de probabilidade de alta, mostrando que a pressão de venda pode superar expectativas de curto prazo. Essas quedas destacam a importância de evitar ativos com baixa probabilidade de alta e alta volatilidade em dias de mercado negativo.
+Do lado oposto, Rayan Cherki (93, s/liga) sofreu a maior queda absoluta de -44.5% para 70k coins, com probabilidade de alta de apenas 5%, o que indica uma falta total de interesse do mercado e um risco extremo de perda de capital para quem segurar o ativo sem um plano de saída imediato. Ousmane Dembélé (86, Ligue 1 McDonald's) caiu 44% para 27k coins, mas mantém uma probabilidade de alta de 63%, sugerindo que a venda pode ter sido exagerada por pânico e que há potencial para uma correção técnica rápida se a demanda por pontas francesas aumentar. Désiré Doué (87, Ligue 1 McDonald's) desceu 43.1% para 139k coins com 46% de probabilidade de alta, representando uma zona de incerteza onde o suporte pode ou não segurar, dependendo da atividade de eventos futuros da liga francesa. Allan Saint-Maximin (92, Ligue 1 McDonald's) caiu 42.9% para 54k coins com apenas 18% de probabilidade de alta, configurando um ativo 'pesado' que deve ser evitado a todo custo, pois a falta de compradores indica uma desvalorização estrutural no curto prazo. Nico Williams (93, LALIGA EA SPORTS) perdeu 41.2% para 406k coins, com 33% de probabilidade de alta, mostrando que mesmo ativos de alto valor estão sujeitos a correções severas quando a demanda de squads de elite diminui temporariamente.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -74,17 +74,17 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Bradley Barcola | 87 | 57k coins | 77k coins | 95% |
-| Anass Zaroury | 86 | 64k coins | 81k coins | 95% |
-| Garrincha | 92 | 149k coins | 177k coins | 95% |
-| Jeremie Frimpong | 86 | 122k coins | 150k coins | 95% |
-| Antonio Di Natale | 89 | 142k coins | 177k coins | 95% |
-| Timo Werner | 87 | 49k coins | 61k coins | 95% |
 | Mohamed Salah | 92 | 260k coins | 299k coins | 95% |
-| Raphinha | 91 | 116k coins | 134k coins | 95% |
+| Sandy Baltimore | 87 | 32k coins | 37k coins | 95% |
+| Saeed Al Owairan | 85 | 55k coins | 65k coins | 95% |
+| Jeremie Frimpong | 86 | 90k coins | 112k coins | 95% |
+| Timo Werner | 87 | 50k coins | 62k coins | 95% |
+| Quaresma | 88 | 137k coins | 169k coins | 95% |
+| Garrincha | 92 | 145k coins | 172k coins | 95% |
+| Bradley Barcola | 87 | 53k coins | 71k coins | 95% |
 
 
-O modelo projeta altas significativas para Bradley Barcola (87, Ligue 1 McDonald's) a 57k coins com 95% de probabilidade, apesar da queda recente de 41.5%, sugerindo uma oportunidade de compra na queda. Anass Zaroury (86, Hellas Liga) a 64k coins também tem 95% de probabilidade de alta, confirmando a tendência de valorização observada nas últimas 24 horas. Garrincha (92, Icons) a 149k coins, Jeremie Frimpong (86, Premier League) a 122k coins e Antonio Di Natale (89, Serie A TIM) a 142k coins, todos com 95% de probabilidade de alta, representam ativos de médio e alto capital com forte potencial de valorização em um mercado de baixa. Timo Werner (87, Bundesliga) a 49k coins, Mohamed Salah (92, Premier League) a 260k coins e Raphinha (91, LALIGA EA SPORTS) a 116k coins, todos com 95% de probabilidade de alta, completam a lista de ativos recomendados para compra, indicando que o modelo identifica uma divergência entre o preço atual e o valor futuro esperado, especialmente em ativos de Premier League e Icons.
+O modelo de previsão indica alta probabilidade de valorização para Mohamed Salah (92, Premier League) a 260k coins, Sandy Baltimore (87, Barclays WSL) a 32k coins, Saeed Al Owairan (85, ROSHN Saudi League) a 55k coins, Jeremie Frimpong (86, Premier League) a 90k coins, Timo Werner (87, Bundesliga) a 50k coins, Quaresma (88, Trendyol Süper Lig) a 137k coins, Garrincha (92, Icons) a 145k coins e Bradley Barcola (87, Ligue 1 McDonald's) a 53k coins.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -93,18 +93,18 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
+| Florian Thauvin | 87 | 35k coins | -15.6% |
+| Joe Cole | 88 | 156k coins | -21.4% |
+| Rayan Cherki | 93 | 70k coins | -16.7% |
+| Bradley Barcola | 92 | 56k coins | -17.3% |
+| Tabitha Chawinga | 91 | 97k coins | -15.7% |
+| Paulo Futre | 92 | 55k coins | -15.6% |
 | Gustav Isaksen | 87 | 32k coins | -17.3% |
-| Paulo Futre | 92 | 52k coins | -15.6% |
-| Bradley Barcola | 92 | 63k coins | -17.3% |
-| Juan Iturbe | 85 | 33k coins | -15.6% |
-| Rayan Cherki | 93 | 56k coins | -16.7% |
-| Tabitha Chawinga | 91 | 98k coins | -15.7% |
-| Andrei Cordea | 83 | 30k coins | -15.6% |
-| Joe Cole | 88 | 139k coins | -21.4% |
+| Ivan Perišić | 90 | 22k coins | -29.1% |
 
 
 ## 🎯 A estratégia do dia
-A estratégia para hoje deve focar em comprar ativos com alta probabilidade de alta (95%) que estejam em queda ou estáveis, como Bradley Barcola, Anass Zaroury e Mohamed Salah, aproveitando a liquidez excessiva do mercado para entrar a preços descontados. Deve-se evitar completamente ativos com baixa probabilidade de alta e sem liga definida, como Rayan Cherki e Athenea, que apresentam quedas severas e riscos elevados de perda adicional. Jogadores como Nico Williams e Lionel Messi, apesar de serem nomes grandes, devem ser evitados para compra imediata devido às quedas acentuadas e baixa probabilidade de alta no curto prazo, a menos que haja uma reversão clara de tendência. O trader deve manter uma carteira leve, focando em ativos de médio e baixo capital com alta probabilidade de alta, como Wilson Odobert e Oliver Burke, que oferecem melhor relação risco-retorno em um ambiente de mercado negativo. A paciência é crucial, pois o mercado em baixa tende a gerar oportunidades de compra em ativos resilientes, mas também pode esconder armadilhas em ativos que parecem baratos mas não têm suporte fundamental para recuperação.
+A estratégia recomendada para hoje é comprar agressivamente ativos com alta probabilidade de recompra e valorização, focando principalmente em Mohamed Salah, Sandy Baltimore, Saeed Al Owairan, Jeremie Frimpong, Timo Werner, Quaresma, Garrincha e Bradley Barcola, que apresentam probabilidade de alta de 95% e preços ajustados para recompra imediata. Deve-se evitar completamente a compra de ativos em queda livre como Rayan Cherki e Allan Saint-Maximin, pois a falta de compradores e a baixa probabilidade de alta tornam a manutenção desses itens um risco desnecessário para o capital do trader. Jogadores como Ivan Perišić e Gervinho podem ser mantidos em carteira com alvos de lucro rápido, dada a força da alta recente e a probabilidade sustentada de continuação da tendência de valorização. Para ativos como Ousmane Dembélé e Désiré Doué, a recomendação é esperar confirmação de suporte antes de entrar, pois a queda recente foi severa e a probabilidade de alta ainda é moderada, exigindo paciência e análise gráfica adicional. O timing ideal para executar essas operações é nas primeiras horas de pico de atividade, quando a liquidez é maior e a execução das ordens de compra e venda é mais eficiente, minimizando o impacto das flutuações intradiárias no resultado final do trading.
 
 
 ## 🧪 De onde vêm estes números
@@ -114,16 +114,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Rubén García (87, LALIGA EA SPORTS), com +48.8% em 24h, a 30k coins no Console (PS).
+Mohamed Salah (92, Premier League), com +33.2% em 24h, a 260k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Rayan Cherki (93), -48.2% em 24h, a 56k coins.
+Rayan Cherki (93), -44.5% em 24h, a 70k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 57k coins.
+Pelo modelo FutQuant, Mohamed Salah (92) — 95% de probabilidade de alta, a 260k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 23 cartas em alta contra 112 em queda (média -16.97%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 120 em queda (média -15.98%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
