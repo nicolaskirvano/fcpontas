@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T10:14:22.000Z
+pubDatetime: 2026-06-20T13:14:14.000Z
 title: "Jogadores baratos de Pontas no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,10 +29,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Edmilson Junior | 92 | LW | — | 13k coins | -5.7% |
-| Kerem Aktürkoğlu | 91 | LW | — | 13k coins | -1.9% |
-| Lionel Messi | 86 | RW | MLS | 3k coins | +127.3% |
-| Rafael Leão | 84 | LW | Serie A Enilive | 2k coins | +15.4% |
+| Edmilson Junior | 92 | LW | — | 13k coins | 0% |
+| Kerem Aktürkoğlu | 91 | LW | — | 13k coins | +1.9% |
+| Lionel Messi | 88 | RW | MLS | 3k coins | +160% |
+| Oscar Bobb | 85 | RW | Premier League | 14k coins | -20.5% |
 
 
 ## 📈 Destaques
@@ -41,9 +41,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Kerem Aktürkoğlu (91, LW)** da —, a apenas **13k coins**
 
-- **Lionel Messi (86, RW)** da MLS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Lionel Messi (88, RW)** da MLS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Rafael Leão (84, LW)** da Serie A Enilive, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Oscar Bobb (85, RW)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
