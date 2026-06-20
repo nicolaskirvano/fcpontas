@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:14:47.000Z
+pubDatetime: 2026-06-20T19:14:57.000Z
 title: "Pontas no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,70 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Rubén García (87, LALIGA EA SPORTS), com +56% em 24h, a 39k coins no PC."
+    a: "Gabriel Pec (81, MLS), com +59.5% em 24h, a 50k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Juan Iturbe (85), -49.2% em 24h, a 22k coins."
+    a: "Armand Laurienté (86), -43.3% em 24h, a 26k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 42 cartas em alta contra 94 em queda (média -9.38%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 47 cartas em alta contra 95 em queda (média -3.82%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de EA FC Ultimate Team para o segmento de pontas em 20 de junho de 2026 apresenta um cenário de extrema cautela e desvalorização generalizada, com o sentimento predominante claramente inclinado para a baixa. Os dados indicam uma assimetria brutal entre as movimentações, onde 94 jogadores sofreram quedas de preço contra apenas 42 que conseguiram registrar altas, resultando em uma média negativa avariada de -9.38% em um período de 24 horas. Este contexto de venda massiva sugere que a liquidez está sendo drenada do mercado por jogadores que priorizam a realização de lucros ou a troca de ativos, criando uma oportunidade de compra seletiva, mas exigindo disciplina férrea para não ser atingido por quedas generalizadas. A predominância das quedas indica que a maioria dos ativos está sobreavaliada ou que o interesse das comunidades diminuiu, tornando o timing de compra crítico para traders que buscam valor intrínseco em momentos de pânico. É fundamental analisar cada movimento individualmente, pois mesmo em um mar de vermelhos, existem oportunidades específicas onde a probabilidade de alta ainda é estatisticamente relevante.
+O cenário de mercado para o segmento de Pontas no dia 20 de junho de 2026 apresenta uma volatilidade acentuada com um viés claramente bearish, evidenciado pela predominância das quedas em relação às altas, com 95 jogadores em queda contra apenas 47 em alta, resultando em uma média de desvalorização de -3.82% nas últimas 24 horas. Este ambiente hostil para traders de curto prazo exige extrema cautela, pois a liquidez está concentrada em poucos ativos que resistem à pressão vendedora geral, enquanto a maioria dos cards sofre erosão de valor devido à falta de demanda orgânica ou à saída de especuladores de posições de alta alavancagem. A probabilidade de alta estatística está diluída, o que significa que operar a favor do fluxo majoritário, ou seja, vendendo em topos ou segurando posições de longo prazo, parece ser a estratégia mais robusta para mitigar perdas nesta sessão específica. O trader experiente deve observar que, embora haja oportunidades de compra em ativos descontados, a confirmação de fundo ainda não se materializou, mantendo o risco de novas quedas significativo para quem busca ganhos rápidos de dia. Portanto, a análise de hoje foca em identificar os poucos ativos que quebraram essa tendência negativa e aqueles que estão em queda livre, oferecendo uma visão clara sobre onde o capital está fluindo e onde ele está sendo retirado do mercado.
 
-> 🟢 **Maior alta:** Rubén García (87) **+56%** · 🔴 **Maior baixa:** Juan Iturbe (85) **-49.2%**
+> 🟢 **Maior alta:** Gabriel Pec (81) **+59.5%** · 🔴 **Maior baixa:** Armand Laurienté (86) **-43.3%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rubén García | 87 | LALIGA EA SPORTS | 39k coins | +56% | +34.5% |
-| Couhaib Driouech | 86 | Eredivisie | 95k coins | +43.9% | +28.4% |
-| Alejandro Garnacho | 89 | Premier League | 282k coins | +41% | -5.1% |
-| Anis Hadj-Moussa | 86 | Eredivisie | 95k coins | +37.7% | 0% |
-| Harvey Barnes | 84 | Premier League | 37k coins | +31% | -1.3% |
-| George Best | 91 | Icons | 250k coins | +26.4% | +44.2% |
-| Saeed Al Owairan | 85 | ROSHN Saudi League | 70k coins | +26.1% | 0% |
-| Quaresma | 88 | Trendyol Süper Lig | 250k coins | +25.6% | -2.7% |
-| Mary Fowler | 87 | Barclays Women’s Super League | 28k coins | +21.3% | -28.7% |
-| Mohamed Salah | 89 | Premier League | 24k coins | +18.8% | +61% |
+| Gabriel Pec | 81 | MLS | 50k coins | +59.5% | +11.4% |
+| Rubén García | 87 | LALIGA EA SPORTS | 42k coins | +53% | +39.1% |
+| Marco Asensio | 85 | Trendyol Süper Lig | 26k coins | +50.7% | +20.2% |
+| Rodrygo | 89 | LALIGA EA SPORTS | 844k coins | +43.6% | +10.5% |
+| Saeed Al Owairan | 85 | ROSHN Saudi League | 54k coins | +37.5% | -21.4% |
+| Zizo | 94 | — | 108k coins | +37% | +187.8% |
+| Paulo Futre | 92 | Liga Portugal | 110k coins | +36.6% | -18.5% |
+| Johan Bakayoko | 88 | Bundesliga | 34k coins | +33.6% | +5.8% |
+| Anthony Gordon | 88 | Premier League | 450k coins | +32% | -10% |
+| Antony | 91 | LALIGA EA SPORTS | 210k coins | +30.7% | +14.4% |
 
 
-Dentro deste mar de quedas, destacam-se algumas exceções notáveis lideradas por Rubén García, cuja carta de 87 rating na LaLiga EA Sports subiu impressionantes 56% em 24 horas, atingindo um preço de 39k coins com uma probabilidade de alta de 58%, indicando forte demanda sustentada. Couhaib Driouech, da Eredivisie, registrou uma alta de 43.9% chegando a 95k coins, embora sua probabilidade de alta seja de apenas 22%, sugerindo que este movimento pode ser especulativo e de curto prazo, requerendo atenção aos sinais de reversão. Alejandro Garnacho, ídolo da Premier League com 89 rating, valorizou 41% para 282k coins, com uma probabilidade de alta robusta de 55%, o que consolida sua posição como ativo de alta confiança para investimento em meio à volatilidade. Anis Hadj-Moussa, também da Eredivisie, subiu 37.7% para 95k coins com probabilidade de alta de 57%, demonstrando que o mercado holandês continua a ser uma fonte de oportunidades de crescimento consistente para carteiras diversificadas. Harvey Barnes, com 84 rating na Premier League, apresentou alta de 31% para 37k coins e probabilidade de 47%, enquanto George Best, o icônico 91 rating, subiu 26.4% para 250k coins com probabilidade similar de 47%, mostrando que ícones mantêm certa resiliência. Saeed Al Owairan (85, Roshn Saudi League) subiu 26.1% para 70k coins com a maior probabilidade de alta do grupo em 63%, e Quaresma (88, Trendyol Süper Lig) ganhou 25.6% para 250k coins, embora com probabilidade mais baixa de 35%.
+Entre os poucos ativos que conseguiram se destacar positivamente, o Gabriel Pec (81, MLS) lidera com uma alta impressionante de 59.5% em 24h, atingindo os 50k coins, impulsionado por uma probabilidade de alta de 49% que sugere uma entrada de capital especulativo buscando valorização rápida em ligas menores. Logo atrás, Rubén García (87, LALIGA EA SPORTS) subiu 53% para 42k coins, com uma probabilidade de alta de 58%, indicando que o mercado está prestando atenção à sua utilidade em squads de nível médio-alto onde o custo-benefício é atrativo. Marco Asensio (85, Trendyol Süper Lig) também registrou movimento positivo com 50.7% de alta, valendo 26k coins, embora sua probabilidade de alta de 40% indique que este movimento pode ser mais volátil e menos sustentável do que o de seus pares. Em termos de ativos premium, Rodrygo (89, LALIGA EA SPORTS) é a notícia principal, subindo 43.6% para 844k coins, mas a baixa probabilidade de alta de 14% alerta traders para uma possível correção iminente, sugerindo que a alta foi mais fruto de compra para uso em squads do que de especulação pura. Por fim, Saeed Al Owairan (85, ROSHN Saudi League) e Paulo Futre (92, Liga Portugal) completam o quadro de altas com 37.5% e 36.6% respectivamente, valendo 54k e 110k coins, onde a alta probabilidade de alta do Al Owairan (63%) contrasta com a incerteza do Futre (42%), criando um cenário de divergência interessante para arbitragem de curto prazo.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Juan Iturbe | 85 | Libertadores | 22k coins | -49.2% | -17.3% |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 90k coins | -42.9% | -36.6% |
-| Claudia Pina | 97 | — | 1.70M coins | -42.9% | -51.5% |
-| Florian Thauvin | 96 | — | 66k coins | -40% | -40% |
-| Denis Bouanga | 95 | — | 86k coins | -39.6% | -21.5% |
-| Antony | 86 | LALIGA EA SPORTS | 48k coins | -38.6% | -45.6% |
-| Raphinha | 93 | — | 96k coins | -36.6% | -39.4% |
-| Rivaldo | 91 | Icons | 86k coins | -35.7% | -11.1% |
-| Rodrigo Zalazar | 84 | Liga Portugal | 32k coins | -35% | -18.2% |
-| Léo Scienza | 95 | — | 20k coins | -33.8% | -40.5% |
+| Armand Laurienté | 86 | Serie A TIM | 26k coins | -43.3% | -12.1% |
+| Salma Paralluelo | 93 | Liga F | 759k coins | -40% | -37.9% |
+| Rodrigo Zalazar | 84 | Liga Portugal | 31k coins | -38% | -20.5% |
+| Gareth Bale | 88 | Icons | 999k coins | -37.7% | -47.9% |
+| Wilson Odobert | 87 | Premier League | 34k coins | -37.3% | -6.8% |
+| Antony | 86 | LALIGA EA SPORTS | 46k coins | -35.1% | -42.1% |
+| Khvicha Kvaratskhelia | 88 | Ligue 1 McDonald's | 660k coins | -29.9% | +12.1% |
+| Claudia Pina | 95 | Liga F | 1.07M coins | -28.4% | -29.9% |
+| Naomie Feller | 88 | — | 56k coins | -27.5% | 0% |
+| Salma Paralluelo | 86 | Liga F | 600k coins | -25.7% | -32.2% |
 
 
-As quedas, por outro lado, são severas e abrangem diversos níveis de mercado, com Juan Iturbe (85, Libertadores) despencando 49.2% para 22k coins, uma queda brutal apesar de manter probabilidade de alta de 60%, o que pode indicar uma oportunidade de compra de desconto se a tendência se estabilizar. Allan Saint-Maximin (92, Ligue 1 McDonald's) caiu 42.9% para 90k coins com probabilidade de alta baixa de 17%, sinalizando risco elevado e falta de interesse comprador imediato para este ativo de alto rating. Claudia Pina (97, sem liga) perdeu 42.9% para 1.70M coins com probabilidade de alta zero, indicando que o topo do mercado de luxo está sendo abandonado por investidores que buscam liquidez rápida em ativos de alto valor. Florian Thauvin (96, sem liga) também caiu 40% para 66k coins com probabilidade de alta zero, reforçando a tese de que cartas sem liga atual ou com baixa utilidade competitiva estão sendo desvalorizadas agressivamente. Denis Bouanga (95, sem liga) recuou 39.6% para 86k coins com probabilidade de alta de 27%, enquanto Antony (86, LaLiga EA Sports) caiu 38.6% para 48k coins, mostrando que mesmo jogadores de ligas principais não estão imunes à pressão de venda generalizada. Raphinha (93, sem liga) despencou 36.6% para 96k coins com probabilidade de alta zero, e Rivaldo (91, Icons) perdeu 35.7% para 86k coins, demonstrando que até ícones podem sofrer correções significativas quando o sentimento de mercado é predominantemente negativo.
+A outra face da moeda mostra uma sangria significativa em valores, liderada por Armand Laurienté (86, Serie A TIM) que despencou 43.3% para 26k coins, com uma probabilidade de alta de apenas 15%, sinalizando que o mercado perdeu completamente o interesse no ativo a curto prazo e que não há suporte técnico imediato. Salma Paralluelo (93, Liga F) sofreu uma queda de 40%, atingindo 759k coins, e apesar de ter uma probabilidade de alta de 39%, a magnitude da queda sugere uma correção de preços após um pico de hype, tornando-o um ativo de risco elevado para compras imediatas. Rodrigo Zalazar (84, Liga Portugal) caiu 38% para 31k coins, com probabilidade de alta de 26%, refletindo a instabilidade crônica de jogadores de ligas secundárias que não possuem rotatividade constante em packs ou promoções. O ícone Gareth Bale (88, Icons) também não escapou, caindo 37.7% para 999k coins, com probabilidade de alta de 20%, o que indica que até mesmo ativos de status simbólico estão sofrendo pressão vendedora em momentos de baixa liquidez global. Wilson Odobert (87, Premier League) e Antony (86, LALIGA EA SPORTS) completam as piores performances com quedas de 37.3% e 35.1% respectivamente, valendo 34k e 46k coins, onde a alta probabilidade de alta do Antony (44%) pode ser um sinal de compra de fundo, enquanto o Odobert (30%) permanece em zona de incerteza perigosa para traders conservadores.
+
+
+## ⚠️ Alerta de queda projetada
+
+Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes de comprar:
+
+| Jogador | OVR | Preço atual | Variação prevista |
+| --- | --- | --- | --- |
+| Mikel Gogorza | 86 | 65k coins | -14.4% |
 
 
 ## 🎯 A estratégia do dia
-Diante deste cenário de alta volatilidade e tendência de baixa, a estratégia do dia deve ser extremamente seletiva, focando na compra de ativos com probabilidade de alta superior a 50% que estejam em correção temporária ou em ascensão sustentada. Recomenda-se fortemente evitar a compra de ativos como Claudia Pina, Florian Thauvin e Raphinha, que apresentam probabilidade de alta zero e quedas acentuadas, pois o risco de perda adicional é significativo sem sinais claros de reversão. Por outro lado, Rubén García e Alejandro Garnacho apresentam perfis mais seguros para entrada, dada a combinação de alta recente com probabilidades de continuidade de 58% e 55% respectivamente, sugerindo momentum positivo mesmo em um mercado hostil. Investidores mais agressivos podem considerar Saeed Al Owairan, dado seu preço de 70k coins e a mais alta probabilidade de alta do grupo em 63%, como uma alavancagem potencial de baixo custo. É crucial manter uma reserva de moedas considerável para explorar oportunidades de compra em ativos de médio porte que possam sofrer quedas técnicas temporárias, como Allan Saint-Maximin, mas apenas com ordens limitadas bem abaixo do preço atual de 90k coins. O momento ideal para compra é no final do ciclo de 24 horas, quando a pressão de venda tende a diminuir, permitindo adquirir ativos como Harvey Barnes a preços mais favoráveis antes de uma possível correção para cima.
+Diante deste cenário de mercado em baixa com média de -3.82%, a estratégia recomendada é evitar operações de alavancagem em ativos de alta volatilidade como Rodrygo e Gareth Bale, cujas altas recentes parecem ser compras para uso e não especulativas, podendo sofrer correções bruscas. Traders agressivos podem considerar a compra de Saeed Al Owairan e Rubén García, dada a alta probabilidade de alta (63% e 58% respectivamente) e o potencial de revenda rápida se o momentum se sustentar nas próximas horas, mas com stop-loss rigoroso. Para a maioria, o foco deve ser na espera: observar se ativos como Salma Paralluelo e Claudia Pina, que estão em quedas profundas (-40% e -28.4%), encontram um piso de preço antes de qualquer tentativa de compra, pois a probabilidade de alta de 39% para ambos sugere instabilidade. É crucial manter a maioria do capital em moeda forte ou em ativos estáveis de alta liquidez, pois a predominância de quedas (95 contra 47) indica que o vento está soprando a favor dos vendedores. Em resumo, não force entradas em ativos em queda livre como Laurienté e Zalazar, e seja extremamente seletivo com as compras em ativos que subiram, priorizando aqueles com fundamentos de probabilidade estatística favorável para evitar ficar com posições que se desvalorizam assim que o hype inicial se dissipa.
 
 
 ## 🧪 De onde vêm estes números
@@ -77,13 +86,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Rubén García (87, LALIGA EA SPORTS), com +56% em 24h, a 39k coins no PC.
+Gabriel Pec (81, MLS), com +59.5% em 24h, a 50k coins no PC.
 
 **E a maior queda do dia?**  
-Juan Iturbe (85), -49.2% em 24h, a 22k coins.
+Armand Laurienté (86), -43.3% em 24h, a 26k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 42 cartas em alta contra 94 em queda (média -9.38%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 47 cartas em alta contra 95 em queda (média -3.82%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
