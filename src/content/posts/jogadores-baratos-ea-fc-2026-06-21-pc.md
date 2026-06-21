@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-21T13:13:10.000Z
+pubDatetime: 2026-06-21T16:13:09.000Z
 title: "Jogadores baratos de Pontas no EA FC (21/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,18 +29,18 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bartosz Nowak | 93 | LW | — | 12k coins | -65% |
-| Mika Godts | 93 | LW | — | 12k coins | -68.4% |
+| Bartosz Nowak | 93 | LW | — | 12k coins | -65.8% |
+| Mika Godts | 93 | LW | — | 12k coins | -70.1% |
 | Ernest Muçi | 92 | LW | — | 12k coins | -66.4% |
-| Edmilson Junior | 92 | LW | — | 13k coins | -7.1% |
+| Edmilson Junior | 92 | LW | — | 13k coins | -10.2% |
+| Daniela Agote | 91 | LW | — | 12k coins | -60.3% |
 | Aoba Fujino | 91 | RW | — | 12k coins | -64.1% |
-| Daniela Agote | 91 | LW | — | 12k coins | -59.2% |
-| Kerem Aktürkoğlu | 91 | LW | — | 14k coins | +1.9% |
-| Said El Mala | 90 | LW | — | 11k coins | -63.1% |
+| Kerem Aktürkoğlu | 91 | LW | — | 13k coins | -1.9% |
+| Reyes Cleary | 90 | LW | — | 12k coins | -64.3% |
 | Oumar Camara | 90 | LW | — | 12k coins | -61.3% |
-| Reyes Cleary | 90 | LW | — | 12k coins | -65.1% |
+| Said El Mala | 90 | LW | — | 12k coins | -61.5% |
 | Kim Seung Sub | 90 | LW | — | 12k coins | -77.3% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 12k coins | -48.3% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 12k coins | -38.4% |
 
 
 ## 📈 Destaques
@@ -51,9 +51,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Ernest Muçi (92, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Edmilson Junior (92, LW)** da —, a apenas **13k coins**
+- **Edmilson Junior (92, LW)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aoba Fujino (91, RW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Daniela Agote (91, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

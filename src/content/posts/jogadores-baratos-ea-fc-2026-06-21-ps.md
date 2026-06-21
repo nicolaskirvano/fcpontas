@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-21T13:13:05.000Z
+pubDatetime: 2026-06-21T16:13:05.000Z
 title: "Jogadores baratos de Pontas no EA FC (21/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mika Godts | 93 | LW | — | 13k coins | -67.7% |
+| Mika Godts | 93 | LW | — | 13k coins | -68.3% |
 | Bartosz Nowak | 93 | LW | — | 13k coins | -66% |
-| Ernest Muçi | 92 | LW | — | 12k coins | -67.3% |
-| Edmilson Junior | 92 | LW | — | 13k coins | -3.7% |
+| Ernest Muçi | 92 | LW | — | 12k coins | -67.1% |
+| Edmilson Junior | 92 | LW | — | 13k coins | -3.6% |
+| Aoba Fujino | 91 | RW | — | 12k coins | -64.2% |
 | Daniela Agote | 91 | LW | — | 12k coins | -61.7% |
-| Aoba Fujino | 91 | RW | — | 12k coins | -63.4% |
 | Kerem Aktürkoğlu | 91 | LW | — | 13k coins | 0% |
-| Said El Mala | 90 | LW | — | 12k coins | -63.1% |
-| Reyes Cleary | 90 | LW | — | 12k coins | -63.4% |
 | Oumar Camara | 90 | LW | — | 12k coins | -63.4% |
-| Kim Seung Sub | 90 | LW | — | 14k coins | -75.5% |
-| Lukáš Haraslín | 89 | LW | Česká Liga | 12k coins | -18.8% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 15k coins | -47.4% |
-| Kiko Seike | 87 | RW | Barclays WSL | 12k coins | -52% |
-| Lineth Beerensteyn | 84 | LW | GPFBL | 2k coins | +50% |
+| Reyes Cleary | 90 | LW | — | 12k coins | -63.4% |
+| Said El Mala | 90 | LW | — | 12k coins | -63.6% |
+| Kim Seung Sub | 90 | LW | — | 14k coins | -74.1% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 14k coins | -48.3% |
+| Kiko Seike | 87 | RW | Barclays WSL | 13k coins | -48% |
+| Mika Godts | 87 | LW | Eredivisie | 13k coins | -14.8% |
 
 
 ## 📈 Destaques
@@ -56,7 +55,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Edmilson Junior (92, LW)** da —, a apenas **13k coins**
 
-- **Daniela Agote (91, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aoba Fujino (91, RW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
