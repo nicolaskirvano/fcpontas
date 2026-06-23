@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T22:13:06.000Z
+pubDatetime: 2026-06-23T01:13:05.000Z
 title: "Jogadores baratos de Pontas no EA FC (22/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anders Dreyer | 94 | RW | — | 14k coins | -61.5% |
-| Bartosz Nowak | 93 | LW | — | 12k coins | -69% |
-| Mika Godts | 93 | LW | — | 12k coins | -70.5% |
-| Ernest Muçi | 92 | LW | — | 12k coins | -68.2% |
-| Edmilson Junior | 92 | LW | — | 13k coins | -8.9% |
-| Yan Diomande | 92 | RW | — | 14k coins | -76.2% |
-| Daniela Agote | 91 | LW | — | 12k coins | -65.7% |
+| Anders Dreyer | 94 | RW | — | 14k coins | -63.7% |
+| Mika Godts | 93 | LW | — | 12k coins | -71.1% |
+| Bartosz Nowak | 93 | LW | — | 12k coins | -69.8% |
+| Yan Diomande | 92 | RW | — | 12k coins | -81% |
+| Ernest Muçi | 92 | LW | — | 12k coins | -68.8% |
+| Edmilson Junior | 92 | LW | — | 12k coins | -10.7% |
 | Aoba Fujino | 91 | RW | — | 12k coins | -66.7% |
-| Kerem Aktürkoğlu | 91 | LW | — | 12k coins | -7.3% |
-| Oumar Camara | 90 | LW | — | 11k coins | -66.2% |
+| Daniela Agote | 91 | LW | — | 12k coins | -66.2% |
+| Kerem Aktürkoğlu | 91 | LW | — | 12k coins | -9.1% |
+| Oumar Camara | 90 | LW | — | 11k coins | -66.7% |
 | Reyes Cleary | 90 | LW | — | 11k coins | -66.9% |
 | Said El Mala | 90 | LW | — | 11k coins | -67.9% |
-| Kim Seung Sub | 90 | LW | — | 13k coins | -76.8% |
-| Lukáš Haraslín | 89 | LW | Česká Liga | 15k coins | -7.7% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | -44.4% |
+| Kim Seung Sub | 90 | LW | — | 12k coins | -78.2% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | -40.7% |
+| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 13k coins | -44.7% |
 
 
 ## 📈 Destaques
 
 - **Anders Dreyer (94, RW)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Bartosz Nowak (93, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Mika Godts (93, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ernest Muçi (92, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Bartosz Nowak (93, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Edmilson Junior (92, LW)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Yan Diomande (92, RW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Ernest Muçi (92, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
