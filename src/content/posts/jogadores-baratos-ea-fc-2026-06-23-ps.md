@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T22:13:05.000Z
+pubDatetime: 2026-06-24T01:13:05.000Z
 title: "Jogadores baratos de Pontas no EA FC (23/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,30 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anders Dreyer | 94 | RW | — | 14k coins | -63.1% |
-| Bartosz Nowak | 93 | LW | — | 12k coins | -70.7% |
-| Mika Godts | 93 | LW | — | 12k coins | -72.1% |
-| Sultan Mandash | 93 | RW | — | 13k coins | -48.5% |
+| Anders Dreyer | 94 | RW | — | 14k coins | -66.2% |
+| Mika Godts | 93 | LW | — | 12k coins | -73.1% |
+| Bartosz Nowak | 93 | LW | — | 12k coins | -71.3% |
+| Sultan Mandash | 93 | RW | — | 13k coins | -47.5% |
 | Ernest Muçi | 92 | LW | — | 12k coins | -70.1% |
-| Yan Diomande | 92 | RW | — | 12k coins | -81.2% |
+| Yan Diomande | 92 | RW | — | 12k coins | -80.8% |
 | Edmilson Junior | 92 | LW | — | 13k coins | -7.1% |
 | Aoba Fujino | 91 | RW | — | 12k coins | -66.9% |
-| Daniela Agote | 91 | LW | — | 12k coins | -66.2% |
+| Daniela Agote | 91 | LW | — | 12k coins | -66.4% |
 | Kerem Aktürkoğlu | 91 | LW | — | 13k coins | -7.1% |
 | Reyes Cleary | 90 | LW | — | 11k coins | -67.4% |
-| Oumar Camara | 90 | LW | — | 11k coins | -67.6% |
 | Said El Mala | 90 | LW | — | 11k coins | -67.9% |
-| Kim Seung Sub | 90 | LW | — | 12k coins | -77.6% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | -38.5% |
+| Oumar Camara | 90 | LW | — | 11k coins | -67.4% |
+| Kim Seung Sub | 90 | LW | — | 12k coins | -78.2% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 14k coins | -46.6% |
 
 
 ## 📈 Destaques
 
 - **Anders Dreyer (94, RW)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Bartosz Nowak (93, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Mika Godts (93, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Bartosz Nowak (93, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Sultan Mandash (93, RW)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
