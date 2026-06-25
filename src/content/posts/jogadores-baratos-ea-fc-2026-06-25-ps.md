@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T13:13:05.000Z
+pubDatetime: 2026-06-25T16:13:05.000Z
 title: "Jogadores baratos de Pontas no EA FC (25/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bartosz Nowak | 93 | LW | — | 12k coins | -67.6% |
-| Mika Godts | 93 | LW | — | 12k coins | -67.1% |
-| Sultan Mandash | 93 | RW | — | 14k coins | -42.6% |
-| Ernest Muçi | 92 | LW | — | 12k coins | -66.4% |
-| Yan Diomande | 92 | RW | — | 14k coins | -78.9% |
-| Edmilson Junior | 92 | LW | — | 14k coins | +5.6% |
-| Aoba Fujino | 91 | RW | — | 12k coins | -63.8% |
-| Daniela Agote | 91 | LW | — | 12k coins | -60.2% |
-| Kerem Aktürkoğlu | 91 | LW | — | 14k coins | +3.6% |
-| Reyes Cleary | 90 | LW | — | 12k coins | -64.9% |
-| Said El Mala | 90 | LW | — | 12k coins | -63.5% |
-| Oumar Camara | 90 | LW | — | 12k coins | -62.8% |
-| Kim Seung Sub | 90 | LW | — | 12k coins | -75.2% |
-| Joe Cole | 87 | RW | Premier League | 13k coins | -12.3% |
-| Michelle Cooper | 87 | RW | NWSL | 14k coins | -32.5% |
+| Bartosz Nowak | 93 | LW | — | 12k coins | -66.9% |
+| Mika Godts | 93 | LW | — | 12k coins | -66.7% |
+| Sultan Mandash | 93 | RW | — | 15k coins | -41.6% |
+| Ernest Muçi | 92 | LW | — | 12k coins | -65.7% |
+| Edmilson Junior | 92 | LW | — | 14k coins | +7.5% |
+| Yan Diomande | 92 | RW | — | 15k coins | -79.6% |
+| Daniela Agote | 91 | LW | — | 12k coins | -60.7% |
+| Aoba Fujino | 91 | RW | — | 12k coins | -63.5% |
+| Kerem Aktürkoğlu | 91 | LW | — | 14k coins | +5.6% |
+| Oumar Camara | 90 | LW | — | 12k coins | -64.9% |
+| Reyes Cleary | 90 | LW | — | 12k coins | -65.9% |
+| Said El Mala | 90 | LW | — | 12k coins | -61.3% |
+| Kim Seung Sub | 90 | LW | — | 13k coins | -73.7% |
+| Michelle Cooper | 87 | RW | NWSL | 13k coins | -32.5% |
+| Joe Cole | 87 | RW | Premier League | 14k coins | -14.9% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mika Godts (93, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sultan Mandash (93, RW)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sultan Mandash (93, RW)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ernest Muçi (92, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Yan Diomande (92, RW)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Edmilson Junior (92, LW)** da —, a apenas **14k coins**
 
 
 ## Por que estas cartas?
