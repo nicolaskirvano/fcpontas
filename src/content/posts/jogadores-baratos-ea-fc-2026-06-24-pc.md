@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T22:13:09.000Z
+pubDatetime: 2026-06-25T01:13:10.000Z
 title: "Jogadores baratos de Pontas no EA FC (24/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anders Dreyer | 94 | RW | — | 14k coins | -60.9% |
-| Bartosz Nowak | 93 | LW | — | 12k coins | -69.5% |
+| Anders Dreyer | 94 | RW | — | 14k coins | -64.5% |
+| Bartosz Nowak | 93 | LW | — | 12k coins | -68.2% |
 | Mika Godts | 93 | LW | — | 12k coins | -70.4% |
-| Sultan Mandash | 93 | RW | — | 14k coins | -41.6% |
-| Yan Diomande | 92 | RW | — | 12k coins | -82.8% |
-| Ernest Muçi | 92 | LW | — | 12k coins | -66.9% |
-| Edmilson Junior | 92 | LW | — | 14k coins | -7.9% |
-| Daniela Agote | 91 | LW | — | 12k coins | -65.2% |
-| Aoba Fujino | 91 | RW | — | 12k coins | -68.7% |
-| Kerem Aktürkoğlu | 91 | LW | — | 14k coins | -1.7% |
+| Ernest Muçi | 92 | LW | — | 12k coins | -67.1% |
+| Yan Diomande | 92 | RW | — | 12k coins | -83.2% |
+| Edmilson Junior | 92 | LW | — | 14k coins | -12.7% |
+| Daniela Agote | 91 | LW | — | 12k coins | -64.1% |
+| Aoba Fujino | 91 | RW | — | 12k coins | -69.3% |
+| Kerem Aktürkoğlu | 91 | LW | — | 14k coins | -8.3% |
 | Oumar Camara | 90 | LW | — | 11k coins | -68.1% |
 | Reyes Cleary | 90 | LW | — | 11k coins | -67.6% |
-| Said El Mala | 90 | LW | — | 11k coins | -67.4% |
-| Kim Seung Sub | 90 | LW | — | 12k coins | -75.5% |
-| Bukayo Saka | 88 | RW | Premier League | 2k coins | -38.7% |
+| Said El Mala | 90 | LW | — | 11k coins | -67.2% |
+| Kim Seung Sub | 90 | LW | — | 12k coins | -79.1% |
+| Bukayo Saka | 88 | RW | Premier League | 2k coins | -45.2% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | -26.9% |
 
 
 ## 📈 Destaques
@@ -54,7 +54,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mika Godts (93, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sultan Mandash (93, RW)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ernest Muçi (92, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Yan Diomande (92, RW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
