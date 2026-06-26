@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T10:13:09.000Z
+pubDatetime: 2026-06-26T13:13:09.000Z
 title: "Jogadores baratos de Pontas no EA FC (26/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 26/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/06/2026)?"
-    a: "Anders Dreyer (94, sem liga) aparece como melhor custo-benefício, a 13k coins no PC."
+    a: "Bartosz Nowak (93, sem liga) aparece como melhor custo-benefício, a 12k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Anders Dreyer (94) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Bartosz Nowak (93) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anders Dreyer | 94 | RW | — | 13k coins | -53% |
-| Bartosz Nowak | 93 | LW | — | 12k coins | -68.2% |
-| Mika Godts | 93 | LW | — | 12k coins | -72.4% |
-| Sultan Mandash | 93 | RW | — | 14k coins | -42.6% |
-| Ernest Muçi | 92 | LW | — | 12k coins | -64.6% |
-| Edmilson Junior | 92 | LW | — | 14k coins | +5.8% |
-| Daniela Agote | 91 | LW | — | 12k coins | -58.9% |
-| Aoba Fujino | 91 | RW | — | 12k coins | -60.3% |
-| Kerem Aktürkoğlu | 91 | LW | — | 14k coins | +5.6% |
-| Oumar Camara | 90 | LW | — | 11k coins | -61.9% |
-| Reyes Cleary | 90 | LW | — | 11k coins | -62.5% |
-| Said El Mala | 90 | LW | — | 11k coins | -46.4% |
-| Kim Seung Sub | 90 | LW | — | 12k coins | -73.3% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | -26.1% |
+| Bartosz Nowak | 93 | LW | — | 12k coins | -61.8% |
+| Mika Godts | 93 | LW | — | 12k coins | -63.6% |
+| Ernest Muçi | 92 | LW | — | 12k coins | -47.9% |
+| Edmilson Junior | 92 | LW | — | 14k coins | +5.7% |
+| Aoba Fujino | 91 | RW | — | 12k coins | -23.3% |
+| Daniela Agote | 91 | LW | — | 12k coins | -34.3% |
+| Kerem Aktürkoğlu | 91 | LW | — | 14k coins | +7.5% |
+| Oumar Camara | 90 | LW | — | 11k coins | -40% |
+| Reyes Cleary | 90 | LW | — | 11k coins | -40.8% |
+| Said El Mala | 90 | LW | — | 11k coins | -25% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | -18.2% |
+| Bukayo Saka | 88 | RW | Premier League | 2k coins | +6.7% |
 | Joe Cole | 87 | RW | Premier League | 13k coins | -3.7% |
 
 
 ## 📈 Destaques
 
-- **Anders Dreyer (94, RW)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Bartosz Nowak (93, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mika Godts (93, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sultan Mandash (93, RW)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Ernest Muçi (92, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Edmilson Junior (92, LW)** da —, a apenas **14k coins**
+
+- **Aoba Fujino (91, RW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +71,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/06/2026)?**  
-Anders Dreyer (94, sem liga) aparece como melhor custo-benefício, a 13k coins no PC.
+Bartosz Nowak (93, sem liga) aparece como melhor custo-benefício, a 12k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
