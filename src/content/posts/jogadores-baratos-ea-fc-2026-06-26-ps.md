@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T19:13:05.000Z
+pubDatetime: 2026-06-26T22:13:05.000Z
 title: "Jogadores baratos de Pontas no EA FC (26/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 26/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/06/2026)?"
-    a: "Kiko Seike (87, Barclays WSL) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Emilie Haavi (87, Calcio A Femminile) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Kiko Seike (87) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Emilie Haavi (87) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,21 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kiko Seike | 87 | RW | Barclays WSL | 12k coins | -7.4% |
-| Joe Cole | 87 | RW | Premier League | 13k coins | -26.8% |
-| Michelle Cooper | 87 | RW | NWSL | 14k coins | -36% |
-| Oscar Bobb | 85 | RW | Premier League | 13k coins | 0% |
+| Emilie Haavi | 87 | LW | Calcio A Femminile | 13k coins | -49% |
+| Harry Kewell | 87 | LW | Premier League | 14k coins | 0% |
+| Mika Godts | 87 | LW | Eredivisie | 15k coins | +11.3% |
+| Lionel Messi | 86 | RW | MLS | 2k coins | -39.1% |
+| Oscar Bobb | 85 | RW | Premier League | 14k coins | -8.3% |
 
 
 ## 📈 Destaques
 
-- **Kiko Seike (87, RW)** da Barclays WSL, a apenas **12k coins**
+- **Emilie Haavi (87, LW)** da Calcio A Femminile, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Joe Cole (87, RW)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Harry Kewell (87, LW)** da Premier League, a apenas **14k coins**
 
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mika Godts (87, LW)** da Eredivisie, a apenas **15k coins**
 
-- **Oscar Bobb (85, RW)** da Premier League, a apenas **13k coins**
+- **Lionel Messi (86, RW)** da MLS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Oscar Bobb (85, RW)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -60,7 +63,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/06/2026)?**  
-Kiko Seike (87, Barclays WSL) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Emilie Haavi (87, Calcio A Femminile) aparece como melhor custo-benefício, a 13k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
