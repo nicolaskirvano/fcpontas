@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T19:13:05.000Z
+pubDatetime: 2026-06-27T22:13:05.000Z
 title: "Jogadores baratos de Pontas no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 27/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/06/2026)?"
-    a: "Edmilson Junior (92, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
+    a: "Sultan Mandash (93, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Edmilson Junior (92) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Sultan Mandash (93) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,25 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Edmilson Junior | 92 | LW | — | 15k coins | +13.5% |
-| Kerem Aktürkoğlu | 91 | LW | — | 14k coins | +35.3% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 12k coins | -11.9% |
-| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 12k coins | 0% |
-| Joe Cole | 87 | RW | Premier League | 13k coins | +25.5% |
-| Kiko Seike | 87 | RW | Barclays WSL | 15k coins | +25% |
+| Sultan Mandash | 93 | RW | — | 14k coins | -41.6% |
+| Edmilson Junior | 92 | LW | — | 14k coins | +11.5% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 10k coins | -27.1% |
+| Naomie Feller | 88 | RW | — | 13k coins | -42.9% |
+| Joe Cole | 87 | RW | Premier League | 13k coins | 0% |
+| Harry Kewell | 87 | LW | Premier League | 14k coins | -12.1% |
+| Oscar Bobb | 85 | RW | Premier League | 12k coins | -18.3% |
+| Marco Asensio | 85 | RW | Trendyol Süper Lig | 12k coins | -37.5% |
 
 
 ## 📈 Destaques
 
-- **Edmilson Junior (92, LW)** da —, a apenas **15k coins**
+- **Sultan Mandash (93, RW)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kerem Aktürkoğlu (91, LW)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Edmilson Junior (92, LW)** da —, a apenas **14k coins**
 
-- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **12k coins**
+- **Naomie Feller (88, RW)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Joe Cole (87, RW)** da Premier League, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Joe Cole (87, RW)** da Premier League, a apenas **13k coins**
 
 
 ## Por que estas cartas?
@@ -64,7 +66,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/06/2026)?**  
-Edmilson Junior (92, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS).
+Sultan Mandash (93, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
