@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T22:13:09.000Z
+pubDatetime: 2026-06-27T01:13:09.000Z
 title: "Jogadores baratos de Pontas no EA FC (26/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,17 +29,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bartosz Nowak | 93 | LW | — | 14k coins | -3.6% |
-| Sultan Mandash | 93 | RW | — | 14k coins | -44.6% |
+| Bartosz Nowak | 93 | LW | — | 14k coins | +1.8% |
+| Sultan Mandash | 93 | RW | — | 14k coins | -45.5% |
 | Mika Godts | 93 | LW | — | 14k coins | -25.7% |
-| Yan Diomande | 92 | RW | — | 13k coins | -30.3% |
 | Ernest Muçi | 92 | LW | — | 14k coins | +5.9% |
-| Edmilson Junior | 92 | LW | — | 14k coins | +1.8% |
+| Edmilson Junior | 92 | LW | — | 14k coins | 0% |
 | Aoba Fujino | 91 | RW | — | 12k coins | -9.8% |
-| Daniela Agote | 91 | LW | — | 12k coins | -3.9% |
-| Reyes Cleary | 90 | LW | — | 12k coins | -9.8% |
+| Daniela Agote | 91 | LW | — | 12k coins | -2% |
+| Kerem Aktürkoğlu | 91 | LW | — | 12k coins | +5.7% |
+| Said El Mala | 90 | LW | — | 11k coins | -10% |
+| Reyes Cleary | 90 | LW | — | 12k coins | -8% |
 | Oumar Camara | 90 | LW | — | 12k coins | -6% |
-| Said El Mala | 90 | LW | — | 12k coins | -2% |
+| Joe Cole | 87 | RW | Premier League | 11k coins | -4% |
+| Harry Kewell | 87 | LW | Premier League | 14k coins | -52.7% |
+| Marco Asensio | 85 | RW | Trendyol Süper Lig | 14k coins | -29.4% |
 
 
 ## 📈 Destaques
@@ -50,9 +53,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mika Godts (93, LW)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Yan Diomande (92, RW)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Ernest Muçi (92, LW)** da —, a apenas **14k coins**
+
+- **Edmilson Junior (92, LW)** da —, a apenas **14k coins**
 
 
 ## Por que estas cartas?
