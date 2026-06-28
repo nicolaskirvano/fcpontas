@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T22:13:05.000Z
+pubDatetime: 2026-06-28T01:13:05.000Z
 title: "Jogadores baratos de Pontas no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,14 +29,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sultan Mandash | 93 | RW | — | 14k coins | -41.6% |
-| Edmilson Junior | 92 | LW | — | 14k coins | +11.5% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 10k coins | -27.1% |
-| Naomie Feller | 88 | RW | — | 13k coins | -42.9% |
-| Joe Cole | 87 | RW | Premier League | 13k coins | 0% |
-| Harry Kewell | 87 | LW | Premier League | 14k coins | -12.1% |
-| Oscar Bobb | 85 | RW | Premier League | 12k coins | -18.3% |
-| Marco Asensio | 85 | RW | Trendyol Süper Lig | 12k coins | -37.5% |
+| Sultan Mandash | 93 | RW | — | 14k coins | -42.6% |
+| Edmilson Junior | 92 | LW | — | 14k coins | +9.6% |
+| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 15k coins | +26.9% |
+| Joe Cole | 87 | RW | Premier League | 13k coins | -12.7% |
+| Harry Kewell | 87 | LW | Premier League | 15k coins | -3.3% |
+| Marco Asensio | 85 | RW | Trendyol Süper Lig | 11k coins | -46.2% |
 
 
 ## 📈 Destaques
@@ -45,11 +43,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Edmilson Junior (92, LW)** da —, a apenas **14k coins**
 
-- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Naomie Feller (88, RW)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Joe Cole (87, RW)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Joe Cole (87, RW)** da Premier League, a apenas **13k coins**
+- **Harry Kewell (87, LW)** da Premier League, a apenas **15k coins**
 
 
 ## Por que estas cartas?
