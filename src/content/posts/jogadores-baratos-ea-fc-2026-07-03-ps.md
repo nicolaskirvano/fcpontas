@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T19:13:05.000Z
+pubDatetime: 2026-07-03T22:13:05.000Z
 title: "Jogadores baratos de Pontas no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 03/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/07/2026)?"
-    a: "Bilal El Khannouss (92, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Sultan Mandash (93, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Bilal El Khannouss (92) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Sultan Mandash (93) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,25 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bilal El Khannouss | 92 | LW | — | 12k coins | -40.7% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 8k coins | -41.4% |
-| Mika Godts | 87 | LW | Eredivisie | 14k coins | +5.7% |
-| Harry Kewell | 87 | LW | Premier League | 14k coins | -23.4% |
-| Michelle Cooper | 87 | RW | NWSL | 14k coins | -3.3% |
-| Joe Cole | 87 | RW | Premier League | 14k coins | -11.5% |
+| Sultan Mandash | 93 | RW | — | 14k coins | -3.4% |
+| Bilal El Khannouss | 92 | LW | — | 12k coins | -39.5% |
+| Edmilson Junior | 92 | LW | — | 14k coins | -5.1% |
+| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 12k coins | +11.1% |
+| Harry Kewell | 87 | LW | Premier League | 12k coins | -21.9% |
+| Joe Cole | 87 | RW | Premier League | 12k coins | +6.2% |
+| Madison Haley | 85 | RW | Barclays WSL | 14k coins | -25% |
+| Oscar Bobb | 85 | RW | Premier League | 14k coins | +8.8% |
 
 
 ## 📈 Destaques
 
+- **Sultan Mandash (93, RW)** da —, a apenas **14k coins**
+
 - **Bilal El Khannouss (92, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Edmilson Junior (92, LW)** da —, a apenas **14k coins**
 
-- **Mika Godts (87, LW)** da Eredivisie, a apenas **14k coins**
+- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **12k coins**
 
-- **Harry Kewell (87, LW)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **14k coins**
+- **Harry Kewell (87, LW)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -64,7 +66,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/07/2026)?**  
-Bilal El Khannouss (92, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Sultan Mandash (93, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
