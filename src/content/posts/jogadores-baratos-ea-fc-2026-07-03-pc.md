@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T13:13:09.000Z
+pubDatetime: 2026-07-03T16:13:09.000Z
 title: "Jogadores baratos de Pontas no EA FC (03/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 03/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/07/2026)?"
-    a: "Julian Quiñones (95, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Bilal El Khannouss (92, sem liga) aparece como melhor custo-benefício, a 12k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Julian Quiñones (95) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Bilal El Khannouss (92) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,21 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Julian Quiñones | 95 | LW | — | 14k coins | -63.4% |
 | Bilal El Khannouss | 92 | LW | — | 12k coins | -43.2% |
-| Edmilson Junior | 92 | LW | — | 14k coins | +1.8% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 5k coins | -68.6% |
+| Edmilson Junior | 92 | LW | — | 15k coins | +5.4% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 6k coins | -67.1% |
+| Joe Cole | 87 | RW | Premier League | 14k coins | 0% |
+| Harry Kewell | 87 | LW | Premier League | 14k coins | -17.6% |
 
 
 ## 📈 Destaques
 
-- **Julian Quiñones (95, LW)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Bilal El Khannouss (92, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Edmilson Junior (92, LW)** da —, a apenas **14k coins**
+- **Edmilson Junior (92, LW)** da —, a apenas **15k coins**
 
-- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Joe Cole (87, RW)** da Premier League, a apenas **14k coins**
+
+- **Harry Kewell (87, LW)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -60,7 +63,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/07/2026)?**  
-Julian Quiñones (95, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
+Bilal El Khannouss (92, sem liga) aparece como melhor custo-benefício, a 12k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

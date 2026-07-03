@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T13:13:05.000Z
+pubDatetime: 2026-07-03T16:13:05.000Z
 title: "Jogadores baratos de Pontas no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,13 +31,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Bilal El Khannouss | 92 | LW | — | 12k coins | -43.2% |
 | Edmilson Junior | 92 | LW | — | 14k coins | +3.6% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 12k coins | -25% |
-| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 14k coins | +3.6% |
-| Joe Cole | 87 | RW | Premier League | 14k coins | +1.9% |
-| Kiko Seike | 87 | RW | Barclays WSL | 14k coins | +18% |
-| Madison Haley | 85 | RW | Barclays WSL | 13k coins | -35.4% |
-| Marco Asensio | 85 | RW | Trendyol Süper Lig | 13k coins | -25% |
-| Athenea | 83 | RW | Liga F | 2k coins | +5.6% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 12k coins | -23.3% |
+| Joe Cole | 87 | RW | Premier League | 14k coins | +5.8% |
+| Mika Godts | 87 | LW | Eredivisie | 15k coins | +11.1% |
+| Oscar Bobb | 85 | RW | Premier League | 14k coins | +9.1% |
 
 
 ## 📈 Destaques
@@ -48,9 +45,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **14k coins**
-
 - **Joe Cole (87, RW)** da Premier League, a apenas **14k coins**
+
+- **Mika Godts (87, LW)** da Eredivisie, a apenas **15k coins**
 
 
 ## Por que estas cartas?
