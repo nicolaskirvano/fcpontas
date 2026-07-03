@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T16:13:05.000Z
+pubDatetime: 2026-07-03T19:13:05.000Z
 title: "Jogadores baratos de Pontas no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,25 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bilal El Khannouss | 92 | LW | — | 12k coins | -43.2% |
-| Edmilson Junior | 92 | LW | — | 14k coins | +3.6% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 12k coins | -23.3% |
-| Joe Cole | 87 | RW | Premier League | 14k coins | +5.8% |
-| Mika Godts | 87 | LW | Eredivisie | 15k coins | +11.1% |
-| Oscar Bobb | 85 | RW | Premier League | 14k coins | +9.1% |
+| Bilal El Khannouss | 92 | LW | — | 12k coins | -40.7% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 8k coins | -41.4% |
+| Mika Godts | 87 | LW | Eredivisie | 14k coins | +5.7% |
+| Harry Kewell | 87 | LW | Premier League | 14k coins | -23.4% |
+| Michelle Cooper | 87 | RW | NWSL | 14k coins | -3.3% |
+| Joe Cole | 87 | RW | Premier League | 14k coins | -11.5% |
 
 
 ## 📈 Destaques
 
 - **Bilal El Khannouss (92, LW)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Edmilson Junior (92, LW)** da —, a apenas **14k coins**
+- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mika Godts (87, LW)** da Eredivisie, a apenas **14k coins**
 
-- **Joe Cole (87, RW)** da Premier League, a apenas **14k coins**
+- **Harry Kewell (87, LW)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mika Godts (87, LW)** da Eredivisie, a apenas **15k coins**
+- **Michelle Cooper (87, RW)** da NWSL, a apenas **14k coins**
 
 
 ## Por que estas cartas?
