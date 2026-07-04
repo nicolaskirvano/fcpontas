@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T22:13:05.000Z
+pubDatetime: 2026-07-04T01:13:05.000Z
 title: "Jogadores baratos de Pontas no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,13 +30,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Sultan Mandash | 93 | RW | — | 14k coins | -3.4% |
-| Bilal El Khannouss | 92 | LW | — | 12k coins | -39.5% |
+| Bilal El Khannouss | 92 | LW | — | 12k coins | -40.7% |
 | Edmilson Junior | 92 | LW | — | 14k coins | -5.1% |
-| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 12k coins | +11.1% |
-| Harry Kewell | 87 | LW | Premier League | 12k coins | -21.9% |
-| Joe Cole | 87 | RW | Premier League | 12k coins | +6.2% |
-| Madison Haley | 85 | RW | Barclays WSL | 14k coins | -25% |
-| Oscar Bobb | 85 | RW | Premier League | 14k coins | +8.8% |
+| Joe Cole | 87 | RW | Premier League | 11k coins | -8.3% |
+| Harry Kewell | 87 | LW | Premier League | 12k coins | -25% |
+| Mika Godts | 87 | LW | Eredivisie | 14k coins | +1.8% |
 
 
 ## 📈 Destaques
@@ -47,7 +45,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Edmilson Junior (92, LW)** da —, a apenas **14k coins**
 
-- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **12k coins**
+- **Joe Cole (87, RW)** da Premier League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Harry Kewell (87, LW)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
