@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T10:13:09.000Z
+pubDatetime: 2026-07-10T13:13:09.000Z
 title: "Jogadores baratos de Pontas no EA FC (10/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sergiño Dest | 93 | RW | — | 13k coins | -2.1% |
-| Bilal El Khannouss | 92 | LW | — | 13k coins | +8.7% |
-| Edmilson Junior | 92 | LW | — | 15k coins | +6.9% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 10k coins | +75% |
+| Sergiño Dest | 93 | RW | — | 13k coins | +10.4% |
+| Bilal El Khannouss | 92 | LW | — | 14k coins | +13% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 8k coins | +46.6% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | +50% |
 
 
 ## 📈 Destaques
 
 - **Sergiño Dest (93, RW)** da —, a apenas **13k coins**
 
-- **Bilal El Khannouss (92, LW)** da —, a apenas **13k coins**
+- **Bilal El Khannouss (92, LW)** da —, a apenas **14k coins**
 
-- **Edmilson Junior (92, LW)** da —, a apenas **15k coins**
+- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **8k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **10k coins** — já **valorizando**, sinal de procura crescente.
+- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
