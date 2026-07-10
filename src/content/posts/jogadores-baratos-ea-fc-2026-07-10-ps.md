@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T13:13:05.000Z
+pubDatetime: 2026-07-10T16:13:05.000Z
 title: "Jogadores baratos de Pontas no EA FC (10/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,11 +30,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Sergiño Dest | 93 | RW | — | 13k coins | +10.6% |
-| Bilal El Khannouss | 92 | LW | — | 13k coins | +8.5% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 10k coins | +38.5% |
-| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 14k coins | -1.8% |
-| Harry Kewell | 87 | LW | Premier League | 14k coins | +12% |
-| Madison Haley | 85 | RW | Barclays WSL | 15k coins | +13.7% |
+| Bilal El Khannouss | 92 | LW | — | 13k coins | +10.6% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 10k coins | +20.3% |
+| Harry Kewell | 87 | LW | Premier League | 13k coins | +6.1% |
+| Michelle Cooper | 87 | RW | NWSL | 15k coins | +1.7% |
+| Kiko Seike | 87 | RW | Barclays WSL | 15k coins | -8.2% |
+| Madison Haley | 85 | RW | Barclays WSL | 15k coins | +11.8% |
 
 
 ## 📈 Destaques
@@ -45,9 +46,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **10k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **14k coins**
+- **Harry Kewell (87, LW)** da Premier League, a apenas **13k coins**
 
-- **Harry Kewell (87, LW)** da Premier League, a apenas **14k coins**
+- **Michelle Cooper (87, RW)** da NWSL, a apenas **15k coins**
 
 
 ## Por que estas cartas?
