@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T19:13:05.000Z
+pubDatetime: 2026-07-11T22:13:05.000Z
 title: "Jogadores baratos de Pontas no EA FC (11/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 11/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (11/07/2026)?"
-    a: "Caroline Graham Hansen (90, Liga F) aparece como melhor custo-benefício, a 8k coins no Console (PS)."
+    a: "Vini Jr. (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 6k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **11/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Caroline Graham Hansen (90) por apenas 8k coins.
+> 💰 **Melhor pechincha:** Vini Jr. (89) por apenas 6k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,25 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Caroline Graham Hansen | 90 | RW | Liga F | 8k coins | -68.1% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 6k coins | -31% |
-| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 14k coins | -31.7% |
-| Harry Kewell | 87 | LW | Premier League | 12k coins | 0% |
-| Michelle Cooper | 87 | RW | NWSL | 13k coins | -3.6% |
-| Madison Haley | 85 | RW | Barclays WSL | 13k coins | -13.3% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 6k coins | -43% |
+| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 14k coins | -11.7% |
+| Michelle Cooper | 87 | RW | NWSL | 14k coins | 0% |
+| Kiko Seike | 87 | RW | Barclays WSL | 14k coins | -4.9% |
+| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 2k coins | +125% |
+| Víctor Ibarbo | 85 | RW | Serie A TIM | 13k coins | -2.6% |
 
 
 ## 📈 Destaques
-
-- **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Harry Kewell (87, LW)** da Premier League, a apenas **12k coins**
+- **Michelle Cooper (87, RW)** da NWSL, a apenas **14k coins**
 
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **13k coins**
+- **Kiko Seike (87, RW)** da Barclays WSL, a apenas **14k coins**
+
+- **Désiré Doué (85, RW)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -64,7 +64,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (11/07/2026)?**  
-Caroline Graham Hansen (90, Liga F) aparece como melhor custo-benefício, a 8k coins no Console (PS).
+Vini Jr. (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 6k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
