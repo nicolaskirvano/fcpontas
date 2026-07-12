@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T13:13:05.000Z
+pubDatetime: 2026-07-12T16:13:05.000Z
 title: "Jogadores baratos de Pontas no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,27 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 8k coins | -22.9% |
-| Lukáš Haraslín | 89 | LW | Česká Liga | 14k coins | -21.3% |
-| Oscar Bobb | 88 | RW | Premier League | 14k coins | -39.6% |
-| Harry Kewell | 87 | LW | Premier League | 13k coins | -1.9% |
-| Michelle Cooper | 87 | RW | NWSL | 13k coins | -10.5% |
-| Kiko Seike | 87 | RW | Barclays WSL | 15k coins | -11.7% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 8k coins | -32.1% |
+| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 14k coins | -31% |
+| Naomie Feller | 88 | RW | — | 15k coins | -27.5% |
+| Oscar Bobb | 88 | RW | Premier League | 15k coins | -40% |
+| Harry Kewell | 87 | LW | Premier League | 12k coins | -15.1% |
+| Kiko Seike | 87 | RW | Barclays WSL | 12k coins | -3.3% |
+| Michelle Cooper | 87 | RW | NWSL | 13k coins | -7% |
 | Désiré Doué | 85 | RW | Ligue 1 McDonald's | 2k coins | +162.5% |
-| Oscar Bobb | 85 | RW | Premier League | 14k coins | -20% |
+| Oscar Bobb | 85 | RW | Premier League | 13k coins | -24.3% |
 
 
 ## 📈 Destaques
 
 - **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lukáš Haraslín (89, LW)** da Česká Liga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Oscar Bobb (88, RW)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Naomie Feller (88, RW)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Harry Kewell (87, LW)** da Premier League, a apenas **13k coins**
+- **Oscar Bobb (88, RW)** da Premier League, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Harry Kewell (87, LW)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
