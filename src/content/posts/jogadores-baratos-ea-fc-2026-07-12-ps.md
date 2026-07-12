@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T16:13:05.000Z
+pubDatetime: 2026-07-12T22:13:05.000Z
 title: "Jogadores baratos de Pontas no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 12/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (12/07/2026)?"
-    a: "Vini Jr. (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 8k coins no Console (PS)."
+    a: "Vini Jr. (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 5k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **12/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Vini Jr. (89) por apenas 8k coins.
+> 💰 **Melhor pechincha:** Vini Jr. (89) por apenas 5k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,28 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 8k coins | -32.1% |
-| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 14k coins | -31% |
-| Naomie Feller | 88 | RW | — | 15k coins | -27.5% |
-| Oscar Bobb | 88 | RW | Premier League | 15k coins | -40% |
-| Harry Kewell | 87 | LW | Premier League | 12k coins | -15.1% |
-| Kiko Seike | 87 | RW | Barclays WSL | 12k coins | -3.3% |
-| Michelle Cooper | 87 | RW | NWSL | 13k coins | -7% |
-| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 2k coins | +162.5% |
-| Oscar Bobb | 85 | RW | Premier League | 13k coins | -24.3% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 5k coins | -57.2% |
+| Harry Kewell | 87 | LW | Premier League | 11k coins | -7.8% |
+| Kiko Seike | 87 | RW | Barclays WSL | 14k coins | 0% |
+| Mika Godts | 87 | LW | Eredivisie | 14k coins | -12.1% |
+| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 2k coins | +193.3% |
+| Madison Haley | 85 | RW | Barclays WSL | 11k coins | -9.6% |
 
 
 ## 📈 Destaques
 
-- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Harry Kewell (87, LW)** da Premier League, a apenas **11k coins**
 
-- **Naomie Feller (88, RW)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kiko Seike (87, RW)** da Barclays WSL, a apenas **14k coins**
 
-- **Oscar Bobb (88, RW)** da Premier League, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mika Godts (87, LW)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Harry Kewell (87, LW)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Désiré Doué (85, RW)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -67,7 +64,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (12/07/2026)?**  
-Vini Jr. (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 8k coins no Console (PS).
+Vini Jr. (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 5k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
