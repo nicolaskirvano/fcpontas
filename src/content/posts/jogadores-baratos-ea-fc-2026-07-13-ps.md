@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T13:13:05.000Z
+pubDatetime: 2026-07-13T16:13:05.000Z
 title: "Jogadores baratos de Pontas no EA FC (13/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,26 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Caroline Graham Hansen | 90 | RW | Liga F | 5k coins | -81.9% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 9k coins | -17% |
-| Lukáš Haraslín | 89 | LW | Česká Liga | 14k coins | -22.7% |
-| Oscar Bobb | 88 | RW | Premier League | 14k coins | -57.9% |
-| Harry Kewell | 87 | LW | Premier League | 14k coins | +12.2% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 5k coins | -83.2% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 8k coins | -14% |
+| Lukáš Haraslín | 89 | LW | Česká Liga | 15k coins | -26% |
+| Oscar Bobb | 88 | RW | Premier League | 15k coins | -57.1% |
+| Harry Kewell | 87 | LW | Premier League | 12k coins | +10.4% |
 | Désiré Doué | 85 | RW | Ligue 1 McDonald's | 2k coins | +200% |
-| Oscar Bobb | 85 | RW | Premier League | 15k coins | -50.8% |
 
 
 ## 📈 Destaques
 
 - **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **9k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lukáš Haraslín (89, LW)** da Česká Liga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Lukáš Haraslín (89, LW)** da Česká Liga, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Oscar Bobb (88, RW)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Oscar Bobb (88, RW)** da Premier League, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Harry Kewell (87, LW)** da Premier League, a apenas **14k coins**
+- **Harry Kewell (87, LW)** da Premier League, a apenas **12k coins**
 
 
 ## Por que estas cartas?
