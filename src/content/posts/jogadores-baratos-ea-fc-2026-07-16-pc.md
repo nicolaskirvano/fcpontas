@@ -1,27 +1,27 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:13:10.000Z
-title: "Jogadores baratos de Pontas no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
+pubDatetime: 2026-07-16T22:13:19.000Z
+title: "Jogadores baratos de Pontas no EA FC (16/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 16/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+  - pc
+description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 16/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (16/07/2026)?"
-    a: "Oscar Bobb (95, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
+    a: "Oscar Bobb (95, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **16/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **16/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Oscar Bobb (95) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Oscar Bobb (95) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,27 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Oscar Bobb | 95 | RW | — | 13k coins | — |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 11k coins | +14.1% |
-| Paulo Futre | 88 | LW | LALIGA EA SPORTS | 14k coins | -7.7% |
-| Oscar Bobb | 88 | RW | Premier League | 15k coins | -47.5% |
-| Lionel Messi | 86 | RW | MLS | 2k coins | +166.7% |
-| Oscar Bobb | 85 | RW | Premier League | 15k coins | -22.4% |
-| Bradley Barcola | 84 | LW | Ligue 1 McDonald's | 2k coins | +111.1% |
-| Anders Dreyer | 84 | RW | MLS | 14k coins | -34.1% |
+| Oscar Bobb | 95 | RW | — | 14k coins | — |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 10k coins | +26.6% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | +16.7% |
+| Oscar Bobb | 88 | RW | Premier League | 15k coins | -49.2% |
 
 
 ## 📈 Destaques
 
-- **Oscar Bobb (95, RW)** da —, a apenas **13k coins**
+- **Oscar Bobb (95, RW)** da —, a apenas **14k coins**
 
-- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **11k coins**
+- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **10k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Paulo Futre (88, LW)** da LALIGA EA SPORTS, a apenas **14k coins**
+- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Oscar Bobb (88, RW)** da Premier League, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Lionel Messi (86, RW)** da MLS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -66,7 +60,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (16/07/2026)?**  
-Oscar Bobb (95, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS).
+Oscar Bobb (95, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -79,4 +73,4 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de PC, referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
