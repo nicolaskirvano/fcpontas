@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcpontas.pages.dev/",
     title: "Ponta Market",
     description:
-      "As melhores pontas do EA FC Ultimate Team: precos e mercado, todos os dias.",
+      "As melhores pontas do EA FC Ultimate Team: preços e mercado, todos os dias.",
     author: "Ponta Market",
-    profile: "https://fcpontas.pages.dev/",
+    profile: "https://fcpontas.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Ponta Market",
