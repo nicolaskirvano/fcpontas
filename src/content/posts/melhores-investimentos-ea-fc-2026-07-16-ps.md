@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:00:24.000Z
+pubDatetime: 2026-07-17T01:13:09.000Z
 title: "Investimentos EA FC: Pontas em 16/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Gabriel Martinelli (87, Premier League) lidera, com +77.3% em 7 dias a 117k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gabriel Martinelli (87, Premier League) lidera, com +74.6% em 7 dias a 96k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Gabriel Martinelli (87) acumula **+77.3% em 7 dias** a 117k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Gabriel Martinelli (87) acumula **+74.6% em 7 dias** a 96k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 16/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-16-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+4.1% em 24h** e **+31.5% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.2% em 24h** e **+33.9% em 7 dias**.
+- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gabriel Martinelli | 87 | Premier League | 117k coins | +27.2% | +77.3% | Esticada |
-| Reyes Cleary | 90 | — | 42k coins | +1.8% | +77.1% | Esticada |
-| Athenea | 86 | Liga F | 30k coins | +1.9% | +51.4% | Momentum moderado |
-| Rubén García | 87 | LALIGA EA SPORTS | 20k coins | +25.8% | +49.3% | Esticada |
-| Bilal El Khannouss | 92 | — | 18k coins | +2.9% | +42% | Momentum moderado |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 81k coins | +28.5% | +41.5% | Esticada |
-| Timo Werner | 87 | Bundesliga | 47k coins | +3.9% | +34.3% | Momentum moderado |
-| Antoine Semenyo | 91 | Premier League | 178k coins | +22.9% | +31.5% | Esticada |
-| Tabitha Chawinga | 91 | D1 Arkema | 113k coins | +7.3% | +30% | Momentum moderado |
-| Antony | 91 | LALIGA EA SPORTS | 140k coins | +1.4% | +29.6% | Momentum moderado |
-| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 45k coins | +21.8% | +27.9% | Esticada |
-| Saeed Al Owairan | 91 | ROSHN Saudi League | 190k coins | +4.1% | +27.5% | Momentum moderado |
-| Cody Gakpo | 86 | Premier League | 43k coins | +13.8% | +27.2% | Momentum moderado |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 84k coins | +2.9% | +26.6% | Momentum moderado |
-| Ernest Muçi | 92 | — | 24k coins | +3.2% | +26% | Momentum moderado |
+| Gabriel Martinelli | 87 | Premier League | 96k coins | +21.2% | +74.6% | Esticada |
+| Ivan Perišić | 90 | Eredivisie | 54k coins | +3.6% | +56.2% | Momentum moderado |
+| Alejandro Garnacho | 89 | Premier League | 250k coins | +35.1% | +49.7% | Esticada |
+| Naomie Feller | 88 | — | 34k coins | +8.2% | +45.1% | Momentum moderado |
+| Bilal El Khannouss | 92 | — | 17.500 coins | +2.9% | +42% | Momentum moderado |
+| Sergiño Dest | 93 | — | 17.250 coins | +1.4% | +37.3% | Momentum moderado |
+| Timo Werner | 87 | Bundesliga | 50k coins | +18% | +35.7% | Momentum moderado |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 78k coins | +24.4% | +33.9% | Esticada |
+| Garrincha | 92 | Icons | 210k coins | +9.3% | +32.5% | Momentum moderado |
+| Antoine Semenyo | 94 | — | 166k coins | +3.2% | +30.7% | Momentum moderado |
+| Claudia Pina | 87 | Liga F | 240k coins | +12.7% | +29% | Momentum moderado |
+| Antony | 91 | LALIGA EA SPORTS | 128k coins | +7.7% | +28.4% | Momentum moderado |
+| Ernest Muçi | 92 | — | 24k coins | +3.2% | +27.3% | Momentum moderado |
+| Tabitha Chawinga | 91 | D1 Arkema | 104k coins | +4.5% | +26.4% | Momentum moderado |
+| Kadidiatou Diani | 91 | D1 Arkema | 136k coins | +12.3% | +24.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Gabriel Martinelli (87)** — 117k coins, **+77.3% em 7 dias** (+27.2% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gabriel Martinelli (87)** — 96k coins, **+74.6% em 7 dias** (+21.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Reyes Cleary (90)** — 42k coins, **+77.1% em 7 dias** (+1.8% em 24h). Preço +61% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ivan Perišić (90)** — 54k coins, **+56.2% em 7 dias** (+3.6% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Athenea (86)** — 30k coins, **+51.4% em 7 dias** (+1.9% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alejandro Garnacho (89)** — 250k coins, **+49.7% em 7 dias** (+35.1% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rubén García (87)** — 20k coins, **+49.3% em 7 dias** (+25.8% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Naomie Feller (88)** — 34k coins, **+45.1% em 7 dias** (+8.2% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bilal El Khannouss (92)** — 18k coins, **+42% em 7 dias** (+2.9% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bilal El Khannouss (92)** — 17.500 coins, **+42% em 7 dias** (+2.9% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Gabriel Martinelli (87, Premier League) lidera, com +77.3% em 7 dias a 117k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gabriel Martinelli (87, Premier League) lidera, com +74.6% em 7 dias a 96k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
