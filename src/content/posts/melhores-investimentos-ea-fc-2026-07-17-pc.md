@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T17:22:41.000Z
+pubDatetime: 2026-07-17T19:13:18.000Z
 title: "Investimentos EA FC: Pontas em 17/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.8% em 24h** e **+27.6% em 7 dias**.
-- **2 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.9% em 24h** e **+23.1% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Kim Seung Sub | 90 | — | 45k coins | +10.4% | +78.2% | Esticada |
-| Cody Gakpo | 86 | Premier League | 50k coins | +11.9% | +46.7% | Momentum moderado |
-| Jeremie Frimpong | 86 | Premier League | 163k coins | +20.7% | +40.5% | Esticada |
-| George Best | 90 | Icons | 169k coins | +5.6% | +39.7% | Momentum moderado |
-| Julian Quiñones | 95 | — | 51k coins | +5% | +37.3% | Momentum moderado |
-| Rivaldo | 91 | Icons | 114k coins | +9.5% | +31.4% | Momentum moderado |
-| Sergiño Dest | 93 | — | 18.250 coins | +2.7% | +29.3% | Momentum moderado |
-| Jérémy Doku | 84 | Premier League | 185k coins | +1.1% | +27.6% | Momentum moderado |
-| Edmilson Junior | 92 | — | 21k coins | +1.3% | +25.8% | Momentum moderado |
-| Ivan Perišić | 90 | Eredivisie | 67k coins | +18.6% | +25% | Momentum moderado |
-| Sultan Mandash | 93 | — | 24k coins | +7.8% | +22.8% | Momentum moderado |
-| Bradley Barcola | 92 | — | 105k coins | +16.5% | +21.5% | Momentum moderado |
-| Raphinha | 91 | LALIGA EA SPORTS | 149k coins | +4.2% | +18.3% | Entrada a observar |
-| Ferran Torres | 86 | LALIGA EA SPORTS | 54k coins | +1.9% | +16% | Entrada a observar |
-| Tabitha Chawinga | 91 | D1 Arkema | 183k coins | +10.2% | +15.8% | Momentum moderado |
+| Jeremie Frimpong | 86 | Premier League | 162k coins | +20% | +39.7% | Esticada |
+| Léo Scienza | 95 | — | 30k coins | +3.5% | +38.4% | Momentum moderado |
+| George Best | 90 | Icons | 160k coins | +20.7% | +35.2% | Esticada |
+| Ivan Perišić | 90 | Eredivisie | 76k coins | +1.3% | +34.5% | Momentum moderado |
+| Cody Gakpo | 86 | Premier League | 44k coins | +1.1% | +31.1% | Momentum moderado |
+| Paulo Futre | 88 | LALIGA EA SPORTS | 30k coins | +11.2% | +28% | Momentum moderado |
+| Athenea | 86 | Liga F | 60k coins | +20% | +23.1% | Esticada |
+| Gervinho | 85 | Serie A TIM | 24k coins | +21.2% | +22.6% | Esticada |
+| Tabitha Chawinga | 91 | D1 Arkema | 183k coins | +10.9% | +22% | Momentum moderado |
+| Timo Werner | 87 | Bundesliga | 56k coins | +10.9% | +20.4% | Momentum moderado |
+| Raphinha | 91 | LALIGA EA SPORTS | 149k coins | +4.2% | +20.2% | Entrada a observar |
+| Edmilson Junior | 92 | — | 19.750 coins | +2.6% | +16.2% | Entrada a observar |
+| Noa Lang | 91 | Trendyol Süper Lig | 65k coins | +5.8% | +14% | Momentum moderado |
+| Naomie Feller | 88 | — | 62k coins | +26.7% | +5.6% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Kim Seung Sub (90)** — 45k coins, **+78.2% em 7 dias** (+10.4% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kim Seung Sub (90)** — 45k coins, **+78.2% em 7 dias** (+10.4% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cody Gakpo (86)** — 50k coins, **+46.7% em 7 dias** (+11.9% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jeremie Frimpong (86)** — 162k coins, **+39.7% em 7 dias** (+20% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jeremie Frimpong (86)** — 163k coins, **+40.5% em 7 dias** (+20.7% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Léo Scienza (95)** — 30k coins, **+38.4% em 7 dias** (+3.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **George Best (90)** — 169k coins, **+39.7% em 7 dias** (+5.6% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **George Best (90)** — 160k coins, **+35.2% em 7 dias** (+20.7% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julian Quiñones (95)** — 51k coins, **+37.3% em 7 dias** (+5% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ivan Perišić (90)** — 76k coins, **+34.5% em 7 dias** (+1.3% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -106,7 +106,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Pontas em 17/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-17-pc/)
 - [Mercado EA FC em 17/07: Pontas — PC](/posts/mercado-ea-fc-2026-07-17-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
