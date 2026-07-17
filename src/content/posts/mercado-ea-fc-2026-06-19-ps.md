@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **-30,6%**: 9 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📊 Como está o mercado agora
+## Dados preservados do snapshot
 
-O cenário do mercado de Console para o segmento de Pontas nesta segunda-feira, 19 de junho de 2026, apresenta uma dominância esmagadora das quedas de valor, refletindo um sentimento de extrema cautela e pressão de vendas generalizada entre os traders. Com um balanço desproporcional de 14 altas contra 73 quedas registradas nas últimas 24 horas, a média geral de variação foi de -11.44%, indicando que a maioria dos ativos está sofrendo desvalorização significativa devido à falta de compradores dispostos a pagar os preços de pico. Este ambiente hostil exige uma leitura muito criteriosa dos dados, pois apenas uma minoria selecionada de cartas conseguiu se manter resiliente ou até mesmo valorizar, enquanto a grande maioria dos nomes populares e especulativos enfrentou uma sangria de capital sem precedentes. A volatilidade negativa sugere que o mercado está em uma fase de correção acentuada, onde a liquidez está concentrada apenas em ativos com fundamental muito forte ou em oportunidades de compra de pânico que ainda não foram totalmente exploradas. Traders que insistirem em segurar posições fracas ou tentar vender ativos sem demanda real serão fortemente penalizados por esta tendência bearish que parece se consolidar ao longo do dia.
+As 4 tabelas abaixo preservam **35 registros** de **31 jogadores** observados em 19/06/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Emilie Haavi (87) **+46.5%** · 🔴 **Maior baixa:** Mikel Gogorza (86) **-45.2%**
-
-## 🟢 Maiores altas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -47,11 +45,7 @@ O cenário do mercado de Console para o segmento de Pontas nesta segunda-feira, 
 | Nicklas Shipnoski | 80 | 3. Liga | 46k coins | +5.9% | -0.6% |
 | David Neres | 86 | Serie A TIM | 47k coins | +4.4% | -1.1% |
 
-
-Entre os poucos ilhéus de valorização, destacamos Emilie Haavi, cuja carta de 87 rating do Calcio A Femminile disparou impressionantes 46.5% em apenas 24 horas, atingindo a marca de 26 mil moedas, um movimento impulsionado por uma probabilidade de alta de 53% que atraiu compradores de curto prazo. Florian Thauvin, com seu card de 83 rating da Ligue 1 McDonald's, registrou uma alta sólida de 15.2%, subindo para 45 mil moedas, beneficiando-se de uma probabilidade de alta de 60% que indicou força compradora em um mercado de baixo investimento. O astro Mohamed Salah, com seu icônico card de 92 rating da Premier League, demonstrou resiliência com alta de 13.5%, atingindo 229 mil moedas, onde sua probabilidade de alta de 95% atua como um ímã para grandes capitais que buscam segurança em meio ao caos. John Barnes, o ícone de 87 rating, subiu 13% para 72 mil moedas, aproveitando uma probabilidade de alta de 60% que sugere uma demanda estável para cartas de legado em momentos de incerteza de mercado. Michelle Cooper, com seu card de 87 rating da NWSL, teve alta de 12.8% chegando a 22 mil moedas, impulsionada por uma altíssima probabilidade de alta de 93%, indicando que o mercado feminino está apresentando oportunidades de baixo custo com alto potencial de retorno imediato.
-
-
-## 🔴 Quem mais caiu (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -66,13 +60,7 @@ Entre os poucos ilhéus de valorização, destacamos Emilie Haavi, cuja carta de
 | Saeed Al Owairan | 91 | ROSHN Saudi League | 149k coins | -31.2% | -43.5% |
 | Rivaldo | 90 | Icons | 84k coins | -30.6% | -25% |
 
-
-No outro extremo, Mikel Gogorza sofreu a maior queda do dia, despencando 45.2% para 43 mil moedas, apesar de manter uma probabilidade de alta de 59%, o que sugere que o preço anterior estava superaquecido e a correção foi inevitável. Bradley Barcola, card de 90 rating da Ligue 1 McDonald's, caiu brutalmente 44.4% para 38 mil moedas, e com apenas 42% de probabilidade de alta, o risco de continuar caindo é extremamente elevado, caracterizando uma clássica armadilha de valor. Jeremie Frimpong, com seu card de 86 rating da Premier League, perdeu 43.1% atingindo 91 mil moedas, e embora tenha 95% de probabilidade de alta, a queda acentuada indica que o preço de entrada pode estar apenas começando a se formar após este pânico. Claudia Pina, a carta de 92 rating da Liga F, registrou queda de 36.7% para 344 mil moedas, mostrando que mesmo ativos de alta gama não estão imunes à pressão vendedora quando a probabilidade de alta é apenas de 50%. Couhaib Driouech caiu 36.1% para 69 mil moedas, e Lauren Hemp, com seu card de 90 rating da Barclays WSL, despencou 35.1% para 24 mil moedas, com probabilidade de alta de apenas 44%, o que torna qualquer compra neste momento uma aposta arriscada demais para a maioria dos traders.
-
-
-## 🔮 Radar de valorização (24h)
-
-Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
+### Probabilidades registradas no snapshot
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -85,13 +73,7 @@ Na publicação original, estas cartas receberam as maiores probabilidades de va
 | Mohamed Salah | 92 | 229k coins | 264k coins | 95% |
 | Bradley Barcola | 87 | 52k coins | 70k coins | 95% |
 
-
-O modelo de previsão identifica Gabriel Martinelli como oportunidade chave, com card de 87 rating da Premier League a 76 mil moedas e probabilidade de alta de 95%, sugerindo forte potencial de recuperação. Sandy Baltimore, card de 87 rating da Barclays WSL a 32 mil moedas, também apresenta 95% de probabilidade de alta, indicando uma compra de baixo custo com alto retorno esperado. Timo Werner, card de 87 rating da Bundesliga a 50 mil moedas, entra na lista de compras seguras com 95% de probabilidade de alta, aproveitando a correção recente do mercado. Athenea, com card de 86 rating da Liga F a 31 mil moedas, possui 95% de probabilidade de alta, oferecendo uma oportunidade diversificada no mercado feminino. Jeremie Frimpong, card de 86 rating da Premier League a 91 mil moedas, apesar da queda recente, tem 95% de probabilidade de alta, apontando para uma possível fundo no preço atual. Anass Zaroury, card de 86 rating da Hellas Liga a 56 mil moedas, também é recomendado com 95% de probabilidade de alta. Mohamed Salah e Bradley Barcola aparecem novamente nas previsões com 95% de probabilidade de alta em seus respectivos preços de 229k e 52k, reforçando a confiança do modelo em uma reversão de tendência a médio prazo para esses ativos específicos.
-
-
-## ⚠️ Cuidado: o modelo projeta queda
-
-Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h — segure a compra:
+### Tabela preservada 4
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
@@ -104,38 +86,14 @@ Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h 
 | Noni Madueke | 86 | 55k coins | -12.6% |
 | Víctor Ibarbo | 85 | 36k coins | -12.6% |
 
+## Como interpretar este arquivo
 
-## 🎯 O que fazer hoje
-A estratégia ideal para hoje é focar agressivamente na compra dos ativos listados nas previsões com 95% de probabilidade de alta, especialmente Gabriel Martinelli e Sandy Baltimore, que oferecem bom custo-benefício em um mercado de baixa. Deve-se evitar totalmente a compra de ativos em queda livre como Bradley Barcola e Mikel Gogorza, pois a falta de suporte técnico e a baixa probabilidade de alta imediata tornam essas posições extremamente perigosas para o capital. Traders devem considerar a venda de ativos com alta probabilidade de alta que já subiram significativamente, como Emilie Haavi, para realizar lucros rápidos antes que o momentum se esgote. É crucial manter uma reserva de liquidez alta, pois a tendência de quedas pode se estender, oferecendo oportunidades de compra ainda mais baratas nos dias seguintes para cartas como Jeremie Frimpong. A paciência é a chave, e a disciplina para não entrar em FOMO em quedas acentuadas será o que separará os traders lucrativos dos que perderão dinheiro nesta sessão de alta volatilidade e sentimento negativo.
-
-
-## 📐 Como o FutQuant le o mercado
-Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de varias fontes e atualizados ao longo do dia. Antes de publicar, filtramos **anomalias** (cartas extintas, erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. Você vê aqui o que poucos sites mostram: não só o preço, mas **para onde ele tende a ir**.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
-Emilie Haavi (87, Calcio A Femminile), com +46.5% em 24h, a 26k coins no Console (PS).
-
-**E a maior queda do dia?**
-Mikel Gogorza (86), -45.2% em 24h, a 43k coins.
-
-**Qual carta tinha maior probabilidade registrada nesse snapshot?**
-No snapshot histórico, Gabriel Martinelli (87) — 95% de probabilidade de alta, a 76k coins.
-
-**Como estava o mercado do EA FC nesse dia?**
-Naquele dia, o mercado estava pressionado — as quedas dominam o dia, com 14 cartas em alta contra 73 em queda (média -11.44%).
-
-**Posso confiar nos preços e previsões do FutQuant?**
-Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
-
-
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
-
----
-
-*Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **21k coins** a **344k coins**, com mediana de **47k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **-30,6%**.
+- A mediana das variações de 7d presentes nas tabelas foi **-4,3%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -145,3 +103,7 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 - [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.

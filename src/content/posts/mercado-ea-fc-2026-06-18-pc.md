@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **+0,5%**: 10 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📈 O mercado hoje, em resumo
+## Dados preservados do snapshot
 
-O mercado de pontas em PC para o dia 18 de junho de 2026 apresenta um cenário de alta volatilidade com predominância de quedas, refletindo um sentimento de lado onde os traders estão cautelosos e as oportunidades de arbitragem são mais difíceis de identificar devido à dispersão dos preços. Com 100 quedas contra apenas 67 altas e uma média negativa de 1.44% nas últimas 24 horas, o ambiente sugere que a maioria dos ativos está sob pressão de venda, possivelmente devido a ajustes pós-eventos ou desinteresse em metas específicas. Essa dinâmica exige que o investidor tenha olhos críticos para distinguir entre quedas fundamentais, que indicam perda de utilidade, e quedas temporárias causadas por excesso de oferta, onde há potencial de recompra. O tom do dia é de desconfiança controlada, onde os grandes movimentos de alta são isolados e muitas vezes ligados a promoções de curta duração, enquanto as quedas são mais generalizadas, afetando desde ícones caros até jogadores de liga menor. Portanto, a estratégia deve focar em aproveitar a liquidez gerada pelas quedas para recomprar ativos essenciais em preços descontados, evitando expor capital em ativos com tendência de alta incerta e probabilidade de reversão baixa.
+As 3 tabelas abaixo preservam **21 registros** de **19 jogadores** observados em 18/06/2026 no PC. Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** John Barnes (89) **+49.5%** · 🔴 **Maior baixa:** Raphinha (91) **-39.6%**
-
-## 🟢 Destaques de alta (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O mercado de pontas em PC para o dia 18 de junho de 2026 apresenta um cenário d
 | Armand Laurienté | 86 | Serie A TIM | 38k coins | +26.7% | +35.7% |
 | Timo Werner | 87 | Bundesliga | 60k coins | +25.7% | +50% |
 
-
-Entre as altas mais expressivas, John Barnes (89, Icons) se destaca com um impressionante aumento de 49.5% em 24h, atingindo 148k coins, impulsionado por sua probabilidade de alta de 65% que atrai especuladores de curto prazo. Mika Godts (87, Eredivisie) também sobe significativamente 49.2%, chegando a 30k coins, embora sua probabilidade de alta de 31% sugira que o movimento pode ser mais frágil e sujeito a correções rápidas. Debinha (89, NWSL) registra uma alta de 37.9% para 120k coins, com uma probabilidade de alta de 58% que indica um interesse sustentado, possivelmente devido à sua utilidade em squads femininos ou promoções específicas. Lauren Hemp (90, Barclays WSL) é outro destaque, subindo 36.6% para 49k coins, apoiada por uma alta probabilidade de alta de 73%, o que a torna uma das compras mais seguras no segmento de pontas femininas. Mohamed Salah (92, Premier League) encarece 30.7% para 210k coins, mas sua baixa probabilidade de alta de 23% alerta para uma possível saturação de demanda, tornando-o um ativo de risco para compras a longo prazo.
-
-
-## 🔴 Maiores baixas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,47 +61,20 @@ Entre as altas mais expressivas, John Barnes (89, Icons) se destaca com um impre
 | Désiré Doué | 91 | Ligue 1 McDonald's | 1.50M coins | -25% | 0% |
 | Rodrigo Zalazar | 84 | Liga Portugal | 34k coins | -24.7% | -11.3% |
 
-
-Nas quedas, Raphinha (91, LALIGA EA SPORTS) despencou 39.6% para 83k coins, uma queda drástica que pode ser uma oportunidade de compra se a probabilidade de alta de 30% se concretizar em breve, sugerindo um fundo técnico próximo. Naomie Feller (88, s/liga) caiu 33.8% para 53k coins, com baixa probabilidade de alta de 25%, indicando que o mercado pode ter perdido interesse no ativo, aumentando o risco de retenção de capital. Harvey Barnes (84, Premier League) sofreu uma queda de 31.6% para 28k coins, mas sua probabilidade de alta de 47% sugere que a venda foi exagerada e pode haver espaço para recompra estratégica. Bradley Barcola (90, Ligue 1 McDonald's) também caiu 31.5% para 100k coins, com probabilidade de alta de 23%, o que requer cautela extrema antes de entrar, pois a tendência de baixa parece forte. Claudia Pina (95, Liga F) recuou 29.8% para 1.36M coins, uma queda significativa para um ativo de alto valor, mas com probabilidade de alta de 39% que pode atrair traders de alto risco buscando recuperação.
-
-
-## ⚠️ Cartas em risco nas próximas 24h
-
-Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite comprar agora:
+### Tabela preservada 3
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
 | Mikel Gogorza | 86 | 70k coins | -14.4% |
 
+## Como interpretar este arquivo
 
-## 🎯 Conclusão do dia
-A estratégia do dia deve focar em comprar ativos com quedas acentuadas mas com probabilidade de alta moderada a alta, como Lauren Hemp (90, Barclays WSL) e Debinha (89, NWSL), que mostram sinais de sustentação e demanda recorrente. É recomendável evitar compras agressivas em ativos com altas recentes e baixa probabilidade de continuidade, como Mika Godts (87, Eredivisie) e Mohamed Salah (92, Premier League), pois o risco de reversão é elevado. Jogadores como Raphinha (91, LALIGA EA SPORTS) e Harvey Barnes (84, Premier League) merecem monitoramento próximo, pois suas quedas acentuadas combinadas com probabilidades de alta razoáveis podem oferecer pontos de entrada lucrativos para revenda em curto prazo. O timing ideal para compra é durante as horas de menor atividade do mercado, quando a pressão de venda diminui, permitindo a absorção de ofertas em preços mais baixos. Em resumo, priorize a recompra de essenciais com desconto e evite especular em altas sem fundamento, mantendo o capital protegido contra a volatilidade negativa predominante do dia.
-
-
-## ⚙️ A engine por tras deste post
-Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
-John Barnes (89, Icons), com +49.5% em 24h, a 148k coins no PC.
-
-**E a maior queda do dia?**
-Raphinha (91), -39.6% em 24h, a 83k coins.
-
-**O mercado do Ultimate Team subiu ou caiu hoje?**
-Naquele dia, o mercado estava de lado — altas e quedas se equilibram, com 67 cartas em alta contra 100 em queda (média -1.44%).
-
-**Os dados de preço do FutQuant são confiáveis?**
-Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
-
-
-> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
-
----
-
-*Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **20k coins** a **1.50M coins**, com mediana de **74k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **+0,5%**.
+- A mediana das variações de 7d presentes nas tabelas foi **+0,9%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -117,3 +84,7 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 - [Momentum de Pontas no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.
