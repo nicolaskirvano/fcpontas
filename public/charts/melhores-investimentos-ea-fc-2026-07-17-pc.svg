@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Said El Mala</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kerem Aktürkoğlu</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.5%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oumar Camara</text>
-<rect x="285" y="153" width="468" height="28" rx="7" fill="#22c55e"/>
-<text x="763" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Reyes Cleary</text>
-<rect x="285" y="211" width="457" height="28" rx="7" fill="#22c55e"/>
-<text x="752" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Athenea</text>
-<rect x="285" y="269" width="329" height="28" rx="7" fill="#22c55e"/>
-<text x="624" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.7%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Víctor Ibarbo</text>
-<rect x="285" y="327" width="315" height="28" rx="7" fill="#22c55e"/>
-<text x="610" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Edmilson Junior</text>
-<rect x="285" y="385" width="302" height="28" rx="7" fill="#22c55e"/>
-<text x="597" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.5%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rubén García</text>
+<rect x="285" y="153" width="477" height="28" rx="7" fill="#22c55e"/>
+<text x="772" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bradley Barcola</text>
+<rect x="285" y="211" width="417" height="28" rx="7" fill="#22c55e"/>
+<text x="712" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+75.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Saeed Al Owairan</text>
+<rect x="285" y="269" width="333" height="28" rx="7" fill="#22c55e"/>
+<text x="628" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">George Best</text>
+<rect x="285" y="327" width="277" height="28" rx="7" fill="#22c55e"/>
+<text x="572" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cody Gakpo</text>
+<rect x="285" y="385" width="253" height="28" rx="7" fill="#22c55e"/>
+<text x="548" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.6%</text>
 </svg>
