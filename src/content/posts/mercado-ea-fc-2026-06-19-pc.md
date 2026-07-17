@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Ponta Market"
 pubDatetime: 2026-06-20T01:15:03.000Z
-title: "Pontas no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Pontas no EA FC em 19/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,17 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Emilie Haavi (87, Calcio A Femminile), com +52.6% em 24h, a 30k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Bradley Barcola (92), -47.7% em 24h, a 68k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 49 cartas em alta contra 82 em queda (média -6.8%)."
-  - q: "Posso confiar nos preços e previsões do FutQuant?"
-    a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
+description: "Snapshot histórico de 19/06/2026 no PC: Emilie Haavi liderou as altas e Bradley Barcola as baixas em Pontas. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Emilie Haavi** registrou o maior movimento de 24h (+52,6%), enquanto **Bradley Barcola** marcou o menor (-47,7%). A distância entre os extremos foi de **100,3 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-6,9%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Pontas no EA FC em 19/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-19-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📊 Como está o mercado agora
 
@@ -68,7 +73,7 @@ Por outro lado, o lado bearish do mercado expõe quedas devastadoras em alguns d
 
 ## ⚠️ Cuidado: o modelo projeta queda
 
-O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
+Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h — segure a compra:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
@@ -85,16 +90,16 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Emilie Haavi (87, Calcio A Femminile), com +52.6% em 24h, a 30k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Bradley Barcola (92), -47.7% em 24h, a 68k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 49 cartas em alta contra 82 em queda (média -6.8%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava pressionado — as quedas dominam o dia, com 49 cartas em alta contra 82 em queda (média -6.8%).
 
-**Posso confiar nos preços e previsões do FutQuant?**  
+**Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
 
 
@@ -103,3 +108,12 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ---
 
 *Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Pontas no EA FC em 19/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-19-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Momentum de Pontas no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Ponta Market"
 pubDatetime: 2026-06-21T01:13:44.000Z
-title: "Pontas no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Pontas no EA FC em 20/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Ethan Nwaneri (91, Ligue 1 McDonald's), com +56.8% em 24h, a 64k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Rodrygo (89), -47.6% em 24h, a 196k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Sandy Baltimore (87) — 95% de probabilidade de alta, a 32k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 78 cartas em alta contra 71 em queda (média 3.99%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PS: Ethan Nwaneri liderou as altas e Rodrygo as baixas em Pontas. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Ethan Nwaneri** registrou o maior movimento de 24h (+56,8%), enquanto **Rodrygo** marcou o menor (-47,6%). A distância entre os extremos foi de **104,4 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+6,6%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Pontas no EA FC em 20/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-20-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de Pontas para Console (PS) exibe um viés claramente comprador nesta sessão de 20 de junho de 2026, com o sentimento geral dominado por valorizações que somam 78 altas contra apenas 71 quedas, resultando em uma média de alta de 3.99% nas últimas 24 horas. Essa dinâmica de preço reflete uma liquidez aquecida onde a escassez percebida em ativos específicos está sendo rapidamente capitalizada pelos traders, forçando uma recomposição agressiva dos pisos de mercado. O tom do dia é de otimismo cauteloso, pois, apesar da predominância das altas, a volatilidade permanece elevada, exigindo que os investidores estejam atentos não apenas aos ganhos percentuais brutos, mas à probabilidade estatística de continuidade dessas tendências. É um ambiente onde a indecisão é o maior inimigo, já que os fluxos de compra estão concentrados em poucos nomes, criando distorções de preço que podem se normalizar rapidamente se a narrativa mudar. A análise técnica e fundamentalista conjunta sugere que a melhor estratégia hoje é acompanhar os líderes de ganho com alta probabilidade de continuidade, evitando a entrada tardia em ativos que já consolidaram grandes patamares sem suporte de eventos futuros imediatos.
 
@@ -68,7 +71,7 @@ Ethan Nwaneri lidera o ranking de valorização com um impressionante aumento de
 Rodrygo sofreu uma queda brutal de 47.6% em 24 horas, recuando para 196k coins na LALIGA EA SPORTS, apesar de manter uma probabilidade de alta de 32%, o que sugere uma venda massiva de lucros ou ajuste de portfólio por grandes investidores. Wilson Odobert despencou 45% para 24k coins na Premier League, um movimento que parece contraditório dado sua alta probabilidade de alta de 95%, indicando possivelmente uma oportunidade de compra de pânico ou uma correção técnica extrema antes de uma recuperação prevista. Jens Petter Hauge caiu 25.9% para 24k coins na Eliteserien com baixa probabilidade de alta de 16%, refletindo a falta de interesse do mercado em ativos de ligas menores sem catalisadores imediatos. Paulo Futre também perdeu valor, com queda de 25.6% para 33k coins na Liga Portugal e probabilidade de alta de apenas 5%, confirmando a tendência de descida estrutural para este ativo histórico. Saeed Al Owairan, da ROSHN Saudi League, recuou 19.3% para 121k coins com probabilidade de alta de 38%, mostrando que até ídolos de ligas ricas estão sujeitos a volatilidade negativa quando a liquidez seca.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -113,19 +116,19 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Ethan Nwaneri (91, Ligue 1 McDonald's), com +56.8% em 24h, a 64k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Rodrygo (89), -47.6% em 24h, a 196k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Sandy Baltimore (87) — 95% de probabilidade de alta, a 32k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Sandy Baltimore (87) — 95% de probabilidade de alta, a 32k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 78 cartas em alta contra 71 em queda (média 3.99%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 78 cartas em alta contra 71 em queda (média 3.99%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Pontas baratos no EA FC em 20/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-20-ps/)
+- [Momentum de Pontas no EA FC em 20/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-20-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Ponta Market"
 pubDatetime: 2026-06-01T01:13:02.000Z
-title: "Pontas no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
+title: "Pontas no EA FC em 31/05: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Vini Jr. (90, LALIGA EA SPORTS), com +54.5% em 24h, a 740k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Rayan Cherki (87), -45.8% em 24h, a 71k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 73 cartas em alta contra 73 em queda (média 3.32%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 31/05/2026 no PC: Vini Jr. liderou as altas e Rayan Cherki as baixas em Pontas. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 31/05/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **73 subiram** e **73 caíram**, com variação média de **3.32%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Vini Jr.** registrou o maior movimento de 24h (+54,5%), enquanto **Rayan Cherki** marcou o menor (-45,8%). A distância entre os extremos foi de **100,3 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+2,9%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Pontas no EA FC em 31/05: altas e baixas — PC](/charts/mercado-ea-fc-2026-05-31-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** estava em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **73 subiram** e **73 caíram**, com variação média de **3.32%** nas últimas 24 horas. O recorte mostrava viés comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Vini Jr. (90) **+54.5%** · 🔴 **Maior baixa:** Rayan Cherki (87) **-45.8%**
 
@@ -46,9 +51,9 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **Vini Jr. (90)** subiu **+54.5%** em 24h, a **740k coins** (faixa do dia: 436k–800k). Está +17% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Vini Jr. (90)** subiu **+54.5%** em 24h, a **740k coins** (faixa do dia: 436k–800k). Está +17% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Antoine Semenyo (91)** subiu **+52.4%** em 24h, a **739k coins** (faixa do dia: 485k–780k). Está +12% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Antoine Semenyo (91)** subiu **+52.4%** em 24h, a **739k coins** (faixa do dia: 485k–780k). Está +12% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 - **Vini Jr. (89)** subiu **+49.2%** em 24h, a **25k coins** (faixa do dia: 16k–25k). Está +36% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
@@ -71,11 +76,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Rayan Cherki (87)** caiu **-45.8%** em 24h, a **71k coins** (faixa do dia: 71k–150k). Está -49% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Rayan Cherki (87)** caiu **-45.8%** em 24h, a **71k coins** (faixa do dia: 71k–150k). Está -49% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Caroline Graham Hansen (95)** caiu **-45.4%** em 24h, a **1.20M coins** (faixa do dia: 990k–2.20M). Está +16% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Caroline Graham Hansen (95)** caiu **-45.4%** em 24h, a **1.20M coins** (faixa do dia: 990k–2.20M). Está +16% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Ivan Perišić (86)** caiu **-30.1%** em 24h, a **25k coins** (faixa do dia: 25k–36k). Está -16% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Ivan Perišić (86)** caiu **-30.1%** em 24h, a **25k coins** (faixa do dia: 25k–36k). Está -16% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -94,16 +99,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
+**Qual foi a maior alta do EA FC hoje (31/05/2026)?**
 Vini Jr. (90, LALIGA EA SPORTS), com +54.5% em 24h, a 740k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Rayan Cherki (87), -45.8% em 24h, a 71k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 73 cartas em alta contra 73 em queda (média 3.32%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 73 cartas em alta contra 73 em queda (média 3.32%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -112,3 +117,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 31/05/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Pontas baratos no EA FC em 31/05 — PC](/posts/jogadores-baratos-ea-fc-2026-05-31-pc/)
+- [Momentum de Pontas no EA FC em 31/05 — PC](/posts/melhores-investimentos-ea-fc-2026-05-31-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

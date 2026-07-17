@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Ponta Market"
 pubDatetime: 2026-06-01T01:13:01.000Z
-title: "Pontas no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Pontas no EA FC em 31/05: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,23 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Jérémy Doku (84, Premier League), com +46.8% em 24h, a 124k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Rayan Cherki (87), -29% em 24h, a 98k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Jeremie Frimpong (86) — 95% de probabilidade de alta, a 137k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 57 cartas em alta contra 120 em queda (média -1.54%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 31/05/2026 no PS: Jérémy Doku liderou as altas e Rayan Cherki as baixas em Pontas. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 31/05/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **57 subiram** e **120 caíram**, com variação média de **-1.54%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Jérémy Doku** registrou o maior movimento de 24h (+46,8%), enquanto **Rayan Cherki** marcou o menor (-29,0%). A distância entre os extremos foi de **75,8 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-0,7%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Pontas no EA FC em 31/05: altas e baixas — PS](/charts/mercado-ea-fc-2026-05-31-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** estava em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **57 subiram** e **120 caíram**, com variação média de **-1.54%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Jérémy Doku (84) **+46.8%** · 🔴 **Maior baixa:** Rayan Cherki (87) **-29%**
 
@@ -48,7 +51,7 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ### Análise das altas
 
-- **Jérémy Doku (84)** subiu **+46.8%** em 24h, a **124k coins** (faixa do dia: 66k–124k). Está -17% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Jérémy Doku (84)** subiu **+46.8%** em 24h, a **124k coins** (faixa do dia: 66k–124k). Está -17% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 - **Ivan Perišić (90)** subiu **+42.9%** em 24h, a **35k coins** (faixa do dia: 20k–38k). Está +31% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
@@ -73,16 +76,16 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ### Análise das baixas
 
-- **Rayan Cherki (87)** caiu **-29%** em 24h, a **98k coins** (faixa do dia: 98k–143k). Está -18% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 93% de probabilidade.
+- **Rayan Cherki (87)** caiu **-29%** em 24h, a **98k coins** (faixa do dia: 98k–143k). Está -18% abaixo da média de 7 dias (descontada). 🔮 Naquele snapshot, o modelo projetava **recuperação** (reversão para alta), com 93% de probabilidade.
 
-- **Jens Petter Hauge (88)** caiu **-28.8%** em 24h, a **50k coins** (faixa do dia: 50k–70k). Está -16% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Jens Petter Hauge (88)** caiu **-28.8%** em 24h, a **50k coins** (faixa do dia: 50k–70k). Está -16% abaixo da média de 7 dias (descontada). ⚠️ Naquele snapshot, o modelo projetava **continuidade da queda** — ainda não encontrou fundo.
 
-- **Noni Madueke (86)** caiu **-28.4%** em 24h, a **53k coins** (faixa do dia: 49k–74k). Está -22% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Noni Madueke (86)** caiu **-28.4%** em 24h, a **53k coins** (faixa do dia: 49k–74k). Está -22% abaixo da média de 7 dias (descontada). ⚠️ Naquele snapshot, o modelo projetava **continuidade da queda** — ainda não encontrou fundo.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -119,19 +122,19 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
+**Qual foi a maior alta do EA FC hoje (31/05/2026)?**
 Jérémy Doku (84, Premier League), com +46.8% em 24h, a 124k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Rayan Cherki (87), -29% em 24h, a 98k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Jeremie Frimpong (86) — 95% de probabilidade de alta, a 137k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Jeremie Frimpong (86) — 95% de probabilidade de alta, a 137k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 57 cartas em alta contra 120 em queda (média -1.54%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 57 cartas em alta contra 120 em queda (média -1.54%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -140,3 +143,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 31/05/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Pontas baratos no EA FC em 31/05 — PS](/posts/jogadores-baratos-ea-fc-2026-05-31-ps/)
+- [Momentum de Pontas no EA FC em 31/05 — PS](/posts/melhores-investimentos-ea-fc-2026-05-31-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

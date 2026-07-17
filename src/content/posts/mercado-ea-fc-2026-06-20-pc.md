@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Ponta Market"
 pubDatetime: 2026-06-20T19:14:57.000Z
-title: "Pontas no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Pontas no EA FC em 20/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Gabriel Pec (81, MLS), com +59.5% em 24h, a 50k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Armand Laurienté (86), -43.3% em 24h, a 26k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 47 cartas em alta contra 95 em queda (média -3.82%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PC: Gabriel Pec liderou as altas e Armand Laurienté as baixas em Pontas. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Gabriel Pec** registrou o maior movimento de 24h (+59,5%), enquanto **Armand Laurienté** marcou o menor (-43,3%). A distância entre os extremos foi de **102,8 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+2,5%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Pontas no EA FC em 20/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-20-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O cenário de mercado para o segmento de Pontas no dia 20 de junho de 2026 apresenta uma volatilidade acentuada com um viés claramente bearish, evidenciado pela predominância das quedas em relação às altas, com 95 jogadores em queda contra apenas 47 em alta, resultando em uma média de desvalorização de -3.82% nas últimas 24 horas. Este ambiente hostil para traders de curto prazo exige extrema cautela, pois a liquidez está concentrada em poucos ativos que resistem à pressão vendedora geral, enquanto a maioria dos cards sofre erosão de valor devido à falta de demanda orgânica ou à saída de especuladores de posições de alta alavancagem. A probabilidade de alta estatística está diluída, o que significa que operar a favor do fluxo majoritário, ou seja, vendendo em topos ou segurando posições de longo prazo, parece ser a estratégia mais robusta para mitigar perdas nesta sessão específica. O trader experiente deve observar que, embora haja oportunidades de compra em ativos descontados, a confirmação de fundo ainda não se materializou, mantendo o risco de novas quedas significativo para quem busca ganhos rápidos de dia. Portanto, a análise de hoje foca em identificar os poucos ativos que quebraram essa tendência negativa e aqueles que estão em queda livre, oferecendo uma visão clara sobre onde o capital está fluindo e onde ele está sendo retirado do mercado.
 
@@ -85,16 +90,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Gabriel Pec (81, MLS), com +59.5% em 24h, a 50k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Armand Laurienté (86), -43.3% em 24h, a 26k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 47 cartas em alta contra 95 em queda (média -3.82%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 47 cartas em alta contra 95 em queda (média -3.82%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -103,3 +108,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Pontas baratos no EA FC em 20/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-20-pc/)
+- [Momentum de Pontas no EA FC em 20/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-20-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

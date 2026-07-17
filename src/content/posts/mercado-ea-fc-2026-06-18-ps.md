@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Ponta Market"
 pubDatetime: 2026-06-19T01:13:47.000Z
-title: "Pontas no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Pontas no EA FC em 18/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Anass Zaroury (86, Hellas Liga), com +45.3% em 24h, a 65k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Anthony Gordon (88), -34.7% em 24h, a 220k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Timo Werner (87) — 95% de probabilidade de alta, a 50k coins."
-  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 59 cartas em alta contra 100 em queda (média -0.53%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PS: Anass Zaroury liderou as altas e Anthony Gordon as baixas em Pontas. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Anass Zaroury** registrou o maior movimento de 24h (+45,3%), enquanto **Anthony Gordon** marcou o menor (-34,7%). A distância entre os extremos foi de **80,0 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+1,2%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Pontas no EA FC em 18/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-18-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📈 O mercado hoje, em resumo
 
@@ -84,7 +87,7 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 | Aoba Fujino | 91 | 31k coins | 40k coins | 95% |
 
 
-O modelo projeta altas significativas para Timo Werner (87, Bundesliga) a 50k coins, Saeed Al Owairan (85, ROSHN Saudi League) a 79k coins, Jeremie Frimpong (86, Premier League) a 156k coins, Sandy Baltimore (87, Barclays WSL) a 32k coins, Garrincha (92, Icons) a 173k coins, Bradley Barcola (87, Ligue 1 McDonald's) a 134k coins, Olivia Smith (86, Barclays WSL) a 60k coins e Aoba Fujino (91, s/liga) a 31k coins, todos com probabilidade de alta de 95%, indicando uma convergência forte de fatores de mercado que devem impulsionar esses ativos nas próximas horas, oferecendo oportunidades claras de arbitragem e valorização rápida para traders ágeis.
+Naquele snapshot, o modelo projetava altas significativas para Timo Werner (87, Bundesliga) a 50k coins, Saeed Al Owairan (85, ROSHN Saudi League) a 79k coins, Jeremie Frimpong (86, Premier League) a 156k coins, Sandy Baltimore (87, Barclays WSL) a 32k coins, Garrincha (92, Icons) a 173k coins, Bradley Barcola (87, Ligue 1 McDonald's) a 134k coins, Olivia Smith (86, Barclays WSL) a 60k coins e Aoba Fujino (91, s/liga) a 31k coins, todos com probabilidade de alta de 95%, indicando uma convergência forte de fatores de mercado que devem impulsionar esses ativos nas próximas horas, oferecendo oportunidades claras de arbitragem e valorização rápida para traders ágeis.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -113,19 +116,19 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Anass Zaroury (86, Hellas Liga), com +45.3% em 24h, a 65k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Anthony Gordon (88), -34.7% em 24h, a 220k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Timo Werner (87) — 95% de probabilidade de alta, a 50k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Timo Werner (87) — 95% de probabilidade de alta, a 50k coins.
 
-**O mercado do Ultimate Team subiu ou caiu hoje?**  
+**O mercado do Ultimate Team subiu ou caiu hoje?**
 Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 59 cartas em alta contra 100 em queda (média -0.53%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
@@ -134,3 +137,12 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Pontas no EA FC em 18/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-18-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Momentum de Pontas no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
