@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:13:07.000Z
-title: "Pontas no EA FC hoje (16/07/2026): mercado, altas, baixas e previsões — Console (PS)"
+pubDatetime: 2026-07-17T00:00:22.000Z
+title: "Mercado EA FC em 16/07: Pontas — Console (PS)"
 draft: false
 featured: true
 tags:
@@ -10,96 +10,103 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 16/07/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
+description: "Dados de 16/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
-    a: "Alejandro Garnacho (89, Premier League), com +49.5% em 24h, a 299k coins no Console (PS)."
+    a: "Chloe Kelly (88, Barclays WSL), com +48.3% em 24h, a 129k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Couhaib Driouech (86), -40.5% em 24h, a 32k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Ivan Perišić (86) — 82% de probabilidade de alta, a 32k coins."
+    a: "Mohamed Salah (92), -34.8% em 24h, a 245k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 88 cartas em alta contra 80 em queda (média 0.46%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 89 cartas em alta contra 94 em queda (média -0.03%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **16/07/2026** no Console (PS) com dia **indefinido** — sem tendência dominante: **88 cartas subiram** e **80 caíram** (80+ acima de 5k coins), variação média de **0.46%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **16/07/2026** no Console (PS) com dia **indefinido** — sem tendência dominante: **89 cartas subiram** e **94 caíram** (80+ acima de 5k coins), variação média de **-0.03%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Alejandro Garnacho (89) **+49.5%** · 🔴 **Maior baixa:** Couhaib Driouech (86) **-40.5%**
+> 🟢 **Maior alta:** Chloe Kelly (88) **+48.3%** · 🔴 **Maior baixa:** Mohamed Salah (92) **-34.8%**
+
+![Gráfico de variação em 24h para os destaques de Mercado EA FC em 16/07: Pontas — Console (PS)](/charts/mercado-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Leitura específica deste recorte
+
+- **Amplitude do dia:** 83.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.6% entre as cartas que se moveram; o universo observado reúne 203 cartas.
+- **Concentração:** Premier League aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alejandro Garnacho | 89 | Premier League | 299k coins | +49.5% | +88.1% |
-| Debinha | 89 | NWSL | 206k coins | +38% | +23.2% |
-| Raphinha | 91 | LALIGA EA SPORTS | 330k coins | +36.9% | +74.6% |
-| Phil Foden | 86 | Premier League | 50k coins | +30% | 0% |
-| Wilson Odobert | 87 | Premier League | 39k coins | +28% | +37.1% |
-| Yan Diomande | 92 | — | 31k coins | +27.6% | +20.7% |
-| Aoba Fujino | 91 | — | 42k coins | +26.6% | +125% |
-| Antoine Semenyo | 91 | Premier League | 183k coins | +24.1% | +28.6% |
-| Ivan Perišić | 86 | Eredivisie | 32k coins | +23.3% | +22.1% |
-| Cody Gakpo | 86 | Premier League | 47k coins | +23% | +37.5% |
+| Chloe Kelly | 88 | Barclays WSL | 129k coins | +48.3% | +126.3% |
+| Joe Cole | 87 | Premier League | 24k coins | +46.9% | -6% |
+| Yan Diomande | 92 | — | 35k coins | +37.3% | +25% |
+| Phil Foden | 86 | Premier League | 65k coins | +30% | 0% |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 81k coins | +28.5% | +41.5% |
+| Gabriel Martinelli | 87 | Premier League | 117k coins | +27.2% | +77.3% |
+| Antoine Semenyo | 91 | Premier League | 178k coins | +22.9% | +31.5% |
+| Armand Laurienté | 86 | Serie A TIM | 22k coins | +22.5% | -9.3% |
+| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 45k coins | +21.8% | +27.9% |
+| Linda Caicedo | 87 | Liga F | 32k coins | +21.4% | -33.6% |
 
 
 ### Análise das altas
 
-- **Alejandro Garnacho (89)** subiu **+49.5%** em 24h, a **299k coins** (faixa do dia: 172k–299k). Está +48% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Chloe Kelly (88)** subiu **+48.3%** em 24h, a **129k coins** (faixa do dia: 68k–129k). Está +66% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Debinha (89)** subiu **+38%** em 24h, a **206k coins** (faixa do dia: 120k–207k). Está +16% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Joe Cole (87)** subiu **+46.9%** em 24h, a **24k coins** (faixa do dia: 14k–26k). Está +22% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Raphinha (91)** subiu **+36.9%** em 24h, a **330k coins** (faixa do dia: 210k–350k). Está +45% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Yan Diomande (92)** subiu **+37.3%** em 24h, a **35k coins** (faixa do dia: 25k–35k). Está +31% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Couhaib Driouech | 86 | Eredivisie | 32k coins | -40.5% | -55.6% |
-| Mohamed Salah | 92 | Premier League | 268k coins | -38.2% | +22.7% |
-| Johan Bakayoko | 88 | Bundesliga | 26k coins | -27.9% | -19.1% |
-| George Best | 90 | Icons | 195k coins | -26.5% | +36.4% |
-| Gervinho | 85 | Serie A TIM | 27k coins | -24.2% | -13.8% |
-| Gareth Bale | 94 | Icons | 2.48M coins | -24.2% | +2.3% |
-| Bradley Barcola | 87 | Ligue 1 McDonald's | 165k coins | -23.4% | +41.7% |
-| Caroline Graham Hansen | 90 | Liga F | 25k coins | -23.1% | +56.2% |
-| Mikel Gogorza | 86 | 3F Superliga | 37k coins | -22.9% | +85% |
-| Anis Hadj-Moussa | 86 | Eredivisie | 78k coins | -21.6% | -17% |
+| Mohamed Salah | 92 | Premier League | 245k coins | -34.8% | +17.3% |
+| George Best | 90 | Icons | 171k coins | -29% | +36.4% |
+| Garrincha | 93 | Icons | 889k coins | -28.9% | +13.2% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 74k coins | -24.8% | -18.7% |
+| Gervinho | 87 | Serie A TIM | 90k coins | -24.6% | +38.5% |
+| Rayan Cherki | 87 | Premier League | 52k coins | -23.2% | -42.4% |
+| Caroline Graham Hansen | 90 | Liga F | 25k coins | -23.1% | +75.4% |
+| Jeremie Frimpong | 86 | Premier League | 150k coins | -20.7% | +30% |
+| Vini Jr. | 92 | LALIGA EA SPORTS | 831k coins | -20.5% | -5% |
+| John Barnes | 89 | Icons | 48k coins | -19.8% | -7.3% |
 
 
 ### Análise das baixas
 
-- **Couhaib Driouech (86)** caiu **-40.5%** em 24h, a **32k coins** (faixa do dia: 31k–72k). Está -27% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Mohamed Salah (92)** caiu **-34.8%** em 24h, a **245k coins** (faixa do dia: 220k–385k). Está -21% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Mohamed Salah (92)** caiu **-38.2%** em 24h, a **268k coins** (faixa do dia: 220k–390k). Está -13% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **George Best (90)** caiu **-29%** em 24h, a **171k coins** (faixa do dia: 171k–278k). Está em linha com a média de 7 dias (-7%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Johan Bakayoko (88)** caiu **-27.9%** em 24h, a **26k coins** (faixa do dia: 19k–38k). Está em linha com a média de 7 dias (-7%). O modelo vê **estabilização** no curto prazo.
-
-
-## 🔮 Radar de valorização (24h)
-
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
-
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Ivan Perišić | 86 | 32k coins | 33k coins | 82% |
-| Claudia Pina | 88 | 122k coins | 126k coins | 49% |
-| Jerzy Dudek | 87 | 38k coins | 40k coins | 46% |
-| Rayan Cherki | 87 | 54k coins | 56k coins | 42% |
+- **Garrincha (93)** caiu **-28.9%** em 24h, a **889k coins** (faixa do dia: 667k–1.05M). Está +9% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
-## ⚠️ Cuidado: o modelo projeta queda
+## Decisão prática para hoje
 
-O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
+- **Evite perseguir topo:** Chloe Kelly já avançou 48.3% em 24h; espere nova cotação antes de entrar.
 
-| Jogador | OVR | Preço atual | Variação prevista |
-| --- | --- | --- | --- |
-| Wilson Odobert | 87 | 39k coins | -2.2% |
+- **Queda não é compra automática:** Mohamed Salah recuou -34.8%; confirme estabilização e liquidez.
 
+- Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
+
+
+
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Jogadores baratos EA FC: Pontas em 16/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-16-ps/)
+- [Investimentos EA FC: Pontas em 16/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
 
 ## 📊 Nossa metodologia em 30 segundos
 Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de **centenas de milhoes de registros**. Removemos cotações irreais, comparamos o agora com a **média móvel** recente e medimos a volatilidade. Por isso o número que você lê vem com contexto: faixa, tendência e projeção.
@@ -108,16 +115,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (16/07/2026)?**  
-Alejandro Garnacho (89, Premier League), com +49.5% em 24h, a 299k coins no Console (PS).
+Chloe Kelly (88, Barclays WSL), com +48.3% em 24h, a 129k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Couhaib Driouech (86), -40.5% em 24h, a 32k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Ivan Perišić (86) — 82% de probabilidade de alta, a 32k coins.
+Mohamed Salah (92), -34.8% em 24h, a 245k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 88 cartas em alta contra 80 em queda (média 0.46%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 89 cartas em alta contra 94 em queda (média -0.03%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

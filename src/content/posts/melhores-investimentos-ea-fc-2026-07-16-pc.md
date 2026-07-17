@@ -1,73 +1,95 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:13:18.000Z
-title: "Melhores investimentos em Pontas no EA FC (16/07/2026): análise e previsões — PC"
+pubDatetime: 2026-07-17T00:00:34.000Z
+title: "Investimentos EA FC: Pontas em 16/07 — PC"
 draft: false
 featured: true
 tags:
   - investimentos
   - trading
-  - previsoes
+  - momentum
+  - risco
   - pc
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
+description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Julian Quiñones (95, sem liga) lidera, com +59.5% em 7 dias a 65k coins no PC."
+    a: "David Neres (86, Serie A TIM) lidera, com +62.2% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
     a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
 ---
 
-## Por que estas cartas
+## Critério deste radar
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **PC**:
+Esta lista de **16/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Julian Quiñones (95) acumula **+59.5% em 7 dias** a 65k coins.
+> 🔝 **Destaque:** David Neres (86) acumula **+62.2% em 7 dias** a 60k coins; leitura atual: **esticada**.
+
+![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 16/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-16-pc.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## O que os números desta lista mostram
+
+- A mediana é de **+8.9% em 24h** e **+23.9% em 7 dias**.
+- **2 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de perseguir o movimento:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Julian Quiñones | 95 | — | 65k coins | +32% | +59.5% | 0% |
-| Oumar Camara | 90 | — | 47k coins | +6.8% | +56.7% | 0% |
-| Daniela Agote | 91 | — | 38k coins | +4.2% | +53.1% | 0% |
-| Reyes Cleary | 90 | — | 45k coins | +3.4% | +50% | 0% |
-| Sultan Mandash | 93 | — | 20k coins | +8.6% | +46.4% | 0% |
-| Said El Mala | 90 | — | 40k coins | +34.4% | +42.4% | 0% |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 50k coins | +25% | +37% | 37% |
-| Ivan Perišić | 90 | Eredivisie | 75k coins | +25% | +33.9% | 16% |
-| Bartosz Nowak | 93 | — | 28k coins | +10.9% | +33.3% | 0% |
-| Emilie Haavi | 87 | Calcio A Femminile | 35k coins | +17.6% | +30.8% | 0% |
-| Rivaldo | 91 | Icons | 115k coins | +15.8% | +27.9% | 0% |
-| Noa Lang | 91 | Trendyol Süper Lig | 65k coins | +13% | +22.6% | 0% |
-| Debinha | 89 | NWSL | 220k coins | +22.2% | +22.2% | 0% |
-| Marco Asensio | 85 | Trendyol Süper Lig | 32k coins | +4.8% | +21.5% | 23% |
-| Raphinha | 91 | LALIGA EA SPORTS | 138k coins | +15.3% | +10.9% | 0% |
+| David Neres | 86 | Serie A TIM | 60k coins | +27% | +62.2% | Esticada |
+| Oumar Camara | 90 | — | 47k coins | +12.6% | +56.7% | Momentum moderado |
+| Daniela Agote | 91 | — | 34k coins | +2% | +53.1% | Momentum moderado |
+| Gabriel Martinelli | 87 | Premier League | 110k coins | +10% | +46.7% | Momentum moderado |
+| Bilal El Khannouss | 92 | — | 17k coins | +2.7% | +46.2% | Momentum moderado |
+| Edmilson Junior | 92 | — | 20k coins | +3.9% | +33.3% | Momentum moderado |
+| Bartosz Nowak | 93 | — | 26k coins | +8.9% | +31% | Momentum moderado |
+| Emilie Haavi | 87 | Calcio A Femminile | 35k coins | +17.6% | +23.9% | Momentum moderado |
+| Ernest Muçi | 92 | — | 24k coins | +5.4% | +22.5% | Momentum moderado |
+| Debinha | 89 | NWSL | 220k coins | +22.2% | +22.2% | Esticada |
+| Marco Asensio | 85 | Trendyol Süper Lig | 32k coins | +4% | +21.5% | Entrada a observar |
+| Armand Laurienté | 86 | Serie A TIM | 40k coins | +14.4% | +16.8% | Momentum moderado |
+| Paulo Futre | 92 | Liga Portugal | 120k coins | +14.2% | +16% | Momentum moderado |
+| Antoine Semenyo | 96 | — | 239k coins | +1.7% | +12.8% | Entrada a observar |
+| Jérémy Doku | 84 | Premier League | 166k coins | +7.8% | +10.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Julian Quiñones (95)** — 65k coins, **+59.5% em 7 dias** (+32% em 24h). Preço +44% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **David Neres (86)** — 60k coins, **+62.2% em 7 dias** (+27% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oumar Camara (90)** — 47k coins, **+56.7% em 7 dias** (+6.8% em 24h). Preço +58% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Oumar Camara (90)** — 47k coins, **+56.7% em 7 dias** (+12.6% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniela Agote (91)** — 38k coins, **+53.1% em 7 dias** (+4.2% em 24h). Preço +52% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Daniela Agote (91)** — 34k coins, **+53.1% em 7 dias** (+2% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Reyes Cleary (90)** — 45k coins, **+50% em 7 dias** (+3.4% em 24h). Preço +42% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Gabriel Martinelli (87)** — 110k coins, **+46.7% em 7 dias** (+10% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sultan Mandash (93)** — 20k coins, **+46.4% em 7 dias** (+8.6% em 24h). Preço em linha com a média de 7 dias (-2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Bilal El Khannouss (92)** — 17k coins, **+46.2% em 7 dias** (+2.7% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
 
 - **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
 - Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
-- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- **Liquidez importa**: cartas de ligas e ratings populares tendem a vender mais rápido.
+- Em cartas *esticadas*, espere uma nova cotação ou correção; não trate alta passada como promessa futura.
 
+
+
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Jogadores baratos EA FC: Pontas em 16/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-16-pc/)
+- [Mercado EA FC em 16/07: Pontas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
 
 ## 📊 Nossa metodologia em 30 segundos
 Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de **centenas de milhoes de registros**. Removemos cotações irreais, comparamos o agora com a **média móvel** recente e medimos a volatilidade. Por isso o número que você lê vem com contexto: faixa, tendência e projeção.
@@ -76,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Julian Quiñones (95, sem liga) lidera, com +59.5% em 7 dias a 65k coins no PC.
+David Neres (86, Serie A TIM) lidera, com +62.2% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
