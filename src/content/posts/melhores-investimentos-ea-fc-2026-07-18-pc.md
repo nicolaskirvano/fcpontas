@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T16:13:18.000Z
+pubDatetime: 2026-07-18T19:13:18.000Z
 title: "Investimentos EA FC: Pontas em 18/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Aoba Fujino (91, sem liga) lidera, com +81.8% em 7 dias a 40k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Oumar Camara (90, sem liga) lidera, com +74.3% em 7 dias a 46k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Aoba Fujino (91) acumula **+81.8% em 7 dias** a 40k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Oumar Camara (90) acumula **+74.3% em 7 dias** a 46k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 18/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-18-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.2% em 24h** e **+23.5% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.1% em 24h** e **+22.8% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Aoba Fujino | 91 | — | 40k coins | +14.3% | +81.8% | Esticada |
-| Oumar Camara | 90 | — | 42k coins | +26.7% | +69.6% | Esticada |
-| Said El Mala | 90 | — | 37k coins | +7% | +61% | Esticada |
-| George Best | 90 | Icons | 211k coins | +27.8% | +55.4% | Esticada |
-| Tabitha Chawinga | 91 | D1 Arkema | 185k coins | +1.1% | +38.1% | Momentum moderado |
-| Claudiu Petrila | 86 | SUPERLIGA | 49k coins | +8.2% | +32.2% | Momentum moderado |
-| Oscar Bobb | 95 | — | 16.500 coins | +11.7% | +24.1% | Momentum moderado |
-| Rodrigo Zalazar | 84 | Liga Portugal | 50k coins | +31.6% | +23.5% | Esticada |
-| Athenea | 86 | Liga F | 54k coins | +7.8% | +17% | Momentum moderado |
-| Pernille Harder | 87 | Liga F | 44k coins | +4.1% | +15.6% | Entrada a observar |
-| Bilal El Khannouss | 92 | — | 17.000 coins | +4.1% | +15.2% | Entrada a observar |
-| Garrincha | 92 | Icons | 170k coins | +12% | +12% | Momentum moderado |
-| Kiko Seike | 87 | Barclays WSL | 21k coins | +25.8% | +9.2% | Esticada |
-| Raphinha | 93 | — | 92k coins | +1.1% | +7.1% | Entrada a observar |
-| Gabriel Martinelli | 87 | Premier League | 106k coins | +2.9% | +6% | Entrada a observar |
+| Oumar Camara | 90 | — | 46k coins | +16.6% | +74.3% | Esticada |
+| George Best | 90 | Icons | 194k coins | +19% | +43.9% | Momentum moderado |
+| Jens Petter Hauge | 88 | Eliteserien | 120k coins | +20% | +41.2% | Esticada |
+| Jérémy Doku | 84 | Premier League | 249k coins | +28.4% | +36.3% | Esticada |
+| Ivan Perišić | 90 | Eredivisie | 70k coins | +4.5% | +35.9% | Momentum moderado |
+| Gervinho | 85 | Serie A TIM | 28k coins | +9.7% | +34.5% | Momentum moderado |
+| Gustav Isaksen | 87 | Serie A TIM | 65k coins | +22.6% | +23.8% | Esticada |
+| Caroline Weir | 86 | Liga F | 42k coins | +38% | +22.8% | Esticada |
+| John Barnes | 89 | Icons | 70k coins | +18.4% | +22.2% | Momentum moderado |
+| Oscar Bobb | 95 | — | 17.000 coins | +4.8% | +20.4% | Entrada a observar |
+| Pernille Harder | 87 | Liga F | 44k coins | +7.2% | +17.1% | Momentum moderado |
+| Denis Bouanga | 86 | — | 33k coins | +3.4% | +16.9% | Entrada a observar |
+| Garrincha | 92 | Icons | 175k coins | +14.1% | +15.6% | Momentum moderado |
+| Kiko Seike | 87 | Barclays WSL | 21k coins | +6.4% | +9.2% | Momentum moderado |
+| Alex Pfeiffer | 90 | NWSL | 215k coins | +7.5% | +7.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Aoba Fujino (91)** — 40k coins, **+81.8% em 7 dias** (+14.3% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oumar Camara (90)** — 46k coins, **+74.3% em 7 dias** (+16.6% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oumar Camara (90)** — 42k coins, **+69.6% em 7 dias** (+26.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **George Best (90)** — 194k coins, **+43.9% em 7 dias** (+19% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Said El Mala (90)** — 37k coins, **+61% em 7 dias** (+7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jens Petter Hauge (88)** — 120k coins, **+41.2% em 7 dias** (+20% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **George Best (90)** — 211k coins, **+55.4% em 7 dias** (+27.8% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jérémy Doku (84)** — 249k coins, **+36.3% em 7 dias** (+28.4% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tabitha Chawinga (91)** — 185k coins, **+38.1% em 7 dias** (+1.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ivan Perišić (90)** — 70k coins, **+35.9% em 7 dias** (+4.5% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Aoba Fujino (91, sem liga) lidera, com +81.8% em 7 dias a 40k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Oumar Camara (90, sem liga) lidera, com +74.3% em 7 dias a 46k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,7 +106,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Pontas em 18/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-18-pc/)
 - [Mercado EA FC em 18/07: Pontas — PC](/posts/mercado-ea-fc-2026-07-18-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
