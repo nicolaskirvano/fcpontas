@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:13:17.000Z
+pubDatetime: 2026-07-18T13:13:17.000Z
 title: "Mercado EA FC em 18/07: Pontas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Ashley Sanchez (87, NWSL), com +55.9% em 24h, a 49k coins no PC."
+    a: "Lukáš Haraslín (89, Česká Liga), com +55.6% em 24h, a 23k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Lee Kang In (95), -40.5% em 24h, a 170k coins."
+    a: "Gustav Isaksen (87), -44.9% em 24h, a 32k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 61 cartas em alta contra 99 em queda (média -3.43%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 61 cartas em alta contra 96 em queda (média -2.09%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**18/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **61 subiram**, **99 caíram** (80+ e 5k+ coins), média de **-3.43%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**18/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **61 subiram**, **96 caíram** (80+ e 5k+ coins), média de **-2.09%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Ashley Sanchez (87) **+55.9%** · 🔴 **Maior baixa:** Lee Kang In (95) **-40.5%**
+> 🟢 **Maior alta:** Lukáš Haraslín (89) **+55.6%** · 🔴 **Maior baixa:** Gustav Isaksen (87) **-44.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Pontas — PC](/charts/mercado-ea-fc-2026-07-18-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**18/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maio
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 96.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 38.1% entre as cartas que se moveram; o universo observado reúne 197 cartas.
-- **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 100.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 38.9% entre as cartas que se moveram; o universo observado reúne 195 cartas.
+- **Concentração:** Barclays WSL aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ashley Sanchez | 87 | NWSL | 49k coins | +55.9% | -25.6% |
-| Oscar Bobb | 85 | Premier League | 30k coins | +50.9% | +23.9% |
-| João Félix | 86 | ROSHN Saudi League | 270k coins | +50.8% | +11.1% |
-| Madison Haley | 85 | Barclays WSL | 30k coins | +48.1% | +90.5% |
-| George Best | 90 | Icons | 233k coins | +36.8% | +76.3% |
-| Lauren Hemp | 90 | Barclays WSL | 55k coins | +35% | +37.5% |
-| Couhaib Driouech | 86 | Eredivisie | 107k coins | +33.7% | +34.6% |
-| Juan Iturbe | 85 | Libertadores | 25k coins | +25.3% | -14.7% |
-| Antonio Di Natale | 89 | Serie A TIM | 340k coins | +23.6% | +14.5% |
-| Rafael Leão | 87 | Serie A TIM | 1.05M coins | +22.8% | +31.2% |
+| Lukáš Haraslín | 89 | Česká Liga | 23k coins | +55.6% | -10.9% |
+| Couhaib Driouech | 86 | Eredivisie | 101k coins | +42.3% | +26.9% |
+| Salma Paralluelo | 96 | — | 5M coins | +38.9% | +66.7% |
+| Madison Haley | 85 | Barclays WSL | 27k coins | +35.8% | +66.7% |
+| Lauren Hemp | 90 | Barclays WSL | 55k coins | +35% | +43.8% |
+| Juan Iturbe | 85 | Libertadores | 25k coins | +33.8% | -14.7% |
+| Rodrigo Zalazar | 84 | Liga Portugal | 50k coins | +31.6% | +7.5% |
+| Mika Godts | 93 | — | 36k coins | +31.2% | +45.9% |
+| George Best | 90 | Icons | 222k coins | +31% | +64% |
+| Gervinho | 85 | Serie A TIM | 24k coins | +29.3% | +17.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**18/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maio
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ashley Sanchez (87)** subiu **+55.9%** em 24h, a **49k coins** (faixa do dia: 28k–80k). Está -19% abaixo da média de 7 dias (descontada).
+- **Lukáš Haraslín (89)** subiu **+55.6%** em 24h, a **23k coins** (faixa do dia: 11.250–41k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Oscar Bobb (85)** subiu **+50.9%** em 24h, a **30k coins** (faixa do dia: 10.750–30k). Está +80% acima da média de 7 dias (aquecida).
+- **Couhaib Driouech (86)** subiu **+42.3%** em 24h, a **101k coins** (faixa do dia: 70k–109k). Está em linha com a média de 7 dias (-4%).
 
-- **João Félix (86)** subiu **+50.8%** em 24h, a **270k coins** (faixa do dia: 149k–270k). Está +21% acima da média de 7 dias (aquecida).
+- **Salma Paralluelo (96)** subiu **+38.9%** em 24h, a **5M coins** (faixa do dia: 2.80M–5M). Está +38% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lee Kang In | 95 | — | 170k coins | -40.5% | -14.1% |
-| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 50k coins | -37.1% | -28.6% |
-| Naomie Feller | 88 | — | 46k coins | -37% | -28.9% |
-| Noni Madueke | 86 | Premier League | 50k coins | -33.3% | +5.5% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 1.99M coins | -31.2% | -16.9% |
-| Ronaldinho | 97 | — | 3.69M coins | -30.7% | -17.9% |
-| Lionel Messi | 97 | — | 2.70M coins | -28.8% | -35.7% |
-| Zizo | 95 | — | 45k coins | -28.1% | -29.6% |
-| Denis Bouanga | 95 | — | 45k coins | -28% | +2.3% |
-| Désiré Doué | 96 | — | 959k coins | -27.4% | -51.5% |
+| Gustav Isaksen | 87 | Serie A TIM | 32k coins | -44.9% | -43.9% |
+| Zizo | 95 | — | 36k coins | -38.7% | -40% |
+| Yan Diomande | 84 | Bundesliga | 40k coins | -38.3% | -38.3% |
+| Bradley Barcola | 87 | Ligue 1 McDonald's | 166k coins | -32.2% | -5.4% |
+| Jerzy Dudek | 87 | Premier League | 49k coins | -31.6% | -36.9% |
+| Daniela Agote | 91 | — | 38k coins | -30.2% | +14.1% |
+| Léo Scienza | 95 | — | 24k coins | -30% | -5.6% |
+| Vini Jr. | 92 | LALIGA EA SPORTS | 1.50M coins | -29.7% | -7% |
+| Oumar Camara | 90 | — | 48k coins | -29.7% | -2.7% |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 59k coins | -29% | +9.1% |
 
 
 ### Análise das baixas
 
-- **Lee Kang In (95)** caiu **-40.5%** em 24h, a **170k coins** (faixa do dia: 160k–310k). Está -22% abaixo da média de 7 dias (descontada).
+- **Gustav Isaksen (87)** caiu **-44.9%** em 24h, a **32k coins** (faixa do dia: 32k–58k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Anthony Nwakaeme (87)** caiu **-37.1%** em 24h, a **50k coins** (faixa do dia: 47k–84k). Está -26% abaixo da média de 7 dias (descontada).
+- **Zizo (95)** caiu **-38.7%** em 24h, a **36k coins** (faixa do dia: 34k–67k). Está -41% abaixo da média de 7 dias (descontada).
 
-- **Naomie Feller (88)** caiu **-37%** em 24h, a **46k coins** (faixa do dia: 46k–82k). Está -27% abaixo da média de 7 dias (descontada).
+- **Yan Diomande (84)** caiu **-38.3%** em 24h, a **40k coins** (faixa do dia: 35k–60k). Está -23% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ashley Sanchez já avançou 55.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lukáš Haraslín já avançou 55.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Lee Kang In recuou -40.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Gustav Isaksen recuou -44.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Ashley Sanchez (87, NWSL), com +55.9% em 24h, a 49k coins no PC.
+Lukáš Haraslín (89, Česká Liga), com +55.6% em 24h, a 23k coins no PC.
 
 **E a maior queda do dia?**
-Lee Kang In (95), -40.5% em 24h, a 170k coins.
+Gustav Isaksen (87), -44.9% em 24h, a 32k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 61 cartas em alta contra 99 em queda (média -3.43%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 61 cartas em alta contra 96 em queda (média -2.09%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
