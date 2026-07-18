@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T13:13:09.000Z
+pubDatetime: 2026-07-18T16:13:08.000Z
 title: "Investimentos EA FC: Pontas em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Emilie Haavi (87, Calcio A Femminile) lidera, com +64.6% em 7 dias a 28k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ivan Perišić (90, Eredivisie) lidera, com +89.3% em 7 dias a 52k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Emilie Haavi (87) acumula **+64.6% em 7 dias** a 28k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ivan Perišić (90) acumula **+89.3% em 7 dias** a 52k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 18/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.0% em 24h** e **+19.2% em 7 dias**.
-- **4 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.4% em 24h** e **+25.4% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,30 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Emilie Haavi | 87 | Calcio A Femminile | 28k coins | +7% | +64.6% | Esticada |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 80k coins | +27.7% | +37.2% | Esticada |
-| Jens Petter Hauge | 91 | Eliteserien | 60k coins | +24.3% | +36.6% | Esticada |
-| Pernille Harder | 87 | Liga F | 44k coins | +1.7% | +33.3% | Momentum moderado |
-| Claudiu Petrila | 86 | SUPERLIGA | 38k coins | +17.6% | +27% | Momentum moderado |
-| Raphinha | 91 | LALIGA EA SPORTS | 113k coins | +4.5% | +19.2% | Entrada a observar |
-| Michael Duffy | 84 | SSE Airtricity PD | 40k coins | +1.9% | +18.7% | Entrada a observar |
-| Caroline Weir | 86 | Liga F | 43k coins | +22.1% | +16.3% | Esticada |
-| Sandy Baltimore | 87 | Barclays WSL | 38k coins | +9% | +14.5% | Momentum moderado |
-| Gustav Isaksen | 87 | Serie A TIM | 52k coins | +5.1% | +8.6% | Momentum moderado |
-| John Barnes | 87 | Icons | 68k coins | +4.5% | +5.3% | Entrada a observar |
+| Ivan Perišić | 90 | Eredivisie | 52k coins | +6% | +89.3% | Esticada |
+| Noa Lang | 91 | Trendyol Süper Lig | 48k coins | +8% | +86.3% | Esticada |
+| Chloe Kelly | 88 | Barclays WSL | 120k coins | +3.3% | +79.8% | Esticada |
+| Emilie Haavi | 87 | Calcio A Femminile | 28k coins | +27.9% | +69.2% | Esticada |
+| Lukáš Haraslín | 89 | Česká Liga | 17.000 coins | +10.3% | +65.5% | Esticada |
+| Jens Petter Hauge | 91 | Eliteserien | 37k coins | +35.3% | +53.9% | Esticada |
+| Raphinha | 91 | LALIGA EA SPORTS | 121k coins | +1.7% | +25.4% | Momentum moderado |
+| Wesley Saïd | 86 | Ligue 1 McDonald's | 40k coins | +20% | +25.4% | Esticada |
+| Gervinho | 87 | Serie A TIM | 98k coins | +1.8% | +23.6% | Entrada a observar |
+| Athenea | 86 | Liga F | 36k coins | +4.6% | +23.1% | Entrada a observar |
+| Pernille Harder | 87 | Liga F | 43k coins | +3.6% | +21.7% | Entrada a observar |
+| Sandy Baltimore | 87 | Barclays WSL | 42k coins | +12% | +20% | Momentum moderado |
+| Michael Duffy | 84 | SSE Airtricity PD | 35k coins | +2.6% | +18.7% | Entrada a observar |
+| Rivaldo | 90 | Icons | 88k coins | +7.4% | +18.1% | Momentum moderado |
+| Iago Aspas | 86 | LALIGA EA SPORTS | 39k coins | +9.7% | +9.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Emilie Haavi (87)** — 28k coins, **+64.6% em 7 dias** (+7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ivan Perišić (90)** — 52k coins, **+89.3% em 7 dias** (+6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ethan Nwaneri (91)** — 80k coins, **+37.2% em 7 dias** (+27.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noa Lang (91)** — 48k coins, **+86.3% em 7 dias** (+8% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jens Petter Hauge (91)** — 60k coins, **+36.6% em 7 dias** (+24.3% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Chloe Kelly (88)** — 120k coins, **+79.8% em 7 dias** (+3.3% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pernille Harder (87)** — 44k coins, **+33.3% em 7 dias** (+1.7% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emilie Haavi (87)** — 28k coins, **+69.2% em 7 dias** (+27.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Claudiu Petrila (86)** — 38k coins, **+27% em 7 dias** (+17.6% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lukáš Haraslín (89)** — 17.000 coins, **+65.5% em 7 dias** (+10.3% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -84,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Emilie Haavi (87, Calcio A Femminile) lidera, com +64.6% em 7 dias a 28k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ivan Perišić (90, Eredivisie) lidera, com +89.3% em 7 dias a 52k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

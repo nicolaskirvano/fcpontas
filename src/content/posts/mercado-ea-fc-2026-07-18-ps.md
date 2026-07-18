@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T13:13:08.000Z
+pubDatetime: 2026-07-18T16:13:07.000Z
 title: "Mercado EA FC em 18/07: Pontas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Jerzy Dudek (87, Premier League), com +34.6% em 24h, a 52k coins no Console (PS)."
+    a: "Bradley Barcola (96, sem liga), com +51.9% em 24h, a 750k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Timo Werner (87), -50% em 24h, a 36k coins."
+    a: "Vini Jr. (98), -49.4% em 24h, a 1.91M coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 40 cartas em alta contra 120 em queda (média -5.81%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 67 cartas em alta contra 117 em queda (média -4.12%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**18/07/2026**, Console (PS)) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **40 subiram**, **120 caíram** (80+ e 5k+ coins), média de **-5.81%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**18/07/2026**, Console (PS)) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **67 subiram**, **117 caíram** (80+ e 5k+ coins), média de **-4.12%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Jerzy Dudek (87) **+34.6%** · 🔴 **Maior baixa:** Timo Werner (87) **-50%**
+> 🟢 **Maior alta:** Bradley Barcola (96) **+51.9%** · 🔴 **Maior baixa:** Vini Jr. (98) **-49.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Pontas — Console (PS)](/charts/mercado-ea-fc-2026-07-18-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**18/07/2026**, Console (PS)) o Ultimate Team está em clima **vendedor** 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 84.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 25.0% entre as cartas que se moveram; o universo observado reúne 181 cartas.
-- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 36.4% entre as cartas que se moveram; o universo observado reúne 203 cartas.
+- **Concentração:** Serie A TIM aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jerzy Dudek | 87 | Premier League | 52k coins | +34.6% | +156.1% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 80k coins | +27.7% | +37.2% |
-| Jens Petter Hauge | 91 | Eliteserien | 60k coins | +24.3% | +36.6% |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 38k coins | +24% | -3.6% |
-| Esmir Bajraktarević | 91 | — | 430k coins | +23.4% | +12.9% |
-| Caroline Weir | 86 | Liga F | 43k coins | +22.1% | +16.3% |
-| Claudia Pina | 92 | Liga F | 570k coins | +21.7% | +36.2% |
-| Ivan Perišić | 90 | Eredivisie | 60k coins | +20% | +110.5% |
-| Jérémy Doku | 86 | Premier League | 303k coins | +18.4% | +18.9% |
-| Claudiu Petrila | 86 | SUPERLIGA | 38k coins | +17.6% | +27% |
+| Bradley Barcola | 96 | — | 750k coins | +51.9% | +18.4% |
+| Antonio Di Natale | 89 | Serie A TIM | 220k coins | +45.5% | +42.2% |
+| Emilie Haavi | 87 | Calcio A Femminile | 28k coins | +27.9% | +69.2% |
+| Wesley Saïd | 86 | Ligue 1 McDonald's | 40k coins | +20% | +25.4% |
+| Yan Diomande | 80 | Bundesliga | 48k coins | +18.8% | +8.6% |
+| Jérémy Doku | 86 | Premier League | 268k coins | +13.7% | +13.7% |
+| Bradley Barcola | 97 | — | 640k coins | +13.6% | -25.2% |
+| David Neres | 86 | Serie A TIM | 62k coins | +13.6% | +1.6% |
+| Sandy Baltimore | 87 | Barclays WSL | 42k coins | +12% | +20% |
+| Harvey Barnes | 86 | Premier League | 38k coins | +11.4% | +6.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**18/07/2026**, Console (PS)) o Ultimate Team está em clima **vendedor** 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jerzy Dudek (87)** subiu **+34.6%** em 24h, a **52k coins** (faixa do dia: 32k–56k). Está +22% acima da média de 7 dias (aquecida).
+- **Bradley Barcola (96)** subiu **+51.9%** em 24h, a **750k coins** (faixa do dia: 386k–768k). Está +40% acima da média de 7 dias (aquecida).
 
-- **Ethan Nwaneri (91)** subiu **+27.7%** em 24h, a **80k coins** (faixa do dia: 48k–94k). Está +27% acima da média de 7 dias (aquecida).
+- **Antonio Di Natale (89)** subiu **+45.5%** em 24h, a **220k coins** (faixa do dia: 151k–360k). Está -11% abaixo da média de 7 dias (descontada).
 
-- **Jens Petter Hauge (91)** subiu **+24.3%** em 24h, a **60k coins** (faixa do dia: 40k–70k). Está +32% acima da média de 7 dias (aquecida).
+- **Emilie Haavi (87)** subiu **+27.9%** em 24h, a **28k coins** (faixa do dia: 17.500–28k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Timo Werner | 87 | Bundesliga | 36k coins | -50% | +3.6% |
-| Lee Kang In | 95 | — | 94k coins | -34.4% | -20.6% |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 74k coins | -33.1% | -9.3% |
-| Debinha | 89 | NWSL | 149k coins | -32.1% | -11.2% |
-| Saeed Al Owairan | 85 | ROSHN Saudi League | 28k coins | -30.9% | -43% |
-| Noni Madueke | 86 | Premier League | 46k coins | -30.6% | -29.9% |
-| Saeed Al Owairan | 91 | ROSHN Saudi League | 182k coins | -29.6% | +17.3% |
-| Vini Jr. | 97 | — | 2.25M coins | -29% | -36.8% |
-| Malcom | 87 | ROSHN Saudi League | 55k coins | -28.6% | +1% |
-| Denis Bouanga | 95 | — | 26k coins | -28.4% | -31.8% |
+| Vini Jr. | 98 | — | 1.91M coins | -49.4% | — |
+| Jérémy Doku | 84 | Premier League | 72k coins | -35.7% | -14.4% |
+| Rafael Leão | 87 | Serie A TIM | 350k coins | -29.2% | +0.7% |
+| Zizo | 95 | — | 32k coins | -28.3% | -31.2% |
+| Paulo Futre | 92 | Liga Portugal | 80k coins | -28.1% | -18.7% |
+| Tabitha Chawinga | 86 | D1 Arkema | 32k coins | -27.2% | -33% |
+| Bradley Barcola | 92 | — | 60k coins | -26.1% | 0% |
+| Denis Bouanga | 95 | — | 28k coins | -25.6% | -30% |
+| Florian Thauvin | 96 | — | 36k coins | -24.5% | -21.2% |
+| Malcom | 87 | ROSHN Saudi League | 41k coins | -24.3% | +4.3% |
 
 
 ### Análise das baixas
 
-- **Timo Werner (87)** caiu **-50%** em 24h, a **36k coins** (faixa do dia: 35k–90k). Está -16% abaixo da média de 7 dias (descontada).
+- **Vini Jr. (98)** caiu **-49.4%** em 24h, a **1.91M coins** (faixa do dia: 1.77M–4.80M). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Lee Kang In (95)** caiu **-34.4%** em 24h, a **94k coins** (faixa do dia: 92k–151k). Está -29% abaixo da média de 7 dias (descontada).
+- **Jérémy Doku (84)** caiu **-35.7%** em 24h, a **72k coins** (faixa do dia: 40k–85k). Está em linha com a média de 7 dias (+4%).
 
-- **Allan Saint-Maximin (92)** caiu **-33.1%** em 24h, a **74k coins** (faixa do dia: 55k–91k). Está -8% abaixo da média de 7 dias (descontada).
+- **Rafael Leão (87)** caiu **-29.2%** em 24h, a **350k coins** (faixa do dia: 300k–450k). Está em linha com a média de 7 dias (-1%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jerzy Dudek já avançou 34.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Bradley Barcola já avançou 51.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Timo Werner recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Vini Jr. recuou -49.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Jerzy Dudek (87, Premier League), com +34.6% em 24h, a 52k coins no Console (PS).
+Bradley Barcola (96, sem liga), com +51.9% em 24h, a 750k coins no Console (PS).
 
 **E a maior queda do dia?**
-Timo Werner (87), -50% em 24h, a 36k coins.
+Vini Jr. (98), -49.4% em 24h, a 1.91M coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 40 cartas em alta contra 120 em queda (média -5.81%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 67 cartas em alta contra 117 em queda (média -4.12%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
