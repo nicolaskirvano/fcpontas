@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T19:13:18.000Z
+pubDatetime: 2026-07-19T22:13:18.000Z
 title: "Investimentos EA FC: Pontas em 19/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Noa Lang (91, Trendyol Süper Lig) lidera, com +81.8% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Aoba Fujino (91, sem liga) lidera, com +81.8% em 7 dias a 40k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Noa Lang (91) acumula **+81.8% em 7 dias** a 65k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Aoba Fujino (91) acumula **+81.8% em 7 dias** a 40k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 19/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-19-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.4% em 24h** e **+23.8% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.7% em 24h** e **+23.8% em 7 dias**.
+- **5 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Noa Lang | 91 | Trendyol Süper Lig | 65k coins | +30% | +81.8% | Esticada |
-| Anders Dreyer | 84 | MLS | 44k coins | +18.8% | +80.6% | Esticada |
-| George Best | 90 | Icons | 243k coins | +26.7% | +65.8% | Esticada |
-| Reyes Cleary | 90 | — | 45k coins | +5.9% | +60.7% | Esticada |
-| Ivan Perišić | 90 | Eredivisie | 78k coins | +17.4% | +58.2% | Momentum moderado |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 67k coins | +8.4% | +35.2% | Momentum moderado |
-| Antoine Semenyo | 94 | — | 250k coins | +2.6% | +29.1% | Momentum moderado |
-| Caroline Weir | 86 | Liga F | 50k coins | +18.6% | +23.8% | Momentum moderado |
-| Timo Werner | 87 | Bundesliga | 63k coins | +1.6% | +20% | Entrada a observar |
-| Cody Gakpo | 86 | Premier League | 46k coins | +10.3% | +16.4% | Momentum moderado |
-| Ferran Torres | 86 | LALIGA EA SPORTS | 50k coins | +26.2% | +11.6% | Esticada |
-| Antoine Semenyo | 96 | — | 246k coins | +7% | +8.4% | Momentum moderado |
-| George Best | 91 | Icons | 243k coins | +12.4% | +8.3% | Momentum moderado |
-| Ashley Sanchez | 87 | NWSL | 67k coins | +17.5% | +8.1% | Momentum moderado |
-| Yan Diomande | 92 | — | 25k coins | +3.1% | +7.6% | Entrada a observar |
+| Aoba Fujino | 91 | — | 40k coins | +1.3% | +81.8% | Esticada |
+| Anders Dreyer | 84 | MLS | 42k coins | +13.2% | +74.5% | Esticada |
+| Noa Lang | 91 | Trendyol Süper Lig | 60k coins | +2.6% | +58.9% | Momentum moderado |
+| Bradley Barcola | 87 | Ligue 1 McDonald's | 210k coins | +26.5% | +52.2% | Esticada |
+| Antoine Semenyo | 94 | — | 223k coins | +6.5% | +35.4% | Momentum moderado |
+| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 100k coins | +18.2% | +23.8% | Momentum moderado |
+| Caroline Weir | 86 | Liga F | 48k coins | +19.3% | +23.8% | Momentum moderado |
+| Jérémy Doku | 84 | Premier League | 159k coins | +2% | +20.7% | Entrada a observar |
+| Ferran Torres | 86 | LALIGA EA SPORTS | 54k coins | +37.1% | +20.4% | Esticada |
+| Quaresma | 85 | Liga Portugal | 140k coins | +12.9% | +10.2% | Momentum moderado |
+| Ashley Sanchez | 87 | NWSL | 65k coins | +28.8% | +8.1% | Esticada |
+| Cody Gakpo | 86 | Premier League | 50k coins | +19.7% | +6.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Noa Lang (91)** — 65k coins, **+81.8% em 7 dias** (+30% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aoba Fujino (91)** — 40k coins, **+81.8% em 7 dias** (+1.3% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Anders Dreyer (84)** — 44k coins, **+80.6% em 7 dias** (+18.8% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Anders Dreyer (84)** — 42k coins, **+74.5% em 7 dias** (+13.2% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **George Best (90)** — 243k coins, **+65.8% em 7 dias** (+26.7% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noa Lang (91)** — 60k coins, **+58.9% em 7 dias** (+2.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Reyes Cleary (90)** — 45k coins, **+60.7% em 7 dias** (+5.9% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bradley Barcola (87)** — 210k coins, **+52.2% em 7 dias** (+26.5% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ivan Perišić (90)** — 78k coins, **+58.2% em 7 dias** (+17.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Antoine Semenyo (94)** — 223k coins, **+35.4% em 7 dias** (+6.5% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +85,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Noa Lang (91, Trendyol Süper Lig) lidera, com +81.8% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Aoba Fujino (91, sem liga) lidera, com +81.8% em 7 dias a 40k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,6 +103,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Pontas em 19/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-19-pc/)
 - [Mercado EA FC em 19/07: Pontas — PC](/posts/mercado-ea-fc-2026-07-19-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
