@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T13:13:09.000Z
+pubDatetime: 2026-07-19T16:13:09.000Z
 title: "Investimentos EA FC: Pontas em 19/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "John Barnes (89, Icons) lidera, com +87.2% em 7 dias a 88k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lauren Hemp (90, Barclays WSL) lidera, com +81.8% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** John Barnes (89) acumula **+87.2% em 7 dias** a 88k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Lauren Hemp (90) acumula **+81.8% em 7 dias** a 50k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 19/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-19-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.0% em 24h** e **+21.6% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.8% em 24h** e **+20.0% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| John Barnes | 89 | Icons | 88k coins | +15% | +87.2% | Esticada |
-| Ivan Perišić | 86 | Eredivisie | 43k coins | +10.1% | +87.1% | Esticada |
-| Lukáš Haraslín | 89 | Česká Liga | 24k coins | +32.1% | +78.3% | Esticada |
-| Anass Zaroury | 86 | Hellas Liga | 38k coins | +31.6% | +72.4% | Esticada |
-| Mika Godts | 87 | Eredivisie | 23k coins | +30.8% | +64.5% | Esticada |
-| Alejandro Garnacho | 89 | Premier League | 227k coins | +15.2% | +41.9% | Momentum moderado |
-| Emilie Haavi | 87 | Calcio A Femminile | 28k coins | +7.3% | +22.9% | Momentum moderado |
-| Rivaldo | 90 | Icons | 78k coins | +1% | +21.6% | Entrada a observar |
-| Bradley Barcola | 92 | — | 85k coins | +30.8% | +21.4% | Esticada |
-| Gustav Isaksen | 87 | Serie A TIM | 45k coins | +5.2% | +18.1% | Momentum moderado |
-| Sandy Baltimore | 87 | Barclays WSL | 44k coins | +3.6% | +17.6% | Entrada a observar |
-| Timo Werner | 87 | Bundesliga | 38k coins | +4.9% | +16.2% | Entrada a observar |
-| Rodrigo Zalazar | 84 | Liga Portugal | 35k coins | +4.2% | +14.6% | Entrada a observar |
-| Claudia Pina | 88 | Liga F | 110k coins | +8% | +13.7% | Momentum moderado |
-| Ferran Torres | 86 | LALIGA EA SPORTS | 40k coins | +1.2% | +8.1% | Entrada a observar |
+| Lauren Hemp | 90 | Barclays WSL | 50k coins | +19.8% | +81.8% | Esticada |
+| John Barnes | 89 | Icons | 76k coins | +7% | +60% | Esticada |
+| Ashley Sanchez | 87 | NWSL | 66k coins | +33.3% | +58.1% | Esticada |
+| Alejandro Garnacho | 89 | Premier League | 222k coins | +17% | +41.9% | Momentum moderado |
+| Antony | 91 | LALIGA EA SPORTS | 132k coins | +13.8% | +28.4% | Momentum moderado |
+| Jens Petter Hauge | 91 | Eliteserien | 50k coins | +3.1% | +28.2% | Momentum moderado |
+| Cody Gakpo | 86 | Premier League | 47k coins | +19.9% | +20.6% | Momentum moderado |
+| Paulo Futre | 92 | Liga Portugal | 100k coins | +24.4% | +20% | Esticada |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 55k coins | +19.3% | +19.3% | Momentum moderado |
+| Garrincha | 92 | Icons | 209k coins | +31.3% | +17% | Esticada |
+| Antoine Semenyo | 94 | — | 156k coins | +10.7% | +14.6% | Momentum moderado |
+| Oscar Bobb | 88 | Premier League | 17.500 coins | +3.1% | +13.8% | Entrada a observar |
+| Harvey Barnes | 84 | Premier League | 42k coins | +12.6% | +12.6% | Momentum moderado |
+| Claudia Pina | 88 | Liga F | 105k coins | +6% | +7.1% | Momentum moderado |
+| Luís Figo | 89 | Icons | 68k coins | +5.8% | +6.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **John Barnes (89)** — 88k coins, **+87.2% em 7 dias** (+15% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lauren Hemp (90)** — 50k coins, **+81.8% em 7 dias** (+19.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ivan Perišić (86)** — 43k coins, **+87.1% em 7 dias** (+10.1% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **John Barnes (89)** — 76k coins, **+60% em 7 dias** (+7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lukáš Haraslín (89)** — 24k coins, **+78.3% em 7 dias** (+32.1% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ashley Sanchez (87)** — 66k coins, **+58.1% em 7 dias** (+33.3% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Anass Zaroury (86)** — 38k coins, **+72.4% em 7 dias** (+31.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alejandro Garnacho (89)** — 222k coins, **+41.9% em 7 dias** (+17% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mika Godts (87)** — 23k coins, **+64.5% em 7 dias** (+30.8% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Antony (91)** — 132k coins, **+28.4% em 7 dias** (+13.8% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-John Barnes (89, Icons) lidera, com +87.2% em 7 dias a 88k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lauren Hemp (90, Barclays WSL) lidera, com +81.8% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
