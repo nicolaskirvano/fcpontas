@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T09:31:49.000Z
+pubDatetime: 2026-07-19T10:13:18.000Z
 title: "Investimentos EA FC: Pontas em 19/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.5% em 24h** e **+17.3% em 7 dias**.
-- **6 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+10.1% em 24h** e **+20.0% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,29 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Anders Dreyer | 84 | MLS | 44k coins | +19.5% | +81.6% | Esticada |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 112k coins | +30.7% | +58.1% | Esticada |
+| Marco Asensio | 85 | Trendyol Süper Lig | 31k coins | +5% | +60.3% | Esticada |
+| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 112k coins | +33.7% | +50% | Esticada |
 | Bradley Barcola | 87 | Ligue 1 McDonald's | 200k coins | +25% | +42.9% | Esticada |
-| Oscar Bobb | 95 | — | 16.500 coins | +7.8% | +25.5% | Momentum moderado |
-| Athenea | 86 | Liga F | 46k coins | +9.5% | +22.7% | Momentum moderado |
-| Jeremie Frimpong | 86 | Premier League | 190k coins | +17.3% | +17.3% | Momentum moderado |
-| John Barnes | 89 | Icons | 100k coins | +30.9% | +16.4% | Esticada |
-| Michael Duffy | 84 | SSE Airtricity PD | 43k coins | +2.3% | +14.4% | Entrada a observar |
-| Sergiño Dest | 93 | — | 18.000 coins | +25% | +14.3% | Esticada |
-| Alex Pfeiffer | 90 | NWSL | 215k coins | +25% | +13.6% | Esticada |
+| Mika Godts | 87 | Eredivisie | 32k coins | +2.4% | +31.3% | Momentum moderado |
+| Tabitha Chawinga | 91 | D1 Arkema | 165k coins | +2.5% | +25.6% | Momentum moderado |
+| Athenea | 86 | Liga F | 44k coins | +9.5% | +22.7% | Momentum moderado |
+| Oscar Bobb | 95 | — | 15.500 coins | +3.1% | +20% | Entrada a observar |
+| Jeremie Frimpong | 86 | Premier League | 185k coins | +17.3% | +17.3% | Momentum moderado |
+| John Barnes | 89 | Icons | 100k coins | +31.8% | +16.4% | Esticada |
+| Michael Duffy | 84 | SSE Airtricity PD | 44k coins | +2.3% | +14.4% | Entrada a observar |
+| Alex Pfeiffer | 90 | NWSL | 208k coins | +21.9% | +11.4% | Esticada |
+| Sergiño Dest | 93 | — | 20k coins | +16.9% | +8.6% | Momentum moderado |
 | Paulo Futre | 92 | Liga Portugal | 130k coins | +8.1% | +6.3% | Momentum moderado |
+| John Barnes | 93 | — | 19.000 coins | +10.1% | +5.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Anders Dreyer (84)** — 44k coins, **+81.6% em 7 dias** (+19.5% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Allan Saint-Maximin (92)** — 112k coins, **+58.1% em 7 dias** (+30.7% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marco Asensio (85)** — 31k coins, **+60.3% em 7 dias** (+5% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Allan Saint-Maximin (92)** — 112k coins, **+50% em 7 dias** (+33.7% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Bradley Barcola (87)** — 200k coins, **+42.9% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oscar Bobb (95)** — 16.500 coins, **+25.5% em 7 dias** (+7.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Athenea (86)** — 46k coins, **+22.7% em 7 dias** (+9.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mika Godts (87)** — 32k coins, **+31.3% em 7 dias** (+2.4% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
