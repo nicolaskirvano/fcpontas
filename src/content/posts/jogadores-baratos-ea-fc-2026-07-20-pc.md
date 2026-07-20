@@ -1,38 +1,38 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T19:13:10.000Z
-title: "Jogadores baratos EA FC: Pontas em 20/07 — Console (PS)"
+pubDatetime: 2026-07-20T19:13:19.000Z
+title: "Jogadores baratos EA FC: Pontas em 20/07 — PC"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - ps
-description: "Cartas 83+ abaixo de 15 mil coins em 20/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
+  - pc
+description: "Cartas 83+ abaixo de 15 mil coins em 20/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/07/2026)?"
-    a: "Elijah Just (94, sem liga) aparece como melhor custo-benefício, a 12.500 coins no Console (PS)."
+    a: "Oscar Bobb (95, sem liga) aparece como melhor custo-benefício, a 14.000 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Elijah Just (94) por apenas 12.500 coins.
+> 💰 **Melhor pechincha:** Oscar Bobb (95) por apenas 14.000 coins.
 
-![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Pontas em 20/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-20-ps.svg)
+![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Pontas em 20/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-20-pc.svg)
 
 *Visualização gerada com os mesmos valores da tabela deste artigo.*
 
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 11.650 coins.
-- **Posição mais frequente:** RW, com 5 cartas.
-- **Faixa real:** 2.800 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 13.500 coins.
+- **Posição mais frequente:** RW, com 3 cartas.
+- **Faixa real:** 13.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,31 +40,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Elijah Just | 94 | LW | — | 12.500 coins | +4.2% |
-| Roberto Alvarado | 94 | RW | — | 13.250 coins | +6.2% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 14.500 coins | +1.7% |
-| Michelle Cooper | 87 | RW | NWSL | 13.250 coins | -6.9% |
-| Lionel Messi | 86 | RW | MLS | 2.800 coins | +8.7% |
-| Madison Haley | 85 | RW | Barclays WSL | 12.250 coins | +4% |
-| Oscar Bobb | 85 | RW | Premier League | 13.000 coins | +3.9% |
+| Oscar Bobb | 95 | RW | — | 14.000 coins | +10.9% |
+| Roberto Alvarado | 94 | RW | — | 13.000 coins | +12.8% |
+| Elijah Just | 94 | LW | — | 13.250 coins | +12.8% |
+| Oscar Bobb | 88 | RW | Premier League | 13.750 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Elijah Just (94, LW)** da —, a apenas **12.500 coins**
+- **Oscar Bobb (95, RW)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Roberto Alvarado (94, RW)** da —, a apenas **13.250 coins**
+- **Roberto Alvarado (94, RW)** da —, a apenas **13.000 coins**
 
-- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Elijah Just (94, LW)** da —, a apenas **13.250 coins**
 
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Lionel Messi (86, RW)** da MLS, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Oscar Bobb (88, RW)** da Premier League, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Ataque:** Elijah Just (94, LW) por 12.500 coins é a referência de rating deste recorte.
+- **Ataque:** Oscar Bobb (95, RW) por 14.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -83,7 +78,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/07/2026)?**  
-Elijah Just (94, sem liga) aparece como melhor custo-benefício, a 12.500 coins no Console (PS).
+Oscar Bobb (95, sem liga) aparece como melhor custo-benefício, a 14.000 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -96,12 +91,12 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de Console (PS), referência de 20/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de PC, referência de 20/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
 
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Pontas em 20/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-20-ps/)
-- [Mercado EA FC em 20/07: Pontas — Console (PS)](/posts/mercado-ea-fc-2026-07-20-ps/)
+- [Investimentos EA FC: Pontas em 20/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-20-pc/)
+- [Mercado EA FC em 20/07: Pontas — PC](/posts/mercado-ea-fc-2026-07-20-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
