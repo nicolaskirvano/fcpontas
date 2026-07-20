@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T22:13:10.000Z
+pubDatetime: 2026-07-20T01:13:10.000Z
 title: "Jogadores baratos EA FC: Pontas em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 19/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (19/07/2026)?"
-    a: "Elijah Just (94, sem liga) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
+    a: "Roberto Alvarado (94, sem liga) aparece como melhor custo-benefício, a 11.000 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **19/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Elijah Just (94) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Roberto Alvarado (94) por apenas 11.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Pontas em 19/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-19-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 10.883 coins.
+- **Preço médio das 5 opções:** 12.550 coins.
 - **Posição mais frequente:** RW, com 4 cartas.
-- **Faixa real:** 2.300 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,30 +40,29 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Elijah Just | 94 | LW | — | 11.500 coins | -2.1% |
-| Roberto Alvarado | 94 | RW | — | 11.750 coins | -2.1% |
-| Oscar Bobb | 88 | RW | Premier League | 14.750 coins | +13% |
-| Harry Kewell | 87 | LW | Premier League | 12.750 coins | -13.8% |
-| Lionel Messi | 86 | RW | MLS | 2.300 coins | +4.2% |
-| Oscar Bobb | 85 | RW | Premier League | 12.250 coins | -5.6% |
+| Roberto Alvarado | 94 | RW | — | 11.000 coins | +2.2% |
+| Elijah Just | 94 | LW | — | 11.750 coins | +2.2% |
+| Oscar Bobb | 88 | RW | Premier League | 12.750 coins | -3.7% |
+| Rubén García | 87 | RW | LALIGA EA SPORTS | 14.000 coins | +10.6% |
+| Oscar Bobb | 85 | RW | Premier League | 13.250 coins | -14.5% |
 
 
 ## 📈 Destaques
 
-- **Elijah Just (94, LW)** da —, a apenas **11.500 coins**
+- **Roberto Alvarado (94, RW)** da —, a apenas **11.000 coins**
 
-- **Roberto Alvarado (94, RW)** da —, a apenas **11.750 coins**
+- **Elijah Just (94, LW)** da —, a apenas **11.750 coins**
 
-- **Oscar Bobb (88, RW)** da Premier League, a apenas **14.750 coins**
+- **Oscar Bobb (88, RW)** da Premier League, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Harry Kewell (87, LW)** da Premier League, a apenas **12.750 coins**
+- **Rubén García (87, RW)** da LALIGA EA SPORTS, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lionel Messi (86, RW)** da MLS, a apenas **2.300 coins** — já **valorizando**, sinal de procura crescente.
+- **Oscar Bobb (85, RW)** da Premier League, a apenas **13.250 coins**
 
 
 ## Como distribuir a banca
 
-- **Ataque:** Elijah Just (94, LW) por 11.500 coins é a referência de rating deste recorte.
+- **Ataque:** Roberto Alvarado (94, RW) por 11.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -82,7 +81,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (19/07/2026)?**  
-Elijah Just (94, sem liga) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
+Roberto Alvarado (94, sem liga) aparece como melhor custo-benefício, a 11.000 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
