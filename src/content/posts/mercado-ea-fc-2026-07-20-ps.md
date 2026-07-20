@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T13:13:07.000Z
+pubDatetime: 2026-07-20T16:13:07.000Z
 title: "Mercado EA FC em 20/07: Pontas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Jérémy Doku (86, Premier League), com +51.6% em 24h, a 275k coins no Console (PS)."
+    a: "Anass Zaroury (86, Hellas Liga), com +58.8% em 24h, a 64k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Wilson Odobert (87), -32.6% em 24h, a 28k coins."
+    a: "John Barnes (89), -39.5% em 24h, a 44k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 78 cartas em alta contra 94 em queda (média 0.85%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 80 cartas em alta contra 86 em queda (média 1.11%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **20/07/2026** (Console (PS)): mercado **lateral** — sem direção clara. Entre as cartas relevantes (80+ e acima de 5k coins), foram **78 em alta** e **94 em queda**, média de **0.85%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **20/07/2026** (Console (PS)): mercado **lateral** — sem direção clara. Entre as cartas relevantes (80+ e acima de 5k coins), foram **80 em alta** e **86 em queda**, média de **1.11%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Jérémy Doku (86) **+51.6%** · 🔴 **Maior baixa:** Wilson Odobert (87) **-32.6%**
+> 🟢 **Maior alta:** Anass Zaroury (86) **+58.8%** · 🔴 **Maior baixa:** John Barnes (89) **-39.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Pontas — Console (PS)](/charts/mercado-ea-fc-2026-07-20-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **20/07/2026** (Console (PS)): mercado **lateral** — sem direção
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 84.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.3% entre as cartas que se moveram; o universo observado reúne 193 cartas.
-- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 98.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.2% entre as cartas que se moveram; o universo observado reúne 189 cartas.
+- **Concentração:** Serie A TIM aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jérémy Doku | 86 | Premier League | 275k coins | +51.6% | +15.4% |
-| Naomie Feller | 88 | — | 25k coins | +50% | +25.6% |
-| Florian Thauvin | 87 | Ligue 1 McDonald's | 40k coins | +44.3% | +37.4% |
-| Jerzy Dudek | 87 | Premier League | 36k coins | +41.7% | +12.7% |
-| Ferran Torres | 86 | LALIGA EA SPORTS | 59k coins | +38.7% | +21.8% |
-| Nico Williams | 93 | LALIGA EA SPORTS | 350k coins | +35.9% | +45.9% |
-| Julian Quiñones | 96 | — | 20k coins | +31.1% | — |
-| Linda Caicedo | 87 | Liga F | 38k coins | +31.1% | +13% |
-| Jeremie Frimpong | 86 | Premier League | 165k coins | +28.2% | +4.9% |
-| Athenea | 86 | Liga F | 29k coins | +26.9% | -16.3% |
+| Anass Zaroury | 86 | Hellas Liga | 64k coins | +58.8% | +211.9% |
+| Mary Fowler | 87 | Barclays Women’s Super League | 30k coins | +42% | +40.4% |
+| Daniela Agote | 91 | — | 40k coins | +38.4% | +185.7% |
+| Gustav Isaksen | 87 | Serie A TIM | 48k coins | +36.6% | +26% |
+| Claudia Pina | 87 | Liga F | 234k coins | +36% | +22.5% |
+| Ferran Torres | 86 | LALIGA EA SPORTS | 60k coins | +30.4% | +25.7% |
+| Jerzy Dudek | 87 | Premier League | 30k coins | +28.6% | -9% |
+| Linda Caicedo | 87 | Liga F | 38k coins | +27.7% | +10.9% |
+| Anders Dreyer | 84 | MLS | 25k coins | +25% | -6.5% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 147k coins | +25% | -32.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **20/07/2026** (Console (PS)): mercado **lateral** — sem direção
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jérémy Doku (86)** subiu **+51.6%** em 24h, a **275k coins** (faixa do dia: 178k–325k). Está +12% acima da média de 7 dias (aquecida).
+- **Anass Zaroury (86)** subiu **+58.8%** em 24h, a **64k coins** (faixa do dia: 38k–68k). Está +91% acima da média de 7 dias (aquecida).
 
-- **Naomie Feller (88)** subiu **+50%** em 24h, a **25k coins** (faixa do dia: 13.500–28k). Está +8% acima da média de 7 dias (aquecida).
+- **Mary Fowler (87)** subiu **+42%** em 24h, a **30k coins** (faixa do dia: 16.000–37k). Está +32% acima da média de 7 dias (aquecida).
 
-- **Florian Thauvin (87)** subiu **+44.3%** em 24h, a **40k coins** (faixa do dia: 34k–52k). Está em linha com a média de 7 dias (+1%).
+- **Daniela Agote (91)** subiu **+38.4%** em 24h, a **40k coins** (faixa do dia: 35k–55k). Está +17% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Wilson Odobert | 87 | Premier League | 28k coins | -32.6% | -31.7% |
-| Alejandro Garnacho | 89 | Premier League | 169k coins | -25.6% | -13.8% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 170k coins | -25% | -28% |
-| Lionel Messi | 97 | — | 1.45M coins | -23% | -38.6% |
-| Joe Cole | 88 | Premier League | 290k coins | -21.4% | -13.5% |
-| Olivia Smith | 91 | Barclays WSL | 482k coins | -21.3% | -4.9% |
-| Mikel Gogorza | 86 | 3F Superliga | 50k coins | -21.3% | -27% |
-| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 315k coins | -20% | -5.6% |
-| Antony | 91 | LALIGA EA SPORTS | 109k coins | -18.7% | -15% |
-| Bukayo Saka | 98 | — | 1.54M coins | -18% | -45.7% |
+| John Barnes | 89 | Icons | 44k coins | -39.5% | -30.3% |
+| Saeed Al Owairan | 91 | ROSHN Saudi League | 140k coins | -30.9% | -27.9% |
+| Ivan Perišić | 86 | Eredivisie | 26k coins | -27% | +10.2% |
+| Víctor Ibarbo | 85 | Serie A TIM | 22k coins | -23.9% | -33.1% |
+| Lionel Messi | 97 | — | 1.40M coins | -23.4% | -40.3% |
+| Bukayo Saka | 98 | — | 1.60M coins | -19.1% | -47.2% |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 822k coins | -17.7% | -43.3% |
+| Rivaldo | 90 | Icons | 80k coins | -16.1% | -1.8% |
+| Raphinha | 91 | LALIGA EA SPORTS | 81k coins | -15.2% | -26.1% |
+| Lee Kang In | 95 | — | 115k coins | -14.7% | -32.1% |
 
 
 ### Análise das baixas
 
-- **Wilson Odobert (87)** caiu **-32.6%** em 24h, a **28k coins** (faixa do dia: 24k–42k). Está -28% abaixo da média de 7 dias (descontada).
+- **John Barnes (89)** caiu **-39.5%** em 24h, a **44k coins** (faixa do dia: 40k–86k). Está -29% abaixo da média de 7 dias (descontada).
 
-- **Alejandro Garnacho (89)** caiu **-25.6%** em 24h, a **169k coins** (faixa do dia: 169k–227k). Está -25% abaixo da média de 7 dias (descontada).
+- **Saeed Al Owairan (91)** caiu **-30.9%** em 24h, a **140k coins** (faixa do dia: 132k–199k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Désiré Doué (87)** caiu **-25%** em 24h, a **170k coins** (faixa do dia: 156k–250k). Está -25% abaixo da média de 7 dias (descontada).
+- **Ivan Perišić (86)** caiu **-27%** em 24h, a **26k coins** (faixa do dia: 24k–38k). Está -17% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jérémy Doku já avançou 51.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Anass Zaroury já avançou 58.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Wilson Odobert recuou -32.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** John Barnes recuou -39.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Jérémy Doku (86, Premier League), com +51.6% em 24h, a 275k coins no Console (PS).
+Anass Zaroury (86, Hellas Liga), com +58.8% em 24h, a 64k coins no Console (PS).
 
 **E a maior queda do dia?**
-Wilson Odobert (87), -32.6% em 24h, a 28k coins.
+John Barnes (89), -39.5% em 24h, a 44k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 78 cartas em alta contra 94 em queda (média 0.85%).
+Hoje o mercado está lateral — sem direção clara, com 80 cartas em alta contra 86 em queda (média 1.11%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
@@ -130,6 +130,7 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Pontas em 20/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-20-ps/)
 - [Investimentos EA FC: Pontas em 20/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-20-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
