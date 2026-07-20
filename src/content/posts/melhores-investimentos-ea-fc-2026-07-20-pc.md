@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T09:31:51.000Z
+pubDatetime: 2026-07-20T10:13:18.000Z
 title: "Investimentos EA FC: Pontas em 20/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.0% em 24h** e **+20.9% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.8% em 24h** e **+19.3% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Kerem Aktürkoğlu | 91 | — | 38k coins | +2.7% | +78.6% | Esticada |
-| Oumar Camara | 90 | — | 48k coins | +1.1% | +77.6% | Esticada |
-| Said El Mala | 90 | — | 43k coins | +1.2% | +74.7% | Esticada |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 140k coins | +33.3% | +40% | Esticada |
-| Gabriel Martinelli | 87 | Premier League | 102k coins | +30.2% | +37.5% | Esticada |
+| Kerem Aktürkoğlu | 91 | — | 38k coins | +7.1% | +78.6% | Esticada |
+| Oumar Camara | 90 | — | 40k coins | +1.1% | +77.6% | Esticada |
 | Bradley Barcola | 87 | Ligue 1 McDonald's | 220k coins | +10% | +37.5% | Momentum moderado |
-| Gustav Isaksen | 87 | Serie A TIM | 64k coins | +19.4% | +22.9% | Momentum moderado |
+| Gustav Isaksen | 87 | Serie A TIM | 62k coins | +7.5% | +24% | Momentum moderado |
 | Quaresma | 85 | Liga Portugal | 138k coins | +24.1% | +20.9% | Esticada |
 | Michael Duffy | 84 | SSE Airtricity PD | 46k coins | +7% | +20.4% | Momentum moderado |
 | Caroline Weir | 86 | Liga F | 48k coins | +2.1% | +20% | Entrada a observar |
-| George Best | 90 | Icons | 170k coins | +35.7% | +19% | Esticada |
+| Ivan Perišić | 86 | Eredivisie | 26k coins | +2.9% | +19.3% | Entrada a observar |
 | Santiago Hidalgo | 84 | Ligue 1 McDonald's | 50k coins | +22.2% | +17.2% | Esticada |
-| Ivan Perišić | 86 | Eredivisie | 26k coins | +2.9% | +16.7% | Entrada a observar |
-| Paulo Futre | 92 | Liga Portugal | 130k coins | +3.8% | +12.5% | Entrada a observar |
-| Luís Figo | 89 | Icons | 86k coins | +13.7% | +12.3% | Momentum moderado |
+| George Best | 90 | Icons | 165k coins | +32.8% | +15.6% | Esticada |
+| Luís Figo | 89 | Icons | 86k coins | +14.5% | +12.3% | Momentum moderado |
+| Saeed Al Owairan | 85 | ROSHN Saudi League | 70k coins | +7.8% | +12.1% | Momentum moderado |
+| Bradley Barcola | 92 | — | 100k coins | +18.9% | +11.2% | Momentum moderado |
+| Bartosz Nowak | 93 | — | 25k coins | +7.5% | +6.4% | Momentum moderado |
+| Antony | 91 | LALIGA EA SPORTS | 198k coins | +13.1% | +5.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Kerem Aktürkoğlu (91)** — 38k coins, **+78.6% em 7 dias** (+2.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kerem Aktürkoğlu (91)** — 38k coins, **+78.6% em 7 dias** (+7.1% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oumar Camara (90)** — 48k coins, **+77.6% em 7 dias** (+1.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oumar Camara (90)** — 40k coins, **+77.6% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Said El Mala (90)** — 43k coins, **+74.7% em 7 dias** (+1.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bradley Barcola (87)** — 220k coins, **+37.5% em 7 dias** (+10% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Allan Saint-Maximin (92)** — 140k coins, **+40% em 7 dias** (+33.3% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gustav Isaksen (87)** — 62k coins, **+24% em 7 dias** (+7.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gabriel Martinelli (87)** — 102k coins, **+37.5% em 7 dias** (+30.2% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Quaresma (85)** — 138k coins, **+20.9% em 7 dias** (+24.1% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

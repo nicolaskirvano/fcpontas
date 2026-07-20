@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T09:31:50.000Z
+pubDatetime: 2026-07-20T10:13:16.000Z
 title: "Mercado EA FC em 20/07: Pontas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Chloe Kelly (88, Barclays WSL), com +56% em 24h, a 110k coins no PC."
+    a: "Chloe Kelly (88, Barclays WSL), com +57.1% em 24h, a 110k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Ethan Nwaneri (91), -34.8% em 24h, a 51k coins."
+    a: "Denis Bouanga (95), -48.1% em 24h, a 21k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 84 cartas em alta contra 79 em queda (média 2.74%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 81 cartas em alta contra 81 em queda (média 2.93%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **20/07/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **84 em alta** e **79 em queda**, média de **2.74%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **20/07/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **81 em alta** e **81 em queda**, média de **2.93%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Chloe Kelly (88) **+56%** · 🔴 **Maior baixa:** Ethan Nwaneri (91) **-34.8%**
+> 🟢 **Maior alta:** Chloe Kelly (88) **+57.1%** · 🔴 **Maior baixa:** Denis Bouanga (95) **-48.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Pontas — PC](/charts/mercado-ea-fc-2026-07-20-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **20/07/2026** (PC): mercado **em alta** — predominam as valoriza�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 90.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.5% entre as cartas que se moveram; o universo observado reúne 206 cartas.
-- **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 105.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 206 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Chloe Kelly | 88 | Barclays WSL | 110k coins | +56% | +29.4% |
-| Aoba Fujino | 91 | — | 38k coins | +55.6% | +42.6% |
-| Linda Caicedo | 87 | Liga F | 80k coins | +52.4% | 0% |
-| Harry Kewell | 87 | Premier League | 26k coins | +52.2% | +21.4% |
-| Rubén García | 87 | LALIGA EA SPORTS | 25k coins | +50% | +21.3% |
+| Chloe Kelly | 88 | Barclays WSL | 110k coins | +57.1% | +29.4% |
+| Madison Haley | 85 | Barclays WSL | 27k coins | +54.2% | +23.3% |
+| Christian Pulisic | 96 | — | 184k coins | +51.1% | +21.5% |
 | Jens Petter Hauge | 88 | Eliteserien | 111k coins | +49.3% | +39.1% |
-| Christian Pulisic | 96 | — | 198k coins | +45.6% | +21.5% |
+| Gabriel Martinelli | 87 | Premier League | 99k coins | +45.7% | +27.5% |
+| Rubén García | 87 | LALIGA EA SPORTS | 25k coins | +45.1% | +15.7% |
 | Wesley Saïd | 86 | Ligue 1 McDonald's | 44k coins | +41.5% | +15% |
-| Antony | 86 | LALIGA EA SPORTS | 109k coins | +40.6% | +32.1% |
+| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 140k coins | +41.4% | +40% |
 | Kadidiatou Diani | 91 | D1 Arkema | 270k coins | +35.7% | -7.2% |
+| Afonso Moreira | 84 | Ligue 1 McDonald's | 45k coins | +34.3% | 0% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **20/07/2026** (PC): mercado **em alta** — predominam as valoriza�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Chloe Kelly (88)** subiu **+56%** em 24h, a **110k coins** (faixa do dia: 64k–110k). Está +21% acima da média de 7 dias (aquecida).
+- **Chloe Kelly (88)** subiu **+57.1%** em 24h, a **110k coins** (faixa do dia: 64k–110k). Está +21% acima da média de 7 dias (aquecida).
 
-- **Aoba Fujino (91)** subiu **+55.6%** em 24h, a **38k coins** (faixa do dia: 24k–40k). Está +14% acima da média de 7 dias (aquecida).
+- **Madison Haley (85)** subiu **+54.2%** em 24h, a **27k coins** (faixa do dia: 17.750–29k). Está +24% acima da média de 7 dias (aquecida).
 
-- **Linda Caicedo (87)** subiu **+52.4%** em 24h, a **80k coins** (faixa do dia: 40k–80k). Está +20% acima da média de 7 dias (aquecida).
+- **Christian Pulisic (96)** subiu **+51.1%** em 24h, a **184k coins** (faixa do dia: 117k–198k). Está em linha com a média de 7 dias (+6%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 51k coins | -34.8% | -1.9% |
-| Harvey Barnes | 84 | Premier League | 33k coins | -33% | -33% |
-| Juan Iturbe | 85 | Libertadores | 40k coins | -32.5% | +47.3% |
-| Yan Diomande | 92 | — | 22k coins | -29.9% | -7.3% |
-| Vini Jr. | 97 | — | 2.65M coins | -27.7% | -46.9% |
-| Claudia Pina | 96 | — | 945k coins | -27.4% | -23.8% |
-| Ronaldinho | 93 | Icons | 1.74M coins | -25.2% | -28.4% |
+| Denis Bouanga | 95 | — | 21k coins | -48.1% | -58% |
+| Juan Iturbe | 85 | Libertadores | 40k coins | -32.9% | +38.8% |
+| Jairzinho | 89 | Icons | 298k coins | -32.3% | +2.8% |
+| Yan Diomande | 92 | — | 28k coins | -29.4% | -7.3% |
+| Claudia Pina | 96 | — | 850k coins | -25.9% | -22.2% |
 | Rodrigo Zalazar | 84 | Liga Portugal | 34k coins | -25.1% | -15.7% |
-| Rivaldo | 90 | Icons | 110k coins | -24.7% | +53.5% |
+| Mika Godts | 93 | — | 40k coins | -24.4% | -12.4% |
+| Jérémy Doku | 84 | Premier League | 142k coins | -24.1% | -16% |
 | Lionel Messi | 88 | MLS | 480k coins | -23.8% | -39.2% |
+| Quaresma | 88 | Trendyol Süper Lig | 240k coins | -23.8% | -17.5% |
 
 
 ### Análise das baixas
 
-- **Ethan Nwaneri (91)** caiu **-34.8%** em 24h, a **51k coins** (faixa do dia: 50k–79k). Está -22% abaixo da média de 7 dias (descontada).
+- **Denis Bouanga (95)** caiu **-48.1%** em 24h, a **21k coins** (faixa do dia: 21k–44k). Está -56% abaixo da média de 7 dias (descontada).
 
-- **Harvey Barnes (84)** caiu **-33%** em 24h, a **33k coins** (faixa do dia: 33k–50k). Está -27% abaixo da média de 7 dias (descontada).
+- **Juan Iturbe (85)** caiu **-32.9%** em 24h, a **40k coins** (faixa do dia: 40k–60k). Está +34% acima da média de 7 dias (aquecida).
 
-- **Juan Iturbe (85)** caiu **-32.5%** em 24h, a **40k coins** (faixa do dia: 40k–60k). Está +34% acima da média de 7 dias (aquecida).
+- **Jairzinho (89)** caiu **-32.3%** em 24h, a **298k coins** (faixa do dia: 240k–440k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Chloe Kelly já avançou 56% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Chloe Kelly já avançou 57.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ethan Nwaneri recuou -34.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Denis Bouanga recuou -48.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Chloe Kelly (88, Barclays WSL), com +56% em 24h, a 110k coins no PC.
+Chloe Kelly (88, Barclays WSL), com +57.1% em 24h, a 110k coins no PC.
 
 **E a maior queda do dia?**
-Ethan Nwaneri (91), -34.8% em 24h, a 51k coins.
+Denis Bouanga (95), -48.1% em 24h, a 21k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 84 cartas em alta contra 79 em queda (média 2.74%).
+Hoje o mercado está em alta — predominam as valorizações, com 81 cartas em alta contra 81 em queda (média 2.93%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
