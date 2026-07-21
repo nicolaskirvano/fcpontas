@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:13:18.000Z
+pubDatetime: 2026-07-21T01:13:18.000Z
 title: "Investimentos EA FC: Pontas em 20/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.0% em 24h** e **+26.2% em 7 dias**.
-- **6 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays WSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.2% em 24h** e **+12.5% em 7 dias**.
+- **5 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,31 +43,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Lauren Hemp | 90 | Barclays WSL | 55k coins | +26.4% | +88% | Esticada |
-| Kim Seung Sub | 90 | — | 43k coins | +9.2% | +67.9% | Esticada |
-| Noa Lang | 91 | Trendyol Süper Lig | 72k coins | +19.2% | +59.8% | Momentum moderado |
-| Olivia Smith | 86 | Barclays WSL | 62k coins | +31.5% | +55.6% | Esticada |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 69k coins | +22% | +44% | Esticada |
-| Oscar Bobb | 95 | — | 20k coins | +9.5% | +32.7% | Momentum moderado |
-| Michelle Cooper | 87 | NWSL | 18.250 coins | +9% | +19.7% | Momentum moderado |
-| Madison Haley | 85 | Barclays WSL | 23k coins | +15.7% | +12.9% | Momentum moderado |
-| Gervinho | 87 | Serie A TIM | 129k coins | +29% | +11.2% | Esticada |
-| Sergiño Dest | 93 | — | 19.250 coins | +11.4% | +8.3% | Momentum moderado |
-| Rodrigo Zalazar | 84 | Liga Portugal | 43k coins | +18.8% | +7.5% | Momentum moderado |
-| Rayan Cherki | 87 | Premier League | 90k coins | +36.6% | +6.5% | Esticada |
+| Lauren Hemp | 90 | Barclays WSL | 55k coins | +37.5% | +88% | Esticada |
+| Kim Seung Sub | 90 | — | 42k coins | +3.1% | +61.5% | Esticada |
+| Oscar Bobb | 95 | — | 17.000 coins | +25.8% | +50% | Esticada |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 68k coins | +16.2% | +38.8% | Momentum moderado |
+| Wesley Saïd | 86 | Ligue 1 McDonald's | 49k coins | +19.4% | +23.1% | Momentum moderado |
+| Caroline Weir | 86 | Liga F | 50k coins | +3.1% | +12.5% | Entrada a observar |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 210k coins | +13.1% | +12.5% | Momentum moderado |
+| Oscar Bobb | 88 | Premier League | 17.500 coins | +7.7% | +11.1% | Momentum moderado |
+| Oscar Bobb | 85 | Premier League | 17.500 coins | +32.1% | +9.4% | Esticada |
+| Harry Kewell | 87 | Premier League | 22k coins | +3.5% | +7.3% | Entrada a observar |
+| Iago Aspas | 86 | LALIGA EA SPORTS | 44k coins | +33.8% | +6.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Lauren Hemp (90)** — 55k coins, **+88% em 7 dias** (+26.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lauren Hemp (90)** — 55k coins, **+88% em 7 dias** (+37.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kim Seung Sub (90)** — 43k coins, **+67.9% em 7 dias** (+9.2% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kim Seung Sub (90)** — 42k coins, **+61.5% em 7 dias** (+3.1% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Noa Lang (91)** — 72k coins, **+59.8% em 7 dias** (+19.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oscar Bobb (95)** — 17.000 coins, **+50% em 7 dias** (+25.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Olivia Smith (86)** — 62k coins, **+55.6% em 7 dias** (+31.5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ethan Nwaneri (91)** — 68k coins, **+38.8% em 7 dias** (+16.2% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ethan Nwaneri (91)** — 69k coins, **+44% em 7 dias** (+22% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wesley Saïd (86)** — 49k coins, **+23.1% em 7 dias** (+19.4% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
