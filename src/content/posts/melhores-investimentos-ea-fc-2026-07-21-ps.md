@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T09:36:01.000Z
+pubDatetime: 2026-07-21T10:13:09.000Z
 title: "Investimentos EA FC: Pontas em 21/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Couhaib Driouech (86, Eredivisie) lidera, com +74.5% em 7 dias a 68k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Couhaib Driouech (86, Eredivisie) lidera, com +74.4% em 7 dias a 59k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Couhaib Driouech (86) acumula **+74.5% em 7 dias** a 68k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Couhaib Driouech (86) acumula **+74.4% em 7 dias** a 59k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 21/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-21-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.5% em 24h** e **+17.7% em 7 dias**.
-- **2 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+12.5% em 24h** e **+22.0% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Couhaib Driouech | 86 | Eredivisie | 68k coins | +15.1% | +74.5% | Esticada |
+| Couhaib Driouech | 86 | Eredivisie | 59k coins | +36% | +74.4% | Esticada |
+| John Barnes | 89 | Icons | 74k coins | +39.5% | +69.1% | Esticada |
 | Gustav Isaksen | 87 | Serie A TIM | 54k coins | +17.6% | +47.7% | Momentum moderado |
-| Gabriel Martinelli | 87 | Premier League | 140k coins | +39.2% | +47.2% | Esticada |
-| Jens Petter Hauge | 91 | Eliteserien | 60k coins | +14.6% | +46.7% | Momentum moderado |
-| Harvey Barnes | 84 | Premier League | 49k coins | +4.2% | +36.6% | Momentum moderado |
+| Gabriel Martinelli | 87 | Premier League | 140k coins | +40% | +43.6% | Esticada |
+| Claudia Pina | 87 | Liga F | 249k coins | +34.7% | +36.8% | Esticada |
+| Harvey Barnes | 84 | Premier League | 50k coins | +3.2% | +35.2% | Momentum moderado |
 | Quaresma | 89 | Liga Portugal | 240k coins | +8.2% | +22.1% | Momentum moderado |
-| Claudiu Petrila | 86 | SUPERLIGA | 45k coins | +16.5% | +17.9% | Momentum moderado |
-| Caroline Weir | 86 | Liga F | 40k coins | +6.4% | +17.7% | Momentum moderado |
-| Florian Thauvin | 87 | Ligue 1 McDonald's | 50k coins | +7.5% | +16.3% | Momentum moderado |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 50k coins | +7.5% | +22% | Momentum moderado |
 | Rodrigo Zalazar | 84 | Liga Portugal | 40k coins | +6.7% | +14.3% | Momentum moderado |
-| Harvey Barnes | 86 | Premier League | 44k coins | +8.7% | +12.9% | Momentum moderado |
+| Harvey Barnes | 86 | Premier League | 40k coins | +8.7% | +12.9% | Momentum moderado |
 | Santiago Hidalgo | 84 | Ligue 1 McDonald's | 43k coins | +12.5% | +12.5% | Momentum moderado |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 83k coins | +16.3% | +11.2% | Momentum moderado |
-| Yan Diomande | 84 | Bundesliga | 48k coins | +13% | +9.8% | Momentum moderado |
-| Luís Figo | 89 | Icons | 72k coins | +2.1% | +7.2% | Entrada a observar |
+| Caroline Weir | 86 | Liga F | 43k coins | +1.3% | +12.1% | Entrada a observar |
+| Claudiu Petrila | 86 | SUPERLIGA | 45k coins | +9.8% | +11.1% | Momentum moderado |
+| Yan Diomande | 84 | Bundesliga | 35k coins | +20.9% | +9.8% | Esticada |
+| Kadidiatou Diani | 91 | D1 Arkema | 137k coins | +33% | +9.6% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Couhaib Driouech (86)** — 68k coins, **+74.5% em 7 dias** (+15.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Couhaib Driouech (86)** — 59k coins, **+74.4% em 7 dias** (+36% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **John Barnes (89)** — 74k coins, **+69.1% em 7 dias** (+39.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Gustav Isaksen (87)** — 54k coins, **+47.7% em 7 dias** (+17.6% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gabriel Martinelli (87)** — 140k coins, **+47.2% em 7 dias** (+39.2% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gabriel Martinelli (87)** — 140k coins, **+43.6% em 7 dias** (+40% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jens Petter Hauge (91)** — 60k coins, **+46.7% em 7 dias** (+14.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Harvey Barnes (84)** — 49k coins, **+36.6% em 7 dias** (+4.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Claudia Pina (87)** — 249k coins, **+36.8% em 7 dias** (+34.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Couhaib Driouech (86, Eredivisie) lidera, com +74.5% em 7 dias a 68k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Couhaib Driouech (86, Eredivisie) lidera, com +74.4% em 7 dias a 59k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

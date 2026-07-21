@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T09:36:11.000Z
+pubDatetime: 2026-07-21T10:13:19.000Z
 title: "Jogadores baratos EA FC: Pontas em 21/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 21/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (21/07/2026)?"
-    a: "Roberto Alvarado (94, sem liga) aparece como melhor custo-benefício, a 12.750 coins no PC."
+    a: "Roberto Alvarado (94, sem liga) aparece como melhor custo-benefício, a 13.500 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **21/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Roberto Alvarado (94) por apenas 12.750 coins.
+> 💰 **Melhor pechincha:** Roberto Alvarado (94) por apenas 13.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Pontas em 21/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-21-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 10.962 coins.
+- **Preço médio das 4 opções:** 11.312 coins.
 - **Posição mais frequente:** RW, com 2 cartas.
-- **Faixa real:** 3.600 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.500 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,26 +40,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Roberto Alvarado | 94 | RW | — | 12.750 coins | +8.2% |
-| Elijah Just | 94 | LW | — | 13.000 coins | +8.3% |
+| Roberto Alvarado | 94 | RW | — | 13.500 coins | +8.2% |
+| Elijah Just | 94 | LW | — | 13.750 coins | +6% |
 | Vini Jr. | 89 | LW | LALIGA EA SPORTS | 14.500 coins | +50% |
-| Lionel Messi | 86 | RW | MLS | 3.600 coins | +28.6% |
+| Lionel Messi | 86 | RW | MLS | 3.500 coins | +33.3% |
 
 
 ## 📈 Destaques
 
-- **Roberto Alvarado (94, RW)** da —, a apenas **12.750 coins**
+- **Roberto Alvarado (94, RW)** da —, a apenas **13.500 coins**
 
-- **Elijah Just (94, LW)** da —, a apenas **13.000 coins**
+- **Elijah Just (94, LW)** da —, a apenas **13.750 coins**
 
 - **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Lionel Messi (86, RW)** da MLS, a apenas **3.600 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Lionel Messi (86, RW)** da MLS, a apenas **3.500 coins** A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Ataque:** Roberto Alvarado (94, RW) por 12.750 coins é a referência de rating deste recorte.
+- **Ataque:** Roberto Alvarado (94, RW) por 13.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -88,7 +88,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (21/07/2026)?**  
-Roberto Alvarado (94, sem liga) aparece como melhor custo-benefício, a 12.750 coins no PC.
+Roberto Alvarado (94, sem liga) aparece como melhor custo-benefício, a 13.500 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

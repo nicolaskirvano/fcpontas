@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T09:36:10.000Z
+pubDatetime: 2026-07-21T10:13:18.000Z
 title: "Investimentos EA FC: Pontas em 21/07 — PC"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.4% em 24h** e **+32.2% em 7 dias**.
+- A mediana é de **+8.8% em 24h** e **+38.9% em 7 dias**.
 - **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Trendyol Süper Lig** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Olivia Smith | 86 | Barclays WSL | 70k coins | +2.9% | +89.4% | Esticada |
-| Aoba Fujino | 91 | — | 44k coins | +9.4% | +84.2% | Esticada |
-| Noa Lang | 91 | Trendyol Süper Lig | 87k coins | +38.5% | +81.8% | Esticada |
+| Olivia Smith | 86 | Barclays WSL | 70k coins | +5.9% | +89.4% | Esticada |
+| Aoba Fujino | 91 | — | 40k coins | +8.8% | +83.2% | Esticada |
+| Noa Lang | 91 | Trendyol Süper Lig | 87k coins | +33.8% | +80.3% | Esticada |
 | Kim Seung Sub | 90 | — | 43k coins | +22.9% | +65.4% | Esticada |
-| Reyes Cleary | 90 | — | 46k coins | +13.5% | +65% | Esticada |
-| Jens Petter Hauge | 88 | Eliteserien | 120k coins | +8.1% | +51.9% | Momentum moderado |
-| Oscar Bobb | 95 | — | 21k coins | +13% | +50% | Momentum moderado |
+| Reyes Cleary | 90 | — | 46k coins | +9.4% | +60.3% | Esticada |
+| Oscar Bobb | 95 | — | 17.750 coins | +14.5% | +51.9% | Momentum moderado |
+| Jens Petter Hauge | 88 | Eliteserien | 120k coins | +8.1% | +47.2% | Momentum moderado |
+| Rivaldo | 91 | Icons | 124k coins | +38.9% | +38.9% | Esticada |
+| Mika Godts | 93 | — | 29k coins | +1.4% | +37.4% | Momentum moderado |
 | Wesley Saïd | 86 | Ligue 1 McDonald's | 49k coins | +7.1% | +32.2% | Momentum moderado |
 | Anthony Nwakaeme | 87 | Trendyol Süper Lig | 98k coins | +24.7% | +28.8% | Esticada |
-| John Barnes | 89 | Icons | 100k coins | +8.5% | +28.6% | Momentum moderado |
 | Caroline Weir | 86 | Liga F | 50k coins | +3.1% | +27.7% | Momentum moderado |
 | Mary Fowler | 87 | Barclays Women’s Super League | 49k coins | +4.3% | +27.3% | Momentum moderado |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 64k coins | +26.5% | +17.3% | Esticada |
-| Raphinha | 91 | LALIGA EA SPORTS | 140k coins | +5% | +14% | Entrada a observar |
-| Merveille Kanjinga | 86 | D1 Arkema | 40k coins | +22.7% | +13.6% | Esticada |
+| John Barnes | 89 | Icons | 98k coins | +1% | +19% | Entrada a observar |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 64k coins | +32.3% | +17.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Olivia Smith (86)** — 70k coins, **+89.4% em 7 dias** (+2.9% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Olivia Smith (86)** — 70k coins, **+89.4% em 7 dias** (+5.9% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aoba Fujino (91)** — 44k coins, **+84.2% em 7 dias** (+9.4% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aoba Fujino (91)** — 40k coins, **+83.2% em 7 dias** (+8.8% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Noa Lang (91)** — 87k coins, **+81.8% em 7 dias** (+38.5% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noa Lang (91)** — 87k coins, **+80.3% em 7 dias** (+33.8% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Kim Seung Sub (90)** — 43k coins, **+65.4% em 7 dias** (+22.9% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Reyes Cleary (90)** — 46k coins, **+65% em 7 dias** (+13.5% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Reyes Cleary (90)** — 46k coins, **+60.3% em 7 dias** (+9.4% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
