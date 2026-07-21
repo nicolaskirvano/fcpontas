@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:13:16.000Z
+pubDatetime: 2026-07-21T13:13:17.000Z
 title: "Mercado EA FC em 21/07: Pontas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Denis Bouanga (95, sem liga), com +60% em 24h, a 34k coins no PC."
+    a: "Lukáš Haraslín (89, Česká Liga), com +56.7% em 24h, a 24k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Rivaldo (90), -44.3% em 24h, a 94k coins."
+    a: "Allan Saint-Maximin (92), -48.2% em 24h, a 78k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 70 cartas em alta contra 87 em queda (média 1.4%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 67 cartas em alta contra 87 em queda (média 0.63%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **21/07/2026** no PC com mercado **de lado** — altas e quedas se equilibram: **70 cartas subiram** e **87 caíram** (80+ acima de 5k coins), variação média de **1.4%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **21/07/2026** no PC com mercado **de lado** — altas e quedas se equilibram: **67 cartas subiram** e **87 caíram** (80+ acima de 5k coins), variação média de **0.63%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Denis Bouanga (95) **+60%** · 🔴 **Maior baixa:** Rivaldo (90) **-44.3%**
+> 🟢 **Maior alta:** Lukáš Haraslín (89) **+56.7%** · 🔴 **Maior baixa:** Allan Saint-Maximin (92) **-48.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Pontas — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **21/07/2026** no PC com mercado **de lado** — alt
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 44.6% entre as cartas que se moveram; o universo observado reúne 192 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 104.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.5% entre as cartas que se moveram; o universo observado reúne 190 cartas.
+- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Denis Bouanga | 95 | — | 34k coins | +60% | -43.8% |
-| Jairzinho | 89 | Icons | 429k coins | +58.9% | +38.4% |
-| Harvey Barnes | 84 | Premier League | 50k coins | +52.7% | +5.3% |
-| Gabriel Martinelli | 87 | Premier League | 143k coins | +52.5% | +37.3% |
+| Lukáš Haraslín | 89 | Česká Liga | 24k coins | +56.7% | -15.3% |
+| Harvey Barnes | 84 | Premier League | 50k coins | +53.8% | +5.3% |
 | Jerzy Dudek | 87 | Premier League | 48k coins | +52% | -29.6% |
 | Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 1.20M coins | +46.3% | +21.3% |
-| Matteo Politano | 87 | — | 49k coins | +44.1% | -10.1% |
-| Rodrigo Zalazar | 84 | Liga Portugal | 48k coins | +40.7% | +15.2% |
-| Iago Aspas | 86 | LALIGA EA SPORTS | 44k coins | +40.6% | +12.5% |
-| Rivaldo | 91 | Icons | 124k coins | +38.9% | +38.9% |
+| Johan Bakayoko | 88 | Bundesliga | 36k coins | +42.5% | +23% |
+| Gervinho | 85 | Serie A TIM | 22k coins | +29.4% | +3.5% |
+| Denis Bouanga | 95 | — | 27k coins | +29.3% | -50% |
+| Gabriel Martinelli | 87 | Premier League | 129k coins | +23.9% | +29.8% |
+| Timo Werner | 87 | Bundesliga | 62k coins | +23.6% | -9.6% |
+| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 96k coins | +23.6% | +26.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **21/07/2026** no PC com mercado **de lado** — alt
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Denis Bouanga (95)** subiu **+60%** em 24h, a **34k coins** (faixa do dia: 21k–35k). Está -24% abaixo da média de 7 dias (descontada).
+- **Lukáš Haraslín (89)** subiu **+56.7%** em 24h, a **24k coins** (faixa do dia: 13.000–24k). Está em linha com a média de 7 dias (+2%).
 
-- **Jairzinho (89)** subiu **+58.9%** em 24h, a **429k coins** (faixa do dia: 201k–429k). Está +21% acima da média de 7 dias (aquecida).
+- **Harvey Barnes (84)** subiu **+53.8%** em 24h, a **50k coins** (faixa do dia: 33k–50k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Harvey Barnes (84)** subiu **+52.7%** em 24h, a **50k coins** (faixa do dia: 32k–50k). Está +11% acima da média de 7 dias (aquecida).
+- **Jerzy Dudek (87)** subiu **+52%** em 24h, a **48k coins** (faixa do dia: 31k–48k). Está -22% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rivaldo | 90 | Icons | 94k coins | -44.3% | -29.5% |
+| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 78k coins | -48.2% | -39.6% |
 | Linda Caicedo | 87 | Liga F | 45k coins | -44.1% | -22.2% |
-| Anass Zaroury | 86 | Hellas Liga | 48k coins | -42.6% | -2.5% |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 78k coins | -39.3% | -23.4% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 1M coins | -38.9% | -58.3% |
-| Anders Dreyer | 84 | MLS | 22k coins | -38.9% | -6.2% |
+| Gervinho | 87 | Serie A TIM | 80k coins | -38.8% | -31.5% |
+| Mohammed Kudus | 90 | Premier League | 80k coins | -38.8% | -38.8% |
+| Mika Godts | 93 | — | 26k coins | -32.7% | -7.3% |
+| Rivaldo | 90 | Icons | 78k coins | -31.2% | -17% |
 | Caroline Graham Hansen | 92 | Liga F | 261k coins | -31% | -28.7% |
-| Naomie Feller | 88 | — | 25k coins | -29.5% | -49.7% |
+| Jérémy Doku | 91 | Premier League | 440k coins | -30.8% | -41.7% |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 2.50M coins | -28.6% | -39% |
 | Vivien Endemann | 83 | GPFBL | 30k coins | -25% | -25% |
-| Rodrygo | 89 | LALIGA EA SPORTS | 750k coins | -25% | -20.2% |
 
 
 ### Análise das baixas
 
-- **Rivaldo (90)** caiu **-44.3%** em 24h, a **94k coins** (faixa do dia: 68k–141k). Está -20% abaixo da média de 7 dias (descontada).
+- **Allan Saint-Maximin (92)** caiu **-48.2%** em 24h, a **78k coins** (faixa do dia: 72k–130k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Linda Caicedo (87)** caiu **-44.1%** em 24h, a **45k coins** (faixa do dia: 45k–80k). Está -32% abaixo da média de 7 dias (descontada).
+- **Linda Caicedo (87)** caiu **-44.1%** em 24h, a **45k coins** (faixa do dia: 45k–80k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Anass Zaroury (86)** caiu **-42.6%** em 24h, a **48k coins** (faixa do dia: 46k–84k). Está -18% abaixo da média de 7 dias (descontada).
+- **Gervinho (87)** caiu **-38.8%** em 24h, a **80k coins** (faixa do dia: 80k–130k). Está -25% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Denis Bouanga já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lukáš Haraslín já avançou 56.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Rivaldo recuou -44.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Allan Saint-Maximin recuou -48.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -107,7 +107,6 @@ O mercado do **EA FC** abre **21/07/2026** no PC com mercado **de lado** — alt
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Pontas em 21/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-21-pc/)
 - [Investimentos EA FC: Pontas em 21/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-21-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
@@ -119,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Denis Bouanga (95, sem liga), com +60% em 24h, a 34k coins no PC.
+Lukáš Haraslín (89, Česká Liga), com +56.7% em 24h, a 24k coins no PC.
 
 **E a maior queda do dia?**
-Rivaldo (90), -44.3% em 24h, a 94k coins.
+Allan Saint-Maximin (92), -48.2% em 24h, a 78k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 70 cartas em alta contra 87 em queda (média 1.4%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 67 cartas em alta contra 87 em queda (média 0.63%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
