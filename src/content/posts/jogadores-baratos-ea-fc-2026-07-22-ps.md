@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T09:32:11.000Z
+pubDatetime: 2026-07-22T10:13:10.000Z
 title: "Jogadores baratos EA FC: Pontas em 22/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 11.721 coins.
-- **Posição mais frequente:** RW, com 5 cartas.
-- **Faixa real:** 2.300 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 8.869 coins.
+- **Posição mais frequente:** RW, com 6 cartas.
+- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,11 +42,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Roberto Alvarado | 94 | RW | — | 12.000 coins | -4% |
 | Elijah Just | 94 | LW | — | 12.000 coins | -6% |
-| Harry Kewell | 87 | LW | Premier League | 13.500 coins | +1.7% |
-| Kiko Seike | 87 | RW | Barclays WSL | 13.500 coins | +10% |
-| Lionel Messi | 86 | RW | MLS | 2.300 coins | +10% |
-| Oscar Bobb | 85 | RW | Premier League | 14.000 coins | -3.5% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 1.500 coins | +11.1% |
+| Kiko Seike | 87 | RW | Barclays WSL | 14.000 coins | +8% |
+| Lionel Messi | 86 | RW | MLS | 2.000 coins | +5% |
+| Oscar Bobb | 85 | RW | Premier League | 12.000 coins | -6.8% |
 | Marco Asensio | 85 | RW | Trendyol Süper Lig | 14.750 coins | -13.2% |
+| Jule Brand | 83 | LW | GPFBL | 2.700 coins | +26.3% |
 
 
 ## 📈 Destaques
@@ -55,11 +56,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Elijah Just (94, LW)** da —, a apenas **12.000 coins**
 
-- **Harry Kewell (87, LW)** da Premier League, a apenas **13.500 coins**
+- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **1.500 coins**
 
-- **Kiko Seike (87, RW)** da Barclays WSL, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kiko Seike (87, RW)** da Barclays WSL, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lionel Messi (86, RW)** da MLS, a apenas **2.300 coins** — já **valorizando**, sinal de procura crescente.
+- **Lionel Messi (86, RW)** da MLS, a apenas **2.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca

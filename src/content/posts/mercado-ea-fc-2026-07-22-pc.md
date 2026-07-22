@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T09:32:18.000Z
+pubDatetime: 2026-07-22T10:13:16.000Z
 title: "Mercado EA FC em 22/07: Pontas — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Salma Paralluelo (96), -50% em 24h, a 1.90M coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 65 cartas em alta contra 102 em queda (média 0.26%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 65 cartas em alta contra 97 em queda (média 0.53%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **22/07/2026** no PC: mercado **pressionado** — as quedas dominam o dia. **65 valorizações** contra **102 quedas** entre as cartas relevantes, com média de **0.26%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **22/07/2026** no PC: dia **indefinido** — sem tendência dominante. **65 valorizações** contra **97 quedas** entre as cartas relevantes, com média de **0.53%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Juan Iturbe (85) **+58.1%** · 🔴 **Maior baixa:** Salma Paralluelo (96) **-50%**
 
@@ -36,7 +36,7 @@ Resumo de **22/07/2026** no PC: mercado **pressionado** — as quedas dominam o 
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 108.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 38.9% entre as cartas que se moveram; o universo observado reúne 196 cartas.
+- **Participação das altas:** 40.1% entre as cartas que se moveram; o universo observado reúne 192 cartas.
 - **Concentração:** Barclays WSL aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -44,15 +44,15 @@ Resumo de **22/07/2026** no PC: mercado **pressionado** — as quedas dominam o 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Juan Iturbe | 85 | Libertadores | 28k coins | +58.1% | +2.6% |
-| Tabitha Chawinga | 91 | D1 Arkema | 165k coins | +48.4% | +4.6% |
 | Mikel Gogorza | 86 | 3F Superliga | 64k coins | +44.3% | -27.4% |
-| Claudia Pina | 92 | Liga F | 1.50M coins | +43.5% | +10% |
-| Sandy Baltimore | 87 | Barclays WSL | 60k coins | +41.2% | +30.4% |
+| Sandy Baltimore | 87 | Barclays WSL | 50k coins | +41.2% | +30.4% |
+| Jeremie Frimpong | 86 | Premier League | 230k coins | +40.8% | +7.5% |
 | Daniela Agote | 91 | — | 54k coins | +38.9% | +83.5% |
+| Tabitha Chawinga | 91 | D1 Arkema | 164k coins | +38.5% | -2.3% |
+| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 107k coins | +38.5% | -16.3% |
 | Aoba Fujino | 91 | — | 52k coins | +38.4% | +93% |
 | Chloe Kelly | 88 | Barclays WSL | 86k coins | +37.5% | -17% |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 108k coins | +36.2% | -15.5% |
-| Oscar Bobb | 88 | Premier League | 24k coins | +36.2% | +56.7% |
+| Mika Godts | 93 | — | 35k coins | +37.3% | +27.3% |
 
 
 ### Análise das altas
@@ -63,9 +63,9 @@ Resumo de **22/07/2026** no PC: mercado **pressionado** — as quedas dominam o 
 
 - **Juan Iturbe (85)** subiu **+58.1%** em 24h, a **28k coins** (faixa do dia: 12.000–33k). Está em linha com a média de 7 dias (-5%).
 
-- **Tabitha Chawinga (91)** subiu **+48.4%** em 24h, a **165k coins** (faixa do dia: 101k–188k). Está em linha com a média de 7 dias (+8%).
-
 - **Mikel Gogorza (86)** subiu **+44.3%** em 24h, a **64k coins** (faixa do dia: 42k–84k). Está -24% abaixo da média de 7 dias (descontada).
+
+- **Sandy Baltimore (87)** subiu **+41.2%** em 24h, a **50k coins** (faixa do dia: 34k–60k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
@@ -74,14 +74,14 @@ Resumo de **22/07/2026** no PC: mercado **pressionado** — as quedas dominam o 
 | --- | --- | --- | --- | --- | --- |
 | Salma Paralluelo | 96 | — | 1.90M coins | -50% | -53.6% |
 | Vini Jr. | 98 | — | 800k coins | -46.7% | — |
-| Désiré Doué | 96 | — | 790k coins | -44.5% | -60.8% |
-| Vini Jr. | 92 | LALIGA EA SPORTS | 575k coins | -37.4% | -60.3% |
-| Lionel Messi | 88 | MLS | 325k coins | -36.9% | -55% |
-| Rivaldo | 91 | Icons | 72k coins | -36.4% | -32.1% |
-| Bradley Barcola | 96 | — | 424k coins | -34.2% | -58.1% |
+| Rivaldo | 91 | Icons | 72k coins | -40.4% | -37.8% |
+| Vini Jr. | 92 | LALIGA EA SPORTS | 575k coins | -39% | -60.3% |
+| Lionel Messi | 88 | MLS | 325k coins | -34.9% | -53.6% |
 | Claudiu Petrila | 86 | SUPERLIGA | 32k coins | -34% | -29.7% |
-| Désiré Doué | 97 | — | 540k coins | -33% | -45.5% |
+| Claudia Pina | 97 | — | 650k coins | -33.3% | -58% |
+| Gustav Isaksen | 87 | Serie A TIM | 48k coins | -31.1% | -13.8% |
 | Borja Sainz | 83 | Liga Portugal | 30k coins | -29% | -29% |
+| Bradley Barcola | 96 | — | 424k coins | -28.8% | -58.1% |
 
 
 ### Análise das baixas
@@ -90,7 +90,7 @@ Resumo de **22/07/2026** no PC: mercado **pressionado** — as quedas dominam o 
 
 - **Vini Jr. (98)** caiu **-46.7%** em 24h, a **800k coins** (faixa do dia: 800k–1.48M). Está -55% abaixo da média de 7 dias (descontada).
 
-- **Désiré Doué (96)** caiu **-44.5%** em 24h, a **790k coins** (faixa do dia: 511k–1.05M). Está -36% abaixo da média de 7 dias (descontada).
+- **Rivaldo (91)** caiu **-40.4%** em 24h, a **72k coins** (faixa do dia: 45k–120k). Está -30% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -115,7 +115,7 @@ Juan Iturbe (85, Libertadores), com +58.1% em 24h, a 28k coins no PC.
 Salma Paralluelo (96), -50% em 24h, a 1.90M coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 65 cartas em alta contra 102 em queda (média 0.26%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 65 cartas em alta contra 97 em queda (média 0.53%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

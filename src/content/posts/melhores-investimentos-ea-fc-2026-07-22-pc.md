@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T09:32:19.000Z
+pubDatetime: 2026-07-22T10:13:18.000Z
 title: "Investimentos EA FC: Pontas em 22/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.6% em 24h** e **+20.8% em 7 dias**.
-- **4 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+11.7% em 24h** e **+18.1% em 7 dias**.
+- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -45,12 +45,13 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Daniela Agote | 91 | — | 54k coins | +38.9% | +83.5% | Esticada |
 | Oscar Bobb | 88 | Premier League | 24k coins | +36.2% | +56.7% | Esticada |
-| John Barnes | 89 | Icons | 109k coins | +10.1% | +27.5% | Momentum moderado |
-| Mika Godts | 93 | — | 35k coins | +25% | +27.3% | Esticada |
-| Harvey Barnes | 86 | Premier League | 48k coins | +5.7% | +14.3% | Momentum moderado |
-| Kim Seung Sub | 90 | — | 44k coins | +2.3% | +13.5% | Entrada a observar |
+| John Barnes | 89 | Icons | 109k coins | +11.2% | +27.5% | Momentum moderado |
+| Mika Godts | 93 | — | 35k coins | +37.3% | +27.3% | Esticada |
+| Raphinha | 91 | LALIGA EA SPORTS | 133k coins | +9.6% | +18.1% | Momentum moderado |
+| Johan Bakayoko | 88 | Bundesliga | 40k coins | +11.1% | +15.1% | Momentum moderado |
+| Harvey Barnes | 86 | Premier League | 44k coins | +3.4% | +11.8% | Entrada a observar |
 | Ethan Nwaneri | 91 | Ligue 1 McDonald's | 86k coins | +31.5% | +7.5% | Esticada |
-| Bartosz Nowak | 93 | — | 26k coins | +6.4% | +5.3% | Momentum moderado |
+| Bartosz Nowak | 93 | — | 28k coins | +11.7% | +5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -59,11 +60,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Oscar Bobb (88)** — 24k coins, **+56.7% em 7 dias** (+36.2% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **John Barnes (89)** — 109k coins, **+27.5% em 7 dias** (+10.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **John Barnes (89)** — 109k coins, **+27.5% em 7 dias** (+11.2% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mika Godts (93)** — 35k coins, **+27.3% em 7 dias** (+25% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mika Godts (93)** — 35k coins, **+27.3% em 7 dias** (+37.3% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harvey Barnes (86)** — 48k coins, **+14.3% em 7 dias** (+5.7% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Raphinha (91)** — 133k coins, **+18.1% em 7 dias** (+9.6% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
