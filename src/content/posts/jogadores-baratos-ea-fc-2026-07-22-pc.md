@@ -1,38 +1,38 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T22:13:10.000Z
-title: "Jogadores baratos EA FC: Pontas em 22/07 — Console (PS)"
+pubDatetime: 2026-07-22T22:13:19.000Z
+title: "Jogadores baratos EA FC: Pontas em 22/07 — PC"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - ps
-description: "Cartas 83+ abaixo de 15 mil coins em 22/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
+  - pc
+description: "Cartas 83+ abaixo de 15 mil coins em 22/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (22/07/2026)?"
-    a: "Elijah Just (94, sem liga) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
+    a: "Julian Quiñones (96, sem liga) aparece como melhor custo-benefício, a 12.250 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **22/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **22/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Elijah Just (94) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Julian Quiñones (96) por apenas 12.250 coins.
 
-![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Pontas em 22/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-22-ps.svg)
+![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Pontas em 22/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-22-pc.svg)
 
 *Visualização gerada com os mesmos valores da tabela deste artigo.*
 
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 13.000 coins.
-- **Posição mais frequente:** RW, com 7 cartas.
-- **Faixa real:** 11.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 8.100 coins.
+- **Posição mais frequente:** RW, com 3 cartas.
+- **Faixa real:** 2.100 a 12.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,33 +40,29 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Elijah Just | 94 | LW | — | 11.500 coins | -8% |
-| Roberto Alvarado | 94 | RW | — | 11.750 coins | -6.1% |
-| Oscar Bobb | 88 | RW | Premier League | 14.250 coins | -8.1% |
-| Harry Kewell | 87 | LW | Premier League | 12.000 coins | -4.8% |
-| Michelle Cooper | 87 | RW | NWSL | 12.500 coins | -3.3% |
-| Kiko Seike | 87 | RW | Barclays WSL | 13.000 coins | +1.8% |
-| Madison Haley | 85 | RW | Barclays WSL | 13.000 coins | -11.1% |
-| Oscar Bobb | 85 | RW | Premier League | 14.250 coins | -6.7% |
-| Anders Dreyer | 84 | RW | MLS | 14.750 coins | -9.2% |
+| Julian Quiñones | 96 | LW | — | 12.250 coins | -8.8% |
+| Elijah Just | 94 | LW | — | 11.500 coins | -2% |
+| Roberto Alvarado | 94 | RW | — | 11.750 coins | -2.1% |
+| Bukayo Saka | 88 | RW | Premier League | 2.100 coins | +5% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2.900 coins | +4% |
 
 
 ## 📈 Destaques
+
+- **Julian Quiñones (96, LW)** da —, a apenas **12.250 coins**
 
 - **Elijah Just (94, LW)** da —, a apenas **11.500 coins**
 
 - **Roberto Alvarado (94, RW)** da —, a apenas **11.750 coins**
 
-- **Oscar Bobb (88, RW)** da Premier League, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Bukayo Saka (88, RW)** da Premier League, a apenas **2.100 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Harry Kewell (87, LW)** da Premier League, a apenas **12.000 coins**
-
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **12.500 coins**
+- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Ataque:** Elijah Just (94, LW) por 11.500 coins é a referência de rating deste recorte.
+- **Ataque:** Julian Quiñones (96, LW) por 12.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -85,7 +81,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (22/07/2026)?**  
-Elijah Just (94, sem liga) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
+Julian Quiñones (96, sem liga) aparece como melhor custo-benefício, a 12.250 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -98,12 +94,12 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de Console (PS), referência de 22/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de PC, referência de 22/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
 
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Pontas em 22/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-22-ps/)
-- [Mercado EA FC em 22/07: Pontas — Console (PS)](/posts/mercado-ea-fc-2026-07-22-ps/)
+- [Investimentos EA FC: Pontas em 22/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-22-pc/)
+- [Mercado EA FC em 22/07: Pontas — PC](/posts/mercado-ea-fc-2026-07-22-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
