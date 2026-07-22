@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:13:16.000Z
+pubDatetime: 2026-07-22T13:13:17.000Z
 title: "Mercado EA FC em 22/07: Pontas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Juan Iturbe (85, Libertadores), com +58.1% em 24h, a 28k coins no PC."
+    a: "Yan Diomande (84, Bundesliga), com +52.3% em 24h, a 59k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Salma Paralluelo (96), -50% em 24h, a 1.90M coins."
+    a: "Jairzinho (89), -43.4% em 24h, a 300k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 65 cartas em alta contra 97 em queda (média 0.53%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 61 cartas em alta contra 90 em queda (média -1.26%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **22/07/2026** no PC: dia **indefinido** — sem tendência dominante. **65 valorizações** contra **97 quedas** entre as cartas relevantes, com média de **0.53%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **22/07/2026** no PC: dia **indefinido** — sem tendência dominante. **61 valorizações** contra **90 quedas** entre as cartas relevantes, com média de **-1.26%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Juan Iturbe (85) **+58.1%** · 🔴 **Maior baixa:** Salma Paralluelo (96) **-50%**
+> 🟢 **Maior alta:** Yan Diomande (84) **+52.3%** · 🔴 **Maior baixa:** Jairzinho (89) **-43.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Pontas — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **22/07/2026** no PC: dia **indefinido** — sem tendência dominante.
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.1% entre as cartas que se moveram; o universo observado reúne 192 cartas.
-- **Concentração:** Barclays WSL aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 95.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 40.4% entre as cartas que se moveram; o universo observado reúne 177 cartas.
+- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Juan Iturbe | 85 | Libertadores | 28k coins | +58.1% | +2.6% |
+| Yan Diomande | 84 | Bundesliga | 59k coins | +52.3% | +28.3% |
+| Harry Kewell | 87 | Premier League | 22k coins | +48.5% | +90.6% |
+| Juan Iturbe | 85 | Libertadores | 25k coins | +47.9% | -7.1% |
 | Mikel Gogorza | 86 | 3F Superliga | 64k coins | +44.3% | -27.4% |
-| Sandy Baltimore | 87 | Barclays WSL | 50k coins | +41.2% | +30.4% |
-| Jeremie Frimpong | 86 | Premier League | 230k coins | +40.8% | +7.5% |
-| Daniela Agote | 91 | — | 54k coins | +38.9% | +83.5% |
-| Tabitha Chawinga | 91 | D1 Arkema | 164k coins | +38.5% | -2.3% |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 107k coins | +38.5% | -16.3% |
-| Aoba Fujino | 91 | — | 52k coins | +38.4% | +93% |
-| Chloe Kelly | 88 | Barclays WSL | 86k coins | +37.5% | -17% |
-| Mika Godts | 93 | — | 35k coins | +37.3% | +27.3% |
+| Víctor Ibarbo | 85 | Serie A TIM | 60k coins | +37.1% | +9.1% |
+| Jeremie Frimpong | 86 | Premier League | 205k coins | +36.7% | +9% |
+| Daniela Agote | 91 | — | 49k coins | +35.9% | +80.7% |
+| Saeed Al Owairan | 91 | ROSHN Saudi League | 201k coins | +34% | -18.6% |
+| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 103k coins | +33.3% | -18.1% |
+| Vivien Endemann | 83 | GPFBL | 40k coins | +33.3% | +3.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **22/07/2026** no PC: dia **indefinido** — sem tendência dominante.
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Juan Iturbe (85)** subiu **+58.1%** em 24h, a **28k coins** (faixa do dia: 12.000–33k). Está em linha com a média de 7 dias (-5%).
+- **Yan Diomande (84)** subiu **+52.3%** em 24h, a **59k coins** (faixa do dia: 38k–60k). Está +30% acima da média de 7 dias (aquecida).
 
-- **Mikel Gogorza (86)** subiu **+44.3%** em 24h, a **64k coins** (faixa do dia: 42k–84k). Está -24% abaixo da média de 7 dias (descontada).
+- **Harry Kewell (87)** subiu **+48.5%** em 24h, a **22k coins** (faixa do dia: 15.500–26k). Está em linha com a média de 7 dias (+8%).
 
-- **Sandy Baltimore (87)** subiu **+41.2%** em 24h, a **50k coins** (faixa do dia: 34k–60k). Está +19% acima da média de 7 dias (aquecida).
+- **Juan Iturbe (85)** subiu **+47.9%** em 24h, a **25k coins** (faixa do dia: 12.000–33k). Está -14% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Salma Paralluelo | 96 | — | 1.90M coins | -50% | -53.6% |
-| Vini Jr. | 98 | — | 800k coins | -46.7% | — |
-| Rivaldo | 91 | Icons | 72k coins | -40.4% | -37.8% |
-| Vini Jr. | 92 | LALIGA EA SPORTS | 575k coins | -39% | -60.3% |
-| Lionel Messi | 88 | MLS | 325k coins | -34.9% | -53.6% |
-| Claudiu Petrila | 86 | SUPERLIGA | 32k coins | -34% | -29.7% |
-| Claudia Pina | 97 | — | 650k coins | -33.3% | -58% |
-| Gustav Isaksen | 87 | Serie A TIM | 48k coins | -31.1% | -13.8% |
-| Borja Sainz | 83 | Liga Portugal | 30k coins | -29% | -29% |
-| Bradley Barcola | 96 | — | 424k coins | -28.8% | -58.1% |
+| Jairzinho | 89 | Icons | 300k coins | -43.4% | -23.8% |
+| Vini Jr. | 97 | — | 1.35M coins | -43.3% | -70.6% |
+| Vini Jr. | 98 | — | 891k coins | -39.4% | — |
+| Jérémy Doku | 86 | Premier League | 485k coins | -37.6% | -37.8% |
+| Antoine Semenyo | 94 | — | 123k coins | -36.3% | -47.2% |
+| Lionel Messi | 88 | MLS | 350k coins | -35.7% | -54.9% |
+| Lionel Messi | 97 | — | 1.20M coins | -35.1% | -73.6% |
+| Raphinha | 93 | — | 65k coins | -34.8% | -40% |
+| Claudiu Petrila | 86 | SUPERLIGA | 32k coins | -34% | -29% |
+| Temwa Chawinga | 97 | — | 232k coins | -33.3% | -43.3% |
 
 
 ### Análise das baixas
 
-- **Salma Paralluelo (96)** caiu **-50%** em 24h, a **1.90M coins** (faixa do dia: 1.75M–3.80M). Está -48% abaixo da média de 7 dias (descontada).
+- **Jairzinho (89)** caiu **-43.4%** em 24h, a **300k coins** (faixa do dia: 200k–440k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Vini Jr. (98)** caiu **-46.7%** em 24h, a **800k coins** (faixa do dia: 800k–1.48M). Está -55% abaixo da média de 7 dias (descontada).
+- **Vini Jr. (97)** caiu **-43.3%** em 24h, a **1.35M coins** (faixa do dia: 1.03M–3.40M). Está -61% abaixo da média de 7 dias (descontada).
 
-- **Rivaldo (91)** caiu **-40.4%** em 24h, a **72k coins** (faixa do dia: 45k–120k). Está -30% abaixo da média de 7 dias (descontada).
+- **Vini Jr. (98)** caiu **-39.4%** em 24h, a **891k coins** (faixa do dia: 800k–1.48M). Está -50% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Juan Iturbe já avançou 58.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Yan Diomande já avançou 52.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Salma Paralluelo recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jairzinho recuou -43.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Juan Iturbe (85, Libertadores), com +58.1% em 24h, a 28k coins no PC.
+Yan Diomande (84, Bundesliga), com +52.3% em 24h, a 59k coins no PC.
 
 **E a maior queda do dia?**
-Salma Paralluelo (96), -50% em 24h, a 1.90M coins.
+Jairzinho (89), -43.4% em 24h, a 300k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 65 cartas em alta contra 97 em queda (média 0.53%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 61 cartas em alta contra 90 em queda (média -1.26%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
