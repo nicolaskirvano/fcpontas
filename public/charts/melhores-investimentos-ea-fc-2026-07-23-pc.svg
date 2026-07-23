@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oscar Bobb</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.7%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aoba Fujino</text>
-<rect x="285" y="153" width="349" height="28" rx="7" fill="#22c55e"/>
-<text x="644" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.4%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gabriel Martinelli</text>
-<rect x="285" y="211" width="345" height="28" rx="7" fill="#22c55e"/>
-<text x="640" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Said El Mala</text>
-<rect x="285" y="269" width="274" height="28" rx="7" fill="#22c55e"/>
-<text x="569" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Félix</text>
-<rect x="285" y="327" width="219" height="28" rx="7" fill="#22c55e"/>
-<text x="514" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jens Petter Hauge</text>
-<rect x="285" y="385" width="211" height="28" rx="7" fill="#22c55e"/>
-<text x="506" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.3%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+62.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kerem Aktürkoğlu</text>
+<rect x="285" y="153" width="451" height="28" rx="7" fill="#22c55e"/>
+<text x="746" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kadidiatou Diani</text>
+<rect x="285" y="211" width="390" height="28" rx="7" fill="#22c55e"/>
+<text x="685" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aoba Fujino</text>
+<rect x="285" y="269" width="366" height="28" rx="7" fill="#22c55e"/>
+<text x="661" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gabriel Martinelli</text>
+<rect x="285" y="327" width="332" height="28" rx="7" fill="#22c55e"/>
+<text x="627" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Said El Mala</text>
+<rect x="285" y="385" width="227" height="28" rx="7" fill="#22c55e"/>
+<text x="522" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.4%</text>
 </svg>

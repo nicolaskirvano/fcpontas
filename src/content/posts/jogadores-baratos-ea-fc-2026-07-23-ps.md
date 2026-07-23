@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T09:31:55.000Z
+pubDatetime: 2026-07-23T10:13:10.000Z
 title: "Jogadores baratos EA FC: Pontas em 23/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 23/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (23/07/2026)?"
-    a: "Oscar Bobb (95, sem liga) aparece como melhor custo-benefício, a 14.750 coins no Console (PS)."
+    a: "Roberto Alvarado (94, sem liga) aparece como melhor custo-benefício, a 10.750 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **23/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Oscar Bobb (95) por apenas 14.750 coins.
+> 💰 **Melhor pechincha:** Roberto Alvarado (94) por apenas 10.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Pontas em 23/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-23-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 8.228 coins.
+- **Preço médio das 7 opções:** 9.736 coins.
 - **Posição mais frequente:** RW, com 6 cartas.
-- **Faixa real:** 1.600 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.600 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,33 +40,31 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Oscar Bobb | 95 | RW | — | 14.750 coins | +11.8% |
-| Elijah Just | 94 | LW | — | 10.750 coins | -4.3% |
-| Roberto Alvarado | 94 | RW | — | 11.250 coins | -8.5% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 1.600 coins | +57.9% |
-| Joe Cole | 87 | RW | Premier League | 14.250 coins | -12.1% |
-| Lionel Messi | 86 | RW | MLS | 2.000 coins | +18.2% |
-| Heung Min Son | 85 | LW | Premier League | 4.000 coins | -5.9% |
-| Marco Asensio | 85 | RW | Trendyol Süper Lig | 13.750 coins | -6.8% |
-| Ferran Torres | 83 | LW | LALIGA EA SPORTS | 1.700 coins | +5.9% |
+| Roberto Alvarado | 94 | RW | — | 10.750 coins | -8.5% |
+| Elijah Just | 94 | LW | — | 10.750 coins | -8.5% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 1.600 coins | +47.4% |
+| Kiko Seike | 87 | RW | Barclays WSL | 14.000 coins | +7.4% |
+| Lionel Messi | 86 | RW | MLS | 2.800 coins | +28.6% |
+| Marco Asensio | 85 | RW | Trendyol Süper Lig | 13.750 coins | 0% |
+| Oscar Bobb | 85 | RW | Premier League | 14.500 coins | +13.1% |
 
 
 ## 📈 Destaques
 
-- **Oscar Bobb (95, RW)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Roberto Alvarado (94, RW)** da —, a apenas **10.750 coins**
 
 - **Elijah Just (94, LW)** da —, a apenas **10.750 coins**
 
-- **Roberto Alvarado (94, RW)** da —, a apenas **11.250 coins**
-
 - **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **1.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Joe Cole (87, RW)** da Premier League, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kiko Seike (87, RW)** da Barclays WSL, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Lionel Messi (86, RW)** da MLS, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Ataque:** Oscar Bobb (95, RW) por 14.750 coins é a referência de rating deste recorte.
+- **Ataque:** Roberto Alvarado (94, RW) por 10.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -85,7 +83,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (23/07/2026)?**  
-Oscar Bobb (95, sem liga) aparece como melhor custo-benefício, a 14.750 coins no Console (PS).
+Roberto Alvarado (94, sem liga) aparece como melhor custo-benefício, a 10.750 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
