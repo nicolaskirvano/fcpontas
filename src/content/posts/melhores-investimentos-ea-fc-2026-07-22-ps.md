@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T22:13:09.000Z
+pubDatetime: 2026-07-23T01:13:09.000Z
 title: "Investimentos EA FC: Pontas em 22/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Aoba Fujino (91, sem liga) lidera, com +81.7% em 7 dias a 54k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Kerem Aktürkoğlu (91, sem liga) lidera, com +66.7% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Aoba Fujino (91) acumula **+81.7% em 7 dias** a 54k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Kerem Aktürkoğlu (91) acumula **+66.7% em 7 dias** a 48k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 22/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-22-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.2% em 24h** e **+20.6% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.2% em 24h** e **+34.9% em 7 dias**.
+- **4 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Aoba Fujino | 91 | — | 54k coins | +21.1% | +81.7% | Esticada |
-| Kerem Aktürkoğlu | 91 | — | 50k coins | +25% | +72.4% | Esticada |
-| Noa Lang | 91 | Trendyol Süper Lig | 70k coins | +32.1% | +59.1% | Esticada |
-| Daniela Agote | 91 | — | 53k coins | +12.2% | +57.1% | Momentum moderado |
-| Kim Seung Sub | 90 | — | 65k coins | +7.8% | +38.9% | Momentum moderado |
-| Oscar Bobb | 95 | — | 16.750 coins | +8.8% | +32.1% | Momentum moderado |
-| Matteo Politano | 87 | — | 40k coins | +34.3% | +23.7% | Esticada |
-| Ferran Torres | 86 | LALIGA EA SPORTS | 58k coins | +20% | +20.6% | Esticada |
-| Caroline Graham Hansen | 90 | Liga F | 38k coins | +1.4% | +17.2% | Entrada a observar |
-| William Gomes | 84 | Liga Portugal | 35k coins | +11% | +14.8% | Momentum moderado |
-| Claudiu Petrila | 86 | SUPERLIGA | 42k coins | +7.1% | +10.6% | Momentum moderado |
-| Rivaldo | 90 | Icons | 94k coins | +8.4% | +8.4% | Momentum moderado |
-| Phil Foden | 86 | Premier League | 63k coins | +14.5% | +7.7% | Momentum moderado |
-| Rivaldo | 91 | Icons | 106k coins | +11.6% | +6.5% | Momentum moderado |
-| Iago Aspas | 86 | LALIGA EA SPORTS | 41k coins | +14.5% | +5.1% | Momentum moderado |
+| Kerem Aktürkoğlu | 91 | — | 48k coins | +13% | +66.7% | Esticada |
+| Oumar Camara | 90 | — | 55k coins | +11.1% | +49.7% | Momentum moderado |
+| Víctor Ibarbo | 85 | Serie A TIM | 36k coins | +8.3% | +48.1% | Momentum moderado |
+| Aoba Fujino | 91 | — | 32k coins | +2% | +42.9% | Momentum moderado |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 50k coins | +35% | +36.7% | Esticada |
+| Ivan Perišić | 86 | Eredivisie | 25k coins | +12.4% | +36.2% | Momentum moderado |
+| Gustav Isaksen | 87 | Serie A TIM | 48k coins | +25.3% | +35.1% | Esticada |
+| Daniela Agote | 91 | — | 50k coins | +7.1% | +34.6% | Momentum moderado |
+| Oscar Bobb | 95 | — | 16.750 coins | +6.6% | +18.2% | Momentum moderado |
+| Jens Petter Hauge | 91 | Eliteserien | 86k coins | +39% | +15.8% | Esticada |
+| Harvey Barnes | 84 | Premier League | 40k coins | +2.2% | +15.7% | Entrada a observar |
+| William Gomes | 84 | Liga Portugal | 47k coins | +1.8% | +15.4% | Entrada a observar |
+| Caroline Graham Hansen | 90 | Liga F | 38k coins | +2% | +15.4% | Entrada a observar |
+| David Neres | 86 | Serie A TIM | 68k coins | +10.2% | +13.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Aoba Fujino (91)** — 54k coins, **+81.7% em 7 dias** (+21.1% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kerem Aktürkoğlu (91)** — 48k coins, **+66.7% em 7 dias** (+13% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kerem Aktürkoğlu (91)** — 50k coins, **+72.4% em 7 dias** (+25% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oumar Camara (90)** — 55k coins, **+49.7% em 7 dias** (+11.1% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Noa Lang (91)** — 70k coins, **+59.1% em 7 dias** (+32.1% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Víctor Ibarbo (85)** — 36k coins, **+48.1% em 7 dias** (+8.3% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniela Agote (91)** — 53k coins, **+57.1% em 7 dias** (+12.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aoba Fujino (91)** — 32k coins, **+42.9% em 7 dias** (+2% em 24h). Preço -26% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kim Seung Sub (90)** — 65k coins, **+38.9% em 7 dias** (+7.8% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Santiago Hidalgo (84)** — 50k coins, **+36.7% em 7 dias** (+35% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +87,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Aoba Fujino (91, sem liga) lidera, com +81.7% em 7 dias a 54k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Kerem Aktürkoğlu (91, sem liga) lidera, com +66.7% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

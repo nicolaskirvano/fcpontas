@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T22:13:19.000Z
+pubDatetime: 2026-07-23T01:13:19.000Z
 title: "Jogadores baratos EA FC: Pontas em 22/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 22/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (22/07/2026)?"
-    a: "Julian Quiñones (96, sem liga) aparece como melhor custo-benefício, a 12.250 coins no PC."
+    a: "Julian Quiñones (96, sem liga) aparece como melhor custo-benefício, a 12.500 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **22/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Julian Quiñones (96) por apenas 12.250 coins.
+> 💰 **Melhor pechincha:** Julian Quiñones (96) por apenas 12.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Pontas em 22/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-22-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 8.100 coins.
-- **Posição mais frequente:** RW, com 3 cartas.
-- **Faixa real:** 2.100 a 12.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 9.125 coins.
+- **Posição mais frequente:** LW, com 3 cartas.
+- **Faixa real:** 1.500 a 12.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,29 +40,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Julian Quiñones | 96 | LW | — | 12.250 coins | -8.8% |
-| Elijah Just | 94 | LW | — | 11.500 coins | -2% |
-| Roberto Alvarado | 94 | RW | — | 11.750 coins | -2.1% |
-| Bukayo Saka | 88 | RW | Premier League | 2.100 coins | +5% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2.900 coins | +4% |
+| Julian Quiñones | 96 | LW | — | 12.500 coins | -8.9% |
+| Roberto Alvarado | 94 | RW | — | 11.000 coins | -2.1% |
+| Elijah Just | 94 | LW | — | 11.500 coins | 0% |
+| Salma Paralluelo | 84 | LW | Liga F | 1.500 coins | +7.1% |
 
 
 ## 📈 Destaques
 
-- **Julian Quiñones (96, LW)** da —, a apenas **12.250 coins**
+- **Julian Quiñones (96, LW)** da —, a apenas **12.500 coins**
+
+- **Roberto Alvarado (94, RW)** da —, a apenas **11.000 coins**
 
 - **Elijah Just (94, LW)** da —, a apenas **11.500 coins**
 
-- **Roberto Alvarado (94, RW)** da —, a apenas **11.750 coins**
-
-- **Bukayo Saka (88, RW)** da Premier League, a apenas **2.100 coins** — já **valorizando**, sinal de procura crescente.
-
-- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Salma Paralluelo (84, LW)** da Liga F, a apenas **1.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Ataque:** Julian Quiñones (96, LW) por 12.250 coins é a referência de rating deste recorte.
+- **Ataque:** Julian Quiñones (96, LW) por 12.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -81,7 +78,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (22/07/2026)?**  
-Julian Quiñones (96, sem liga) aparece como melhor custo-benefício, a 12.250 coins no PC.
+Julian Quiñones (96, sem liga) aparece como melhor custo-benefício, a 12.500 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
