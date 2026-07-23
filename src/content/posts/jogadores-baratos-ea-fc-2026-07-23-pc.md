@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T19:13:19.000Z
+pubDatetime: 2026-07-23T22:13:19.000Z
 title: "Jogadores baratos EA FC: Pontas em 23/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 23/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (23/07/2026)?"
-    a: "Julian Quiñones (96, sem liga) aparece como melhor custo-benefício, a 12.500 coins no PC."
+    a: "Julian Quiñones (96, sem liga) aparece como melhor custo-benefício, a 13.000 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **23/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Julian Quiñones (96) por apenas 12.500 coins.
+> 💰 **Melhor pechincha:** Julian Quiñones (96) por apenas 13.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Pontas em 23/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-23-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 12.562 coins.
-- **Posição mais frequente:** LW, com 3 cartas.
-- **Faixa real:** 11.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 9.738 coins.
+- **Posição mais frequente:** LW, com 2 cartas.
+- **Faixa real:** 2.700 a 13.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,26 +40,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Julian Quiñones | 96 | LW | — | 12.500 coins | -7.7% |
+| Julian Quiñones | 96 | LW | — | 13.000 coins | +2% |
 | Roberto Alvarado | 94 | RW | — | 11.500 coins | -2.1% |
-| Elijah Just | 94 | LW | — | 11.500 coins | -4.2% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 14.750 coins | -1.7% |
+| Elijah Just | 94 | LW | — | 11.750 coins | +2.2% |
+| Lionel Messi | 86 | RW | MLS | 2.700 coins | +57.9% |
 
 
 ## 📈 Destaques
 
-- **Julian Quiñones (96, LW)** da —, a apenas **12.500 coins**
+- **Julian Quiñones (96, LW)** da —, a apenas **13.000 coins**
 
 - **Roberto Alvarado (94, RW)** da —, a apenas **11.500 coins**
 
-- **Elijah Just (94, LW)** da —, a apenas **11.500 coins**
+- **Elijah Just (94, LW)** da —, a apenas **11.750 coins**
 
-- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Lionel Messi (86, RW)** da MLS, a apenas **2.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Ataque:** Julian Quiñones (96, LW) por 12.500 coins é a referência de rating deste recorte.
+- **Ataque:** Julian Quiñones (96, LW) por 13.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -78,7 +78,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (23/07/2026)?**  
-Julian Quiñones (96, sem liga) aparece como melhor custo-benefício, a 12.500 coins no PC.
+Julian Quiñones (96, sem liga) aparece como melhor custo-benefício, a 13.000 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
