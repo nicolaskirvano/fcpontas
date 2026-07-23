@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:13:10.000Z
+pubDatetime: 2026-07-23T13:13:10.000Z
 title: "Jogadores baratos EA FC: Pontas em 23/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 9.736 coins.
-- **Posição mais frequente:** RW, com 6 cartas.
-- **Faixa real:** 1.600 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 10.250 coins.
+- **Posição mais frequente:** RW, com 10 cartas.
+- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,25 +41,29 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Roberto Alvarado | 94 | RW | — | 10.750 coins | -8.5% |
-| Elijah Just | 94 | LW | — | 10.750 coins | -8.5% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 1.600 coins | +47.4% |
-| Kiko Seike | 87 | RW | Barclays WSL | 14.000 coins | +7.4% |
-| Lionel Messi | 86 | RW | MLS | 2.800 coins | +28.6% |
-| Marco Asensio | 85 | RW | Trendyol Süper Lig | 13.750 coins | 0% |
-| Oscar Bobb | 85 | RW | Premier League | 14.500 coins | +13.1% |
+| Elijah Just | 94 | LW | — | 11.250 coins | -8.5% |
+| Bukayo Saka | 88 | RW | Premier League | 1.500 coins | +27.3% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 1.600 coins | 0% |
+| Oscar Bobb | 88 | RW | Premier League | 14.500 coins | -6.3% |
+| Kiko Seike | 87 | RW | Barclays WSL | 14.250 coins | +5.4% |
+| Joe Cole | 87 | RW | Premier League | 14.750 coins | -1.5% |
+| Lionel Messi | 86 | RW | MLS | 2.900 coins | +45% |
+| Madison Haley | 85 | RW | Barclays WSL | 13.500 coins | -7.8% |
+| Marco Asensio | 85 | RW | Trendyol Süper Lig | 13.750 coins | +3.8% |
+| Oscar Bobb | 85 | RW | Premier League | 14.000 coins | -8.2% |
 
 
 ## 📈 Destaques
 
 - **Roberto Alvarado (94, RW)** da —, a apenas **10.750 coins**
 
-- **Elijah Just (94, LW)** da —, a apenas **10.750 coins**
+- **Elijah Just (94, LW)** da —, a apenas **11.250 coins**
 
-- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **1.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Bukayo Saka (88, RW)** da Premier League, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Kiko Seike (87, RW)** da Barclays WSL, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **1.600 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lionel Messi (86, RW)** da MLS, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Oscar Bobb (88, RW)** da Premier League, a apenas **14.500 coins**
 
 
 ## Como distribuir a banca

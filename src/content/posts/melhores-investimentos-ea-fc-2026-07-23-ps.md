@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:13:09.000Z
+pubDatetime: 2026-07-23T13:13:08.000Z
 title: "Investimentos EA FC: Pontas em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Noa Lang (91, Trendyol Süper Lig) lidera, com +47.9% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Kim Seung Sub (90, sem liga) lidera, com +44.4% em 7 dias a 65k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Noa Lang (91) acumula **+47.9% em 7 dias** a 60k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Kim Seung Sub (90) acumula **+44.4% em 7 dias** a 65k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 23/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-23-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.2% em 24h** e **+21.6% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.2% em 24h** e **+24.6% em 7 dias**.
+- **4 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **MLS** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Noa Lang | 91 | Trendyol Süper Lig | 60k coins | +18.8% | +47.9% | Momentum moderado |
-| Kim Seung Sub | 90 | — | 64k coins | +18.2% | +44.4% | Momentum moderado |
-| Reyes Cleary | 90 | — | 60k coins | +26.3% | +41.2% | Esticada |
-| Aoba Fujino | 91 | — | 55k coins | +14.6% | +37.5% | Momentum moderado |
-| Kerem Aktürkoğlu | 91 | — | 49k coins | +11.1% | +33.3% | Momentum moderado |
-| Said El Mala | 90 | — | 60k coins | +18.8% | +33.3% | Momentum moderado |
-| Oscar Bobb | 95 | — | 17.750 coins | +1.4% | +31.5% | Momentum moderado |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 45k coins | +21.6% | +21.6% | Esticada |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 44k coins | +20.5% | +17.5% | Esticada |
-| Alejandro Garnacho | 89 | Premier League | 196k coins | +8.8% | +17.5% | Momentum moderado |
-| Rivaldo | 90 | Icons | 92k coins | +1.5% | +17.1% | Entrada a observar |
-| Mika Godts | 93 | — | 24k coins | +21.4% | +16.7% | Esticada |
-| Jens Petter Hauge | 88 | Eliteserien | 103k coins | +21.2% | +13.2% | Esticada |
-| Juan Iturbe | 85 | Libertadores | 26k coins | +12.5% | +12.5% | Momentum moderado |
-| Claudiu Petrila | 86 | SUPERLIGA | 43k coins | +11.5% | +11.5% | Momentum moderado |
+| Kim Seung Sub | 90 | — | 65k coins | +18.2% | +44.4% | Momentum moderado |
+| Reyes Cleary | 90 | — | 58k coins | +21.8% | +41.2% | Esticada |
+| Daniela Agote | 91 | — | 54k coins | +11.1% | +38.4% | Momentum moderado |
+| Kerem Aktürkoğlu | 91 | — | 50k coins | +11.1% | +33.3% | Momentum moderado |
+| Anders Dreyer | 84 | MLS | 19.750 coins | +33.9% | +27.4% | Esticada |
+| Aoba Fujino | 91 | — | 50k coins | +2% | +25% | Entrada a observar |
+| Timo Werner | 87 | Bundesliga | 60k coins | +20.2% | +24.9% | Esticada |
+| Ivan Perišić | 90 | Eredivisie | 69k coins | +15% | +24.3% | Momentum moderado |
+| Oumar Camara | 90 | — | 55k coins | +18.9% | +22.2% | Momentum moderado |
+| Rivaldo | 90 | Icons | 97k coins | +6.1% | +18.9% | Momentum moderado |
+| Sandy Baltimore | 87 | Barclays WSL | 38k coins | +13.5% | +14.3% | Momentum moderado |
+| Merveille Kanjinga | 86 | D1 Arkema | 43k coins | +10.9% | +13.1% | Momentum moderado |
+| Emilie Haavi | 87 | Calcio A Femminile | 26k coins | +22.6% | +7.3% | Esticada |
+| Caroline Weir | 86 | Liga F | 42k coins | +1.8% | +5% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Noa Lang (91)** — 60k coins, **+47.9% em 7 dias** (+18.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kim Seung Sub (90)** — 65k coins, **+44.4% em 7 dias** (+18.2% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kim Seung Sub (90)** — 64k coins, **+44.4% em 7 dias** (+18.2% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Reyes Cleary (90)** — 58k coins, **+41.2% em 7 dias** (+21.8% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Reyes Cleary (90)** — 60k coins, **+41.2% em 7 dias** (+26.3% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daniela Agote (91)** — 54k coins, **+38.4% em 7 dias** (+11.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aoba Fujino (91)** — 55k coins, **+37.5% em 7 dias** (+14.6% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kerem Aktürkoğlu (91)** — 50k coins, **+33.3% em 7 dias** (+11.1% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kerem Aktürkoğlu (91)** — 49k coins, **+33.3% em 7 dias** (+11.1% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Anders Dreyer (84)** — 19.750 coins, **+27.4% em 7 dias** (+33.9% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +87,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Noa Lang (91, Trendyol Süper Lig) lidera, com +47.9% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Kim Seung Sub (90, sem liga) lidera, com +44.4% em 7 dias a 65k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
