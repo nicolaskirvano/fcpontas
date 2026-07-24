@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:13:10.000Z
+pubDatetime: 2026-07-24T13:13:10.000Z
 title: "Jogadores baratos EA FC: Pontas em 24/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 11.781 coins.
+- **Preço médio das 9 opções:** 10.217 coins.
 - **Posição mais frequente:** LW, com 5 cartas.
-- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.600 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,27 +40,28 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Julian Quiñones | 96 | LW | — | 14.000 coins | +17% |
+| Julian Quiñones | 96 | LW | — | 14.000 coins | +14.6% |
 | Roberto Alvarado | 94 | RW | — | 12.000 coins | +7% |
 | Elijah Just | 94 | LW | — | 12.000 coins | +9.3% |
-| Harry Kewell | 87 | LW | Premier League | 12.500 coins | -12.3% |
-| Michelle Cooper | 87 | RW | NWSL | 14.250 coins | -7.8% |
-| Armand Laurienté | 86 | LW | Serie A TIM | 14.750 coins | -9.2% |
-| Oscar Bobb | 85 | RW | Premier League | 13.250 coins | -3.5% |
-| Lineth Beerensteyn | 84 | LW | GPFBL | 1.500 coins | +7.7% |
+| Michelle Cooper | 87 | RW | NWSL | 12.750 coins | -14.5% |
+| Harry Kewell | 87 | LW | Premier League | 13.500 coins | -1.8% |
+| Madison Haley | 85 | RW | Barclays WSL | 11.250 coins | -13% |
+| Oscar Bobb | 85 | RW | Premier League | 13.250 coins | -5.4% |
+| Anthony Gordon | 83 | LW | Premier League | 1.600 coins | +20% |
+| Anthony Gordon | 83 | LW | — | 1.600 coins | +17.6% |
 
 
 ## 📈 Destaques
 
 - **Julian Quiñones (96, LW)** da —, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Roberto Alvarado (94, RW)** da —, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Roberto Alvarado (94, RW)** da —, a apenas **12.000 coins**
 
 - **Elijah Just (94, LW)** da —, a apenas **12.000 coins**
 
-- **Harry Kewell (87, LW)** da Premier League, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Michelle Cooper (87, RW)** da NWSL, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **14.250 coins**
+- **Harry Kewell (87, LW)** da Premier League, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
