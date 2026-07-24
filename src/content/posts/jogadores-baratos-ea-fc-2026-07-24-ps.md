@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T13:13:10.000Z
+pubDatetime: 2026-07-24T16:13:11.000Z
 title: "Jogadores baratos EA FC: Pontas em 24/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 10.217 coins.
+- **Preço médio das 10 opções:** 13.375 coins.
 - **Posição mais frequente:** LW, com 5 cartas.
-- **Faixa real:** 1.600 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 12.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,28 +40,29 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Julian Quiñones | 96 | LW | — | 14.000 coins | +14.6% |
-| Roberto Alvarado | 94 | RW | — | 12.000 coins | +7% |
-| Elijah Just | 94 | LW | — | 12.000 coins | +9.3% |
-| Michelle Cooper | 87 | RW | NWSL | 12.750 coins | -14.5% |
-| Harry Kewell | 87 | LW | Premier League | 13.500 coins | -1.8% |
-| Madison Haley | 85 | RW | Barclays WSL | 11.250 coins | -13% |
-| Oscar Bobb | 85 | RW | Premier League | 13.250 coins | -5.4% |
-| Anthony Gordon | 83 | LW | Premier League | 1.600 coins | +20% |
-| Anthony Gordon | 83 | LW | — | 1.600 coins | +17.6% |
+| Julian Quiñones | 96 | LW | — | 14.000 coins | +10.4% |
+| Julian Quiñones | 95 | LW | — | 14.000 coins | 0% |
+| Roberto Alvarado | 94 | RW | — | 12.000 coins | +4.3% |
+| Elijah Just | 94 | LW | — | 12.000 coins | +4.4% |
+| Oscar Bobb | 88 | RW | Premier League | 14.000 coins | +10.3% |
+| Harry Kewell | 87 | LW | Premier League | 13.250 coins | -8.6% |
+| Kiko Seike | 87 | RW | Barclays WSL | 14.750 coins | 0% |
+| Madison Haley | 85 | RW | Barclays WSL | 12.500 coins | -5.8% |
+| Oscar Bobb | 85 | RW | Premier League | 13.500 coins | 0% |
+| Gervinho | 85 | LW | Serie A TIM | 13.750 coins | +13.5% |
 
 
 ## 📈 Destaques
 
 - **Julian Quiñones (96, LW)** da —, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Julian Quiñones (95, LW)** da —, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Roberto Alvarado (94, RW)** da —, a apenas **12.000 coins**
 
 - **Elijah Just (94, LW)** da —, a apenas **12.000 coins**
 
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Harry Kewell (87, LW)** da Premier League, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Oscar Bobb (88, RW)** da Premier League, a apenas **14.000 coins**
 
 
 ## Como distribuir a banca
