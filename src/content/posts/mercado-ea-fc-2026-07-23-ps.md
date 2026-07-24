@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:13:07.000Z
+pubDatetime: 2026-07-24T01:13:07.000Z
 title: "Mercado EA FC em 23/07: Pontas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Antonio Di Natale (89, Serie A TIM), com +45.8% em 24h, a 215k coins no Console (PS)."
+    a: "Kadidiatou Diani (91, D1 Arkema), com +44.2% em 24h, a 99k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Joe Cole (88), -37.1% em 24h, a 82k coins."
+    a: "Anders Dreyer (84), -50% em 24h, a 20k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 57 cartas em alta contra 100 em queda (média -1.35%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 65 cartas em alta contra 97 em queda (média -1.49%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**23/07/2026**, Console (PS)) o Ultimate Team está **em baixa** — predominam as quedas — **57 subiram**, **100 caíram** (80+ e 5k+ coins), média de **-1.35%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**23/07/2026**, Console (PS)) o Ultimate Team está **lateral** — sem direção clara — **65 subiram**, **97 caíram** (80+ e 5k+ coins), média de **-1.49%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Antonio Di Natale (89) **+45.8%** · 🔴 **Maior baixa:** Joe Cole (88) **-37.1%**
+> 🟢 **Maior alta:** Kadidiatou Diani (91) **+44.2%** · 🔴 **Maior baixa:** Anders Dreyer (84) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Pontas — Console (PS)](/charts/mercado-ea-fc-2026-07-23-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**23/07/2026**, Console (PS)) o Ultimate Team está **em baixa** — predo
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 82.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 36.3% entre as cartas que se moveram; o universo observado reúne 182 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 94.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 40.1% entre as cartas que se moveram; o universo observado reúne 185 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Antonio Di Natale | 89 | Serie A TIM | 215k coins | +45.8% | +1.1% |
-| Wilson Odobert | 87 | Premier League | 38k coins | +43.5% | -7.2% |
-| Kadidiatou Diani | 91 | D1 Arkema | 124k coins | +42.1% | -1.5% |
-| Salma Paralluelo | 86 | Liga F | 350k coins | +40.1% | -32.3% |
-| Linda Caicedo | 87 | Liga F | 30k coins | +39.3% | -8.8% |
-| Antony | 86 | LALIGA EA SPORTS | 54k coins | +37.5% | -18.5% |
-| Rafael Leão | 87 | Serie A TIM | 255k coins | +32.1% | -29.9% |
-| Raphinha | 93 | — | 70k coins | +27.7% | -14.9% |
-| Bradley Barcola | 92 | — | 70k coins | +25.2% | -15.3% |
-| Olivia Smith | 86 | Barclays WSL | 67k coins | +24.8% | +40.2% |
+| Kadidiatou Diani | 91 | D1 Arkema | 99k coins | +44.2% | +9.5% |
+| Phil Foden | 86 | Premier League | 65k coins | +36.8% | 0% |
+| Rafael Leão | 87 | Serie A TIM | 298k coins | +28.2% | -18.9% |
+| Yan Diomande | 92 | — | 32k coins | +26% | -1.6% |
+| Gervinho | 85 | Serie A TIM | 22k coins | +24.1% | -1% |
+| Bradley Barcola | 92 | — | 70k coins | +23.9% | -18.1% |
+| Zizo | 95 | — | 38k coins | +22.6% | -19.1% |
+| Antony | 91 | LALIGA EA SPORTS | 129k coins | +19.6% | -8.6% |
+| Jérémy Doku | 84 | Premier League | 56k coins | +18.8% | -14.3% |
+| Noni Madueke | 86 | Premier League | 38k coins | +15.3% | -51.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**23/07/2026**, Console (PS)) o Ultimate Team está **em baixa** — predo
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Antonio Di Natale (89)** subiu **+45.8%** em 24h, a **215k coins** (faixa do dia: 141k–313k). Está em linha com a média de 7 dias (-2%).
+- **Kadidiatou Diani (91)** subiu **+44.2%** em 24h, a **99k coins** (faixa do dia: 88k–150k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Wilson Odobert (87)** subiu **+43.5%** em 24h, a **38k coins** (faixa do dia: 22k–50k). Está +12% acima da média de 7 dias (aquecida).
+- **Phil Foden (86)** subiu **+36.8%** em 24h, a **65k coins** (faixa do dia: 40k–65k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Kadidiatou Diani (91)** subiu **+42.1%** em 24h, a **124k coins** (faixa do dia: 88k–139k). Está +14% acima da média de 7 dias (aquecida).
+- **Rafael Leão (87)** subiu **+28.2%** em 24h, a **298k coins** (faixa do dia: 195k–341k). Está em linha com a média de 7 dias (-7%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joe Cole | 88 | Premier League | 82k coins | -37.1% | -72.3% |
-| Chloe Kelly | 88 | Barclays WSL | 40k coins | -33.5% | -60.6% |
-| George Best | 91 | Icons | 185k coins | -32.5% | -38.2% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 585k coins | -31.9% | -58.1% |
-| Garrincha | 93 | Icons | 459k coins | -26.7% | -41.8% |
-| John Barnes | 89 | Icons | 30k coins | -25.6% | -36.2% |
-| Bradley Barcola | 96 | — | 310k coins | -23.9% | -38.2% |
-| Evann Guessand | 96 | — | 202k coins | -22.5% | -41.5% |
-| Lamine Yamal | 99 | — | 1.83M coins | -21.6% | — |
-| Oliver Burke | 80 | Bundesliga | 37k coins | -21.6% | -17.7% |
+| Anders Dreyer | 84 | MLS | 20k coins | -50% | -19.4% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 45k coins | -43.8% | -46.7% |
+| Gabriel Martinelli | 87 | Premier League | 62k coins | -37.8% | -48.1% |
+| Debinha | 89 | NWSL | 170k coins | -35.5% | -17.4% |
+| George Best | 90 | Icons | 135k coins | -28.4% | -28.7% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 540k coins | -26.6% | -58.5% |
+| Vini Jr. | 92 | LALIGA EA SPORTS | 370k coins | -26.6% | -53.5% |
+| Garrincha | 93 | Icons | 436k coins | -25.5% | -41.3% |
+| John Barnes | 89 | Icons | 34k coins | -23.9% | -33% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 253k coins | -22.4% | -33.4% |
 
 
 ### Análise das baixas
 
-- **Joe Cole (88)** caiu **-37.1%** em 24h, a **82k coins** (faixa do dia: 80k–180k). Está -56% abaixo da média de 7 dias (descontada).
+- **Anders Dreyer (84)** caiu **-50%** em 24h, a **20k coins** (faixa do dia: 11.750–25k). Está em linha com a média de 7 dias (+4%).
 
-- **Chloe Kelly (88)** caiu **-33.5%** em 24h, a **40k coins** (faixa do dia: 31k–59k). Está -44% abaixo da média de 7 dias (descontada).
+- **Anis Hadj-Moussa (86)** caiu **-43.8%** em 24h, a **45k coins** (faixa do dia: 45k–110k). Está -47% abaixo da média de 7 dias (descontada).
 
-- **George Best (91)** caiu **-32.5%** em 24h, a **185k coins** (faixa do dia: 184k–282k). Está -35% abaixo da média de 7 dias (descontada).
+- **Gabriel Martinelli (87)** caiu **-37.8%** em 24h, a **62k coins** (faixa do dia: 51k–97k). Está -34% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Antonio Di Natale já avançou 45.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Kadidiatou Diani já avançou 44.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Joe Cole recuou -37.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Anders Dreyer recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Antonio Di Natale (89, Serie A TIM), com +45.8% em 24h, a 215k coins no Console (PS).
+Kadidiatou Diani (91, D1 Arkema), com +44.2% em 24h, a 99k coins no Console (PS).
 
 **E a maior queda do dia?**
-Joe Cole (88), -37.1% em 24h, a 82k coins.
+Anders Dreyer (84), -50% em 24h, a 20k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 57 cartas em alta contra 100 em queda (média -1.35%).
+Hoje o mercado está lateral — sem direção clara, com 65 cartas em alta contra 97 em queda (média -1.49%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
