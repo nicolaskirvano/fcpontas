@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:13:19.000Z
+pubDatetime: 2026-07-24T19:13:19.000Z
 title: "Investimentos EA FC: Pontas em 24/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Yan Diomande (84, Bundesliga) lidera, com +48.8% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Malcom (87, ROSHN Saudi League) lidera, com +42.4% em 7 dias a 78k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Yan Diomande (84) acumula **+48.8% em 7 dias** a 60k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Malcom (87) acumula **+42.4% em 7 dias** a 78k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 24/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-24-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.2% em 24h** e **+19.7% em 7 dias**.
-- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+25.2% em 24h** e **+11.8% em 7 dias**.
+- **7 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Yan Diomande | 84 | Bundesliga | 60k coins | +40% | +48.8% | Esticada |
-| Noa Lang | 91 | Trendyol Süper Lig | 88k coins | +17.2% | +47.5% | Momentum moderado |
-| Caroline Graham Hansen | 90 | Liga F | 34k coins | +17.5% | +46.9% | Momentum moderado |
-| Víctor Ibarbo | 85 | Serie A TIM | 60k coins | +5.3% | +46.3% | Momentum moderado |
-| Kim Seung Sub | 90 | — | 65k coins | +17.1% | +44.4% | Momentum moderado |
-| Aoba Fujino | 91 | — | 52k coins | +4% | +35.1% | Momentum moderado |
-| Rayan Cherki | 93 | — | 50k coins | +17.4% | +23.2% | Momentum moderado |
-| Kerem Aktürkoğlu | 91 | — | 44k coins | +17.3% | +19.7% | Momentum moderado |
-| Lukáš Haraslín | 89 | Česká Liga | 22k coins | +12.8% | +17.3% | Momentum moderado |
-| Ashley Sanchez | 87 | NWSL | 47k coins | +20% | +11% | Esticada |
-| Sultan Mandash | 93 | — | 20k coins | +16.2% | +8.9% | Momentum moderado |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 45k coins | +31.6% | +8.1% | Esticada |
-| Bartosz Nowak | 93 | — | 22k coins | +3.2% | +6.5% | Entrada a observar |
-| Denis Bouanga | 86 | — | 38k coins | +2.7% | +6.2% | Entrada a observar |
-| Harvey Barnes | 86 | Premier League | 42k coins | +18% | +6.1% | Momentum moderado |
+| Malcom | 87 | ROSHN Saudi League | 78k coins | +40% | +42.4% | Esticada |
+| Caroline Graham Hansen | 90 | Liga F | 40k coins | +15.5% | +39.6% | Momentum moderado |
+| Rayan Cherki | 93 | — | 43k coins | +15.7% | +24.4% | Momentum moderado |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 40k coins | +25.2% | +24.3% | Esticada |
+| Jens Petter Hauge | 91 | Eliteserien | 82k coins | +36.6% | +18.3% | Esticada |
+| Afonso Moreira | 84 | Ligue 1 McDonald's | 45k coins | +29.5% | +11.8% | Esticada |
+| Denis Bouanga | 86 | — | 38k coins | +3.4% | +10.1% | Entrada a observar |
+| Athenea | 86 | Liga F | 47k coins | +27.7% | +9.9% | Esticada |
+| Quaresma | 85 | Liga Portugal | 120k coins | +35.7% | +8.9% | Esticada |
+| John Barnes | 89 | Icons | 101k coins | +8.2% | +8.8% | Momentum moderado |
+| Antony | 91 | LALIGA EA SPORTS | 198k coins | +25% | +5.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Yan Diomande (84)** — 60k coins, **+48.8% em 7 dias** (+40% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Malcom (87)** — 78k coins, **+42.4% em 7 dias** (+40% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Noa Lang (91)** — 88k coins, **+47.5% em 7 dias** (+17.2% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Caroline Graham Hansen (90)** — 40k coins, **+39.6% em 7 dias** (+15.5% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Caroline Graham Hansen (90)** — 34k coins, **+46.9% em 7 dias** (+17.5% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rayan Cherki (93)** — 43k coins, **+24.4% em 7 dias** (+15.7% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Víctor Ibarbo (85)** — 60k coins, **+46.3% em 7 dias** (+5.3% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bradley Barcola (90)** — 40k coins, **+24.3% em 7 dias** (+25.2% em 24h). Preço -58% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kim Seung Sub (90)** — 65k coins, **+44.4% em 7 dias** (+17.1% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jens Petter Hauge (91)** — 82k coins, **+18.3% em 7 dias** (+36.6% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +84,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Yan Diomande (84, Bundesliga) lidera, com +48.8% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Malcom (87, ROSHN Saudi League) lidera, com +42.4% em 7 dias a 78k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,6 +102,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Pontas em 24/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-24-pc/)
 - [Mercado EA FC em 24/07: Pontas — PC](/posts/mercado-ea-fc-2026-07-24-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
