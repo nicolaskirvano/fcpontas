@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T19:13:17.000Z
+pubDatetime: 2026-07-24T22:13:18.000Z
 title: "Mercado EA FC em 24/07: Pontas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Yan Diomande (84, Bundesliga), com +53.8% em 24h, a 60k coins no PC."
+    a: "Antoine Semenyo (91, Premier League), com +56.1% em 24h, a 291k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Anis Hadj-Moussa (86), -39.8% em 24h, a 52k coins."
+    a: "Vini Jr. (90), -38.5% em 24h, a 260k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 63 cartas em alta contra 78 em queda (média 2.07%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 51 cartas em alta contra 80 em queda (média -2.24%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **63 subiram** e **78 caíram**, com variação média de **2.07%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **51 subiram** e **80 caíram**, com variação média de **-2.24%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Yan Diomande (84) **+53.8%** · 🔴 **Maior baixa:** Anis Hadj-Moussa (86) **-39.8%**
+> 🟢 **Maior alta:** Antoine Semenyo (91) **+56.1%** · 🔴 **Maior baixa:** Vini Jr. (90) **-38.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Pontas — PC](/charts/mercado-ea-fc-2026-07-24-pc.svg)
 
@@ -35,24 +35,24 @@ Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 93.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 44.7% entre as cartas que se moveram; o universo observado reúne 165 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 94.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 38.9% entre as cartas que se moveram; o universo observado reúne 152 cartas.
+- **Concentração:** Bundesliga aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Yan Diomande | 84 | Bundesliga | 60k coins | +53.8% | +50% |
-| Aral Şimşir | 80 | 3F Superliga | 45k coins | +51.3% | +12.5% |
-| Armand Laurienté | 86 | Serie A TIM | 50k coins | +50% | +68.2% |
-| Athenea | 86 | Liga F | 48k coins | +49.6% | -19.6% |
-| Jérémy Doku | 84 | Premier League | 120k coins | +46.4% | -3.6% |
-| Johan Bakayoko | 88 | Bundesliga | 40k coins | +41.7% | +8.7% |
+| Antoine Semenyo | 91 | Premier League | 291k coins | +56.1% | +7.1% |
+| Yan Diomande | 84 | Bundesliga | 60k coins | +52.6% | +48.8% |
+| Aral Şimşir | 80 | 3F Superliga | 45k coins | +51.3% | -5.3% |
+| Claudia Pina | 92 | Liga F | 995k coins | +42.4% | -12.5% |
 | Rubén García | 87 | LALIGA EA SPORTS | 24k coins | +41.2% | -43.5% |
-| Malcom | 87 | ROSHN Saudi League | 78k coins | +40% | +42.4% |
-| Sandy Baltimore | 87 | Barclays WSL | 46k coins | +39.3% | +3.2% |
-| Ferran Torres | 86 | LALIGA EA SPORTS | 55k coins | +37.5% | +0.9% |
+| Ferran Torres | 86 | LALIGA EA SPORTS | 55k coins | +37.5% | 0% |
+| Noni Madueke | 86 | Premier League | 48k coins | +37% | -21.6% |
+| Johan Bakayoko | 88 | Bundesliga | 36k coins | +36% | +7.9% |
+| Oliver Burke | 80 | Bundesliga | 48k coins | +31.9% | +18.8% |
+| Rayan Philippe | 80 | Bundesliga | 42k coins | +30.8% | -10.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Yan Diomande (84)** subiu **+53.8%** em 24h, a **60k coins** (faixa do dia: 39k–60k). Está +27% acima da média de 7 dias (aquecida).
+- **Antoine Semenyo (91)** subiu **+56.1%** em 24h, a **291k coins** (faixa do dia: 41k–470k). Está +11% acima da média de 7 dias (aquecida).
+
+- **Yan Diomande (84)** subiu **+52.6%** em 24h, a **60k coins** (faixa do dia: 39k–60k). Está +26% acima da média de 7 dias (aquecida).
 
 - **Aral Şimşir (80)** subiu **+51.3%** em 24h, a **45k coins** (faixa do dia: 30k–45k). Está +28% acima da média de 7 dias (aquecida).
-
-- **Armand Laurienté (86)** subiu **+50%** em 24h, a **50k coins** (faixa do dia: 26k–50k). Está +71% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anis Hadj-Moussa | 86 | Eredivisie | 52k coins | -39.8% | -56.7% |
-| Christian Pulisic | 96 | — | 150k coins | -33.2% | -43.3% |
-| Bradley Barcola | 96 | — | 335k coins | -30.3% | -56.9% |
-| Gareth Bale | 94 | Icons | 3.30M coins | -29.5% | -25.2% |
-| Kim Seung Sub | 90 | — | 44k coins | -27.9% | -11.1% |
-| Said El Mala | 90 | — | 45k coins | -26.7% | +11.4% |
-| Antony | 86 | LALIGA EA SPORTS | 68k coins | -26.2% | -16.9% |
-| Garrincha | 92 | Icons | 124k coins | -25.7% | -17.3% |
-| Ousmane Dembélé | 96 | — | 860k coins | -25.2% | -53.5% |
-| Gabriel Martinelli | 87 | Premier League | 109k coins | -24.3% | +2.8% |
+| Vini Jr. | 90 | LALIGA EA SPORTS | 260k coins | -38.5% | -66.7% |
+| Désiré Doué | 97 | — | 390k coins | -37.3% | -61.8% |
+| Kerem Aktürkoğlu | 91 | — | 35k coins | -35.8% | -5.4% |
+| Raphinha | 91 | LALIGA EA SPORTS | 92k coins | -34.2% | -38.6% |
+| Khvicha Kvaratskhelia | 88 | Ligue 1 McDonald's | 540k coins | -33.9% | -12.5% |
+| Ousmane Dembélé | 96 | — | 1.10M coins | -32.7% | -50% |
+| Antoine Semenyo | 94 | — | 129k coins | -31.6% | -33% |
+| Ronaldinho | 94 | Icons | 1.20M coins | -31.5% | -42.7% |
+| Linda Caicedo | 87 | Liga F | 56k coins | -30% | -19.4% |
+| Jadon Sancho | 96 | — | 300k coins | -28.6% | -58.5% |
 
 
 ### Análise das baixas
 
-- **Anis Hadj-Moussa (86)** caiu **-39.8%** em 24h, a **52k coins** (faixa do dia: 50k–89k). Está -47% abaixo da média de 7 dias (descontada).
+- **Vini Jr. (90)** caiu **-38.5%** em 24h, a **260k coins** (faixa do dia: 260k–800k). Está -68% abaixo da média de 7 dias (descontada).
 
-- **Christian Pulisic (96)** caiu **-33.2%** em 24h, a **150k coins** (faixa do dia: 90k–169k). Está em linha com a média de 7 dias (+4%).
+- **Désiré Doué (97)** caiu **-37.3%** em 24h, a **390k coins** (faixa do dia: 350k–655k). Está -48% abaixo da média de 7 dias (descontada).
 
-- **Bradley Barcola (96)** caiu **-30.3%** em 24h, a **335k coins** (faixa do dia: 322k–550k). Está -44% abaixo da média de 7 dias (descontada).
+- **Kerem Aktürkoğlu (91)** caiu **-35.8%** em 24h, a **35k coins** (faixa do dia: 16.500–55k). Está -18% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Yan Diomande já avançou 53.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Antoine Semenyo já avançou 56.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Anis Hadj-Moussa recuou -39.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Vini Jr. recuou -38.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Yan Diomande (84, Bundesliga), com +53.8% em 24h, a 60k coins no PC.
+Antoine Semenyo (91, Premier League), com +56.1% em 24h, a 291k coins no PC.
 
 **E a maior queda do dia?**
-Anis Hadj-Moussa (86), -39.8% em 24h, a 52k coins.
+Vini Jr. (90), -38.5% em 24h, a 260k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 63 cartas em alta contra 78 em queda (média 2.07%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 51 cartas em alta contra 80 em queda (média -2.24%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
