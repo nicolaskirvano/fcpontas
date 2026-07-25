@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:13:19.000Z
+pubDatetime: 2026-07-25T13:13:18.000Z
 title: "Investimentos EA FC: Pontas em 25/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.8% em 24h** e **+32.9% em 7 dias**.
-- **5 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.1% em 24h** e **+36.1% em 7 dias**.
+- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Trendyol Süper Lig** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,28 +44,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Anthony Nwakaeme | 87 | Trendyol Süper Lig | 120k coins | +9.1% | +87.5% | Esticada |
-| Gustav Isaksen | 87 | Serie A TIM | 58k coins | +24.1% | +61.3% | Esticada |
-| Florian Thauvin | 87 | Ligue 1 McDonald's | 74k coins | +6.4% | +56% | Momentum moderado |
-| Armand Laurienté | 86 | Serie A TIM | 33k coins | +4.8% | +36.1% | Momentum moderado |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 73k coins | +9% | +51.3% | Momentum moderado |
+| Noa Lang | 91 | Trendyol Süper Lig | 85k coins | +9.1% | +48.8% | Momentum moderado |
+| Caroline Graham Hansen | 90 | Liga F | 36k coins | +1.5% | +41.7% | Momentum moderado |
 | Harvey Barnes | 84 | Premier League | 50k coins | +24.2% | +36.1% | Esticada |
-| John Barnes | 89 | Icons | 96k coins | +2.1% | +29.6% | Momentum moderado |
-| Caroline Graham Hansen | 90 | Liga F | 32k coins | +1.7% | +25% | Entrada a observar |
-| Athenea | 86 | Liga F | 48k coins | +25% | +13.1% | Esticada |
-| Sergiño Dest | 93 | — | 17.250 coins | +4.5% | +6.2% | Entrada a observar |
-| Michael Duffy | 84 | SSE Airtricity PD | 45k coins | +35.3% | +5.3% | Esticada |
+| Yan Diomande | 92 | — | 29k coins | +7.1% | +18.8% | Momentum moderado |
+| Mikel Gogorza | 86 | 3F Superliga | 110k coins | +15.8% | +16.4% | Momentum moderado |
+| Athenea | 86 | Liga F | 46k coins | +25% | +13.1% | Esticada |
+| Oscar Bobb | 85 | Premier League | 18.000 coins | +20% | +10.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Anthony Nwakaeme (87)** — 120k coins, **+87.5% em 7 dias** (+9.1% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Anthony Nwakaeme (87)** — 120k coins, **+87.5% em 7 dias** (+9.1% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gustav Isaksen (87)** — 58k coins, **+61.3% em 7 dias** (+24.1% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Florian Thauvin (87)** — 73k coins, **+51.3% em 7 dias** (+9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Thauvin (87)** — 74k coins, **+56% em 7 dias** (+6.4% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noa Lang (91)** — 85k coins, **+48.8% em 7 dias** (+9.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Armand Laurienté (86)** — 33k coins, **+36.1% em 7 dias** (+4.8% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Caroline Graham Hansen (90)** — 36k coins, **+41.7% em 7 dias** (+1.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harvey Barnes (84)** — 50k coins, **+36.1% em 7 dias** (+24.2% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Harvey Barnes (84)** — 50k coins, **+36.1% em 7 dias** (+24.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
