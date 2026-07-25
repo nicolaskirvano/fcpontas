@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caroline Graham Hansen</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+68.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mikel Gogorza</text>
-<rect x="285" y="153" width="244" height="28" rx="7" fill="#22c55e"/>
-<text x="539" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.5%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Timo Werner</text>
+<rect x="285" y="153" width="453" height="28" rx="7" fill="#22c55e"/>
+<text x="748" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.8%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Thauvin</text>
-<rect x="285" y="211" width="210" height="28" rx="7" fill="#22c55e"/>
-<text x="505" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrigo Zalazar</text>
-<rect x="285" y="269" width="194" height="28" rx="7" fill="#22c55e"/>
-<text x="489" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Harvey Barnes</text>
-<rect x="285" y="327" width="164" height="28" rx="7" fill="#22c55e"/>
-<text x="459" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Claudiu Petrila</text>
-<rect x="285" y="385" width="146" height="28" rx="7" fill="#22c55e"/>
-<text x="441" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.7%</text>
+<rect x="285" y="211" width="225" height="28" rx="7" fill="#22c55e"/>
+<text x="520" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mikel Gogorza</text>
+<rect x="285" y="269" width="219" height="28" rx="7" fill="#22c55e"/>
+<text x="514" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rubén García</text>
+<rect x="285" y="327" width="193" height="28" rx="7" fill="#22c55e"/>
+<text x="488" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.5%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Debinha</text>
+<rect x="285" y="385" width="188" height="28" rx="7" fill="#22c55e"/>
+<text x="483" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.9%</text>
 </svg>
