@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T09:22:14.000Z
+pubDatetime: 2026-07-25T10:13:11.000Z
 title: "Jogadores baratos EA FC: Pontas em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 10.528 coins.
+- **Preço médio das 10 opções:** 10.665 coins.
 - **Posição mais frequente:** LW, com 5 cartas.
-- **Faixa real:** 2.000 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,22 +40,23 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Julian Quiñones | 96 | LW | — | 14.500 coins | 0% |
-| Elijah Just | 94 | LW | — | 11.500 coins | 0% |
-| Roberto Alvarado | 94 | RW | — | 12.000 coins | +4.3% |
-| Sergiño Dest | 93 | RW | — | 13.000 coins | -11.9% |
+| Julian Quiñones | 96 | LW | — | 14.500 coins | +5.5% |
+| Elijah Just | 94 | LW | — | 11.250 coins | +2.1% |
+| Roberto Alvarado | 94 | RW | — | 12.000 coins | +2.1% |
+| Sergiño Dest | 93 | RW | — | 13.000 coins | -11.7% |
 | Bilal El Khannouss | 92 | LW | — | 13.000 coins | -10.5% |
-| Harry Kewell | 87 | LW | Premier League | 12.750 coins | +2% |
-| Lionel Messi | 86 | RW | MLS | 2.000 coins | 0% |
-| Heung Min Son | 85 | LW | Premier League | 4.000 coins | +25% |
-| Madison Haley | 85 | RW | Barclays WSL | 12.000 coins | +4.3% |
+| Naomie Feller | 88 | RW | — | 14.250 coins | +3.9% |
+| Harry Kewell | 87 | LW | Premier League | 13.250 coins | +2% |
+| Claudia Pina | 86 | LW | Liga F | 1.500 coins | +20% |
+| Lionel Messi | 86 | RW | MLS | 1.900 coins | 0% |
+| Madison Haley | 85 | RW | Barclays WSL | 12.000 coins | +2.1% |
 
 
 ## 📈 Destaques
 
 - **Julian Quiñones (96, LW)** da —, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Elijah Just (94, LW)** da —, a apenas **11.500 coins**
+- **Elijah Just (94, LW)** da —, a apenas **11.250 coins**
 
 - **Roberto Alvarado (94, RW)** da —, a apenas **12.000 coins**
 
