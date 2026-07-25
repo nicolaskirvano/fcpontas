@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T16:13:17.000Z
+pubDatetime: 2026-07-25T19:13:17.000Z
 title: "Mercado EA FC em 25/07: Pontas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Désiré Doué (91, Ligue 1 McDonald's), com +53.8% em 24h, a 2M coins no PC."
+    a: "Désiré Doué (91, Ligue 1 McDonald's), com +49.6% em 24h, a 1.79M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Caroline Graham Hansen (96), -46.7% em 24h, a 320k coins."
+    a: "Ethan Nwaneri (91), -49.7% em 24h, a 39k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 45 cartas em alta contra 110 em queda (média -13.03%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 53 cartas em alta contra 93 em queda (média -6.52%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **25/07/2026** (PC): mercado **pressionado** — as quedas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **45 em alta** e **110 em queda**, média de **-13.03%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **25/07/2026** (PC): mercado **pressionado** — as quedas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **53 em alta** e **93 em queda**, média de **-6.52%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Désiré Doué (91) **+53.8%** · 🔴 **Maior baixa:** Caroline Graham Hansen (96) **-46.7%**
+> 🟢 **Maior alta:** Désiré Doué (91) **+49.6%** · 🔴 **Maior baixa:** Ethan Nwaneri (91) **-49.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Pontas — PC](/charts/mercado-ea-fc-2026-07-25-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **25/07/2026** (PC): mercado **pressionado** — as quedas dominam o
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 29.0% entre as cartas que se moveram; o universo observado reúne 178 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 99.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 36.3% entre as cartas que se moveram; o universo observado reúne 184 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 2M coins | +53.8% | +35.2% |
-| Michelle Cooper | 87 | NWSL | 25k coins | +45.1% | +33.8% |
-| Jairzinho | 89 | Icons | 430k coins | +33.3% | +33.3% |
-| Florian Thauvin | 87 | Ligue 1 McDonald's | 66k coins | +28.3% | +40.9% |
-| Jérémy Doku | 91 | Premier League | 471k coins | +25.6% | -34.4% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 1.79M coins | +49.6% | +27.3% |
+| Garrincha | 92 | Icons | 165k coins | +32% | -0.6% |
+| Rayan Cherki | 87 | Premier League | 68k coins | +26.1% | -6.7% |
 | Florian Thauvin | 83 | Ligue 1 McDonald's | 55k coins | +25% | 0% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 80k coins | +25% | -20% |
 | Harvey Barnes | 84 | Premier League | 50k coins | +24.2% | +36.1% |
-| Rayan Cherki | 87 | Premier League | 72k coins | +23% | 0% |
-| Michael Duffy | 84 | SSE Airtricity PD | 44k coins | +21.8% | +4.7% |
-| Bukayo Saka | 98 | — | 1.30M coins | +21.4% | -48.7% |
+| Désiré Doué | 97 | — | 472k coins | +22.2% | -49.1% |
+| Gareth Bale | 88 | Icons | 680k coins | +21.4% | -39.8% |
+| Anders Dreyer | 84 | MLS | 22k coins | +20.5% | -32.9% |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 60k coins | +19% | +19% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **25/07/2026** (PC): mercado **pressionado** — as quedas dominam o
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Désiré Doué (91)** subiu **+53.8%** em 24h, a **2M coins** (faixa do dia: 713k–2M). Está +47% acima da média de 7 dias (aquecida).
+- **Désiré Doué (91)** subiu **+49.6%** em 24h, a **1.79M coins** (faixa do dia: 713k–2M). Está +30% acima da média de 7 dias (aquecida).
 
-- **Michelle Cooper (87)** subiu **+45.1%** em 24h, a **25k coins** (faixa do dia: 16.000–29k). Está +36% acima da média de 7 dias (aquecida).
+- **Garrincha (92)** subiu **+32%** em 24h, a **165k coins** (faixa do dia: 100k–166k). Está +8% acima da média de 7 dias (aquecida).
 
-- **Jairzinho (89)** subiu **+33.3%** em 24h, a **430k coins** (faixa do dia: 150k–440k). Está +27% acima da média de 7 dias (aquecida).
+- **Rayan Cherki (87)** subiu **+26.1%** em 24h, a **68k coins** (faixa do dia: 35k–75k). Está em linha com a média de 7 dias (+5%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Caroline Graham Hansen | 96 | — | 320k coins | -46.7% | -56.2% |
-| Florian Thauvin | 96 | — | 20k coins | -45.8% | -56.4% |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 40k coins | -44.8% | -52.5% |
-| Gervinho | 87 | Serie A TIM | 46k coins | -44% | -35.9% |
-| Armand Laurienté | 86 | Serie A TIM | 28k coins | -43.7% | +17.9% |
-| Lamine Yamal | 97 | — | 350k coins | -43.3% | -75.2% |
-| Pernille Harder | 87 | Liga F | 34k coins | -41.7% | -21.3% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 44k coins | -41.6% | -23.1% |
-| Chloe Kelly | 88 | Barclays WSL | 62k coins | -38.5% | -21.2% |
-| Raphinha | 93 | — | 63k coins | -37.5% | -44.4% |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 39k coins | -49.7% | -31.7% |
+| Kim Seung Sub | 90 | — | 24k coins | -49% | -45.6% |
+| Rafael Leão | 87 | Serie A TIM | 490k coins | -45.5% | -71.4% |
+| Armand Laurienté | 86 | Serie A TIM | 28k coins | -44.7% | +13.4% |
+| Bradley Barcola | 92 | — | 40k coins | -44.3% | -55.4% |
+| Gervinho | 87 | Serie A TIM | 44k coins | -43.8% | -37.9% |
+| Caroline Graham Hansen | 96 | — | 390k coins | -42.3% | -56.4% |
+| Khvicha Kvaratskhelia | 96 | — | 705k coins | -40% | -57.4% |
+| Antoine Semenyo | 96 | — | 100k coins | -39.1% | -53.4% |
+| Chloe Kelly | 88 | Barclays WSL | 60k coins | -38% | -17.3% |
 
 
 ### Análise das baixas
 
-- **Caroline Graham Hansen (96)** caiu **-46.7%** em 24h, a **320k coins** (faixa do dia: 300k–660k). Está -49% abaixo da média de 7 dias (descontada).
+- **Ethan Nwaneri (91)** caiu **-49.7%** em 24h, a **39k coins** (faixa do dia: 34k–90k). Está -41% abaixo da média de 7 dias (descontada).
 
-- **Florian Thauvin (96)** caiu **-45.8%** em 24h, a **20k coins** (faixa do dia: 17.250–39k). Está -43% abaixo da média de 7 dias (descontada).
+- **Kim Seung Sub (90)** caiu **-49%** em 24h, a **24k coins** (faixa do dia: 18.750–50k). Está -47% abaixo da média de 7 dias (descontada).
 
-- **Bradley Barcola (90)** caiu **-44.8%** em 24h, a **40k coins** (faixa do dia: 28k–100k). Está -57% abaixo da média de 7 dias (descontada).
+- **Rafael Leão (87)** caiu **-45.5%** em 24h, a **490k coins** (faixa do dia: 107k–550k). Está -35% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Désiré Doué já avançou 53.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Désiré Doué já avançou 49.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Caroline Graham Hansen recuou -46.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ethan Nwaneri recuou -49.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Désiré Doué (91, Ligue 1 McDonald's), com +53.8% em 24h, a 2M coins no PC.
+Désiré Doué (91, Ligue 1 McDonald's), com +49.6% em 24h, a 1.79M coins no PC.
 
 **E a maior queda do dia?**
-Caroline Graham Hansen (96), -46.7% em 24h, a 320k coins.
+Ethan Nwaneri (91), -49.7% em 24h, a 39k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 45 cartas em alta contra 110 em queda (média -13.03%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 53 cartas em alta contra 93 em queda (média -6.52%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
@@ -131,6 +131,5 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ## Continue a análise
 
 - [Jogadores baratos EA FC: Pontas em 25/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-25-pc/)
-- [Investimentos EA FC: Pontas em 25/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-25-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

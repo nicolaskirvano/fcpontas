@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T16:13:09.000Z
+pubDatetime: 2026-07-25T19:13:09.000Z
 title: "Investimentos EA FC: Pontas em 25/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Caroline Graham Hansen (90, Liga F) lidera, com +56% em 7 dias a 37k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Florian Thauvin (87, Ligue 1 McDonald's) lidera, com +34.8% em 7 dias a 39k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Caroline Graham Hansen (90) acumula **+56% em 7 dias** a 37k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Florian Thauvin (87) acumula **+34.8% em 7 dias** a 39k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 25/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-25-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.3% em 24h** e **+20.0% em 7 dias**.
-- **1 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+16.6% em 24h** e **+16.6% em 7 dias**.
+- **2 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,31 +43,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Caroline Graham Hansen | 90 | Liga F | 37k coins | +4.7% | +56% | Momentum moderado |
-| Timo Werner | 87 | Bundesliga | 53k coins | +3.8% | +52.8% | Momentum moderado |
-| Florian Thauvin | 87 | Ligue 1 McDonald's | 48k coins | +9.2% | +26.2% | Momentum moderado |
-| Mikel Gogorza | 86 | 3F Superliga | 56k coins | +13.6% | +25.6% | Momentum moderado |
-| Rubén García | 87 | LALIGA EA SPORTS | 23k coins | +13% | +22.5% | Momentum moderado |
-| Debinha | 89 | NWSL | 195k coins | +19.6% | +21.9% | Momentum moderado |
-| Harvey Barnes | 84 | Premier League | 44k coins | +15.3% | +18.2% | Momentum moderado |
-| Iago Aspas | 86 | LALIGA EA SPORTS | 42k coins | +18.3% | +16.7% | Momentum moderado |
-| Yan Diomande | 92 | — | 48k coins | +33.3% | +16.4% | Esticada |
-| Michael Duffy | 84 | SSE Airtricity PD | 40k coins | +7.6% | +12.6% | Momentum moderado |
-| Nene Dorgeles | 85 | — | 38k coins | +4.9% | +7.1% | Entrada a observar |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 46k coins | +14.3% | +7% | Momentum moderado |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 39k coins | +18.8% | +34.8% | Momentum moderado |
+| Rubén García | 87 | LALIGA EA SPORTS | 22k coins | +19.7% | +28.2% | Momentum moderado |
+| Michelle Cooper | 87 | NWSL | 20k coins | +27.9% | +23.8% | Esticada |
+| Harvey Barnes | 84 | Premier League | 38k coins | +17.5% | +21.3% | Momentum moderado |
+| Emilie Haavi | 87 | Calcio A Femminile | 30k coins | +8.8% | +19.2% | Momentum moderado |
+| Harry Kewell | 87 | Premier League | 17.250 coins | +24.1% | +17.5% | Esticada |
+| Debinha | 89 | NWSL | 175k coins | +15.8% | +15.8% | Momentum moderado |
+| Iago Aspas | 86 | LALIGA EA SPORTS | 40k coins | +5.1% | +12.3% | Momentum moderado |
+| Claudiu Petrila | 86 | SUPERLIGA | 38k coins | +3% | +9.5% | Entrada a observar |
+| Pernille Harder | 87 | Liga F | 50k coins | +19.2% | +8.2% | Momentum moderado |
+| Afonso Moreira | 84 | Ligue 1 McDonald's | 42k coins | +1.8% | +6.2% | Entrada a observar |
+| David Neres | 86 | Serie A TIM | 54k coins | +1.6% | +6% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Caroline Graham Hansen (90)** — 37k coins, **+56% em 7 dias** (+4.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Florian Thauvin (87)** — 39k coins, **+34.8% em 7 dias** (+18.8% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Timo Werner (87)** — 53k coins, **+52.8% em 7 dias** (+3.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rubén García (87)** — 22k coins, **+28.2% em 7 dias** (+19.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Thauvin (87)** — 48k coins, **+26.2% em 7 dias** (+9.2% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michelle Cooper (87)** — 20k coins, **+23.8% em 7 dias** (+27.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mikel Gogorza (86)** — 56k coins, **+25.6% em 7 dias** (+13.6% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Harvey Barnes (84)** — 38k coins, **+21.3% em 7 dias** (+17.5% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rubén García (87)** — 23k coins, **+22.5% em 7 dias** (+13% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emilie Haavi (87)** — 30k coins, **+19.2% em 7 dias** (+8.8% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +85,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Caroline Graham Hansen (90, Liga F) lidera, com +56% em 7 dias a 37k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Florian Thauvin (87, Ligue 1 McDonald's) lidera, com +34.8% em 7 dias a 39k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

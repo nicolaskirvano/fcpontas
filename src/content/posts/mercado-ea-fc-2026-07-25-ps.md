@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T16:13:08.000Z
+pubDatetime: 2026-07-25T19:13:07.000Z
 title: "Mercado EA FC em 25/07: Pontas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Gustav Isaksen (87, Serie A TIM), com +56.2% em 24h, a 62k coins no Console (PS)."
+    a: "Alex Pfeiffer (90, NWSL), com +52.7% em 24h, a 60k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Désiré Doué (87), -49.4% em 24h, a 88k coins."
+    a: "Linda Caicedo (87), -50% em 24h, a 29k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 63 cartas em alta contra 103 em queda (média -11.29%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 67 cartas em alta contra 69 em queda (média -1.24%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **25/07/2026** (Console (PS)): mercado **pressionado** — as quedas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **63 em alta** e **103 em queda**, média de **-11.29%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **25/07/2026** (Console (PS)): dia **indefinido** — sem tendência dominante. Entre as cartas relevantes (80+ e acima de 5k coins), foram **67 em alta** e **69 em queda**, média de **-1.24%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Gustav Isaksen (87) **+56.2%** · 🔴 **Maior baixa:** Désiré Doué (87) **-49.4%**
+> 🟢 **Maior alta:** Alex Pfeiffer (90) **+52.7%** · 🔴 **Maior baixa:** Linda Caicedo (87) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Pontas — Console (PS)](/charts/mercado-ea-fc-2026-07-25-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **25/07/2026** (Console (PS)): mercado **pressionado** — as quedas
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 105.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 38.0% entre as cartas que se moveram; o universo observado reúne 184 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 102.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.3% entre as cartas que se moveram; o universo observado reúne 161 cartas.
+- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gustav Isaksen | 87 | Serie A TIM | 62k coins | +56.2% | +54.3% |
-| Anass Zaroury | 86 | Hellas Liga | 40k coins | +48.2% | +50.9% |
-| Nico Williams | 96 | — | 204k coins | +35.1% | -33.6% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 680k coins | +30.9% | -32.8% |
-| Mohamed Salah | 97 | — | 593k coins | +30.1% | -39% |
-| Désiré Doué | 96 | — | 519k coins | +26.6% | -25.6% |
-| Bukayo Saka | 98 | — | 1.17M coins | +21.1% | -37.8% |
-| Debinha | 89 | NWSL | 195k coins | +19.6% | +21.9% |
-| Rayan Philippe | 80 | Bundesliga | 48k coins | +19.5% | 0% |
-| Ousmane Dembélé | 96 | — | 940k coins | +19% | -31% |
+| Alex Pfeiffer | 90 | NWSL | 60k coins | +52.7% | -31.7% |
+| Jeremie Frimpong | 86 | Premier League | 60k coins | +50% | -54.4% |
+| Gustav Isaksen | 87 | Serie A TIM | 59k coins | +47.5% | +47.5% |
+| Víctor Ibarbo | 85 | Serie A TIM | 21k coins | +45.9% | -9.2% |
+| Yan Diomande | 96 | — | 195k coins | +40.6% | -30.4% |
+| Gareth Bale | 95 | — | 280k coins | +31.3% | -25% |
+| Nico Williams | 96 | — | 174k coins | +29% | -34.9% |
+| Claudia Pina | 95 | Liga F | 294k coins | +28.7% | -22.9% |
+| Michelle Cooper | 87 | NWSL | 20k coins | +27.9% | +23.8% |
+| Ronaldinho | 94 | Icons | 950k coins | +27.3% | -29.1% |
 
 
 ### Análise das altas
@@ -61,36 +61,36 @@ Panorama de **25/07/2026** (Console (PS)): mercado **pressionado** — as quedas
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Gustav Isaksen (87)** subiu **+56.2%** em 24h, a **62k coins** (faixa do dia: 33k–63k). Está +43% acima da média de 7 dias (aquecida).
+- **Alex Pfeiffer (90)** subiu **+52.7%** em 24h, a **60k coins** (faixa do dia: 37k–81k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Anass Zaroury (86)** subiu **+48.2%** em 24h, a **40k coins** (faixa do dia: 16.750–47k). Está +9% acima da média de 7 dias (aquecida).
+- **Jeremie Frimpong (86)** subiu **+50%** em 24h, a **60k coins** (faixa do dia: 28k–70k). Está -41% abaixo da média de 7 dias (descontada).
 
-- **Nico Williams (96)** subiu **+35.1%** em 24h, a **204k coins** (faixa do dia: 123k–224k). Está -31% abaixo da média de 7 dias (descontada).
+- **Gustav Isaksen (87)** subiu **+47.5%** em 24h, a **59k coins** (faixa do dia: 40k–63k). Está +34% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 88k coins | -49.4% | -55.5% |
-| Kerem Aktürkoğlu | 91 | — | 20k coins | -49.4% | -45.2% |
-| Saeed Al Owairan | 91 | ROSHN Saudi League | 80k coins | -45.9% | -54.5% |
-| Raphinha | 93 | — | 35k coins | -45.8% | -54.2% |
-| Claudia Pina | 88 | Liga F | 42k coins | -44.4% | -45.5% |
-| Lee Kang In | 95 | — | 53k coins | -40.8% | -47% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 60k coins | -40.1% | -56.9% |
-| Jeremie Frimpong | 86 | Premier League | 65k coins | -39.7% | -47% |
-| Vini Jr. | 92 | LALIGA EA SPORTS | 380k coins | -39.1% | -49.9% |
-| Caroline Graham Hansen | 96 | — | 182k coins | -35.6% | -46.2% |
+| Linda Caicedo | 87 | Liga F | 29k coins | -50% | -7.8% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 163k coins | -45.7% | -51.3% |
+| Wilson Odobert | 87 | Premier League | 25k coins | -44.3% | -39.1% |
+| Jens Petter Hauge | 88 | Eliteserien | 32k coins | -40.3% | -53.3% |
+| Olivia Smith | 91 | Barclays WSL | 304k coins | -38.3% | -19.8% |
+| Couhaib Driouech | 86 | Eredivisie | 44k coins | -30.4% | -56.5% |
+| Rayan Cherki | 87 | Premier League | 35k coins | -29.1% | -51% |
+| Quaresma | 89 | Liga Portugal | 156k coins | -28.9% | -37.3% |
+| Bradley Barcola | 87 | Ligue 1 McDonald's | 90k coins | -28.3% | -31.8% |
+| Caroline Graham Hansen | 96 | — | 165k coins | -27.8% | -63.7% |
 
 
 ### Análise das baixas
 
-- **Désiré Doué (87)** caiu **-49.4%** em 24h, a **88k coins** (faixa do dia: 52k–201k). Está -50% abaixo da média de 7 dias (descontada).
+- **Linda Caicedo (87)** caiu **-50%** em 24h, a **29k coins** (faixa do dia: 13.500–60k). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Kerem Aktürkoğlu (91)** caiu **-49.4%** em 24h, a **20k coins** (faixa do dia: 15.000–48k). Está -51% abaixo da média de 7 dias (descontada).
+- **Nico Williams (93)** caiu **-45.7%** em 24h, a **163k coins** (faixa do dia: 160k–247k). Está -44% abaixo da média de 7 dias (descontada).
 
-- **Saeed Al Owairan (91)** caiu **-45.9%** em 24h, a **80k coins** (faixa do dia: 47k–174k). Está -49% abaixo da média de 7 dias (descontada).
+- **Wilson Odobert (87)** caiu **-44.3%** em 24h, a **25k coins** (faixa do dia: 16.000–41k). Está -23% abaixo da média de 7 dias (descontada).
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -99,14 +99,14 @@ O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| John Barnes | 89 | 18.500 coins | -2.3% |
+| John Barnes | 89 | 16.000 coins | -2.3% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Gustav Isaksen já avançou 56.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Alex Pfeiffer já avançou 52.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Désiré Doué recuou -49.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Linda Caicedo recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +118,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Gustav Isaksen (87, Serie A TIM), com +56.2% em 24h, a 62k coins no Console (PS).
+Alex Pfeiffer (90, NWSL), com +52.7% em 24h, a 60k coins no Console (PS).
 
 **E a maior queda do dia?**
-Désiré Doué (87), -49.4% em 24h, a 88k coins.
+Linda Caicedo (87), -50% em 24h, a 29k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 63 cartas em alta contra 103 em queda (média -11.29%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 67 cartas em alta contra 69 em queda (média -1.24%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
