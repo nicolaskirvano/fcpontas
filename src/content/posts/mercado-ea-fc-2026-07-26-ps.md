@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T13:13:08.000Z
+pubDatetime: 2026-07-26T16:13:07.000Z
 title: "Mercado EA FC em 26/07: Pontas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Anis Hadj-Moussa (86, Eredivisie), com +56.4% em 24h, a 40k coins no Console (PS)."
+    a: "Nico Williams (93, LALIGA EA SPORTS), com +54.7% em 24h, a 188k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Couhaib Driouech (86), -47.3% em 24h, a 29k coins."
+    a: "George Best (90), -35.8% em 24h, a 136k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 63 cartas em alta contra 69 em queda (média 1.87%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 62 cartas em alta contra 89 em queda (média -0.5%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **26/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **63 cartas subiram** e **69 caíram** (80+ acima de 5k coins), variação média de **1.87%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **26/07/2026** no Console (PS) com mercado **lateral** — sem direção clara: **62 cartas subiram** e **89 caíram** (80+ acima de 5k coins), variação média de **-0.5%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Anis Hadj-Moussa (86) **+56.4%** · 🔴 **Maior baixa:** Couhaib Driouech (86) **-47.3%**
+> 🟢 **Maior alta:** Nico Williams (93) **+54.7%** · 🔴 **Maior baixa:** George Best (90) **-35.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Pontas — Console (PS)](/charts/mercado-ea-fc-2026-07-26-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **26/07/2026** no Console (PS) com mercado **em alta
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.7% entre as cartas que se moveram; o universo observado reúne 166 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 90.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 41.1% entre as cartas que se moveram; o universo observado reúne 184 cartas.
+- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anis Hadj-Moussa | 86 | Eredivisie | 40k coins | +56.4% | -55% |
-| Jérémy Doku | 84 | Premier League | 42k coins | +51.2% | +15.5% |
-| Gareth Bale | 89 | Icons | 1.10M coins | +45.5% | -14.8% |
-| Claudia Pina | 87 | Liga F | 110k coins | +44.9% | -22.3% |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 39k coins | +42.9% | -42.4% |
-| Gareth Bale | 88 | Icons | 502k coins | +39.6% | -7.2% |
-| Garrincha | 93 | Icons | 700k coins | +35.9% | +16% |
-| Matthis Abline | 81 | Ligue 1 McDonald's | 42k coins | +33.3% | -4.8% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 490k coins | +31.7% | -50.1% |
-| David Neres | 86 | Serie A TIM | 66k coins | +31% | +12% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 188k coins | +54.7% | -15.2% |
+| Olivia Smith | 86 | Barclays WSL | 86k coins | +52% | +26.2% |
+| Quaresma | 85 | Liga Portugal | 92k coins | +49.6% | -10.9% |
+| Esmir Bajraktarević | 91 | — | 419k coins | +36.9% | +11.3% |
+| Gareth Bale | 88 | Icons | 534k coins | +33.8% | -8.3% |
+| Bukayo Saka | 98 | — | 1.44M coins | +32.8% | -22.7% |
+| Johan Bakayoko | 88 | Bundesliga | 25k coins | +30.8% | +21.4% |
+| Vini Jr. | 97 | — | 1.10M coins | +26.9% | -41% |
+| Claudia Pina | 88 | Liga F | 56k coins | +23% | -37.6% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 100k coins | +18% | -46.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,52 @@ O mercado do **EA FC** abre **26/07/2026** no Console (PS) com mercado **em alta
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Anis Hadj-Moussa (86)** subiu **+56.4%** em 24h, a **40k coins** (faixa do dia: 27k–154k). Está -42% abaixo da média de 7 dias (descontada).
+- **Nico Williams (93)** subiu **+54.7%** em 24h, a **188k coins** (faixa do dia: 111k–315k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Jérémy Doku (84)** subiu **+51.2%** em 24h, a **42k coins** (faixa do dia: 38k–70k). Está -26% abaixo da média de 7 dias (descontada).
+- **Olivia Smith (86)** subiu **+52%** em 24h, a **86k coins** (faixa do dia: 40k–86k). Está +49% acima da média de 7 dias (aquecida).
 
-- **Gareth Bale (89)** subiu **+45.5%** em 24h, a **1.10M coins** (faixa do dia: 740k–1.49M). Está em linha com a média de 7 dias (-3%).
+- **Quaresma (85)** subiu **+49.6%** em 24h, a **92k coins** (faixa do dia: 45k–123k). Está em linha com a média de 7 dias (+2%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Couhaib Driouech | 86 | Eredivisie | 29k coins | -47.3% | -54.7% |
-| Olivia Smith | 91 | Barclays WSL | 283k coins | -43.2% | -38.7% |
-| Khvicha Kvaratskhelia | 96 | — | 760k coins | -28.2% | -22.9% |
-| Lionel Messi | 88 | MLS | 203k coins | -25.1% | -57.1% |
-| Emilie Haavi | 87 | Calcio A Femminile | 23k coins | -23% | -7.8% |
-| Jairzinho | 94 | Icons | 320k coins | -21.6% | -38.3% |
-| Malcom | 87 | ROSHN Saudi League | 50k coins | -21.3% | +37.2% |
-| Harry Kewell | 91 | Premier League | 500k coins | -20.9% | -3.8% |
-| Linda Caicedo | 87 | Liga F | 25k coins | -18.7% | -43.2% |
-| Ronaldinho | 99 | — | 3.69M coins | -18.5% | — |
+| George Best | 90 | Icons | 136k coins | -35.8% | -45.6% |
+| Emilie Haavi | 87 | Calcio A Femminile | 21k coins | -32.3% | -17.6% |
+| Anass Zaroury | 86 | Hellas Liga | 32k coins | -31% | -36.3% |
+| Olivia Smith | 91 | Barclays WSL | 240k coins | -29% | -43.6% |
+| Caroline Graham Hansen | 90 | Liga F | 26k coins | -27.7% | +12% |
+| Gareth Bale | 94 | Icons | 2.40M coins | -26% | +9.5% |
+| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 447k coins | -25.3% | -24.6% |
+| Debinha | 89 | NWSL | 140k coins | -24.6% | -16.9% |
+| Salma Paralluelo | 86 | Liga F | 355k coins | -23.6% | -41.1% |
+| Ronaldinho | 99 | — | 3.60M coins | -20.8% | — |
 
 
 ### Análise das baixas
 
-- **Couhaib Driouech (86)** caiu **-47.3%** em 24h, a **29k coins** (faixa do dia: 29k–50k). Está -41% abaixo da média de 7 dias (descontada).
+- **George Best (90)** caiu **-35.8%** em 24h, a **136k coins** (faixa do dia: 89k–276k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Olivia Smith (91)** caiu **-43.2%** em 24h, a **283k coins** (faixa do dia: 238k–436k). Está -24% abaixo da média de 7 dias (descontada).
+- **Emilie Haavi (87)** caiu **-32.3%** em 24h, a **21k coins** (faixa do dia: 19.750–32k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Khvicha Kvaratskhelia (96)** caiu **-28.2%** em 24h, a **760k coins** (faixa do dia: 690k–1.03M). Está -30% abaixo da média de 7 dias (descontada).
+- **Anass Zaroury (86)** caiu **-31%** em 24h, a **32k coins** (faixa do dia: 14.000–46k). Está -13% abaixo da média de 7 dias (descontada).
+
+
+## ⚠️ Alerta de queda projetada
+
+Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes de comprar:
+
+| Jogador | OVR | Preço atual | Variação prevista |
+| --- | --- | --- | --- |
+| John Barnes | 89 | 65k coins | -2.3% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Anis Hadj-Moussa já avançou 56.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Nico Williams já avançou 54.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Couhaib Driouech recuou -47.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** George Best recuou -35.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +128,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Anis Hadj-Moussa (86, Eredivisie), com +56.4% em 24h, a 40k coins no Console (PS).
+Nico Williams (93, LALIGA EA SPORTS), com +54.7% em 24h, a 188k coins no Console (PS).
 
 **E a maior queda do dia?**
-Couhaib Driouech (86), -47.3% em 24h, a 29k coins.
+George Best (90), -35.8% em 24h, a 136k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 63 cartas em alta contra 69 em queda (média 1.87%).
+Hoje o mercado está lateral — sem direção clara, com 62 cartas em alta contra 89 em queda (média -0.5%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
