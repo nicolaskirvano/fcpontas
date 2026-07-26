@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T09:25:20.000Z
+pubDatetime: 2026-07-26T10:13:20.000Z
 title: "Jogadores baratos EA FC: Pontas em 26/07 — PC"
 draft: false
 featured: false
@@ -43,14 +43,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Ivan Perišić | 96 | RW | — | 11.750 coins | 0% |
 | Julian Quiñones | 96 | LW | — | 13.750 coins | +7.8% |
 | Gabriel Silva | 95 | LW | — | 11.750 coins | +2.2% |
-| Léo Scienza | 95 | LW | — | 12.000 coins | -4% |
+| Léo Scienza | 95 | LW | — | 12.000 coins | -9.4% |
 | Athenea | 95 | RW | — | 12.250 coins | -3.9% |
 | Denis Bouanga | 95 | LW | — | 12.500 coins | -3.8% |
-| Oscar Bobb | 95 | RW | — | 14.000 coins | +1.8% |
+| Oscar Bobb | 95 | RW | — | 14.000 coins | +3.7% |
 | Elijah Just | 94 | LW | — | 11.500 coins | -4.2% |
 | Roberto Alvarado | 94 | RW | — | 11.750 coins | -2.1% |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Bilal El Khannouss | 92 | LW | — | 12.250 coins | -9.3% |
+| Bilal El Khannouss | 92 | LW | — | 12.250 coins | -10.9% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Oumar Camara | 90 | LW | — | 11.250 coins | 0% |

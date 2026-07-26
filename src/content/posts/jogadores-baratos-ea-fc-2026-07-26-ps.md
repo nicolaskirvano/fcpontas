@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T09:25:11.000Z
+pubDatetime: 2026-07-26T10:13:10.000Z
 title: "Jogadores baratos EA FC: Pontas em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.950 coins.
-- **Posição mais frequente:** RW, com 9 cartas.
+- **Preço médio das 15 opções:** 12.900 coins.
+- **Posição mais frequente:** RW, com 8 cartas.
 - **Faixa real:** 11.500 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Ivan Perišić | 96 | RW | — | 11.500 coins | -4.2% |
 | Julian Quiñones | 96 | LW | — | 13.250 coins | -3.6% |
-| Zlatko Tripić | 96 | RW | — | 14.000 coins | -1.8% |
+| Zlatko Tripić | 96 | RW | — | 14.000 coins | -3.4% |
 | Gabriel Silva | 95 | LW | — | 11.500 coins | -2.1% |
 | Athenea | 95 | RW | — | 13.000 coins | -1.9% |
-| Léo Scienza | 95 | LW | — | 13.250 coins | 0% |
 | Denis Bouanga | 95 | LW | — | 13.250 coins | 0% |
+| Léo Scienza | 95 | LW | — | 13.250 coins | 0% |
 | Julian Quiñones | 95 | LW | — | 13.750 coins | -1.8% |
-| Zizo | 95 | RW | — | 14.000 coins | -12.5% |
 | Oscar Bobb | 95 | RW | — | 14.500 coins | +7.4% |
-| Elijah Just | 94 | LW | — | 11.500 coins | -2.1% |
+| Elijah Just | 94 | LW | — | 11.500 coins | 0% |
 | Roberto Alvarado | 94 | RW | — | 12.000 coins | 0% |
 | Sergiño Dest | 93 | RW | — | 13.000 coins | -1.9% |
 | Sultan Mandash | 93 | RW | — | 14.250 coins | -5% |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
+| Bilal El Khannouss | 92 | LW | — | 13.250 coins | +1.9% |
 
 
 ## 📈 Destaques
