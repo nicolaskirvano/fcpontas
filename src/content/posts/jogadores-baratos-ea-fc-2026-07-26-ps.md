@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T16:13:10.000Z
+pubDatetime: 2026-07-26T19:13:12.000Z
 title: "Jogadores baratos EA FC: Pontas em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 13.367 coins.
-- **Posição mais frequente:** LW, com 8 cartas.
-- **Faixa real:** 11.500 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.947 coins.
+- **Posição mais frequente:** RW, com 8 cartas.
+- **Faixa real:** 1.500 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,33 +41,33 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Ivan Perišić | 96 | RW | — | 11.750 coins | -2.1% |
-| Julian Quiñones | 96 | LW | — | 14.500 coins | -8.8% |
-| Zlatko Tripić | 96 | RW | — | 14.500 coins | -9.4% |
 | Gabriel Silva | 95 | LW | — | 11.500 coins | 0% |
-| Julian Quiñones | 95 | LW | — | 13.750 coins | -3.5% |
-| Léo Scienza | 95 | LW | — | 14.000 coins | -12.5% |
-| Denis Bouanga | 95 | LW | — | 14.000 coins | -5.1% |
-| Oscar Bobb | 95 | RW | — | 14.250 coins | 0% |
-| Athenea | 95 | RW | — | 14.250 coins | -3.4% |
-| Elijah Just | 94 | LW | — | 12.250 coins | -2% |
-| Roberto Alvarado | 94 | RW | — | 12.500 coins | +2% |
-| Sergiño Dest | 93 | RW | — | 13.500 coins | 0% |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Bilal El Khannouss | 92 | LW | — | 13.750 coins | -1.9% |
-| Edmilson Junior | 92 | LW | — | 14.500 coins | -6.5% |
+| Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
+| Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
+| Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
+| Mohammed Kudus | 90 | RW | Premier League | 13.250 coins | 0% |
+| Lukáš Haraslín | 89 | LW | Česká Liga | 12.750 coins | +10.4% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 13.750 coins | -11.9% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 1.700 coins | +5.9% |
+| Oscar Bobb | 88 | RW | Premier League | 11.750 coins | +9.1% |
+| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 1.500 coins | 0% |
+| Kiko Seike | 87 | RW | Barclays WSL | 13.750 coins | -3.4% |
+| Joe Cole | 87 | RW | Premier League | 14.250 coins | -5% |
+| Armand Laurienté | 86 | LW | Serie A TIM | 12.750 coins | +15.6% |
 
 
 ## 📈 Destaques
 
 - **Ivan Perišić (96, RW)** da —, a apenas **11.750 coins**
 
-- **Julian Quiñones (96, LW)** da —, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Zlatko Tripić (96, RW)** da —, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Gabriel Silva (95, LW)** da —, a apenas **11.500 coins**
 
-- **Julian Quiñones (95, LW)** da —, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Kadidiatou Diani (91, RW)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
