@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T19:13:22.000Z
+pubDatetime: 2026-07-26T22:13:21.000Z
 title: "Jogadores baratos EA FC: Pontas em 26/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 26/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/07/2026)?"
-    a: "Ivan Perišić (96, sem liga) aparece como melhor custo-benefício, a 11.750 coins no PC."
+    a: "Ivan Perišić (96, sem liga) aparece como melhor custo-benefício, a 12.000 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Ivan Perišić (96) por apenas 11.750 coins.
+> 💰 **Melhor pechincha:** Ivan Perišić (96) por apenas 12.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Pontas em 26/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-26-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 9.645 coins.
-- **Posição mais frequente:** RW, com 6 cartas.
-- **Faixa real:** 1.900 a 11.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 14 opções:** 11.718 coins.
+- **Posição mais frequente:** RW, com 7 cartas.
+- **Faixa real:** 3.300 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,38 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ivan Perišić | 96 | RW | — | 11.750 coins | 0% |
-| Gabriel Silva | 95 | LW | — | 11.750 coins | +2.2% |
+| Ivan Perišić | 96 | RW | — | 12.000 coins | 0% |
+| Julian Quiñones | 96 | LW | — | 14.500 coins | +5.4% |
+| Gabriel Silva | 95 | LW | — | 11.750 coins | -2.1% |
+| Elijah Just | 94 | LW | — | 14.000 coins | +7.7% |
+| Roberto Alvarado | 94 | RW | — | 14.250 coins | +7.7% |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 11.500 coins | -7.5% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 1.900 coins | +11.8% |
-| Joe Cole | 87 | RW | Premier League | 11.000 coins | -12% |
-| Lionel Messi | 86 | RW | MLS | 3.300 coins | -5.7% |
+| Oumar Camara | 90 | LW | — | 13.500 coins | +10.2% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 12.000 coins | -11.8% |
+| Joe Cole | 87 | RW | Premier League | 11.000 coins | 0% |
+| Lionel Messi | 86 | RW | MLS | 3.300 coins | -2.9% |
+| Ivan Perišić | 86 | RW | Eredivisie | 12.500 coins | +27.9% |
 
 
 ## 📈 Destaques
 
-- **Ivan Perišić (96, RW)** da —, a apenas **11.750 coins**
+- **Ivan Perišić (96, RW)** da —, a apenas **12.000 coins**
+
+- **Julian Quiñones (96, LW)** da —, a apenas **14.500 coins**
 
 - **Gabriel Silva (95, LW)** da —, a apenas **11.750 coins**
 
-- **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Elijah Just (94, LW)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lauren Hemp (90, LW)** da Barclays WSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Roberto Alvarado (94, RW)** da —, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Ataque:** Ivan Perišić (96, RW) por 11.750 coins é a referência de rating deste recorte.
+- **Ataque:** Ivan Perišić (96, RW) por 12.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -96,7 +100,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/07/2026)?**  
-Ivan Perišić (96, sem liga) aparece como melhor custo-benefício, a 11.750 coins no PC.
+Ivan Perišić (96, sem liga) aparece como melhor custo-benefício, a 12.000 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
