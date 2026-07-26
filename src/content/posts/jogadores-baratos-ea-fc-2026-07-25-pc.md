@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:13:20.000Z
+pubDatetime: 2026-07-26T01:13:20.000Z
 title: "Jogadores baratos EA FC: Pontas em 25/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.077 coins.
-- **Posição mais frequente:** LW, com 11 cartas.
-- **Faixa real:** 1.500 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.860 coins.
+- **Posição mais frequente:** LW, com 9 cartas.
+- **Faixa real:** 1.900 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ivan Perišić | 96 | RW | — | 12.000 coins | 0% |
-| Julian Quiñones | 96 | LW | — | 14.000 coins | +13.2% |
+| Ivan Perišić | 96 | RW | — | 12.000 coins | +2.1% |
 | Gabriel Silva | 95 | LW | — | 11.750 coins | 0% |
-| Julian Quiñones | 95 | LW | — | 14.500 coins | -10.4% |
-| Roberto Alvarado | 94 | RW | — | 13.000 coins | +6.1% |
-| Elijah Just | 94 | LW | — | 13.000 coins | +10.4% |
+| Léo Scienza | 95 | LW | — | 14.500 coins | +10.7% |
+| Roberto Alvarado | 94 | RW | — | 12.750 coins | +8.3% |
+| Elijah Just | 94 | LW | — | 12.750 coins | +6.2% |
+| Sergiño Dest | 93 | RW | — | 14.500 coins | -3.3% |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
+| Bilal El Khannouss | 92 | LW | — | 14.750 coins | +3.4% |
+| Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
-| Oumar Camara | 90 | LW | — | 12.500 coins | 0% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 12.500 coins | -3.9% |
-| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 1.900 coins | +36.4% |
-| Harry Kewell | 87 | LW | Premier League | 14.250 coins | -13.8% |
-| Salma Paralluelo | 84 | LW | Liga F | 1.500 coins | -5.9% |
+| Oumar Camara | 90 | LW | — | 12.250 coins | +6.5% |
+| Lukáš Haraslín | 89 | LW | Česká Liga | 11.250 coins | -4.3% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 14.250 coins | +6.2% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 1.900 coins | +11.1% |
 
 
 ## 📈 Destaques
 
 - **Ivan Perišić (96, RW)** da —, a apenas **12.000 coins**
 
-- **Julian Quiñones (96, LW)** da —, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Gabriel Silva (95, LW)** da —, a apenas **11.750 coins**
 
-- **Julian Quiñones (95, LW)** da —, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Léo Scienza (95, LW)** da —, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Roberto Alvarado (94, RW)** da —, a apenas **13.000 coins**
+- **Roberto Alvarado (94, RW)** da —, a apenas **12.750 coins**
+
+- **Elijah Just (94, LW)** da —, a apenas **12.750 coins**
 
 
 ## Como distribuir a banca
@@ -109,7 +109,6 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Pontas em 25/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-25-pc/)
 - [Mercado EA FC em 25/07: Pontas — PC](/posts/mercado-ea-fc-2026-07-25-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
