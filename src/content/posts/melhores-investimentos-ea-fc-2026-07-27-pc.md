@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:13:19.000Z
+pubDatetime: 2026-07-27T13:13:19.000Z
 title: "Investimentos EA FC: Pontas em 27/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Mary Fowler (87, Barclays Women’s Super League) lidera, com +62.3% em 7 dias a 68k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gervinho (85, Serie A TIM) lidera, com +66.7% em 7 dias a 30k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mary Fowler (87) acumula **+62.3% em 7 dias** a 68k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Gervinho (85) acumula **+66.7% em 7 dias** a 30k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 27/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-27-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.5% em 24h** e **+36.4% em 7 dias**.
-- **6 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.8% em 24h** e **+32.6% em 7 dias**.
+- **3 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,32 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mary Fowler | 87 | Barclays Women’s Super League | 68k coins | +26.8% | +62.3% | Esticada |
-| Rubén García | 87 | LALIGA EA SPORTS | 27k coins | +12.5% | +61.2% | Esticada |
+| Gervinho | 85 | Serie A TIM | 30k coins | +22.4% | +66.7% | Esticada |
 | Jerzy Dudek | 87 | Premier League | 48k coins | +18.8% | +52% | Momentum moderado |
-| Gervinho | 85 | Serie A TIM | 30k coins | +6.1% | +42.5% | Momentum moderado |
-| Armand Laurienté | 86 | Serie A TIM | 39k coins | +35.7% | +42.1% | Esticada |
-| Emilie Haavi | 87 | Calcio A Femminile | 26k coins | +7.1% | +41.9% | Momentum moderado |
-| Gabriel Martinelli | 87 | Premier League | 148k coins | +22% | +36.4% | Esticada |
-| Matteo Politano | 87 | — | 49k coins | +34.2% | +23.5% | Esticada |
-| Saeed Al Owairan | 91 | ROSHN Saudi League | 240k coins | +27% | +17.6% | Esticada |
-| Denis Bouanga | 86 | — | 38k coins | +1.9% | +14.5% | Entrada a observar |
-| Harvey Barnes | 86 | Premier League | 50k coins | +4.2% | +10% | Entrada a observar |
-| Michael Duffy | 84 | SSE Airtricity PD | 49k coins | +8.3% | +7.7% | Momentum moderado |
-| Gustav Isaksen | 87 | Serie A TIM | 50k coins | +6% | +6% | Momentum moderado |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 74k coins | +20.2% | +49% | Esticada |
+| Pernille Harder | 87 | Liga F | 56k coins | +28.1% | +39.9% | Esticada |
+| Mary Fowler | 87 | Barclays Women’s Super League | 61k coins | +8.9% | +32.6% | Momentum moderado |
+| Emilie Haavi | 87 | Calcio A Femminile | 26k coins | +16.7% | +28% | Momentum moderado |
+| Denis Bouanga | 86 | — | 45k coins | +17.2% | +23.2% | Momentum moderado |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 46k coins | +19% | +6.4% | Momentum moderado |
+| Harvey Barnes | 86 | Premier League | 44k coins | +5.6% | +5.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Mary Fowler (87)** — 68k coins, **+62.3% em 7 dias** (+26.8% em 24h). Preço +115% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gervinho (85)** — 30k coins, **+66.7% em 7 dias** (+22.4% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rubén García (87)** — 27k coins, **+61.2% em 7 dias** (+12.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jerzy Dudek (87)** — 48k coins, **+52% em 7 dias** (+18.8% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jerzy Dudek (87)** — 48k coins, **+52% em 7 dias** (+18.8% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Florian Thauvin (87)** — 74k coins, **+49% em 7 dias** (+20.2% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gervinho (85)** — 30k coins, **+42.5% em 7 dias** (+6.1% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pernille Harder (87)** — 56k coins, **+39.9% em 7 dias** (+28.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Armand Laurienté (86)** — 39k coins, **+42.1% em 7 dias** (+35.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mary Fowler (87)** — 61k coins, **+32.6% em 7 dias** (+8.9% em 24h). Preço +90% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -86,7 +82,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Mary Fowler (87, Barclays Women’s Super League) lidera, com +62.3% em 7 dias a 68k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gervinho (85, Serie A TIM) lidera, com +66.7% em 7 dias a 30k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
