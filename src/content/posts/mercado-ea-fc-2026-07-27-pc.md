@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:13:17.000Z
+pubDatetime: 2026-07-27T22:13:20.000Z
 title: "Mercado EA FC em 27/07: Pontas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Said El Mala (90, sem liga), com +58.8% em 24h, a 44k coins no PC."
+    a: "Noa Lang (91, Trendyol Süper Lig), com +56.5% em 24h, a 58k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Désiré Doué (87), -48.9% em 24h, a 137k coins."
+    a: "Debinha (89), -49.2% em 24h, a 90k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 75 cartas em alta contra 68 em queda (média 3.23%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 39 cartas em alta contra 33 em queda (média 3.45%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **27/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **75 valorizações** contra **68 quedas** entre as cartas relevantes, com média de **3.23%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **27/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **39 valorizações** contra **33 quedas** entre as cartas relevantes, com média de **3.45%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Said El Mala (90) **+58.8%** · 🔴 **Maior baixa:** Désiré Doué (87) **-48.9%**
+> 🟢 **Maior alta:** Noa Lang (91) **+56.5%** · 🔴 **Maior baixa:** Debinha (89) **-49.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Pontas — PC](/charts/mercado-ea-fc-2026-07-27-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **27/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 52.4% entre as cartas que se moveram; o universo observado reúne 177 cartas.
-- **Concentração:** Liga F aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 105.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.2% entre as cartas que se moveram; o universo observado reúne 78 cartas.
+- **Concentração:** Trendyol Süper Lig aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Said El Mala | 90 | — | 44k coins | +58.8% | +6.5% |
-| Raphinha | 93 | — | 58k coins | +46.8% | -27.5% |
-| Alex Pfeiffer | 90 | NWSL | 207k coins | +40.4% | +3.5% |
-| Yan Diomande | 92 | — | 26k coins | +36.6% | +76.8% |
-| Athenea | 86 | Liga F | 45k coins | +35.6% | -12.9% |
-| Nico Williams | 96 | — | 259k coins | +26.3% | -41.5% |
-| Linda Caicedo | 87 | Liga F | 64k coins | +23.5% | -21.2% |
-| Tabitha Chawinga | 86 | D1 Arkema | 60k coins | +23.1% | -45.5% |
-| Gervinho | 85 | Serie A TIM | 30k coins | +22.4% | +73.9% |
-| George Best | 91 | Icons | 320k coins | +22.1% | +7.4% |
+| Noa Lang | 91 | Trendyol Süper Lig | 58k coins | +56.5% | -19.6% |
+| Daniela Agote | 91 | — | 29k coins | +48.7% | -25.2% |
+| Vini Jr. | 92 | LALIGA EA SPORTS | 498k coins | +39% | -43.8% |
+| Mika Godts | 93 | — | 29k coins | +33.7% | -23.3% |
+| Said El Mala | 90 | — | 38k coins | +25.8% | -11.2% |
+| Alex Pfeiffer | 90 | NWSL | 189k coins | +21.9% | -5% |
+| Rayan Cherki | 93 | — | 29k coins | +21.7% | -34.9% |
+| Anders Dreyer | 94 | — | 20k coins | +19.4% | -8% |
+| Raphinha | 93 | — | 50k coins | +18.8% | -25% |
+| Gustav Isaksen | 87 | Serie A TIM | 47k coins | +16.9% | -18% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **27/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Said El Mala (90)** subiu **+58.8%** em 24h, a **44k coins** (faixa do dia: 28k–70k). Está em linha com a média de 7 dias (-4%).
+- **Noa Lang (91)** subiu **+56.5%** em 24h, a **58k coins** (faixa do dia: 26k–76k). Está -11% abaixo da média de 7 dias (descontada).
 
-- **Raphinha (93)** subiu **+46.8%** em 24h, a **58k coins** (faixa do dia: 37k–62k). Está -13% abaixo da média de 7 dias (descontada).
+- **Daniela Agote (91)** subiu **+48.7%** em 24h, a **29k coins** (faixa do dia: 16.500–29k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Alex Pfeiffer (90)** subiu **+40.4%** em 24h, a **207k coins** (faixa do dia: 142k–276k). Está em linha com a média de 7 dias (+8%).
+- **Vini Jr. (92)** subiu **+39%** em 24h, a **498k coins** (faixa do dia: 347k–563k). Está -32% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 137k coins | -48.9% | -54.3% |
-| Antonio Di Natale | 89 | Serie A TIM | 160k coins | -47.1% | -43.3% |
-| Heung Min Son | 88 | MLS | 72k coins | -43.3% | -94.5% |
-| Timo Werner | 87 | Bundesliga | 24k coins | -40.9% | -61.2% |
-| Paulo Futre | 92 | Liga Portugal | 49k coins | -40% | -44.7% |
-| Khvicha Kvaratskhelia | 88 | Ligue 1 McDonald's | 360k coins | -40% | -59.8% |
-| Claudia Pina | 88 | Liga F | 175k coins | -36.4% | -32.7% |
-| George Best | 90 | Icons | 103k coins | -36% | -36.4% |
-| Anis Hadj-Moussa | 86 | Eredivisie | 42k coins | -34.1% | -25.7% |
-| Antoine Semenyo | 91 | Premier League | 179k coins | -33% | -28.1% |
+| Debinha | 89 | NWSL | 90k coins | -49.2% | -59.1% |
+| Saeed Al Owairan | 91 | ROSHN Saudi League | 152k coins | -33.6% | -23.9% |
+| Antoine Semenyo | 91 | Premier League | 185k coins | -28.3% | -25.4% |
+| Evann Guessand | 96 | — | 190k coins | -26.6% | -34.7% |
+| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 900k coins | -25% | +9.8% |
+| Bradley Barcola | 92 | — | 38k coins | -22.6% | -57.2% |
+| Rivaldo | 91 | Icons | 50k coins | -22.2% | -62.6% |
+| Antony | 91 | LALIGA EA SPORTS | 136k coins | -21.7% | -30.8% |
+| Marco Asensio | 85 | Trendyol Süper Lig | 26k coins | -18.4% | -2.9% |
+| Chloe Kelly | 88 | Barclays WSL | 42k coins | -16.5% | -58.2% |
 
 
 ### Análise das baixas
 
-- **Désiré Doué (87)** caiu **-48.9%** em 24h, a **137k coins** (faixa do dia: 113k–300k). Está -46% abaixo da média de 7 dias (descontada).
+- **Debinha (89)** caiu **-49.2%** em 24h, a **90k coins** (faixa do dia: 90k–197k). Está -49% abaixo da média de 7 dias (descontada).
 
-- **Antonio Di Natale (89)** caiu **-47.1%** em 24h, a **160k coins** (faixa do dia: 116k–340k). Está -36% abaixo da média de 7 dias (descontada).
+- **Saeed Al Owairan (91)** caiu **-33.6%** em 24h, a **152k coins** (faixa do dia: 110k–240k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Heung Min Son (88)** caiu **-43.3%** em 24h, a **72k coins** (faixa do dia: 72k–126k). Está -91% abaixo da média de 7 dias (descontada).
+- **Antoine Semenyo (91)** caiu **-28.3%** em 24h, a **185k coins** (faixa do dia: 130k–310k). Está -23% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Said El Mala já avançou 58.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Noa Lang já avançou 56.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Désiré Doué recuou -48.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Debinha recuou -49.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Said El Mala (90, sem liga), com +58.8% em 24h, a 44k coins no PC.
+Noa Lang (91, Trendyol Süper Lig), com +56.5% em 24h, a 58k coins no PC.
 
 **E a maior queda do dia?**
-Désiré Doué (87), -48.9% em 24h, a 137k coins.
+Debinha (89), -49.2% em 24h, a 90k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 75 cartas em alta contra 68 em queda (média 3.23%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 39 cartas em alta contra 33 em queda (média 3.45%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
@@ -131,6 +131,5 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ## Continue a análise
 
 - [Jogadores baratos EA FC: Pontas em 27/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-27-pc/)
-- [Investimentos EA FC: Pontas em 27/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-27-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
