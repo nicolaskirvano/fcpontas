@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T13:13:10.000Z
+pubDatetime: 2026-07-27T16:13:10.000Z
 title: "Investimentos EA FC: Pontas em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.3% em 24h** e **+16.2% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.7% em 24h** e **+18.7% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Yan Diomande | 92 | — | 45k coins | +32.4% | +83.7% | Esticada |
-| Michelle Cooper | 87 | NWSL | 18.500 coins | +37.5% | +73.7% | Esticada |
-| Yan Diomande | 84 | Bundesliga | 55k coins | +10% | +30.2% | Momentum moderado |
-| Iago Aspas | 86 | LALIGA EA SPORTS | 46k coins | +17.5% | +27% | Momentum moderado |
-| Caroline Weir | 86 | Liga F | 41k coins | +25.8% | +25.8% | Esticada |
-| Matteo Politano | 87 | — | 38k coins | +22.4% | +20.8% | Esticada |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 45k coins | +4.7% | +20% | Entrada a observar |
-| Pernille Harder | 87 | Liga F | 43k coins | +10.3% | +16.2% | Momentum moderado |
-| Elijah Just | 94 | — | 15.000 coins | +10.2% | +14.9% | Momentum moderado |
-| Rodrigo Zalazar | 84 | Liga Portugal | 43k coins | +7.5% | +14.7% | Momentum moderado |
-| Roberto Alvarado | 94 | — | 15.000 coins | +14.3% | +14.3% | Momentum moderado |
-| William Gomes | 84 | Liga Portugal | 43k coins | +8.1% | +13.8% | Momentum moderado |
-| Claudiu Petrila | 86 | SUPERLIGA | 50k coins | +29.2% | +13.1% | Esticada |
-| Athenea | 86 | Liga F | 46k coins | +14.8% | +12.7% | Momentum moderado |
-| Mika Godts | 93 | — | 18.250 coins | +11.1% | +9.9% | Momentum moderado |
+| Yan Diomande | 92 | — | 45k coins | +21.6% | +83.7% | Esticada |
+| Malcom | 87 | ROSHN Saudi League | 58k coins | +33.3% | +43.9% | Esticada |
+| Matteo Politano | 87 | — | 42k coins | +32.7% | +33.6% | Esticada |
+| Rodrigo Zalazar | 84 | Liga Portugal | 48k coins | +6.1% | +26.7% | Momentum moderado |
+| Yan Diomande | 84 | Bundesliga | 55k coins | +4.8% | +23.6% | Entrada a observar |
+| Michael Duffy | 84 | SSE Airtricity PD | 48k coins | +17.3% | +21.8% | Momentum moderado |
+| Iago Aspas | 86 | LALIGA EA SPORTS | 45k coins | +18.4% | +20.8% | Momentum moderado |
+| Wesley Saïd | 86 | Ligue 1 McDonald's | 44k coins | +11.2% | +18.7% | Momentum moderado |
+| Athenea | 86 | Liga F | 46k coins | +18.7% | +16.5% | Momentum moderado |
+| William Gomes | 84 | Liga Portugal | 38k coins | +1.2% | +13.2% | Entrada a observar |
+| Sandy Baltimore | 87 | Barclays WSL | 40k coins | +21.6% | +9.8% | Esticada |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 48k coins | +15.7% | +9.5% | Momentum moderado |
+| Harvey Barnes | 86 | Premier League | 43k coins | +2.4% | +7.5% | Entrada a observar |
+| Claudiu Petrila | 86 | SUPERLIGA | 50k coins | +5.1% | +6.2% | Momentum moderado |
+| Denis Bouanga | 86 | — | 40k coins | +3.9% | +5.3% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Yan Diomande (92)** — 45k coins, **+83.7% em 7 dias** (+32.4% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yan Diomande (92)** — 45k coins, **+83.7% em 7 dias** (+21.6% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Michelle Cooper (87)** — 18.500 coins, **+73.7% em 7 dias** (+37.5% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Malcom (87)** — 58k coins, **+43.9% em 7 dias** (+33.3% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yan Diomande (84)** — 55k coins, **+30.2% em 7 dias** (+10% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matteo Politano (87)** — 42k coins, **+33.6% em 7 dias** (+32.7% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iago Aspas (86)** — 46k coins, **+27% em 7 dias** (+17.5% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rodrigo Zalazar (84)** — 48k coins, **+26.7% em 7 dias** (+6.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Caroline Weir (86)** — 41k coins, **+25.8% em 7 dias** (+25.8% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yan Diomande (84)** — 55k coins, **+23.6% em 7 dias** (+4.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
