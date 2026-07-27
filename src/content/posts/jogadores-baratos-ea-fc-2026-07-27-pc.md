@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T09:30:04.000Z
+pubDatetime: 2026-07-27T10:13:21.000Z
 title: "Jogadores baratos EA FC: Pontas em 27/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.450 coins.
-- **Posição mais frequente:** LW, com 9 cartas.
-- **Faixa real:** 11.000 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 12.517 coins.
+- **Posição mais frequente:** LW, com 8 cartas.
+- **Faixa real:** 11.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,20 +40,20 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ivan Perišić | 96 | RW | — | 12.000 coins | 0% |
-| Julian Quiñones | 96 | LW | — | 14.750 coins | +9.1% |
+| Ivan Perišić | 96 | RW | — | 12.000 coins | +2.1% |
+| Julian Quiñones | 96 | LW | — | 14.000 coins | +5.5% |
 | Gabriel Silva | 95 | LW | — | 11.750 coins | 0% |
-| Léo Scienza | 95 | LW | — | 13.500 coins | +16.7% |
+| Oscar Bobb | 95 | RW | — | 13.500 coins | +14.3% |
 | Athenea | 95 | RW | — | 14.000 coins | +14.3% |
-| Denis Bouanga | 95 | LW | — | 14.000 coins | +14% |
-| Elijah Just | 94 | LW | — | 11.750 coins | +15.2% |
-| Roberto Alvarado | 94 | RW | — | 13.000 coins | +12.8% |
+| Léo Scienza | 95 | LW | — | 14.000 coins | +16.7% |
+| Denis Bouanga | 95 | LW | — | 14.000 coins | +12% |
+| Elijah Just | 94 | LW | — | 13.000 coins | +13% |
+| Roberto Alvarado | 94 | RW | — | 13.250 coins | +12.8% |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Bilal El Khannouss | 92 | LW | — | 14.000 coins | +14.3% |
-| Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Oumar Camara | 90 | LW | — | 11.750 coins | +2.2% |
+| Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
+| Oumar Camara | 90 | LW | — | 12.000 coins | +2.2% |
 | Oscar Bobb | 88 | RW | Premier League | 11.000 coins | 0% |
 
 
@@ -61,11 +61,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (96, RW)** da —, a apenas **12.000 coins**
 
-- **Julian Quiñones (96, LW)** da —, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julian Quiñones (96, LW)** da —, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Gabriel Silva (95, LW)** da —, a apenas **11.750 coins**
 
-- **Léo Scienza (95, LW)** da —, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Oscar Bobb (95, RW)** da —, a apenas **13.500 coins**
 
 - **Athenea (95, RW)** da —, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 

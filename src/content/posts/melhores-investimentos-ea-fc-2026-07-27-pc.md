@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T09:30:03.000Z
+pubDatetime: 2026-07-27T10:13:19.000Z
 title: "Investimentos EA FC: Pontas em 27/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.7% em 24h** e **+37.6% em 7 dias**.
-- **7 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.5% em 24h** e **+36.4% em 7 dias**.
+- **6 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,18 +45,17 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Mary Fowler | 87 | Barclays Women’s Super League | 68k coins | +26.8% | +62.3% | Esticada |
 | Rubén García | 87 | LALIGA EA SPORTS | 27k coins | +12.5% | +61.2% | Esticada |
-| Armand Laurienté | 86 | Serie A TIM | 37k coins | +35.7% | +52% | Esticada |
 | Jerzy Dudek | 87 | Premier League | 48k coins | +18.8% | +52% | Momentum moderado |
-| Gabriel Martinelli | 87 | Premier League | 148k coins | +27.6% | +42.7% | Esticada |
-| Gervinho | 85 | Serie A TIM | 26k coins | +6.1% | +42.5% | Momentum moderado |
+| Gervinho | 85 | Serie A TIM | 30k coins | +6.1% | +42.5% | Momentum moderado |
+| Armand Laurienté | 86 | Serie A TIM | 39k coins | +35.7% | +42.1% | Esticada |
 | Emilie Haavi | 87 | Calcio A Femminile | 26k coins | +7.1% | +41.9% | Momentum moderado |
-| Sandy Baltimore | 87 | Barclays WSL | 52k coins | +4.9% | +33.3% | Momentum moderado |
-| Merveille Kanjinga | 86 | D1 Arkema | 41k coins | +29.1% | +19.4% | Esticada |
+| Gabriel Martinelli | 87 | Premier League | 148k coins | +22% | +36.4% | Esticada |
+| Matteo Politano | 87 | — | 49k coins | +34.2% | +23.5% | Esticada |
 | Saeed Al Owairan | 91 | ROSHN Saudi League | 240k coins | +27% | +17.6% | Esticada |
 | Denis Bouanga | 86 | — | 38k coins | +1.9% | +14.5% | Entrada a observar |
-| Gustav Isaksen | 87 | Serie A TIM | 53k coins | +11% | +11.6% | Momentum moderado |
+| Harvey Barnes | 86 | Premier League | 50k coins | +4.2% | +10% | Entrada a observar |
 | Michael Duffy | 84 | SSE Airtricity PD | 49k coins | +8.3% | +7.7% | Momentum moderado |
-| Sultan Mandash | 93 | — | 18.750 coins | +26.5% | +7.5% | Esticada |
+| Gustav Isaksen | 87 | Serie A TIM | 50k coins | +6% | +6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -65,11 +64,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Rubén García (87)** — 27k coins, **+61.2% em 7 dias** (+12.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Armand Laurienté (86)** — 37k coins, **+52% em 7 dias** (+35.7% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Jerzy Dudek (87)** — 48k coins, **+52% em 7 dias** (+18.8% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gabriel Martinelli (87)** — 148k coins, **+42.7% em 7 dias** (+27.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gervinho (85)** — 30k coins, **+42.5% em 7 dias** (+6.1% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Armand Laurienté (86)** — 39k coins, **+42.1% em 7 dias** (+35.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T09:29:54.000Z
+pubDatetime: 2026-07-27T10:13:10.000Z
 title: "Investimentos EA FC: Pontas em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.8% em 24h** e **+13.8% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+14.5% em 24h** e **+13.6% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -45,19 +45,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Malcom | 87 | ROSHN Saudi League | 64k coins | +29.9% | +51.1% | Esticada |
 | Michelle Cooper | 87 | NWSL | 21k coins | +7.7% | +47.4% | Momentum moderado |
-| Iago Aspas | 86 | LALIGA EA SPORTS | 55k coins | +9.4% | +33.1% | Momentum moderado |
+| Iago Aspas | 86 | LALIGA EA SPORTS | 49k coins | +9.4% | +33.1% | Momentum moderado |
 | Yan Diomande | 84 | Bundesliga | 55k coins | +1.9% | +30.2% | Momentum moderado |
-| Mika Godts | 93 | — | 27k coins | +26.7% | +28.1% | Esticada |
-| Matteo Politano | 87 | — | 45k coins | +23.3% | +20.8% | Esticada |
+| Mika Godts | 93 | — | 28k coins | +26.7% | +26.7% | Esticada |
+| Olivia Smith | 86 | Barclays WSL | 53k coins | +32.5% | +17.8% | Esticada |
 | David Neres | 86 | Serie A TIM | 75k coins | +14.5% | +15.4% | Momentum moderado |
-| William Gomes | 84 | Liga Portugal | 43k coins | +8.1% | +13.8% | Momentum moderado |
-| Harry Kewell | 87 | Premier League | 25k coins | +26.4% | +13.6% | Esticada |
-| Athenea | 86 | Liga F | 45k coins | +15.5% | +12.6% | Momentum moderado |
-| Claudiu Petrila | 86 | SUPERLIGA | 55k coins | +29.2% | +12.4% | Esticada |
-| Jérémy Doku | 84 | Premier League | 64k coins | +1.6% | +12.2% | Entrada a observar |
-| Gustav Isaksen | 87 | Serie A TIM | 52k coins | +35.1% | +11.8% | Esticada |
-| Olivia Smith | 86 | Barclays WSL | 53k coins | +32.5% | +10.4% | Esticada |
+| Harry Kewell | 87 | Premier League | 16.750 coins | +26.4% | +13.6% | Esticada |
+| William Gomes | 84 | Liga Portugal | 38k coins | +8.1% | +13.1% | Momentum moderado |
+| Claudiu Petrila | 86 | SUPERLIGA | 50k coins | +29.2% | +12.4% | Esticada |
+| Jérémy Doku | 84 | Premier League | 63k coins | +1.6% | +12.2% | Entrada a observar |
+| Gustav Isaksen | 87 | Serie A TIM | 52k coins | +35.1% | +10.6% | Esticada |
+| Athenea | 86 | Liga F | 42k coins | +12.9% | +10.1% | Momentum moderado |
 | Afonso Moreira | 84 | Ligue 1 McDonald's | 44k coins | +15.8% | +10% | Momentum moderado |
+| Matteo Politano | 87 | — | 42k coins | +11.6% | +9.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -66,11 +66,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Michelle Cooper (87)** — 21k coins, **+47.4% em 7 dias** (+7.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iago Aspas (86)** — 55k coins, **+33.1% em 7 dias** (+9.4% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iago Aspas (86)** — 49k coins, **+33.1% em 7 dias** (+9.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Yan Diomande (84)** — 55k coins, **+30.2% em 7 dias** (+1.9% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mika Godts (93)** — 27k coins, **+28.1% em 7 dias** (+26.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mika Godts (93)** — 28k coins, **+26.7% em 7 dias** (+26.7% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
