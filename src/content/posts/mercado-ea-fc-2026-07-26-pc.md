@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:13:18.000Z
+pubDatetime: 2026-07-27T01:13:18.000Z
 title: "Mercado EA FC em 26/07: Pontas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Wilson Odobert (87, Premier League), com +60% em 24h, a 34k coins no PC."
+    a: "Tabitha Chawinga (97, sem liga), com +56% em 24h, a 138k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Gareth Bale (88), -42.9% em 24h, a 397k coins."
+    a: "Antony (86), -45.8% em 24h, a 47k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 82 cartas em alta contra 59 em queda (média 7.5%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 90 cartas em alta contra 62 em queda (média 10.04%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **26/07/2026** no PC com mercado **em alta** — predominam as valorizações: **82 cartas subiram** e **59 caíram** (80+ acima de 5k coins), variação média de **7.5%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **26/07/2026** no PC com mercado **em alta** — predominam as valorizações: **90 cartas subiram** e **62 caíram** (80+ acima de 5k coins), variação média de **10.04%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Wilson Odobert (87) **+60%** · 🔴 **Maior baixa:** Gareth Bale (88) **-42.9%**
+> 🟢 **Maior alta:** Tabitha Chawinga (97) **+56%** · 🔴 **Maior baixa:** Antony (86) **-45.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Pontas — PC](/charts/mercado-ea-fc-2026-07-26-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **26/07/2026** no PC com mercado **em alta** — pre
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 58.2% entre as cartas que se moveram; o universo observado reúne 181 cartas.
-- **Concentração:** Liga F aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 59.2% entre as cartas que se moveram; o universo observado reúne 195 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Wilson Odobert | 87 | Premier League | 34k coins | +60% | +19.3% |
-| Mohamed Salah | 92 | Premier League | 257k coins | +60% | -7.7% |
-| Said El Mala | 90 | — | 30k coins | +42.9% | -38.2% |
-| Garrincha | 92 | Icons | 165k coins | +41% | +4.4% |
-| Claudia Pina | 88 | Liga F | 196k coins | +35% | 0% |
-| Bukayo Saka | 90 | Premier League | 1.20M coins | +34.7% | +10.2% |
-| Tabitha Chawinga | 97 | — | 185k coins | +32.1% | -46.5% |
-| Antonio Di Natale | 89 | Serie A TIM | 285k coins | +31.9% | -9.5% |
-| Debinha | 89 | NWSL | 177k coins | +27.9% | — |
-| Claudia Pina | 95 | Liga F | 548k coins | +27.3% | -25.3% |
+| Tabitha Chawinga | 97 | — | 138k coins | +56% | -46.6% |
+| Jeremie Frimpong | 86 | Premier League | 169k coins | +53.6% | +8.3% |
+| Gervinho | 85 | Serie A TIM | 28k coins | +52.8% | +27.9% |
+| Pernille Harder | 87 | Liga F | 58k coins | +48.1% | +44.4% |
+| Claudia Pina | 88 | Liga F | 279k coins | +39.5% | +3.3% |
+| Saeed Al Owairan | 85 | ROSHN Saudi League | 58k coins | +32.2% | -10% |
+| Lamine Yamal | 92 | LALIGA EA SPORTS | 580k coins | +30% | -51.7% |
+| Rafael Leão | 87 | Serie A TIM | 605k coins | +28.7% | -31.9% |
+| Bukayo Saka | 98 | — | 1.48M coins | +27.9% | -27.3% |
+| Jens Petter Hauge | 88 | Eliteserien | 153k coins | +27.5% | +35.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **26/07/2026** no PC com mercado **em alta** — pre
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Wilson Odobert (87)** subiu **+60%** em 24h, a **34k coins** (faixa do dia: 12.000–46k). Está em linha com a média de 7 dias (+3%).
+- **Tabitha Chawinga (97)** subiu **+56%** em 24h, a **138k coins** (faixa do dia: 100k–225k). Está -47% abaixo da média de 7 dias (descontada).
 
-- **Mohamed Salah (92)** subiu **+60%** em 24h, a **257k coins** (faixa do dia: 135k–260k). Está em linha com a média de 7 dias (+8%).
+- **Jeremie Frimpong (86)** subiu **+53.6%** em 24h, a **169k coins** (faixa do dia: 80k–179k). Está em linha com a média de 7 dias (+4%).
 
-- **Said El Mala (90)** subiu **+42.9%** em 24h, a **30k coins** (faixa do dia: 14.500–32k). Está -32% abaixo da média de 7 dias (descontada).
+- **Gervinho (85)** subiu **+52.8%** em 24h, a **28k coins** (faixa do dia: 15.750–30k). Está +33% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gareth Bale | 88 | Icons | 397k coins | -42.9% | -66.4% |
-| Nico Williams | 93 | LALIGA EA SPORTS | 260k coins | -39.1% | -49.6% |
-| Juan Iturbe | 85 | Libertadores | 31k coins | -34.6% | -38.1% |
-| Noa Lang | 91 | Trendyol Süper Lig | 26k coins | -33.2% | -43.5% |
-| Salma Paralluelo | 93 | Liga F | 1.20M coins | -27.5% | -47.8% |
-| Linda Caicedo | 87 | Liga F | 44k coins | -25.8% | -13.4% |
-| Caroline Graham Hansen | 96 | — | 200k coins | -23.6% | -67.2% |
-| Tabitha Chawinga | 86 | D1 Arkema | 47k coins | -22.8% | -56.8% |
-| Rivaldo | 91 | Icons | 60k coins | -21.7% | -28.8% |
-| Ronaldinho | 95 | — | 1.60M coins | -20% | -37.4% |
+| Antony | 86 | LALIGA EA SPORTS | 47k coins | -45.8% | -27.4% |
+| Gustav Isaksen | 87 | Serie A TIM | 38k coins | -44.6% | -23.5% |
+| Jens Petter Hauge | 91 | Eliteserien | 36k coins | -41.6% | -34.1% |
+| Mikel Gogorza | 86 | 3F Superliga | 39k coins | -40.5% | -58.5% |
+| Raphinha | 91 | LALIGA EA SPORTS | 88k coins | -40.1% | -37.1% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 260k coins | -32.2% | -52.3% |
+| Olivia Smith | 86 | Barclays WSL | 65k coins | -30% | +15.5% |
+| Kim Seung Sub | 90 | — | 22k coins | -28.6% | -41.7% |
+| Caroline Graham Hansen | 96 | — | 193k coins | -28% | -69.4% |
+| Tabitha Chawinga | 86 | D1 Arkema | 43k coins | -25.6% | -59.8% |
 
 
 ### Análise das baixas
 
-- **Gareth Bale (88)** caiu **-42.9%** em 24h, a **397k coins** (faixa do dia: 397k–864k). Está -57% abaixo da média de 7 dias (descontada).
+- **Antony (86)** caiu **-45.8%** em 24h, a **47k coins** (faixa do dia: 44k–85k). Está -44% abaixo da média de 7 dias (descontada).
 
-- **Nico Williams (93)** caiu **-39.1%** em 24h, a **260k coins** (faixa do dia: 260k–500k). Está -46% abaixo da média de 7 dias (descontada).
+- **Gustav Isaksen (87)** caiu **-44.6%** em 24h, a **38k coins** (faixa do dia: 36k–76k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Juan Iturbe (85)** caiu **-34.6%** em 24h, a **31k coins** (faixa do dia: 31k–48k). Está em linha com a média de 7 dias (-5%).
+- **Jens Petter Hauge (91)** caiu **-41.6%** em 24h, a **36k coins** (faixa do dia: 32k–88k). Está -39% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Wilson Odobert já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Tabitha Chawinga já avançou 56% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Gareth Bale recuou -42.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Antony recuou -45.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Wilson Odobert (87, Premier League), com +60% em 24h, a 34k coins no PC.
+Tabitha Chawinga (97, sem liga), com +56% em 24h, a 138k coins no PC.
 
 **E a maior queda do dia?**
-Gareth Bale (88), -42.9% em 24h, a 397k coins.
+Antony (86), -45.8% em 24h, a 47k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 82 cartas em alta contra 59 em queda (média 7.5%).
+Hoje o mercado está em alta — predominam as valorizações, com 90 cartas em alta contra 62 em queda (média 10.04%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

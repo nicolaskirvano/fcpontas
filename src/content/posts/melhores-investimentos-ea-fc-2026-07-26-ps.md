@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:13:10.000Z
+pubDatetime: 2026-07-27T01:13:10.000Z
 title: "Investimentos EA FC: Pontas em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Pernille Harder (87, Liga F) lidera, com +43.1% em 7 dias a 49k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Michelle Cooper (87, NWSL) lidera, com +70.7% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Pernille Harder (87) acumula **+43.1% em 7 dias** a 49k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Michelle Cooper (87) acumula **+70.7% em 7 dias** a 25k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.8% em 24h** e **+16.0% em 7 dias**.
-- **2 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.1% em 24h** e **+20.1% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pernille Harder | 87 | Liga F | 49k coins | +8.4% | +43.1% | Momentum moderado |
-| Yan Diomande | 84 | Bundesliga | 55k coins | +27.9% | +31% | Esticada |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 38k coins | +20.3% | +21.8% | Esticada |
-| Harvey Barnes | 86 | Premier League | 40k coins | +3.5% | +17.3% | Entrada a observar |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 50k coins | +8.4% | +16% | Momentum moderado |
-| Athenea | 86 | Liga F | 40k coins | +10.3% | +13.9% | Momentum moderado |
-| Afonso Moreira | 84 | Ligue 1 McDonald's | 38k coins | +11.1% | +13.2% | Momentum moderado |
-| Bilal El Khannouss | 92 | — | 16.750 coins | +11.7% | +6.3% | Momentum moderado |
-| Edmilson Junior | 92 | — | 18.250 coins | +10.8% | +5.9% | Momentum moderado |
+| Michelle Cooper | 87 | NWSL | 25k coins | +23.8% | +70.7% | Esticada |
+| Pernille Harder | 87 | Liga F | 49k coins | +11.7% | +38.9% | Momentum moderado |
+| Wesley Saïd | 86 | Ligue 1 McDonald's | 49k coins | +27.3% | +36.1% | Esticada |
+| Rodrigo Zalazar | 84 | Liga Portugal | 48k coins | +13.1% | +30.1% | Momentum moderado |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 65k coins | +2.6% | +28.3% | Momentum moderado |
+| Gervinho | 85 | Serie A TIM | 17.500 coins | +29.1% | +24.6% | Esticada |
+| Claudiu Petrila | 86 | SUPERLIGA | 50k coins | +10.6% | +21.3% | Momentum moderado |
+| Matteo Politano | 87 | — | 42k coins | +14% | +20.1% | Momentum moderado |
+| George Best | 90 | Icons | 235k coins | +33.5% | +19.5% | Esticada |
+| Merveille Kanjinga | 86 | D1 Arkema | 48k coins | +3.3% | +18.9% | Entrada a observar |
+| Harvey Barnes | 86 | Premier League | 44k coins | +4.8% | +17.3% | Entrada a observar |
+| Anthony Gordon | 88 | Premier League | 180k coins | +16.2% | +11.7% | Momentum moderado |
+| Phil Foden | 86 | Premier League | 65k coins | +32% | +10.2% | Esticada |
+| Vini Jr. | 89 | LALIGA EA SPORTS | 17.250 coins | +11.3% | +7.8% | Momentum moderado |
+| Athenea | 86 | Liga F | 46k coins | +3.2% | +6.7% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Pernille Harder (87)** — 49k coins, **+43.1% em 7 dias** (+8.4% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michelle Cooper (87)** — 25k coins, **+70.7% em 7 dias** (+23.8% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yan Diomande (84)** — 55k coins, **+31% em 7 dias** (+27.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pernille Harder (87)** — 49k coins, **+38.9% em 7 dias** (+11.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Santiago Hidalgo (84)** — 38k coins, **+21.8% em 7 dias** (+20.3% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wesley Saïd (86)** — 49k coins, **+36.1% em 7 dias** (+27.3% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harvey Barnes (86)** — 40k coins, **+17.3% em 7 dias** (+3.5% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rodrigo Zalazar (84)** — 48k coins, **+30.1% em 7 dias** (+13.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wesley Saïd (86)** — 50k coins, **+16% em 7 dias** (+8.4% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Santiago Hidalgo (84)** — 65k coins, **+28.3% em 7 dias** (+2.6% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -92,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Pernille Harder (87, Liga F) lidera, com +43.1% em 7 dias a 49k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Michelle Cooper (87, NWSL) lidera, com +70.7% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
