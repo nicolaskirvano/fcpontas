@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T09:22:29.000Z
+pubDatetime: 2026-07-28T10:13:08.000Z
 title: "Mercado EA FC em 28/07: Pontas — Console (PS)"
 draft: false
 featured: true

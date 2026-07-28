@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T09:22:38.000Z
+pubDatetime: 2026-07-28T10:13:17.000Z
 title: "Mercado EA FC em 28/07: Pontas — PC"
 draft: false
 featured: true
