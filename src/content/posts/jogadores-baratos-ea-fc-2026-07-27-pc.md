@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:13:23.000Z
+pubDatetime: 2026-07-28T01:13:19.000Z
 title: "Jogadores baratos EA FC: Pontas em 27/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 27/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/07/2026)?"
-    a: "Oumar Camara (90, sem liga) aparece como melhor custo-benefício, a 13.750 coins no PC."
+    a: "Allan Saint-Maximin (92, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 11.500 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Oumar Camara (90) por apenas 13.750 coins.
+> 💰 **Melhor pechincha:** Allan Saint-Maximin (92) por apenas 11.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Pontas em 27/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-27-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 13.125 coins.
-- **Posição mais frequente:** LW, com 2 cartas.
-- **Faixa real:** 12.500 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 9 opções:** 10.261 coins.
+- **Posição mais frequente:** RW, com 5 cartas.
+- **Faixa real:** 2.000 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,26 +40,33 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Oumar Camara | 90 | LW | — | 13.750 coins | +16.7% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 12.750 coins | +14.9% |
-| Joe Cole | 87 | RW | Premier League | 12.500 coins | +13.6% |
-| Oscar Bobb | 85 | RW | Premier League | 13.500 coins | -11.5% |
+| Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
+| Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
+| Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
+| Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
+| Oumar Camara | 90 | LW | — | 14.250 coins | +11.5% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 13.000 coins | +4.2% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2.000 coins | 0% |
+| Lionel Messi | 86 | RW | MLS | 3.600 coins | +32.1% |
+| Ivan Perišić | 86 | RW | Eredivisie | 14.250 coins | -6.7% |
 
 
 ## 📈 Destaques
 
-- **Oumar Camara (90, LW)** da —, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Vini Jr. (89, LW)** da LALIGA EA SPORTS, a apenas **12.750 coins**
+- **Lauren Hemp (90, LW)** da Barclays WSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Joe Cole (87, RW)** da Premier League, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Oscar Bobb (85, RW)** da Premier League, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mohammed Kudus (90, RW)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Oumar Camara (90, LW)** da —, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Ataque:** Oumar Camara (90, LW) por 13.750 coins é a referência de rating deste recorte.
+- **Ataque:** Allan Saint-Maximin (92, RW) por 11.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -78,7 +85,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/07/2026)?**  
-Oumar Camara (90, sem liga) aparece como melhor custo-benefício, a 13.750 coins no PC.
+Allan Saint-Maximin (92, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 11.500 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -96,6 +103,7 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Pontas em 27/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-27-pc/)
 - [Mercado EA FC em 27/07: Pontas — PC](/posts/mercado-ea-fc-2026-07-27-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

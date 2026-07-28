@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:13:12.000Z
+pubDatetime: 2026-07-28T01:13:10.000Z
 title: "Jogadores baratos EA FC: Pontas em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 9.082 coins.
-- **Posição mais frequente:** RW, com 10 cartas.
-- **Faixa real:** 1.700 a 13.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 14 opções:** 8.800 coins.
+- **Posição mais frequente:** RW, com 9 cartas.
+- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,16 +44,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Lukáš Haraslín | 89 | LW | Česká Liga | 11.250 coins | -11.3% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 1.900 coins | 0% |
-| Oscar Bobb | 88 | RW | Premier League | 11.750 coins | -13% |
-| Naomie Feller | 88 | RW | — | 13.000 coins | -8.8% |
-| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 1.700 coins | +38.5% |
-| Lionel Messi | 86 | RW | MLS | 2.800 coins | +25.9% |
-| Marco Asensio | 85 | RW | Trendyol Süper Lig | 11.750 coins | +4.4% |
-| Oscar Bobb | 85 | RW | Premier League | 12.250 coins | 0% |
-| Madison Haley | 85 | RW | Barclays WSL | 13.250 coins | -9.5% |
-| Athenea | 83 | RW | Liga F | 2.000 coins | -13% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 1.800 coins | -6.2% |
+| Naomie Feller | 88 | RW | — | 14.750 coins | -8.8% |
+| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 2.000 coins | 0% |
+| Rubén García | 87 | RW | LALIGA EA SPORTS | 12.250 coins | +2% |
+| Lionel Messi | 86 | RW | MLS | 3.400 coins | +34.8% |
+| Armand Laurienté | 86 | LW | Serie A TIM | 13.500 coins | +5.7% |
+| Heung Min Son | 85 | LW | Premier League | 1.500 coins | +15.4% |
+| Oscar Bobb | 85 | RW | Premier League | 13.000 coins | -2% |
+| Víctor Ibarbo | 85 | RW | Serie A TIM | 14.000 coins | -4.8% |
+| Athenea | 83 | RW | Liga F | 1.500 coins | -10% |
 
 
 ## 📈 Destaques
@@ -66,7 +66,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lukáš Haraslín (89, LW)** da Česká Liga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **1.800 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
