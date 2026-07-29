@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T13:13:10.000Z
+pubDatetime: 2026-07-29T16:13:12.000Z
 title: "Jogadores baratos EA FC: Pontas em 29/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 8.800 coins.
+- **Preço médio das 12 opções:** 11.367 coins.
 - **Posição mais frequente:** RW, com 9 cartas.
-- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.400 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,18 +42,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
+| Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 14.000 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 1.800 coins | -6.2% |
-| Naomie Feller | 88 | RW | — | 14.750 coins | -8.8% |
-| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 2.000 coins | 0% |
-| Rubén García | 87 | RW | LALIGA EA SPORTS | 12.250 coins | +2% |
-| Lionel Messi | 86 | RW | MLS | 3.400 coins | +34.8% |
-| Armand Laurienté | 86 | LW | Serie A TIM | 13.500 coins | +5.7% |
-| Heung Min Son | 85 | LW | Premier League | 1.500 coins | +15.4% |
-| Oscar Bobb | 85 | RW | Premier League | 13.000 coins | -2% |
-| Víctor Ibarbo | 85 | RW | Serie A TIM | 14.000 coins | -4.8% |
-| Athenea | 83 | RW | Liga F | 1.500 coins | -10% |
+| Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
+| Oscar Bobb | 88 | RW | Premier League | 13.750 coins | -1.8% |
+| Joe Cole | 87 | RW | Premier League | 12.000 coins | 0% |
+| Lionel Messi | 86 | RW | MLS | 3.400 coins | +13.3% |
+| Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | +2% |
+| Marco Asensio | 85 | RW | Trendyol Süper Lig | 11.750 coins | +4.2% |
+| Madison Haley | 85 | RW | Barclays WSL | 13.250 coins | +15.2% |
 
 
 ## 📈 Destaques
@@ -62,11 +60,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Kadidiatou Diani (91, RW)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Khvicha Kvaratskhelia (91, LW)** da Ligue 1 McDonald's, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Lauren Hemp (90, LW)** da Barclays WSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **1.800 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca

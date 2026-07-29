@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T13:13:08.000Z
+pubDatetime: 2026-07-29T16:13:09.000Z
 title: "Mercado EA FC em 29/07: Pontas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 29/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Garrincha (92, Icons), com +45% em 24h, a 136k coins no Console (PS)."
+    a: "Athenea (86, Liga F), com +35.9% em 24h, a 35k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Heung Min Son (88), -46.9% em 24h, a 30k coins."
+    a: "Vini Jr. (92), -42.3% em 24h, a 397k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 94 cartas em alta contra 59 em queda (média 5.35%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 58 cartas em alta contra 36 em queda (média 3.69%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **94 subiram** e **59 caíram**, com variação média de **5.35%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **58 subiram** e **36 caíram**, com variação média de **3.69%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Garrincha (92) **+45%** · 🔴 **Maior baixa:** Heung Min Son (88) **-46.9%**
+> 🟢 **Maior alta:** Athenea (86) **+35.9%** · 🔴 **Maior baixa:** Vini Jr. (92) **-42.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Pontas — Console (PS)](/charts/mercado-ea-fc-2026-07-29-ps.svg)
 
@@ -35,24 +35,24 @@ Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 91.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 61.4% entre as cartas que se moveram; o universo observado reúne 182 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 78.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 61.7% entre as cartas que se moveram; o universo observado reúne 126 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Garrincha | 92 | Icons | 136k coins | +45% | -23.9% |
-| Alejandro Garnacho | 89 | Premier League | 349k coins | +39.6% | +111.5% |
-| Esmir Bajraktarević | 91 | — | 381k coins | +37.4% | +2.4% |
-| Noa Lang | 91 | Trendyol Süper Lig | 30k coins | +35% | -32.5% |
-| Mohamed Salah | 92 | Premier League | 185k coins | +34.8% | -29.6% |
-| Jairzinho | 94 | Icons | 331k coins | +33.7% | -29.4% |
-| Quaresma | 89 | Liga Portugal | 226k coins | +33.3% | -15% |
-| Bradley Barcola | 92 | — | 52k coins | +32.5% | -20.3% |
-| George Best | 91 | Icons | 279k coins | +32.1% | -5.1% |
-| Linda Caicedo | 87 | Liga F | 29k coins | +30.7% | -14.2% |
+| Athenea | 86 | Liga F | 35k coins | +35.9% | +0.7% |
+| Wilson Odobert | 87 | Premier League | 29k coins | +31.8% | +1.8% |
+| Julian Quiñones | 96 | — | 20k coins | +17.1% | +54.7% |
+| Sultan Mandash | 93 | — | 22k coins | +14.3% | +18.9% |
+| Lamine Yamal | 92 | LALIGA EA SPORTS | 400k coins | +14% | -24% |
+| Florian Thauvin | 83 | Ligue 1 McDonald's | 65k coins | +13% | +27.5% |
+| Mary Fowler | 87 | Barclays Women’s Super League | 22k coins | +12.7% | -28.2% |
+| Bukayo Saka | 98 | — | 1.37M coins | +10.9% | +28.5% |
+| Harvey Barnes | 84 | Premier League | 50k coins | +10.6% | +10.6% |
+| Harvey Barnes | 86 | Premier League | 48k coins | +10.5% | +19.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Garrincha (92)** subiu **+45%** em 24h, a **136k coins** (faixa do dia: 84k–137k). Está em linha com a média de 7 dias (+1%).
+- **Athenea (86)** subiu **+35.9%** em 24h, a **35k coins** (faixa do dia: 35k–35k). Está +36% acima da média de 7 dias (aquecida).
 
-- **Alejandro Garnacho (89)** subiu **+39.6%** em 24h, a **349k coins** (faixa do dia: 197k–349k). Está +42% acima da média de 7 dias (aquecida).
+- **Wilson Odobert (87)** subiu **+31.8%** em 24h, a **29k coins** (faixa do dia: 25k–29k). Está em linha com a média de 7 dias (+4%).
 
-- **Esmir Bajraktarević (91)** subiu **+37.4%** em 24h, a **381k coins** (faixa do dia: 275k–392k). Está +12% acima da média de 7 dias (aquecida).
+- **Julian Quiñones (96)** subiu **+17.1%** em 24h, a **20k coins** (faixa do dia: 19.250–20k). Está +34% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Heung Min Son | 88 | MLS | 30k coins | -46.9% | -94.6% |
-| Quaresma | 85 | Liga Portugal | 80k coins | -41.1% | -17% |
-| Raphinha | 91 | LALIGA EA SPORTS | 61k coins | -38.9% | -37.6% |
-| George Best | 90 | Icons | 167k coins | -34.6% | +3.3% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 768k coins | -34.2% | -5.3% |
-| Rayan Cherki | 87 | Premier League | 23k coins | -31.1% | -61.1% |
-| Anass Zaroury | 86 | Hellas Liga | 23k coins | -29.1% | -30.1% |
-| Debinha | 89 | NWSL | 127k coins | -24% | -38% |
-| Quaresma | 88 | Trendyol Süper Lig | 181k coins | -22.1% | -23.8% |
-| Mikel Gogorza | 86 | 3F Superliga | 33k coins | -21.3% | -32.1% |
+| Vini Jr. | 92 | LALIGA EA SPORTS | 397k coins | -42.3% | -17.3% |
+| Jérémy Doku | 86 | Premier League | 161k coins | -14.4% | -26.8% |
+| Bradley Barcola | 97 | — | 423k coins | -10.9% | +5% |
+| Jadon Sancho | 96 | — | 272k coins | -8.7% | +2.6% |
+| Michael Duffy | 84 | SSE Airtricity PD | 45k coins | -5.3% | +16.1% |
+| Lionel Messi | 88 | MLS | 220k coins | -4.3% | +10% |
+| Luís Figo | 89 | Icons | 68k coins | -4.3% | -6.2% |
+| Gareth Bale | 95 | — | 350k coins | -4.1% | +11.2% |
+| Kim Seung Sub | 90 | — | 25k coins | -3.8% | -56.5% |
+| Vini Jr. | 98 | — | 800k coins | -3.6% | +11.9% |
 
 
 ### Análise das baixas
 
-- **Heung Min Son (88)** caiu **-46.9%** em 24h, a **30k coins** (faixa do dia: 30k–56k). Está -88% abaixo da média de 7 dias (descontada).
+- **Vini Jr. (92)** caiu **-42.3%** em 24h, a **397k coins** (faixa do dia: 370k–429k). Está em linha com a média de 7 dias (-7%).
 
-- **Quaresma (85)** caiu **-41.1%** em 24h, a **80k coins** (faixa do dia: 68k–148k). Está -10% abaixo da média de 7 dias (descontada).
+- **Jérémy Doku (86)** caiu **-14.4%** em 24h, a **161k coins** (faixa do dia: 161k–178k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Raphinha (91)** caiu **-38.9%** em 24h, a **61k coins** (faixa do dia: 55k–94k). Está -34% abaixo da média de 7 dias (descontada).
+- **Bradley Barcola (97)** caiu **-10.9%** em 24h, a **423k coins** (faixa do dia: 423k–475k). Está em linha com a média de 7 dias (+5%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Garrincha já avançou 45% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Athenea já avançou 35.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Heung Min Son recuou -46.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Vini Jr. recuou -42.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Garrincha (92, Icons), com +45% em 24h, a 136k coins no Console (PS).
+Athenea (86, Liga F), com +35.9% em 24h, a 35k coins no Console (PS).
 
 **E a maior queda do dia?**
-Heung Min Son (88), -46.9% em 24h, a 30k coins.
+Vini Jr. (92), -42.3% em 24h, a 397k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 94 cartas em alta contra 59 em queda (média 5.35%).
+Hoje o mercado está em alta — predominam as valorizações, com 58 cartas em alta contra 36 em queda (média 3.69%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
