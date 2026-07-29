@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T09:29:00.000Z
+pubDatetime: 2026-07-29T10:13:18.000Z
 title: "Investimentos EA FC: Pontas em 29/07 — PC"
 draft: false
 featured: true

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T09:28:51.000Z
+pubDatetime: 2026-07-29T10:13:09.000Z
 title: "Investimentos EA FC: Pontas em 29/07 — Console (PS)"
 draft: false
 featured: true
