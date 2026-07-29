@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T16:13:11.000Z
+pubDatetime: 2026-07-29T19:13:10.000Z
 title: "Investimentos EA FC: Pontas em 29/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **29/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.1% em 24h** e **+20.5% em 7 dias**.
-- **1 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+11.1% em 24h** e **+21.5% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Yan Diomande | 92 | — | 45k coins | +9.8% | +87.5% | Esticada |
-| Julian Quiñones | 96 | — | 20k coins | +17.1% | +54.7% | Momentum moderado |
-| Jeremie Frimpong | 86 | Premier League | 90k coins | +2.3% | +38.8% | Momentum moderado |
-| Denis Bouanga | 86 | — | 44k coins | +2.2% | +31.4% | Momentum moderado |
-| Jerzy Dudek | 87 | Premier League | 59k coins | +13% | +30% | Momentum moderado |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 48k coins | +2.1% | +27.2% | Momentum moderado |
-| Florian Thauvin | 87 | Ligue 1 McDonald's | 52k coins | +4% | +26.8% | Momentum moderado |
-| Iago Aspas | 86 | LALIGA EA SPORTS | 47k coins | +4.4% | +20.5% | Entrada a observar |
-| Harvey Barnes | 86 | Premier League | 48k coins | +10.5% | +19.5% | Momentum moderado |
-| Sultan Mandash | 93 | — | 22k coins | +14.3% | +18.9% | Momentum moderado |
-| Merveille Kanjinga | 86 | D1 Arkema | 45k coins | +2.3% | +13.2% | Entrada a observar |
-| Harvey Barnes | 84 | Premier League | 50k coins | +10.6% | +10.6% | Momentum moderado |
-| Anders Dreyer | 94 | — | 24k coins | +11.8% | +8% | Momentum moderado |
-| Ernest Muçi | 92 | — | 24k coins | +9.1% | +7.9% | Momentum moderado |
-| Quaresma | 89 | Liga Portugal | 240k coins | +6.2% | +7.6% | Momentum moderado |
+| Anis Hadj-Moussa | 86 | Eredivisie | 114k coins | +30.7% | +67.9% | Esticada |
+| Julian Quiñones | 96 | — | 22k coins | +24.3% | +67.3% | Esticada |
+| Jeremie Frimpong | 86 | Premier League | 70k coins | +1.1% | +47.5% | Momentum moderado |
+| Matteo Politano | 87 | — | 48k coins | +6.7% | +32.4% | Momentum moderado |
+| Merveille Kanjinga | 86 | D1 Arkema | 42k coins | +9.1% | +29.7% | Momentum moderado |
+| Cody Gakpo | 86 | Premier League | 48k coins | +8.9% | +24.1% | Momentum moderado |
+| Paulo Futre | 88 | LALIGA EA SPORTS | 18.500 coins | +12.9% | +21.5% | Momentum moderado |
+| Alex Pfeiffer | 90 | NWSL | 112k coins | +13.5% | +21.1% | Momentum moderado |
+| Harvey Barnes | 86 | Premier League | 45k coins | +4.7% | +20% | Entrada a observar |
+| Anders Dreyer | 94 | — | 24k coins | +15.3% | +11.4% | Momentum moderado |
+| Harvey Barnes | 84 | Premier League | 50k coins | +11.1% | +11.1% | Momentum moderado |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 68k coins | +35.5% | +10.7% | Esticada |
+| Zlatko Tripić | 96 | — | 23k coins | +28% | +9.1% | Esticada |
+| Ernest Muçi | 92 | — | 23k coins | +9.1% | +9.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Yan Diomande (92)** — 45k coins, **+87.5% em 7 dias** (+9.8% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yan Diomande (92)** — 45k coins, **+87.5% em 7 dias** (+9.8% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julian Quiñones (96)** — 20k coins, **+54.7% em 7 dias** (+17.1% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Anis Hadj-Moussa (86)** — 114k coins, **+67.9% em 7 dias** (+30.7% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jeremie Frimpong (86)** — 90k coins, **+38.8% em 7 dias** (+2.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julian Quiñones (96)** — 22k coins, **+67.3% em 7 dias** (+24.3% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Denis Bouanga (86)** — 44k coins, **+31.4% em 7 dias** (+2.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jeremie Frimpong (86)** — 70k coins, **+47.5% em 7 dias** (+1.1% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jerzy Dudek (87)** — 59k coins, **+30% em 7 dias** (+13% em 24h). Preço +65% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matteo Politano (87)** — 48k coins, **+32.4% em 7 dias** (+6.7% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

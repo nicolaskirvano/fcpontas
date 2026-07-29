@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T16:13:22.000Z
+pubDatetime: 2026-07-29T19:13:22.000Z
 title: "Jogadores baratos EA FC: Pontas em 29/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 9.958 coins.
-- **Posição mais frequente:** RW, com 9 cartas.
-- **Faixa real:** 1.500 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 8.855 coins.
+- **Posição mais frequente:** RW, com 6 cartas.
+- **Faixa real:** 1.500 a 12.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -47,11 +47,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
 | Joe Cole | 88 | RW | Premier League | 12.750 coins | 0% |
-| Oscar Bobb | 88 | RW | Premier League | 14.250 coins | 0% |
-| Joe Cole | 87 | RW | Premier League | 12.500 coins | 0% |
-| Temwa Chawinga | 86 | LW | NWSL | 2.200 coins | 0% |
-| Lionel Messi | 86 | RW | MLS | 4.000 coins | +8.1% |
-| Ivan Perišić | 86 | RW | Eredivisie | 14.000 coins | -1.8% |
+| Joe Cole | 87 | RW | Premier League | 11.000 coins | -4% |
+| Claudia Pina | 86 | LW | Liga F | 2.100 coins | +41.7% |
+| Lineth Beerensteyn | 84 | LW | GPFBL | 1.800 coins | +33.3% |
 | Athenea | 83 | RW | Liga F | 1.500 coins | 0% |
 
 

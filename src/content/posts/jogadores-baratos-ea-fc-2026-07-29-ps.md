@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T16:13:12.000Z
+pubDatetime: 2026-07-29T19:13:11.000Z
 title: "Jogadores baratos EA FC: Pontas em 29/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 11.367 coins.
-- **Posição mais frequente:** RW, com 9 cartas.
-- **Faixa real:** 3.400 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 11.932 coins.
+- **Posição mais frequente:** RW, com 7 cartas.
+- **Faixa real:** 11.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,12 +46,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
-| Oscar Bobb | 88 | RW | Premier League | 13.750 coins | -1.8% |
-| Joe Cole | 87 | RW | Premier League | 12.000 coins | 0% |
-| Lionel Messi | 86 | RW | MLS | 3.400 coins | +13.3% |
-| Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | +2% |
-| Marco Asensio | 85 | RW | Trendyol Süper Lig | 11.750 coins | +4.2% |
-| Madison Haley | 85 | RW | Barclays WSL | 13.250 coins | +15.2% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 11.000 coins | +11.1% |
+| Oscar Bobb | 88 | RW | Premier League | 12.000 coins | -8.9% |
+| Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | -9.8% |
+| Madison Haley | 85 | RW | Barclays WSL | 13.000 coins | +13% |
+| Oscar Bobb | 85 | RW | Premier League | 13.000 coins | 0% |
 
 
 ## 📈 Destaques
