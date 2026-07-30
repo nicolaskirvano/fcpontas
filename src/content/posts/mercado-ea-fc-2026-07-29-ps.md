@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:13:08.000Z
+pubDatetime: 2026-07-30T01:13:07.000Z
 title: "Mercado EA FC em 29/07: Pontas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 29/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Gabriel Martinelli (87, Premier League), com +56.8% em 24h, a 75k coins no Console (PS)."
+    a: "Lee Kang In (95, sem liga), com +56% em 24h, a 72k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Juan Iturbe (85), -46.5% em 24h, a 23k coins."
+    a: "Juan Iturbe (85), -48.2% em 24h, a 23k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 90 cartas em alta contra 64 em queda (média 7.13%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 88 cartas em alta contra 57 em queda (média 7.27%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **90 subiram** e **64 caíram**, com variação média de **7.13%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **88 subiram** e **57 caíram**, com variação média de **7.27%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Gabriel Martinelli (87) **+56.8%** · 🔴 **Maior baixa:** Juan Iturbe (85) **-46.5%**
+> 🟢 **Maior alta:** Lee Kang In (95) **+56%** · 🔴 **Maior baixa:** Juan Iturbe (85) **-48.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Pontas — Console (PS)](/charts/mercado-ea-fc-2026-07-29-ps.svg)
 
@@ -35,24 +35,24 @@ Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 58.4% entre as cartas que se moveram; o universo observado reúne 190 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 104.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 60.7% entre as cartas que se moveram; o universo observado reúne 178 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gabriel Martinelli | 87 | Premier League | 75k coins | +56.8% | +45% |
-| Athenea | 86 | Liga F | 38k coins | +46.6% | +14.4% |
-| Rayan Cherki | 93 | — | 25k coins | +46.5% | -14% |
-| Oumar Camara | 90 | — | 20k coins | +45.5% | -63.6% |
-| Reyes Cleary | 90 | — | 25k coins | +39.5% | -55.8% |
-| Caroline Graham Hansen | 96 | — | 155k coins | +39.3% | -41.4% |
-| John Barnes | 93 | — | 21k coins | +37.7% | +31.2% |
-| Jérémy Doku | 86 | Premier League | 257k coins | +36.7% | +17.4% |
-| Nico Williams | 93 | LALIGA EA SPORTS | 266k coins | +35.8% | -6.9% |
-| Gareth Bale | 94 | Icons | 3.60M coins | +35.4% | +10.7% |
+| Lee Kang In | 95 | — | 72k coins | +56% | -18.1% |
+| Jairzinho | 94 | Icons | 398k coins | +55.6% | +4.4% |
+| Ousmane Dembélé | 96 | — | 1.20M coins | +47.3% | +79.4% |
+| Caroline Graham Hansen | 90 | Liga F | 33k coins | +47.3% | -10.1% |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 48k coins | +47.2% | -51.2% |
+| Timo Werner | 87 | Bundesliga | 25k coins | +40.5% | -45.5% |
+| Bartosz Nowak | 93 | — | 26k coins | +37.3% | +14.4% |
+| Reyes Cleary | 90 | — | 22k coins | +36.8% | -56.7% |
+| Gabriel Martinelli | 87 | Premier League | 65k coins | +35.1% | +7.9% |
+| Aoba Fujino | 91 | — | 22k coins | +34.4% | -60.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Gabriel Martinelli (87)** subiu **+56.8%** em 24h, a **75k coins** (faixa do dia: 56k–114k). Está em linha com a média de 7 dias (+4%).
+- **Lee Kang In (95)** subiu **+56%** em 24h, a **72k coins** (faixa do dia: 48k–90k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Athenea (86)** subiu **+46.6%** em 24h, a **38k coins** (faixa do dia: 35k–39k). Está +45% acima da média de 7 dias (aquecida).
+- **Jairzinho (94)** subiu **+55.6%** em 24h, a **398k coins** (faixa do dia: 275k–428k). Está +17% acima da média de 7 dias (aquecida).
 
-- **Rayan Cherki (93)** subiu **+46.5%** em 24h, a **25k coins** (faixa do dia: 17.750–26k). Está em linha com a média de 7 dias (+4%).
+- **Ousmane Dembélé (96)** subiu **+47.3%** em 24h, a **1.20M coins** (faixa do dia: 950k–1.40M). Está +27% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Juan Iturbe | 85 | Libertadores | 23k coins | -46.5% | -21.6% |
-| Antoine Semenyo | 91 | Premier League | 112k coins | -40.5% | -33.8% |
-| Bradley Barcola | 87 | Ligue 1 McDonald's | 105k coins | -35.5% | -25.4% |
-| Mohamed Salah | 92 | Premier League | 184k coins | -35% | -36.6% |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 48k coins | -26.2% | +9.1% |
-| Garrincha | 92 | Icons | 107k coins | -18.8% | -25.5% |
-| George Best | 91 | Icons | 233k coins | -14.3% | -1.2% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 710k coins | -13.1% | -23% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 670k coins | -12.8% | -18.5% |
-| Matthis Abline | 81 | Ligue 1 McDonald's | 45k coins | -10.5% | 0% |
+| Juan Iturbe | 85 | Libertadores | 23k coins | -48.2% | -25.4% |
+| Alejandro Garnacho | 89 | Premier League | 205k coins | -41% | +3% |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 55k coins | -31.2% | +1.7% |
+| Bradley Barcola | 87 | Ligue 1 McDonald's | 112k coins | -27.7% | -15.8% |
+| Vini Jr. | 92 | LALIGA EA SPORTS | 349k coins | -23.6% | -6% |
+| George Best | 90 | Icons | 133k coins | -23.6% | -14.3% |
+| Antony | 86 | LALIGA EA SPORTS | 49k coins | -21.2% | -16.4% |
+| Jerzy Dudek | 87 | Premier League | 38k coins | -17.9% | -5.6% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 636k coins | -17.3% | -17.4% |
+| Tabitha Chawinga | 86 | D1 Arkema | 59k coins | -15% | +45.1% |
 
 
 ### Análise das baixas
 
-- **Juan Iturbe (85)** caiu **-46.5%** em 24h, a **23k coins** (faixa do dia: 23k–42k). Está -31% abaixo da média de 7 dias (descontada).
+- **Juan Iturbe (85)** caiu **-48.2%** em 24h, a **23k coins** (faixa do dia: 22k–42k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Antoine Semenyo (91)** caiu **-40.5%** em 24h, a **112k coins** (faixa do dia: 83k–168k). Está em linha com a média de 7 dias (-7%).
+- **Alejandro Garnacho (89)** caiu **-41%** em 24h, a **205k coins** (faixa do dia: 180k–349k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Bradley Barcola (87)** caiu **-35.5%** em 24h, a **105k coins** (faixa do dia: 100k–155k). Está -17% abaixo da média de 7 dias (descontada).
+- **Santiago Hidalgo (84)** caiu **-31.2%** em 24h, a **55k coins** (faixa do dia: 41k–65k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Gabriel Martinelli já avançou 56.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lee Kang In já avançou 56% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Juan Iturbe recuou -46.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Juan Iturbe recuou -48.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Gabriel Martinelli (87, Premier League), com +56.8% em 24h, a 75k coins no Console (PS).
+Lee Kang In (95, sem liga), com +56% em 24h, a 72k coins no Console (PS).
 
 **E a maior queda do dia?**
-Juan Iturbe (85), -46.5% em 24h, a 23k coins.
+Juan Iturbe (85), -48.2% em 24h, a 23k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 90 cartas em alta contra 64 em queda (média 7.13%).
+Hoje o mercado está em alta — predominam as valorizações, com 88 cartas em alta contra 57 em queda (média 7.27%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
