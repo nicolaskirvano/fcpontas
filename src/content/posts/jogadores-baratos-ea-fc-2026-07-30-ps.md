@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T09:30:23.000Z
+pubDatetime: 2026-07-30T10:13:10.000Z
 title: "Jogadores baratos EA FC: Pontas em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 7.054 coins.
+- **Preço médio das 13 opções:** 7.562 coins.
 - **Posição mais frequente:** LW, com 7 cartas.
-- **Faixa real:** 1.600 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.600 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,12 +46,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2.800 coins | +47.4% |
-| Claudia Pina | 86 | LW | Liga F | 1.700 coins | +36.4% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 1.600 coins | +47.4% |
+| Joe Cole | 87 | RW | Premier League | 14.250 coins | +25% |
 | Temwa Chawinga | 86 | LW | NWSL | 2.500 coins | +31.6% |
-| Lionel Messi | 86 | RW | MLS | 3.400 coins | +26.7% |
-| Tabitha Chawinga | 85 | LW | Arkema PL | 1.600 coins | +5.9% |
-| Lineth Beerensteyn | 84 | LW | GPFBL | 1.900 coins | +23.1% |
+| Lionel Messi | 86 | RW | MLS | 3.500 coins | +16.7% |
+| Lineth Beerensteyn | 84 | LW | GPFBL | 1.700 coins | +30.8% |
+| Lineth Beerensteyn | 84 | LW | — | 2.000 coins | 0% |
+| Anthony Gordon | 83 | LW | — | 2.000 coins | +5.6% |
 
 
 ## 📈 Destaques
