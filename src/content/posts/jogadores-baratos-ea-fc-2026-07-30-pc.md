@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T16:13:19.000Z
+pubDatetime: 2026-07-30T19:13:21.000Z
 title: "Jogadores baratos EA FC: Pontas em 30/07 — PC"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 8.133 coins.
+- **Preço médio das 13 opções:** 8.815 coins.
 - **Posição mais frequente:** RW, com 9 cartas.
 - **Faixa real:** 1.500 a 13.000 coins; nenhuma carta custa 15 mil.
 
@@ -46,15 +46,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
-| Bukayo Saka | 88 | RW | Premier League | 1.900 coins | -10.5% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 3.500 coins | +9.4% |
 | Joe Cole | 88 | RW | Premier League | 11.000 coins | -13.7% |
-| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.000 coins | -11.8% |
 | Joe Cole | 87 | RW | Premier League | 12.250 coins | +2.1% |
-| Temwa Chawinga | 86 | LW | NWSL | 3.300 coins | +59.1% |
-| Lionel Messi | 86 | RW | MLS | 4.300 coins | +7.5% |
-| Oscar Bobb | 85 | RW | Premier League | 13.000 coins | +22.9% |
-| Lineth Beerensteyn | 84 | LW | GPFBL | 1.500 coins | 0% |
+| Lionel Messi | 86 | RW | MLS | 4.400 coins | +4.7% |
+| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 1.500 coins | -11.8% |
+| Bryan Mbeumo | 85 | RW | Premier League | 1.900 coins | -6.7% |
+| Heung Min Son | 85 | LW | Premier League | 2.300 coins | -13.8% |
+| Oscar Bobb | 85 | RW | Premier League | 13.000 coins | -10.3% |
 
 
 ## 📈 Destaques
