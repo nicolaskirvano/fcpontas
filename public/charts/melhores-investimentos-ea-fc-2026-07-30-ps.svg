@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yan Diomande</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julian Quiñones</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+79.4%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julian Quiñones</text>
-<rect x="285" y="153" width="403" height="28" rx="7" fill="#22c55e"/>
-<text x="698" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+66.7%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Roberto Alvarado</text>
-<rect x="285" y="211" width="389" height="28" rx="7" fill="#22c55e"/>
-<text x="684" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+64.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Elijah Just</text>
-<rect x="285" y="269" width="376" height="28" rx="7" fill="#22c55e"/>
-<text x="671" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+62.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lukáš Haraslín</text>
-<rect x="285" y="327" width="298" height="28" rx="7" fill="#22c55e"/>
-<text x="593" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paulo Futre</text>
-<rect x="285" y="385" width="246" height="28" rx="7" fill="#22c55e"/>
-<text x="541" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+75.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Quaresma</text>
+<rect x="285" y="153" width="427" height="28" rx="7" fill="#22c55e"/>
+<text x="722" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+66.7%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paulo Futre</text>
+<rect x="285" y="211" width="341" height="28" rx="7" fill="#22c55e"/>
+<text x="636" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sandy Baltimore</text>
+<rect x="285" y="269" width="339" height="28" rx="7" fill="#22c55e"/>
+<text x="634" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.9%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jeremie Frimpong</text>
+<rect x="285" y="327" width="288" height="28" rx="7" fill="#22c55e"/>
+<text x="583" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Harvey Barnes</text>
+<rect x="285" y="385" width="282" height="28" rx="7" fill="#22c55e"/>
+<text x="577" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.0%</text>
 </svg>

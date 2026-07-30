@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:13:17.000Z
+pubDatetime: 2026-07-30T13:13:18.000Z
 title: "Mercado EA FC em 30/07: Pontas — PC"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 30/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
-    a: "Bradley Barcola (90, Ligue 1 McDonald's), com +59.7% em 24h, a 95k coins no PC."
+    a: "Oscar Bobb (85, Premier League), com +54.2% em 24h, a 24k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Jairzinho (94), -48.9% em 24h, a 405k coins."
+    a: "Caroline Graham Hansen (90), -47.6% em 24h, a 22k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Lukáš Haraslín (89) — 63% de probabilidade de alta, a 17.750 coins."
+    a: "Pelo modelo FutQuant, Lukáš Haraslín (89) — 63% de probabilidade de alta, a 20k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 101 cartas em alta contra 65 em queda (média 10.09%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 68 cartas em alta contra 75 em queda (média 2.25%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **30/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **101 em alta** e **65 em queda**, média de **10.09%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **30/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **68 em alta** e **75 em queda**, média de **2.25%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Bradley Barcola (90) **+59.7%** · 🔴 **Maior baixa:** Jairzinho (94) **-48.9%**
+> 🟢 **Maior alta:** Oscar Bobb (85) **+54.2%** · 🔴 **Maior baixa:** Caroline Graham Hansen (90) **-47.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Pontas — PC](/charts/mercado-ea-fc-2026-07-30-pc.svg)
 
@@ -37,24 +37,24 @@ Panorama de **30/07/2026** (PC): clima **comprador** — a maioria das cartas su
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 60.8% entre as cartas que se moveram; o universo observado reúne 205 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.6% entre as cartas que se moveram; o universo observado reúne 189 cartas.
+- **Concentração:** Serie A TIM aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 95k coins | +59.7% | -10.4% |
-| Gabriel Martinelli | 87 | Premier League | 160k coins | +55.3% | +24% |
-| Bradley Barcola | 96 | — | 570k coins | +49.2% | +21.6% |
-| Said El Mala | 90 | — | 34k coins | +45% | -49.1% |
-| Kim Seung Sub | 90 | — | 33k coins | +44.6% | -16.9% |
-| Temwa Chawinga | 97 | — | 270k coins | +43.9% | -17.1% |
-| David Neres | 86 | Serie A TIM | 60k coins | +43.7% | +9.1% |
-| William Gomes | 84 | Liga Portugal | 50k coins | +42.9% | +11.7% |
-| Phil Foden | 86 | Premier League | 56k coins | +41.4% | -6.7% |
-| Antony | 86 | LALIGA EA SPORTS | 62k coins | +41.3% | -15% |
+| Oscar Bobb | 85 | Premier League | 24k coins | +54.2% | +2.8% |
+| Matteo Politano | 87 | — | 64k coins | +50.3% | +56.5% |
+| Rayan Cherki | 87 | Premier League | 55k coins | +49.3% | -23.2% |
+| Matthis Abline | 81 | Ligue 1 McDonald's | 46k coins | +46% | 0% |
+| Rafael Leão | 87 | Serie A TIM | 575k coins | +44% | -2.4% |
+| Rivaldo | 90 | Icons | 115k coins | +42% | -3.1% |
+| Lee Kang In | 95 | — | 115k coins | +42% | -29% |
+| Bradley Barcola | 92 | — | 80k coins | +42% | -11.2% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 465k coins | +39.1% | -14.1% |
+| David Neres | 86 | Serie A TIM | 60k coins | +38.7% | +9.1% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ Panorama de **30/07/2026** (PC): clima **comprador** — a maioria das cartas su
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Bradley Barcola (90)** subiu **+59.7%** em 24h, a **95k coins** (faixa do dia: 59k–140k). Está +28% acima da média de 7 dias (aquecida).
+- **Oscar Bobb (85)** subiu **+54.2%** em 24h, a **24k coins** (faixa do dia: 10.750–29k). Está +45% acima da média de 7 dias (aquecida).
 
-- **Gabriel Martinelli (87)** subiu **+55.3%** em 24h, a **160k coins** (faixa do dia: 35k–160k). Está +30% acima da média de 7 dias (aquecida).
+- **Matteo Politano (87)** subiu **+50.3%** em 24h, a **64k coins** (faixa do dia: 41k–70k). Está +36% acima da média de 7 dias (aquecida).
 
-- **Bradley Barcola (96)** subiu **+49.2%** em 24h, a **570k coins** (faixa do dia: 295k–600k). Está +32% acima da média de 7 dias (aquecida).
+- **Rayan Cherki (87)** subiu **+49.3%** em 24h, a **55k coins** (faixa do dia: 36k–66k). Está em linha com a média de 7 dias (-2%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jairzinho | 94 | Icons | 405k coins | -48.9% | -42.9% |
-| Christian Pulisic | 96 | — | 78k coins | -45.4% | -41.2% |
-| Malcom | 87 | ROSHN Saudi League | 52k coins | -41% | -34.9% |
-| Debinha | 89 | NWSL | 58k coins | -37.8% | -73.4% |
-| Khvicha Kvaratskhelia | 88 | Ligue 1 McDonald's | 313k coins | -34.7% | -65.2% |
-| Linda Caicedo | 87 | Liga F | 65k coins | -33.7% | +6.9% |
-| Raphinha | 91 | LALIGA EA SPORTS | 225k coins | -30.1% | -33% |
-| Olivia Smith | 86 | Barclays WSL | 58k coins | -28.1% | -27.2% |
-| Mikel Gogorza | 86 | 3F Superliga | 60k coins | -21.9% | -9.7% |
-| Caroline Graham Hansen | 92 | Liga F | 315k coins | -21.4% | -25.9% |
+| Caroline Graham Hansen | 90 | Liga F | 22k coins | -47.6% | -28.1% |
+| Saeed Al Owairan | 85 | ROSHN Saudi League | 31k coins | -41% | -48.3% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 57k coins | -39.8% | -30.6% |
+| Evann Guessand | 96 | — | 150k coins | -37.8% | -60.3% |
+| Jairzinho | 89 | Icons | 255k coins | -34.9% | -40.9% |
+| Víctor Ibarbo | 85 | Serie A TIM | 34k coins | -33.9% | -40% |
+| Claudia Pina | 87 | Liga F | 325k coins | -33.5% | -14.2% |
+| Mary Fowler | 87 | Barclays Women’s Super League | 42k coins | -31.2% | +55.8% |
+| Antony | 86 | LALIGA EA SPORTS | 56k coins | -30.3% | -24.8% |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 95k coins | -30.3% | -13.2% |
 
 
 ### Análise das baixas
 
-- **Jairzinho (94)** caiu **-48.9%** em 24h, a **405k coins** (faixa do dia: 335k–792k). Está -47% abaixo da média de 7 dias (descontada).
+- **Caroline Graham Hansen (90)** caiu **-47.6%** em 24h, a **22k coins** (faixa do dia: 22k–42k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Christian Pulisic (96)** caiu **-45.4%** em 24h, a **78k coins** (faixa do dia: 55k–140k). Está -23% abaixo da média de 7 dias (descontada).
+- **Saeed Al Owairan (85)** caiu **-41%** em 24h, a **31k coins** (faixa do dia: 17.000–58k). Está -28% abaixo da média de 7 dias (descontada).
 
-- **Malcom (87)** caiu **-41%** em 24h, a **52k coins** (faixa do dia: 44k–95k). Está -18% abaixo da média de 7 dias (descontada).
+- **Anis Hadj-Moussa (86)** caiu **-39.8%** em 24h, a **57k coins** (faixa do dia: 52k–98k). Está -11% abaixo da média de 7 dias (descontada).
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -101,14 +101,14 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Lukáš Haraslín | 89 | 17.750 coins | 18.151 coins | 63% |
+| Lukáš Haraslín | 89 | 20k coins | 20k coins | 63% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Bradley Barcola já avançou 59.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Oscar Bobb já avançou 54.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jairzinho recuou -48.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Caroline Graham Hansen recuou -47.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +120,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (30/07/2026)?**
-Bradley Barcola (90, Ligue 1 McDonald's), com +59.7% em 24h, a 95k coins no PC.
+Oscar Bobb (85, Premier League), com +54.2% em 24h, a 24k coins no PC.
 
 **E a maior queda do dia?**
-Jairzinho (94), -48.9% em 24h, a 405k coins.
+Caroline Graham Hansen (90), -47.6% em 24h, a 22k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Lukáš Haraslín (89) — 63% de probabilidade de alta, a 17.750 coins.
+Pelo modelo FutQuant, Lukáš Haraslín (89) — 63% de probabilidade de alta, a 20k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 101 cartas em alta contra 65 em queda (média 10.09%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 68 cartas em alta contra 75 em queda (média 2.25%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
