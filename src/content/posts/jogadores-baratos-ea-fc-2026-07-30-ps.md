@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:13:11.000Z
+pubDatetime: 2026-07-30T22:13:10.000Z
 title: "Jogadores baratos EA FC: Pontas em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 8.661 coins.
-- **Posição mais frequente:** RW, com 10 cartas.
+- **Preço médio das 15 opções:** 9.133 coins.
+- **Posição mais frequente:** RW, com 9 cartas.
 - **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -45,15 +45,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 3.100 coins | +7.1% |
-| Naomie Feller | 88 | RW | — | 14.750 coins | -1.7% |
-| Kiko Seike | 87 | RW | Barclays WSL | 13.500 coins | -11.5% |
-| Lionel Messi | 86 | RW | MLS | 5.400 coins | +42.1% |
-| Ivan Perišić | 86 | RW | Eredivisie | 11.250 coins | -2.2% |
-| Heung Min Son | 85 | LW | Premier League | 1.800 coins | +5.3% |
-| Madison Haley | 85 | RW | Barclays WSL | 11.500 coins | -11.5% |
-| Lineth Beerensteyn | 84 | LW | GPFBL | 1.700 coins | +20% |
-| Athenea | 83 | RW | Liga F | 1.500 coins | +50% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2.500 coins | +3.7% |
+| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.400 coins | +3% |
+| Joe Cole | 87 | RW | Premier League | 14.750 coins | +7.4% |
+| Mika Godts | 87 | LW | Eredivisie | 14.750 coins | +7.3% |
+| Lionel Messi | 86 | RW | MLS | 4.900 coins | +31.6% |
+| Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | 0% |
+| Heung Min Son | 85 | LW | Premier League | 1.700 coins | -5.6% |
+| Marco Asensio | 85 | RW | Trendyol Süper Lig | 12.500 coins | +12.8% |
+| Oscar Bobb | 85 | RW | Premier League | 12.750 coins | +3.8% |
+| Lineth Beerensteyn | 84 | LW | GPFBL | 1.500 coins | 0% |
 
 
 ## 📈 Destaques

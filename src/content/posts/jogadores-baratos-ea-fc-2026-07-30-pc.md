@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:13:21.000Z
+pubDatetime: 2026-07-30T22:13:19.000Z
 title: "Jogadores baratos EA FC: Pontas em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 8.815 coins.
-- **Posição mais frequente:** RW, com 9 cartas.
-- **Faixa real:** 1.500 a 13.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 10.950 coins.
+- **Posição mais frequente:** RW, com 6 cartas.
+- **Faixa real:** 4.500 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -47,12 +47,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
 | Joe Cole | 88 | RW | Premier League | 11.000 coins | -13.7% |
-| Joe Cole | 87 | RW | Premier League | 12.250 coins | +2.1% |
-| Lionel Messi | 86 | RW | MLS | 4.400 coins | +4.7% |
-| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 1.500 coins | -11.8% |
-| Bryan Mbeumo | 85 | RW | Premier League | 1.900 coins | -6.7% |
-| Heung Min Son | 85 | LW | Premier League | 2.300 coins | -13.8% |
-| Oscar Bobb | 85 | RW | Premier League | 13.000 coins | -10.3% |
+| Joe Cole | 87 | RW | Premier League | 12.250 coins | -3.9% |
+| Wilson Odobert | 87 | LW | Premier League | 13.500 coins | +16.7% |
+| Lionel Messi | 86 | RW | MLS | 4.500 coins | +2.3% |
 
 
 ## 📈 Destaques

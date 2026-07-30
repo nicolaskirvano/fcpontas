@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paulo Futre</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.8%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jérémy Doku</text>
-<rect x="285" y="153" width="418" height="28" rx="7" fill="#22c55e"/>
-<text x="713" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.2%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Khvicha Kvaratskhelia</text>
-<rect x="285" y="211" width="344" height="28" rx="7" fill="#22c55e"/>
-<text x="639" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.2%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emilie Haavi</text>
-<rect x="285" y="269" width="338" height="28" rx="7" fill="#22c55e"/>
-<text x="633" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Anass Zaroury</text>
-<rect x="285" y="327" width="324" height="28" rx="7" fill="#22c55e"/>
-<text x="619" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.7%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">David Neres</text>
-<rect x="285" y="385" width="307" height="28" rx="7" fill="#22c55e"/>
-<text x="602" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.6%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrygo</text>
+<rect x="285" y="153" width="463" height="28" rx="7" fill="#22c55e"/>
+<text x="758" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.2%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lionel Messi</text>
+<rect x="285" y="211" width="380" height="28" rx="7" fill="#22c55e"/>
+<text x="675" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Anass Zaroury</text>
+<rect x="285" y="269" width="369" height="28" rx="7" fill="#22c55e"/>
+<text x="664" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.2%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jeremie Frimpong</text>
+<rect x="285" y="327" width="360" height="28" rx="7" fill="#22c55e"/>
+<text x="655" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.2%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Garrincha</text>
+<rect x="285" y="385" width="340" height="28" rx="7" fill="#22c55e"/>
+<text x="635" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.8%</text>
 </svg>
