@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T13:13:18.000Z
+pubDatetime: 2026-07-30T16:13:17.000Z
 title: "Mercado EA FC em 30/07: Pontas — PC"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 30/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
-    a: "Oscar Bobb (85, Premier League), com +54.2% em 24h, a 24k coins no PC."
+    a: "Emilie Haavi (87, Calcio A Femminile), com +58.6% em 24h, a 27k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Caroline Graham Hansen (90), -47.6% em 24h, a 22k coins."
+    a: "Anis Hadj-Moussa (86), -44.1% em 24h, a 54k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Lukáš Haraslín (89) — 63% de probabilidade de alta, a 20k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 68 cartas em alta contra 75 em queda (média 2.25%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 79 cartas em alta contra 82 em queda (média 5.31%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **30/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **68 em alta** e **75 em queda**, média de **2.25%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **30/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **79 em alta** e **82 em queda**, média de **5.31%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Oscar Bobb (85) **+54.2%** · 🔴 **Maior baixa:** Caroline Graham Hansen (90) **-47.6%**
+> 🟢 **Maior alta:** Emilie Haavi (87) **+58.6%** · 🔴 **Maior baixa:** Anis Hadj-Moussa (86) **-44.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Pontas — PC](/charts/mercado-ea-fc-2026-07-30-pc.svg)
 
@@ -37,24 +37,24 @@ Panorama de **30/07/2026** (PC): clima **comprador** — a maioria das cartas su
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 101.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.6% entre as cartas que se moveram; o universo observado reúne 189 cartas.
-- **Concentração:** Serie A TIM aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 102.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.1% entre as cartas que se moveram; o universo observado reúne 200 cartas.
+- **Concentração:** Liga F aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Oscar Bobb | 85 | Premier League | 24k coins | +54.2% | +2.8% |
-| Matteo Politano | 87 | — | 64k coins | +50.3% | +56.5% |
-| Rayan Cherki | 87 | Premier League | 55k coins | +49.3% | -23.2% |
-| Matthis Abline | 81 | Ligue 1 McDonald's | 46k coins | +46% | 0% |
-| Rafael Leão | 87 | Serie A TIM | 575k coins | +44% | -2.4% |
-| Rivaldo | 90 | Icons | 115k coins | +42% | -3.1% |
-| Lee Kang In | 95 | — | 115k coins | +42% | -29% |
-| Bradley Barcola | 92 | — | 80k coins | +42% | -11.2% |
-| Nico Williams | 93 | LALIGA EA SPORTS | 465k coins | +39.1% | -14.1% |
-| David Neres | 86 | Serie A TIM | 60k coins | +38.7% | +9.1% |
+| Emilie Haavi | 87 | Calcio A Femminile | 27k coins | +58.6% | +5.7% |
+| Rodrigo Zalazar | 84 | Liga Portugal | 46k coins | +54.2% | -6.6% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 465k coins | +45.3% | -0.4% |
+| Matteo Politano | 87 | — | 46k coins | +40.1% | +44.2% |
+| David Neres | 86 | Serie A TIM | 60k coins | +37.6% | +8.2% |
+| Matthis Abline | 81 | Ligue 1 McDonald's | 46k coins | +35.8% | -7% |
+| Claudia Pina | 92 | Liga F | 1.10M coins | +31.7% | +23.9% |
+| Nico Williams | 96 | — | 320k coins | +31.4% | +9.1% |
+| Lee Kang In | 95 | — | 105k coins | +31.2% | -34.4% |
+| Bartosz Nowak | 93 | — | 30k coins | +30.7% | +22.3% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ Panorama de **30/07/2026** (PC): clima **comprador** — a maioria das cartas su
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Oscar Bobb (85)** subiu **+54.2%** em 24h, a **24k coins** (faixa do dia: 10.750–29k). Está +45% acima da média de 7 dias (aquecida).
+- **Emilie Haavi (87)** subiu **+58.6%** em 24h, a **27k coins** (faixa do dia: 16.500–30k). Está +8% acima da média de 7 dias (aquecida).
 
-- **Matteo Politano (87)** subiu **+50.3%** em 24h, a **64k coins** (faixa do dia: 41k–70k). Está +36% acima da média de 7 dias (aquecida).
+- **Rodrigo Zalazar (84)** subiu **+54.2%** em 24h, a **46k coins** (faixa do dia: 30k–50k). Está em linha com a média de 7 dias (+3%).
 
-- **Rayan Cherki (87)** subiu **+49.3%** em 24h, a **55k coins** (faixa do dia: 36k–66k). Está em linha com a média de 7 dias (-2%).
+- **Nico Williams (93)** subiu **+45.3%** em 24h, a **465k coins** (faixa do dia: 320k–500k). Está +22% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Caroline Graham Hansen | 90 | Liga F | 22k coins | -47.6% | -28.1% |
-| Saeed Al Owairan | 85 | ROSHN Saudi League | 31k coins | -41% | -48.3% |
-| Anis Hadj-Moussa | 86 | Eredivisie | 57k coins | -39.8% | -30.6% |
-| Evann Guessand | 96 | — | 150k coins | -37.8% | -60.3% |
-| Jairzinho | 89 | Icons | 255k coins | -34.9% | -40.9% |
-| Víctor Ibarbo | 85 | Serie A TIM | 34k coins | -33.9% | -40% |
-| Claudia Pina | 87 | Liga F | 325k coins | -33.5% | -14.2% |
-| Mary Fowler | 87 | Barclays Women’s Super League | 42k coins | -31.2% | +55.8% |
-| Antony | 86 | LALIGA EA SPORTS | 56k coins | -30.3% | -24.8% |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 95k coins | -30.3% | -13.2% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 54k coins | -44.1% | -36.6% |
+| Rafael Leão | 87 | Serie A TIM | 555k coins | -42.7% | -10.5% |
+| Khvicha Kvaratskhelia | 96 | — | 700k coins | -41.7% | -29.3% |
+| Mary Fowler | 87 | Barclays Women’s Super League | 38k coins | -37.6% | +40.5% |
+| Mika Godts | 93 | — | 24k coins | -35.1% | -21.3% |
+| Jairzinho | 89 | Icons | 255k coins | -34.6% | -40.7% |
+| Caroline Graham Hansen | 90 | Liga F | 34k coins | -34.2% | -16.7% |
+| Claudia Pina | 87 | Liga F | 325k coins | -31.9% | -14.8% |
+| Saeed Al Owairan | 85 | ROSHN Saudi League | 33k coins | -31.1% | -30.5% |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 97k coins | -29.5% | -6.1% |
 
 
 ### Análise das baixas
 
-- **Caroline Graham Hansen (90)** caiu **-47.6%** em 24h, a **22k coins** (faixa do dia: 22k–42k). Está -21% abaixo da média de 7 dias (descontada).
+- **Anis Hadj-Moussa (86)** caiu **-44.1%** em 24h, a **54k coins** (faixa do dia: 54k–98k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Saeed Al Owairan (85)** caiu **-41%** em 24h, a **31k coins** (faixa do dia: 17.000–58k). Está -28% abaixo da média de 7 dias (descontada).
+- **Rafael Leão (87)** caiu **-42.7%** em 24h, a **555k coins** (faixa do dia: 420k–1.40M). Está em linha com a média de 7 dias (-0%).
 
-- **Anis Hadj-Moussa (86)** caiu **-39.8%** em 24h, a **57k coins** (faixa do dia: 52k–98k). Está -11% abaixo da média de 7 dias (descontada).
+- **Khvicha Kvaratskhelia (96)** caiu **-41.7%** em 24h, a **700k coins** (faixa do dia: 699k–1.30M). Está -12% abaixo da média de 7 dias (descontada).
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -106,9 +106,9 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Oscar Bobb já avançou 54.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Emilie Haavi já avançou 58.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Caroline Graham Hansen recuou -47.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Anis Hadj-Moussa recuou -44.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +120,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (30/07/2026)?**
-Oscar Bobb (85, Premier League), com +54.2% em 24h, a 24k coins no PC.
+Emilie Haavi (87, Calcio A Femminile), com +58.6% em 24h, a 27k coins no PC.
 
 **E a maior queda do dia?**
-Caroline Graham Hansen (90), -47.6% em 24h, a 22k coins.
+Anis Hadj-Moussa (86), -44.1% em 24h, a 54k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
 Pelo modelo FutQuant, Lukáš Haraslín (89) — 63% de probabilidade de alta, a 20k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 68 cartas em alta contra 75 em queda (média 2.25%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 79 cartas em alta contra 82 em queda (média 5.31%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
