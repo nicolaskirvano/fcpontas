@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:13:19.000Z
+pubDatetime: 2026-07-31T16:13:19.000Z
 title: "Jogadores baratos EA FC: Pontas em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 9.573 coins.
-- **Posição mais frequente:** RW, com 8 cartas.
-- **Faixa real:** 1.500 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 12 opções:** 9.346 coins.
+- **Posição mais frequente:** RW, com 7 cartas.
+- **Faixa real:** 1.500 a 13.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,12 +46,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
-| Reyes Cleary | 90 | LW | — | 14.250 coins | +9.1% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2.900 coins | -14.7% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 3.000 coins | -11.8% |
 | Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
-| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.800 coins | -5.7% |
+| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.400 coins | +20% |
 | Joe Cole | 87 | RW | Premier League | 12.000 coins | -2% |
-| Ivan Perišić | 86 | RW | Eredivisie | 10.750 coins | +33.3% |
+| Harry Kewell | 87 | LW | Premier League | 13.000 coins | -6.7% |
 | Athenea | 83 | RW | Liga F | 1.500 coins | +36.4% |
 
 
