@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:13:19.000Z
+pubDatetime: 2026-07-31T22:13:19.000Z
 title: "Jogadores baratos EA FC: Pontas em 31/07 — PC"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 11 opções:** 8.859 coins.
-- **Posição mais frequente:** LW, com 6 cartas.
+- **Preço médio das 13 opções:** 8.042 coins.
+- **Posição mais frequente:** RW, com 7 cartas.
 - **Faixa real:** 1.500 a 12.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -46,16 +46,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2.700 coins | -8.7% |
 | Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
-| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.200 coins | +2.9% |
 | Joe Cole | 87 | RW | Premier League | 12.000 coins | -2% |
-| Tabitha Chawinga | 85 | LW | Arkema PL | 1.500 coins | -7.7% |
-| Lineth Beerensteyn | 84 | LW | GPFBL | 1.500 coins | 0% |
+| Claudia Pina | 86 | LW | Liga F | 2.200 coins | +53.8% |
+| Lionel Messi | 86 | RW | MLS | 4.000 coins | -2.3% |
+| Heung Min Son | 85 | LW | Premier League | 2.900 coins | -8.6% |
+| Lineth Beerensteyn | 84 | LW | GPFBL | 1.500 coins | +7.1% |
 
 
 ## 📈 Destaques
 
-- **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins**
 
 - **Kadidiatou Diani (91, RW)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
