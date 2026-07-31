@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T09:26:11.000Z
+pubDatetime: 2026-07-31T10:13:17.000Z
 title: "Mercado EA FC em 31/07: Pontas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Jens Petter Hauge (88, Eliteserien), com +57.2% em 24h, a 60k coins no PC."
+    a: "Andrei Cordea (83, SUPERLIGA), com +55.3% em 24h, a 40k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Jérémy Doku (91), -49.1% em 24h, a 270k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 58 cartas em alta contra 96 em queda (média -0.27%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 59 cartas em alta contra 84 em queda (média -0.96%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **31/07/2026** no PC com mercado **pressionado** — as quedas dominam o dia: **58 cartas subiram** e **96 caíram** (80+ acima de 5k coins), variação média de **-0.27%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **31/07/2026** no PC com dia **indefinido** — sem tendência dominante: **59 cartas subiram** e **84 caíram** (80+ acima de 5k coins), variação média de **-0.96%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Jens Petter Hauge (88) **+57.2%** · 🔴 **Maior baixa:** Jérémy Doku (91) **-49.1%**
+> 🟢 **Maior alta:** Andrei Cordea (83) **+55.3%** · 🔴 **Maior baixa:** Jérémy Doku (91) **-49.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Pontas — PC](/charts/mercado-ea-fc-2026-07-31-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **31/07/2026** no PC com mercado **pressionado** —
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 37.7% entre as cartas que se moveram; o universo observado reúne 198 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 104.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 41.3% entre as cartas que se moveram; o universo observado reúne 182 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jens Petter Hauge | 88 | Eliteserien | 60k coins | +57.2% | -9.4% |
-| Antony | 86 | LALIGA EA SPORTS | 96k coins | +55.4% | +40.3% |
 | Andrei Cordea | 83 | SUPERLIGA | 40k coins | +55.3% | +0.6% |
 | Esmir Bajraktarević | 91 | — | 219k coins | +51% | +2.8% |
-| George Best | 91 | Icons | 320k coins | +50.7% | -31.2% |
-| Rafael Leão | 87 | Serie A TIM | 899k coins | +45% | +47.4% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 180k coins | +43.3% | +36.5% |
-| Rivaldo | 91 | Icons | 120k coins | +40.4% | +13.2% |
-| Tabitha Chawinga | 86 | D1 Arkema | 108k coins | +38.5% | +10.2% |
-| Malcom | 87 | ROSHN Saudi League | 60k coins | +27.7% | +27.7% |
+| Antony | 86 | LALIGA EA SPORTS | 94k coins | +48.5% | +35% |
+| Rafael Leão | 87 | Serie A TIM | 899k coins | +45.2% | +49.8% |
+| Rivaldo | 91 | Icons | 120k coins | +43.7% | +13.2% |
+| Quaresma | 88 | Trendyol Süper Lig | 350k coins | +40% | +7% |
+| Tabitha Chawinga | 86 | D1 Arkema | 89k coins | +35% | +10.2% |
+| Ousmane Dembélé | 97 | — | 1.30M coins | +33.7% | +56.9% |
+| Désiré Doué | 96 | — | 565k coins | +29% | -3% |
+| Yan Diomande | 96 | — | 355k coins | +27.4% | +46.2% |
 
 
 ### Análise das altas
@@ -61,41 +61,41 @@ O mercado do **EA FC** abre **31/07/2026** no PC com mercado **pressionado** —
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jens Petter Hauge (88)** subiu **+57.2%** em 24h, a **60k coins** (faixa do dia: 33k–198k). Está -38% abaixo da média de 7 dias (descontada).
-
-- **Antony (86)** subiu **+55.4%** em 24h, a **96k coins** (faixa do dia: 49k–109k). Está +52% acima da média de 7 dias (aquecida).
-
 - **Andrei Cordea (83)** subiu **+55.3%** em 24h, a **40k coins** (faixa do dia: 26k–40k). Está em linha com a média de 7 dias (+2%).
+
+- **Esmir Bajraktarević (91)** subiu **+51%** em 24h, a **219k coins** (faixa do dia: 108k–287k). Está +19% acima da média de 7 dias (aquecida).
+
+- **Antony (86)** subiu **+48.5%** em 24h, a **94k coins** (faixa do dia: 49k–109k). Está +49% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jérémy Doku | 91 | Premier League | 270k coins | -49.1% | -32.3% |
-| Bradley Barcola | 96 | — | 400k coins | -48.2% | -31.3% |
-| Antony | 91 | LALIGA EA SPORTS | 93k coins | -44.4% | -35.8% |
+| Jérémy Doku | 91 | Premier League | 270k coins | -49.1% | -28.9% |
+| Antony | 91 | LALIGA EA SPORTS | 90k coins | -48.3% | -39.6% |
 | Gareth Bale | 94 | Icons | 2M coins | -42.9% | -31% |
-| Mikel Gogorza | 86 | 3F Superliga | 37k coins | -39.3% | -63.6% |
-| Khvicha Kvaratskhelia | 96 | — | 549k coins | -38.9% | -41.2% |
-| Noa Lang | 91 | Trendyol Süper Lig | 34k coins | -38.3% | -55.4% |
-| Ronaldinho | 94 | Icons | 1.20M coins | -32.2% | -18.6% |
-| Gareth Bale | 88 | Icons | 590k coins | -30.4% | -30.6% |
+| Noa Lang | 91 | Trendyol Süper Lig | 34k coins | -42.5% | -58.2% |
+| Mikel Gogorza | 86 | 3F Superliga | 37k coins | -39.3% | -62.7% |
+| Ronaldinho | 94 | Icons | 1.10M coins | -34.5% | -17.3% |
+| Matteo Politano | 87 | — | 45k coins | -30.2% | +5.3% |
 | Antonio Di Natale | 89 | Serie A TIM | 221k coins | -28.7% | -19.6% |
+| Naomie Feller | 88 | — | 31k coins | -26.2% | +36.3% |
+| Gareth Bale | 88 | Icons | 635k coins | -26% | -31.3% |
 
 
 ### Análise das baixas
 
-- **Jérémy Doku (91)** caiu **-49.1%** em 24h, a **270k coins** (faixa do dia: 250k–530k). Está -12% abaixo da média de 7 dias (descontada).
+- **Jérémy Doku (91)** caiu **-49.1%** em 24h, a **270k coins** (faixa do dia: 250k–400k). Está -11% abaixo da média de 7 dias (descontada).
 
-- **Bradley Barcola (96)** caiu **-48.2%** em 24h, a **400k coins** (faixa do dia: 290k–584k). Está em linha com a média de 7 dias (-5%).
+- **Antony (91)** caiu **-48.3%** em 24h, a **90k coins** (faixa do dia: 66k–185k). Está -41% abaixo da média de 7 dias (descontada).
 
-- **Antony (91)** caiu **-44.4%** em 24h, a **93k coins** (faixa do dia: 66k–190k). Está -39% abaixo da média de 7 dias (descontada).
+- **Gareth Bale (94)** caiu **-42.9%** em 24h, a **2M coins** (faixa do dia: 1.75M–3.50M). Está -32% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jens Petter Hauge já avançou 57.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Andrei Cordea já avançou 55.3% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Jérémy Doku recuou -49.1%; confirme estabilização e liquidez.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Jens Petter Hauge (88, Eliteserien), com +57.2% em 24h, a 60k coins no PC.
+Andrei Cordea (83, SUPERLIGA), com +55.3% em 24h, a 40k coins no PC.
 
 **E a maior queda do dia?**
 Jérémy Doku (91), -49.1% em 24h, a 270k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 58 cartas em alta contra 96 em queda (média -0.27%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 59 cartas em alta contra 84 em queda (média -0.96%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

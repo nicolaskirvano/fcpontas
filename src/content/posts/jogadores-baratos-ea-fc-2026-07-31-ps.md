@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T09:26:04.000Z
+pubDatetime: 2026-07-31T10:13:10.000Z
 title: "Jogadores baratos EA FC: Pontas em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 7.535 coins.
-- **Posição mais frequente:** LW, com 7 cartas.
+- **Preço médio das 14 opções:** 8.921 coins.
+- **Posição mais frequente:** LW, com 8 cartas.
 - **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -42,17 +42,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
+| Daniela Agote | 91 | LW | — | 14.500 coins | -10.7% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
+| Oscar Bobb | 88 | RW | Premier League | 14.500 coins | +10.9% |
 | Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.400 coins | 0% |
 | Mika Godts | 87 | LW | Eredivisie | 14.750 coins | -4.8% |
 | Claudia Pina | 86 | LW | Liga F | 1.500 coins | 0% |
 | Temwa Chawinga | 86 | LW | NWSL | 2.500 coins | 0% |
-| Lionel Messi | 86 | RW | MLS | 3.300 coins | 0% |
-| Rodrygo | 85 | RW | LALIGA EA SPORTS | 1.500 coins | +54.5% |
-| Heung Min Son | 85 | LW | Premier League | 2.000 coins | +11.1% |
-| Marco Asensio | 85 | RW | Trendyol Süper Lig | 12.250 coins | -1.9% |
+| Lionel Messi | 86 | RW | MLS | 3.700 coins | 0% |
+| Heung Min Son | 85 | LW | Premier League | 1.800 coins | +5.6% |
+| Marco Asensio | 85 | RW | Trendyol Süper Lig | 11.500 coins | -7.4% |
 
 
 ## 📈 Destaques
@@ -61,11 +62,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Kadidiatou Diani (91, RW)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Daniela Agote (91, LW)** da —, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Lauren Hemp (90, LW)** da Barclays WSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Mohammed Kudus (90, RW)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
