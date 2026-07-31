@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:13:19.000Z
+pubDatetime: 2026-07-31T01:13:19.000Z
 title: "Jogadores baratos EA FC: Pontas em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 10.950 coins.
-- **Posição mais frequente:** RW, com 6 cartas.
-- **Faixa real:** 4.500 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 14 opções:** 10.125 coins.
+- **Posição mais frequente:** RW, com 7 cartas.
+- **Faixa real:** 3.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,10 +46,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
+| Lukáš Haraslín | 89 | LW | Česká Liga | 14.750 coins | -6% |
 | Joe Cole | 88 | RW | Premier League | 11.000 coins | -13.7% |
-| Joe Cole | 87 | RW | Premier League | 12.250 coins | -3.9% |
-| Wilson Odobert | 87 | LW | Premier League | 13.500 coins | +16.7% |
-| Lionel Messi | 86 | RW | MLS | 4.500 coins | +2.3% |
+| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.800 coins | +11.8% |
+| Joe Cole | 87 | RW | Premier League | 12.250 coins | -14% |
+| Lionel Messi | 86 | RW | MLS | 4.200 coins | +2.4% |
+| Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | -6.1% |
+| Heung Min Son | 85 | LW | Premier League | 3.500 coins | +12.9% |
+| Gervinho | 85 | LW | Serie A TIM | 12.500 coins | -14.8% |
 
 
 ## 📈 Destaques

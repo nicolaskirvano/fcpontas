@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:13:10.000Z
+pubDatetime: 2026-07-31T01:13:10.000Z
 title: "Jogadores baratos EA FC: Pontas em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.133 coins.
+- **Preço médio das 15 opções:** 8.267 coins.
 - **Posição mais frequente:** RW, com 9 cartas.
-- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.800 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,16 +45,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2.500 coins | +3.7% |
-| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.400 coins | +3% |
-| Joe Cole | 87 | RW | Premier League | 14.750 coins | +7.4% |
-| Mika Godts | 87 | LW | Eredivisie | 14.750 coins | +7.3% |
-| Lionel Messi | 86 | RW | MLS | 4.900 coins | +31.6% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 11.500 coins | 0% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2.600 coins | 0% |
+| Naomie Feller | 88 | RW | — | 13.000 coins | +10.6% |
+| Oscar Bobb | 88 | RW | Premier League | 13.750 coins | +20.8% |
+| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.400 coins | 0% |
+| Temwa Chawinga | 86 | LW | NWSL | 3.100 coins | +24% |
+| Lionel Messi | 86 | RW | MLS | 4.400 coins | +28.6% |
 | Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | 0% |
-| Heung Min Son | 85 | LW | Premier League | 1.700 coins | -5.6% |
-| Marco Asensio | 85 | RW | Trendyol Süper Lig | 12.500 coins | +12.8% |
-| Oscar Bobb | 85 | RW | Premier League | 12.750 coins | +3.8% |
-| Lineth Beerensteyn | 84 | LW | GPFBL | 1.500 coins | 0% |
+| Heung Min Son | 85 | LW | Premier League | 1.800 coins | 0% |
+| Athenea | 83 | RW | Liga F | 2.200 coins | +57.1% |
 
 
 ## 📈 Destaques

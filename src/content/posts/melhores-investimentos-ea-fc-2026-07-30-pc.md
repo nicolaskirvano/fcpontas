@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:13:18.000Z
+pubDatetime: 2026-07-31T01:13:18.000Z
 title: "Investimentos EA FC: Pontas em 30/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Johan Bakayoko (88, Bundesliga) lidera, com +68.7% em 7 dias a 34k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Michelle Cooper (87, NWSL) lidera, com +65.3% em 7 dias a 29k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Johan Bakayoko (88) acumula **+68.7% em 7 dias** a 34k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Michelle Cooper (87) acumula **+65.3% em 7 dias** a 29k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 30/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-30-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.8% em 24h** e **+12.5% em 7 dias**.
-- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+6.5% em 24h** e **+25.7% em 7 dias**.
+- **3 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,32 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Johan Bakayoko | 88 | Bundesliga | 34k coins | +16.7% | +68.7% | Esticada |
-| Cody Gakpo | 86 | Premier League | 50k coins | +4.2% | +22.7% | Entrada a observar |
-| Sandy Baltimore | 87 | Barclays WSL | 56k coins | +1.8% | +20.7% | Entrada a observar |
-| Claudia Pina | 88 | Liga F | 219k coins | +21.7% | +19.3% | Esticada |
-| Ferran Torres | 86 | LALIGA EA SPORTS | 45k coins | +11.8% | +12.5% | Momentum moderado |
-| Bartosz Nowak | 93 | — | 27k coins | +22.7% | +12.5% | Esticada |
-| Afonso Moreira | 84 | Ligue 1 McDonald's | 41k coins | +2.3% | +11.8% | Entrada a observar |
-| Harvey Barnes | 86 | Premier League | 50k coins | +1% | +10.5% | Entrada a observar |
+| Michelle Cooper | 87 | NWSL | 29k coins | +12.3% | +65.3% | Esticada |
+| Johan Bakayoko | 88 | Bundesliga | 29k coins | +6.7% | +54.2% | Momentum moderado |
+| Antony | 86 | LALIGA EA SPORTS | 105k coins | +32.9% | +40% | Esticada |
+| Michael Duffy | 84 | SSE Airtricity PD | 49k coins | +1% | +38.3% | Momentum moderado |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 180k coins | +6.5% | +28.6% | Momentum moderado |
+| Emilie Haavi | 87 | Calcio A Femminile | 25k coins | +1.7% | +26.6% | Momentum moderado |
+| Iago Aspas | 86 | LALIGA EA SPORTS | 44k coins | +1.1% | +25.7% | Momentum moderado |
+| William Gomes | 84 | Liga Portugal | 50k coins | +1% | +20.5% | Entrada a observar |
+| Bartosz Nowak | 93 | — | 28k coins | +15.5% | +14.3% | Momentum moderado |
 | David Neres | 86 | Serie A TIM | 60k coins | +37.6% | +8.2% | Esticada |
+| Jérémy Doku | 84 | Premier League | 115k coins | +1.7% | +8% | Entrada a observar |
+| Madison Haley | 85 | Barclays WSL | 26k coins | +12.2% | +7.8% | Momentum moderado |
+| Harvey Barnes | 86 | Premier League | 50k coins | +1% | +6.4% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Johan Bakayoko (88)** — 34k coins, **+68.7% em 7 dias** (+16.7% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michelle Cooper (87)** — 29k coins, **+65.3% em 7 dias** (+12.3% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cody Gakpo (86)** — 50k coins, **+22.7% em 7 dias** (+4.2% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Johan Bakayoko (88)** — 29k coins, **+54.2% em 7 dias** (+6.7% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandy Baltimore (87)** — 56k coins, **+20.7% em 7 dias** (+1.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Antony (86)** — 105k coins, **+40% em 7 dias** (+32.9% em 24h). Preço +68% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Claudia Pina (88)** — 219k coins, **+19.3% em 7 dias** (+21.7% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michael Duffy (84)** — 49k coins, **+38.3% em 7 dias** (+1% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ferran Torres (86)** — 45k coins, **+12.5% em 7 dias** (+11.8% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Désiré Doué (87)** — 180k coins, **+28.6% em 7 dias** (+6.5% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +86,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Johan Bakayoko (88, Bundesliga) lidera, com +68.7% em 7 dias a 34k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Michelle Cooper (87, NWSL) lidera, com +65.3% em 7 dias a 29k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
