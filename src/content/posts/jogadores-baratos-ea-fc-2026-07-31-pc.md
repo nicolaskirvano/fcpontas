@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:13:19.000Z
+pubDatetime: 2026-07-31T19:13:19.000Z
 title: "Jogadores baratos EA FC: Pontas em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 9.346 coins.
-- **Posição mais frequente:** RW, com 7 cartas.
-- **Faixa real:** 1.500 a 13.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 8.859 coins.
+- **Posição mais frequente:** LW, com 6 cartas.
+- **Faixa real:** 1.500 a 12.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,12 +46,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 3.000 coins | -11.8% |
 | Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
-| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.400 coins | +20% |
+| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.200 coins | +2.9% |
 | Joe Cole | 87 | RW | Premier League | 12.000 coins | -2% |
-| Harry Kewell | 87 | LW | Premier League | 13.000 coins | -6.7% |
-| Athenea | 83 | RW | Liga F | 1.500 coins | +36.4% |
+| Tabitha Chawinga | 85 | LW | Arkema PL | 1.500 coins | -7.7% |
+| Lineth Beerensteyn | 84 | LW | GPFBL | 1.500 coins | 0% |
 
 
 ## 📈 Destaques
@@ -62,9 +61,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Khvicha Kvaratskhelia (91, LW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lauren Hemp (90, LW)** da Barclays WSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Lauren Hemp (90, LW)** da Barclays WSL, a apenas **11.250 coins**
 
-- **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins**
 
 
 ## Como distribuir a banca

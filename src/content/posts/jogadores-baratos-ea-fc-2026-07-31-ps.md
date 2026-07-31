@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:13:10.000Z
+pubDatetime: 2026-07-31T19:13:10.000Z
 title: "Jogadores baratos EA FC: Pontas em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.933 coins.
-- **Posição mais frequente:** RW, com 9 cartas.
-- **Faixa real:** 2.200 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 9.807 coins.
+- **Posição mais frequente:** RW, com 8 cartas.
+- **Faixa real:** 1.500 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -47,14 +47,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
-| Oscar Bobb | 88 | RW | Premier League | 13.500 coins | +16% |
 | Heung Min Son | 88 | LW | MLS | 14.250 coins | 0% |
-| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.300 coins | -2.9% |
-| Kiko Seike | 87 | RW | Barclays WSL | 13.750 coins | -5.6% |
-| Ivan Perišić | 86 | RW | Eredivisie | 11.250 coins | -2.2% |
-| Madison Haley | 85 | RW | Barclays WSL | 12.750 coins | +10.9% |
-| Oscar Bobb | 85 | RW | Premier League | 13.750 coins | 0% |
-| Salma Paralluelo | 84 | LW | Liga F | 2.200 coins | +53.8% |
+| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.400 coins | 0% |
+| Kiko Seike | 87 | RW | Barclays WSL | 11.500 coins | -5.8% |
+| Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | 0% |
+| Oscar Bobb | 85 | RW | Premier League | 11.500 coins | -10.9% |
+| Madison Haley | 85 | RW | Barclays WSL | 12.000 coins | +10.9% |
+| Lineth Beerensteyn | 84 | LW | — | 1.500 coins | 0% |
+| Lineth Beerensteyn | 84 | LW | GPFBL | 2.200 coins | +35.3% |
 
 
 ## 📈 Destaques
@@ -67,7 +67,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Mohammed Kudus (90, RW)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins**
 
 
 ## Como distribuir a banca
