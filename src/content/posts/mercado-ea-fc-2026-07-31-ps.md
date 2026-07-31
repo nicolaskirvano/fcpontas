@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:13:07.000Z
+pubDatetime: 2026-07-31T13:13:07.000Z
 title: "Mercado EA FC em 31/07: Pontas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Désiré Doué (91, Ligue 1 McDonald's), com +51.9% em 24h, a 790k coins no Console (PS)."
+    a: "George Best (91, Icons), com +52.4% em 24h, a 260k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Anthony Nwakaeme (87), -48.8% em 24h, a 41k coins."
+    a: "Anders Dreyer (84), -49.4% em 24h, a 22k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 72 cartas em alta contra 92 em queda (média -2.61%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 72 cartas em alta contra 94 em queda (média -1.96%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **pressionado** — as quedas dominam o dia: **72 cartas subiram** e **92 caíram** (80+ acima de 5k coins), variação média de **-2.61%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **pressionado** — as quedas dominam o dia: **72 cartas subiram** e **94 caíram** (80+ acima de 5k coins), variação média de **-1.96%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Désiré Doué (91) **+51.9%** · 🔴 **Maior baixa:** Anthony Nwakaeme (87) **-48.8%**
+> 🟢 **Maior alta:** George Best (91) **+52.4%** · 🔴 **Maior baixa:** Anders Dreyer (84) **-49.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Pontas — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **pressio
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.9% entre as cartas que se moveram; o universo observado reúne 191 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.4% entre as cartas que se moveram; o universo observado reúne 199 cartas.
+- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 790k coins | +51.9% | +106.2% |
-| Armand Laurienté | 86 | Serie A TIM | 21k coins | +46.7% | +27.5% |
-| Khvicha Kvaratskhelia | 88 | Ligue 1 McDonald's | 277k coins | +46.6% | +6.1% |
-| Paulo Futre | 92 | Liga Portugal | 47k coins | +44.9% | -16.3% |
-| David Neres | 86 | Serie A TIM | 75k coins | +42.3% | +21.3% |
-| Jens Petter Hauge | 91 | Eliteserien | 43k coins | +41.6% | -55.1% |
-| Raphinha | 91 | LALIGA EA SPORTS | 249k coins | +39.1% | +18.6% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 242k coins | +36.1% | +45.8% |
-| Timo Werner | 87 | Bundesliga | 85k coins | +31.6% | -1.9% |
-| Kerem Aktürkoğlu | 91 | — | 50k coins | +31.6% | +11.1% |
+| George Best | 91 | Icons | 260k coins | +52.4% | +4.4% |
+| Caroline Graham Hansen | 92 | Liga F | 167k coins | +50% | -4% |
+| Anthony Gordon | 88 | Premier League | 158k coins | +36.2% | +14.3% |
+| Paulo Futre | 92 | Liga Portugal | 45k coins | +32.4% | -33.3% |
+| Kerem Aktürkoğlu | 91 | — | 50k coins | +31.6% | +14.3% |
+| David Neres | 86 | Serie A TIM | 70k coins | +30.8% | +11.5% |
+| Wilson Odobert | 87 | Premier League | 34k coins | +24.8% | +5.2% |
+| Michelle Cooper | 87 | NWSL | 21k coins | +24.7% | +62.7% |
+| Jérémy Doku | 91 | Premier League | 212k coins | +22.8% | +30.6% |
+| Raphinha | 91 | LALIGA EA SPORTS | 88k coins | +22% | -8.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **pressio
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Désiré Doué (91)** subiu **+51.9%** em 24h, a **790k coins** (faixa do dia: 665k–1.20M). Está em linha com a média de 7 dias (-8%).
+- **George Best (91)** subiu **+52.4%** em 24h, a **260k coins** (faixa do dia: 127k–416k). Está em linha com a média de 7 dias (+6%).
 
-- **Armand Laurienté (86)** subiu **+46.7%** em 24h, a **21k coins** (faixa do dia: 11.000–35k). Está +40% acima da média de 7 dias (aquecida).
+- **Caroline Graham Hansen (92)** subiu **+50%** em 24h, a **167k coins** (faixa do dia: 125k–280k). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Khvicha Kvaratskhelia (88)** subiu **+46.6%** em 24h, a **277k coins** (faixa do dia: 148k–300k). Está +63% acima da média de 7 dias (aquecida).
+- **Anthony Gordon (88)** subiu **+36.2%** em 24h, a **158k coins** (faixa do dia: 132k–193k). Está -11% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 41k coins | -48.8% | +2.5% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 40k coins | -47.4% | -46.7% |
-| Anis Hadj-Moussa | 86 | Eredivisie | 50k coins | -45.2% | +9.6% |
-| Jairzinho | 89 | Icons | 185k coins | -41.5% | -28.9% |
-| Evann Guessand | 96 | — | 62k coins | -37.3% | -62.1% |
-| Jérémy Doku | 86 | Premier League | 299k coins | -33.4% | +50.3% |
-| Saeed Al Owairan | 91 | ROSHN Saudi League | 78k coins | -32.6% | -39.6% |
-| Rodrygo | 89 | LALIGA EA SPORTS | 402k coins | -31.9% | +3.1% |
-| Couhaib Driouech | 86 | Eredivisie | 48k coins | -31.1% | -30.1% |
-| Gervinho | 87 | Serie A TIM | 90k coins | -29.5% | +22.9% |
+| Anders Dreyer | 84 | MLS | 22k coins | -49.4% | +3.4% |
+| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 41k coins | -48.8% | +5.1% |
+| Jens Petter Hauge | 88 | Eliteserien | 42k coins | -39.4% | -28.3% |
+| Jairzinho | 89 | Icons | 187k coins | -38% | -37% |
+| Caroline Graham Hansen | 96 | — | 103k coins | -36.9% | -60.1% |
+| Jérémy Doku | 86 | Premier League | 286k coins | -34.5% | +35.5% |
+| Couhaib Driouech | 86 | Eredivisie | 46k coins | -32.1% | -27.5% |
+| Phil Foden | 86 | Premier League | 65k coins | -26.8% | -23.1% |
+| Noa Lang | 91 | Trendyol Süper Lig | 42k coins | -26.6% | -56.2% |
+| Caroline Graham Hansen | 90 | Liga F | 24k coins | -25.9% | -33.3% |
 
 
 ### Análise das baixas
 
+- **Anders Dreyer (84)** caiu **-49.4%** em 24h, a **22k coins** (faixa do dia: 16.000–50k). Está em linha com a média de 7 dias (-8%).
+
 - **Anthony Nwakaeme (87)** caiu **-48.8%** em 24h, a **41k coins** (faixa do dia: 41k–80k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Ethan Nwaneri (91)** caiu **-47.4%** em 24h, a **40k coins** (faixa do dia: 29k–90k). Está -10% abaixo da média de 7 dias (descontada).
-
-- **Anis Hadj-Moussa (86)** caiu **-45.2%** em 24h, a **50k coins** (faixa do dia: 49k–100k). Está -37% abaixo da média de 7 dias (descontada).
+- **Jens Petter Hauge (88)** caiu **-39.4%** em 24h, a **42k coins** (faixa do dia: 36k–72k). Está em linha com a média de 7 dias (-4%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Désiré Doué já avançou 51.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** George Best já avançou 52.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Anthony Nwakaeme recuou -48.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Anders Dreyer recuou -49.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Désiré Doué (91, Ligue 1 McDonald's), com +51.9% em 24h, a 790k coins no Console (PS).
+George Best (91, Icons), com +52.4% em 24h, a 260k coins no Console (PS).
 
 **E a maior queda do dia?**
-Anthony Nwakaeme (87), -48.8% em 24h, a 41k coins.
+Anders Dreyer (84), -49.4% em 24h, a 22k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 72 cartas em alta contra 92 em queda (média -2.61%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 72 cartas em alta contra 94 em queda (média -1.96%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

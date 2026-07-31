@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:13:10.000Z
+pubDatetime: 2026-07-31T13:13:10.000Z
 title: "Jogadores baratos EA FC: Pontas em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 8.921 coins.
-- **Posição mais frequente:** LW, com 8 cartas.
-- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.310 coins.
+- **Posição mais frequente:** RW, com 8 cartas.
+- **Faixa real:** 2.200 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,32 +41,33 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
+| Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
-| Daniela Agote | 91 | LW | — | 14.500 coins | -10.7% |
+| Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
-| Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
-| Oscar Bobb | 88 | RW | Premier League | 14.500 coins | +10.9% |
-| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.400 coins | 0% |
-| Mika Godts | 87 | LW | Eredivisie | 14.750 coins | -4.8% |
-| Claudia Pina | 86 | LW | Liga F | 1.500 coins | 0% |
-| Temwa Chawinga | 86 | LW | NWSL | 2.500 coins | 0% |
-| Lionel Messi | 86 | RW | MLS | 3.700 coins | 0% |
-| Heung Min Son | 85 | LW | Premier League | 1.800 coins | +5.6% |
-| Marco Asensio | 85 | RW | Trendyol Süper Lig | 11.500 coins | -7.4% |
+| Oumar Camara | 90 | LW | — | 13.500 coins | -14.5% |
+| Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
+| Oscar Bobb | 88 | RW | Premier League | 13.000 coins | +28% |
+| Heung Min Son | 88 | LW | MLS | 14.250 coins | 0% |
+| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.300 coins | 0% |
+| Temwa Chawinga | 86 | LW | NWSL | 2.200 coins | +4.2% |
+| Lionel Messi | 86 | RW | MLS | 3.400 coins | -12.8% |
+| Ivan Perišić | 86 | RW | Eredivisie | 11.250 coins | 0% |
+| Oscar Bobb | 85 | RW | Premier League | 14.500 coins | +29.2% |
 
 
 ## 📈 Destaques
 
 - **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Khvicha Kvaratskhelia (91, LW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Kadidiatou Diani (91, RW)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Daniela Agote (91, LW)** da —, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mohammed Kudus (90, RW)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Lauren Hemp (90, LW)** da Barclays WSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
