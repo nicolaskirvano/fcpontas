@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T09:25:35.000Z
+pubDatetime: 2026-08-01T10:13:21.000Z
 title: "Jogadores baratos EA FC: Pontas em 01/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 9.468 coins.
+- **Preço médio das 13 opções:** 9.515 coins.
 - **Posição mais frequente:** RW, com 7 cartas.
-- **Faixa real:** 1.500 a 12.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.600 a 12.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -48,12 +48,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 10.250 coins | -13.5% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 3.200 coins | +13.8% |
 | Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
-| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.500 coins | +5.7% |
+| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.400 coins | +2.9% |
 | Joe Cole | 87 | RW | Premier League | 12.500 coins | +4.2% |
-| Linda Caicedo | 85 | LW | Liga F | 1.500 coins | +50% |
-| Rodrygo | 85 | RW | LALIGA EA SPORTS | 1.800 coins | +50% |
+| Linda Caicedo | 85 | LW | Liga F | 1.600 coins | +57.9% |
 
 
 ## 📈 Destaques
