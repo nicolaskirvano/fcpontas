@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:13:17.000Z
+pubDatetime: 2026-08-01T22:13:17.000Z
 title: "Mercado EA FC em 01/08: Pontas — PC"
 draft: false
 featured: true
@@ -13,22 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Debinha (89, NWSL), com +43.8% em 24h, a 119k coins no PC."
+    a: "Anthony Nwakaeme (87, Trendyol Süper Lig), com +60% em 24h, a 80k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Mohamed Salah (92), -34.9% em 24h, a 123k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Lukáš Haraslín (89) — 63% de probabilidade de alta, a 20k coins."
+    a: "Wilson Odobert (87), -38.5% em 24h, a 20k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 74 cartas em alta contra 56 em queda (média 2.86%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 77 cartas em alta contra 56 em queda (média 2.77%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **01/08/2026** no PC: mercado **em alta** — predominam as valorizações. **74 valorizações** contra **56 quedas** entre as cartas relevantes, com média de **2.86%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **01/08/2026** no PC: mercado **em alta** — predominam as valorizações. **77 valorizações** contra **56 quedas** entre as cartas relevantes, com média de **2.77%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Debinha (89) **+43.8%** · 🔴 **Maior baixa:** Mohamed Salah (92) **-34.9%**
+> 🟢 **Maior alta:** Anthony Nwakaeme (87) **+60%** · 🔴 **Maior baixa:** Wilson Odobert (87) **-38.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Pontas — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -37,24 +35,24 @@ Resumo de **01/08/2026** no PC: mercado **em alta** — predominam as valorizaç
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 78.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 56.9% entre as cartas que se moveram; o universo observado reúne 193 cartas.
-- **Concentração:** Liga F aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 98.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 57.9% entre as cartas que se moveram; o universo observado reúne 188 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Debinha | 89 | NWSL | 119k coins | +43.8% | -13.6% |
+| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 80k coins | +60% | 0% |
+| Rafael Leão | 87 | Serie A TIM | 850k coins | +54.8% | +93.2% |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 74k coins | +48.5% | +37.6% |
+| Malcom | 87 | ROSHN Saudi League | 55k coins | +48.3% | +78% |
+| Antoine Semenyo | 94 | — | 150k coins | +48.1% | -23.4% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 235k coins | +47.8% | +128.2% |
+| Saeed Al Owairan | 91 | ROSHN Saudi League | 215k coins | +46.2% | +6% |
+| Anthony Gordon | 88 | Premier League | 190k coins | +46.2% | -33.8% |
 | Raphinha | 91 | LALIGA EA SPORTS | 316k coins | +43.6% | +1.9% |
-| Rodrigo Zalazar | 84 | Liga Portugal | 50k coins | +42.9% | +28.2% |
-| Antonio Di Natale | 89 | Serie A TIM | 310k coins | +40.3% | +92.5% |
-| Rafael Leão | 87 | Serie A TIM | 850k coins | +39.6% | +80.9% |
-| Mika Godts | 93 | — | 38k coins | +33.9% | +48.5% |
-| Yan Diomande | 92 | — | 42k coins | +28.8% | +49.2% |
-| Claudia Pina | 87 | Liga F | 480k coins | +28.3% | +49.5% |
-| Lamine Yamal | 92 | LALIGA EA SPORTS | 889k coins | +27% | +40.7% |
-| Olivia Smith | 86 | Barclays WSL | 59k coins | +26% | +16.7% |
+| Antonio Di Natale | 89 | Serie A TIM | 310k coins | +40.3% | +80.2% |
 
 
 ### Análise das altas
@@ -63,52 +61,43 @@ Resumo de **01/08/2026** no PC: mercado **em alta** — predominam as valorizaç
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Debinha (89)** subiu **+43.8%** em 24h, a **119k coins** (faixa do dia: 85k–220k). Está em linha com a média de 7 dias (-4%).
+- **Anthony Nwakaeme (87)** subiu **+60%** em 24h, a **80k coins** (faixa do dia: 40k–120k). Está em linha com a média de 7 dias (-7%).
 
-- **Raphinha (91)** subiu **+43.6%** em 24h, a **316k coins** (faixa do dia: 220k–320k). Está +27% acima da média de 7 dias (aquecida).
+- **Rafael Leão (87)** subiu **+54.8%** em 24h, a **850k coins** (faixa do dia: 488k–899k). Está +32% acima da média de 7 dias (aquecida).
 
-- **Rodrigo Zalazar (84)** subiu **+42.9%** em 24h, a **50k coins** (faixa do dia: 35k–50k). Está +10% acima da média de 7 dias (aquecida).
+- **Florian Thauvin (87)** subiu **+48.5%** em 24h, a **74k coins** (faixa do dia: 50k–75k). Está +34% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Wilson Odobert | 87 | Premier League | 20k coins | -38.5% | -40.3% |
 | Mohamed Salah | 92 | Premier League | 123k coins | -34.9% | -52.1% |
-| Matteo Politano | 87 | — | 42k coins | -30.4% | +7.1% |
-| Couhaib Driouech | 86 | Eredivisie | 99k coins | -28.3% | -9.5% |
-| Claudia Pina | 92 | Liga F | 800k coins | -27.4% | -2% |
-| Jérémy Doku | 84 | Premier League | 94k coins | -27.3% | -7.4% |
-| Malcom | 87 | ROSHN Saudi League | 95k coins | -25.2% | -4.3% |
-| Said El Mala | 90 | — | 26k coins | -24.5% | +16.7% |
-| Caroline Graham Hansen | 92 | Liga F | 269k coins | -23.1% | -2.2% |
+| Matteo Politano | 87 | — | 42k coins | -31.7% | +10.1% |
+| Jérémy Doku | 86 | Premier League | 1M coins | -28.6% | -37.5% |
+| Sandy Baltimore | 87 | Barclays WSL | 58k coins | -27.9% | 0% |
+| Said El Mala | 90 | — | 25k coins | -24.8% | +33.8% |
+| Rubén García | 87 | LALIGA EA SPORTS | 23k coins | -24.2% | -12.5% |
+| Caroline Graham Hansen | 92 | Liga F | 269k coins | -23.1% | -36% |
+| Khvicha Kvaratskhelia | 96 | — | 375k coins | -23.1% | -36.7% |
 | Anass Zaroury | 86 | Hellas Liga | 65k coins | -23.1% | — |
-| Saeed Al Owairan | 85 | ROSHN Saudi League | 26k coins | -21.8% | -1.1% |
 
 
 ### Análise das baixas
 
-- **Mohamed Salah (92)** caiu **-34.9%** em 24h, a **123k coins** (faixa do dia: 123k–189k). Está -36% abaixo da média de 7 dias (descontada).
+- **Wilson Odobert (87)** caiu **-38.5%** em 24h, a **20k coins** (faixa do dia: 20k–35k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Matteo Politano (87)** caiu **-30.4%** em 24h, a **42k coins** (faixa do dia: 41k–60k). Está -15% abaixo da média de 7 dias (descontada).
+- **Mohamed Salah (92)** caiu **-34.9%** em 24h, a **123k coins** (faixa do dia: 123k–189k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Couhaib Driouech (86)** caiu **-28.3%** em 24h, a **99k coins** (faixa do dia: 84k–120k). Está em linha com a média de 7 dias (+2%).
-
-
-## 🔮 O que o modelo prevê para as próximas 24h
-
-Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
-
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Lukáš Haraslín | 89 | 20k coins | 20k coins | 63% |
+- **Matteo Politano (87)** caiu **-31.7%** em 24h, a **42k coins** (faixa do dia: 41k–60k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Debinha já avançou 43.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Anthony Nwakaeme já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Mohamed Salah recuou -34.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Wilson Odobert recuou -38.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Debinha (89, NWSL), com +43.8% em 24h, a 119k coins no PC.
+Anthony Nwakaeme (87, Trendyol Süper Lig), com +60% em 24h, a 80k coins no PC.
 
 **E a maior queda do dia?**
-Mohamed Salah (92), -34.9% em 24h, a 123k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Lukáš Haraslín (89) — 63% de probabilidade de alta, a 20k coins.
+Wilson Odobert (87), -38.5% em 24h, a 20k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 74 cartas em alta contra 56 em queda (média 2.86%).
+Hoje o mercado está em alta — predominam as valorizações, com 77 cartas em alta contra 56 em queda (média 2.77%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
