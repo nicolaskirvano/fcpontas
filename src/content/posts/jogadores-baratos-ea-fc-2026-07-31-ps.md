@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:13:10.000Z
+pubDatetime: 2026-08-01T01:13:11.000Z
 title: "Jogadores baratos EA FC: Pontas em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 11.229 coins.
-- **Posição mais frequente:** RW, com 6 cartas.
-- **Faixa real:** 3.500 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 14 opções:** 10.521 coins.
+- **Posição mais frequente:** RW, com 8 cartas.
+- **Faixa real:** 1.600 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,19 +46,21 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 13.500 coins | +6.2% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 10.250 coins | -6.4% |
 | Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
+| Oscar Bobb | 88 | RW | Premier League | 13.750 coins | 0% |
 | Heung Min Son | 88 | LW | MLS | 14.250 coins | 0% |
-| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.500 coins | +8.8% |
-| Mary Fowler | 87 | RW | Barclays Women’s Super League | 13.000 coins | -8.3% |
-| Ivan Perišić | 86 | RW | Eredivisie | 11.250 coins | -2.2% |
+| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.200 coins | -5.9% |
+| Kiko Seike | 87 | RW | Barclays WSL | 13.250 coins | -8.6% |
+| Ivan Perišić | 86 | RW | Eredivisie | 11.750 coins | 0% |
+| Rodrygo | 85 | RW | LALIGA EA SPORTS | 1.600 coins | +60% |
 
 
 ## 📈 Destaques
 
 - **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins**
 
-- **Kadidiatou Diani (91, RW)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kadidiatou Diani (91, RW)** da D1 Arkema, a apenas **11.500 coins**
 
 - **Khvicha Kvaratskhelia (91, LW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 

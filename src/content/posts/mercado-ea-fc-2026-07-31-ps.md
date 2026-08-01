@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:13:07.000Z
+pubDatetime: 2026-08-01T01:13:08.000Z
 title: "Mercado EA FC em 31/07: Pontas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Rivaldo (91, Icons), com +60% em 24h, a 75k coins no Console (PS)."
+    a: "Léo Scienza (95, sem liga), com +43.3% em 24h, a 22k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Athenea (86), -40% em 24h, a 22k coins."
+    a: "Désiré Doué (96), -48.9% em 24h, a 295k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 60 cartas em alta contra 76 em queda (média -1.96%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 55 cartas em alta contra 99 em queda (média -5.59%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **pressionado** — as quedas dominam o dia: **60 cartas subiram** e **76 caíram** (80+ acima de 5k coins), variação média de **-1.96%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **pressionado** — as quedas dominam o dia: **55 cartas subiram** e **99 caíram** (80+ acima de 5k coins), variação média de **-5.59%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Rivaldo (91) **+60%** · 🔴 **Maior baixa:** Athenea (86) **-40%**
+> 🟢 **Maior alta:** Léo Scienza (95) **+43.3%** · 🔴 **Maior baixa:** Désiré Doué (96) **-48.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Pontas — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **pressio
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 44.1% entre as cartas que se moveram; o universo observado reúne 173 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 92.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 35.7% entre as cartas que se moveram; o universo observado reúne 193 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rivaldo | 91 | Icons | 75k coins | +60% | +17% |
-| Rodrygo | 89 | LALIGA EA SPORTS | 550k coins | +49.6% | +86.7% |
-| Athenea | 95 | — | 22k coins | +34.9% | +34.9% |
-| Ferran Torres | 86 | LALIGA EA SPORTS | 60k coins | +33.3% | +50% |
-| Olivia Smith | 86 | Barclays WSL | 72k coins | +24.3% | +9.2% |
-| Florian Thauvin | 83 | Ligue 1 McDonald's | 65k coins | +21.7% | +37.3% |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 55k coins | +18% | +25.5% |
-| Florian Thauvin | 96 | — | 21k coins | +16.7% | +21.7% |
-| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 667k coins | +16.6% | +2.6% |
-| Bradley Barcola | 92 | — | 52k coins | +14.3% | +50% |
+| Léo Scienza | 95 | — | 22k coins | +43.3% | +48.3% |
+| Anders Dreyer | 94 | — | 22k coins | +41.9% | +33.3% |
+| Denis Bouanga | 95 | — | 22k coins | +41% | +48.3% |
+| Athenea | 95 | — | 22k coins | +41% | +53.6% |
+| Mika Godts | 93 | — | 40k coins | +39.1% | +92.8% |
+| Reyes Cleary | 90 | — | 20k coins | +35.6% | -26.6% |
+| Michelle Cooper | 87 | NWSL | 28k coins | +34.1% | +86.9% |
+| Malcom | 87 | ROSHN Saudi League | 95k coins | +31.7% | +64.2% |
+| Zlatko Tripić | 96 | — | 22k coins | +30.3% | +36.5% |
+| Rodrygo | 89 | LALIGA EA SPORTS | 550k coins | +27.5% | +138.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **pressio
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Rivaldo (91)** subiu **+60%** em 24h, a **75k coins** (faixa do dia: 54k–100k). Está em linha com a média de 7 dias (-3%).
+- **Léo Scienza (95)** subiu **+43.3%** em 24h, a **22k coins** (faixa do dia: 15.000–22k). Está +28% acima da média de 7 dias (aquecida).
 
-- **Rodrygo (89)** subiu **+49.6%** em 24h, a **550k coins** (faixa do dia: 366k–550k). Está em linha com a média de 7 dias (+2%).
+- **Anders Dreyer (94)** subiu **+41.9%** em 24h, a **22k coins** (faixa do dia: 15.000–22k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Athenea (95)** subiu **+34.9%** em 24h, a **22k coins** (faixa do dia: 14.500–22k). Está +26% acima da média de 7 dias (aquecida).
+- **Denis Bouanga (95)** subiu **+41%** em 24h, a **22k coins** (faixa do dia: 14.750–22k). Está +25% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Athenea | 86 | Liga F | 22k coins | -40% | -52.4% |
-| Christian Pulisic | 96 | — | 28k coins | -38.7% | -55.1% |
-| Couhaib Driouech | 86 | Eredivisie | 34k coins | -33.3% | -42.4% |
-| George Best | 90 | Icons | 136k coins | -30.6% | 0% |
-| Caroline Graham Hansen | 96 | — | 96k coins | -30.4% | -37.3% |
-| Jérémy Doku | 84 | Premier League | 70k coins | -24% | +6.4% |
-| Claudia Pina | 96 | — | 410k coins | -23.2% | +3% |
-| Gabriel Martinelli | 87 | Premier League | 70k coins | -23.1% | -9.1% |
-| Caroline Graham Hansen | 92 | Liga F | 110k coins | -22% | -51.8% |
-| Nico Williams | 93 | LALIGA EA SPORTS | 207k coins | -21.4% | +8.4% |
+| Désiré Doué | 96 | — | 295k coins | -48.9% | -43.2% |
+| Jens Petter Hauge | 91 | Eliteserien | 24k coins | -42.4% | -47.5% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 217k coins | -41.4% | +6.9% |
+| Ashley Sanchez | 87 | NWSL | 26k coins | -39.6% | +84.6% |
+| Christian Pulisic | 96 | — | 31k coins | -36.8% | -48.3% |
+| Couhaib Driouech | 86 | Eredivisie | 34k coins | -34% | -41.4% |
+| Raphinha | 91 | LALIGA EA SPORTS | 153k coins | -32.6% | -21.5% |
+| Rayan Cherki | 87 | Premier League | 44k coins | -30.5% | +16.3% |
+| George Best | 90 | Icons | 128k coins | -28.3% | +5.7% |
+| Raphinha | 91 | LALIGA EA SPORTS | 56k coins | -25.7% | -42.3% |
 
 
 ### Análise das baixas
 
-- **Athenea (86)** caiu **-40%** em 24h, a **22k coins** (faixa do dia: 14.250–29k). Está -11% abaixo da média de 7 dias (descontada).
+- **Désiré Doué (96)** caiu **-48.9%** em 24h, a **295k coins** (faixa do dia: 239k–750k). Está -51% abaixo da média de 7 dias (descontada).
 
-- **Christian Pulisic (96)** caiu **-38.7%** em 24h, a **28k coins** (faixa do dia: 25k–55k). Está -54% abaixo da média de 7 dias (descontada).
+- **Jens Petter Hauge (91)** caiu **-42.4%** em 24h, a **24k coins** (faixa do dia: 19.000–47k). Está -52% abaixo da média de 7 dias (descontada).
 
-- **Couhaib Driouech (86)** caiu **-33.3%** em 24h, a **34k coins** (faixa do dia: 34k–78k). Está -23% abaixo da média de 7 dias (descontada).
+- **Nico Williams (93)** caiu **-41.4%** em 24h, a **217k coins** (faixa do dia: 207k–380k). Está em linha com a média de 7 dias (-5%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Rivaldo já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Léo Scienza já avançou 43.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Athenea recuou -40%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Désiré Doué recuou -48.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Rivaldo (91, Icons), com +60% em 24h, a 75k coins no Console (PS).
+Léo Scienza (95, sem liga), com +43.3% em 24h, a 22k coins no Console (PS).
 
 **E a maior queda do dia?**
-Athenea (86), -40% em 24h, a 22k coins.
+Désiré Doué (96), -48.9% em 24h, a 295k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 60 cartas em alta contra 76 em queda (média -1.96%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 55 cartas em alta contra 99 em queda (média -5.59%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
