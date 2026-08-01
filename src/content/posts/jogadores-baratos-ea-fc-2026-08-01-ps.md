@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:13:11.000Z
+pubDatetime: 2026-08-01T13:13:10.000Z
 title: "Jogadores baratos EA FC: Pontas em 01/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 8.667 coins.
-- **Posição mais frequente:** LW, com 8 cartas.
-- **Faixa real:** 1.500 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 9.953 coins.
+- **Posição mais frequente:** RW, com 8 cartas.
+- **Faixa real:** 2.000 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,31 +41,31 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
 | Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
-| Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
+| Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 12.000 coins | +4.4% |
+| Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
+| Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 11.000 coins | +2.3% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2.000 coins | 0% |
 | Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
 | Heung Min Son | 88 | LW | MLS | 14.250 coins | 0% |
-| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.300 coins | -2.9% |
-| Claudia Pina | 86 | LW | Liga F | 2.200 coins | +38.5% |
-| Lionel Messi | 86 | RW | MLS | 4.200 coins | +25.7% |
-| Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | -9.6% |
-| Rodrygo | 85 | RW | LALIGA EA SPORTS | 1.500 coins | +50% |
-| Heung Min Son | 85 | LW | Premier League | 1.800 coins | 0% |
+| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.000 coins | 0% |
+| Harry Kewell | 87 | LW | Premier League | 11.000 coins | +3.3% |
+| Kiko Seike | 87 | RW | Barclays WSL | 13.500 coins | -10% |
+| Lionel Messi | 86 | RW | MLS | 3.800 coins | +17.6% |
+| Ivan Perišić | 86 | RW | Eredivisie | 11.500 coins | +2.2% |
 
 
 ## 📈 Destaques
 
 - **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins**
 
-- **Kadidiatou Diani (91, RW)** da D1 Arkema, a apenas **11.500 coins**
-
 - **Khvicha Kvaratskhelia (91, LW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lauren Hemp (90, LW)** da Barclays WSL, a apenas **11.250 coins**
+- **Kadidiatou Diani (91, RW)** da D1 Arkema, a apenas **11.500 coins**
+
+- **Mohammed Kudus (90, RW)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ivan Perišić (90, LW)** da Eredivisie, a apenas **11.250 coins**
 

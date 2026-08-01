@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:13:21.000Z
+pubDatetime: 2026-08-01T13:13:19.000Z
 title: "Jogadores baratos EA FC: Pontas em 01/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 9.515 coins.
-- **Posição mais frequente:** RW, com 7 cartas.
-- **Faixa real:** 1.600 a 12.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.053 coins.
+- **Posição mais frequente:** RW, com 9 cartas.
+- **Faixa real:** 2.200 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,29 +41,31 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Ivan Perišić | 96 | RW | — | 12.000 coins | +2.1% |
-| Gabriel Silva | 95 | LW | — | 11.750 coins | 0% |
+| Gabriel Silva | 95 | LW | — | 12.000 coins | +2.1% |
+| Zizo | 95 | RW | — | 13.500 coins | +2.9% |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
 | Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
+| Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
+| Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 3.200 coins | +13.8% |
+| Bukayo Saka | 88 | RW | Premier League | 2.200 coins | +45.5% |
 | Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
-| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.400 coins | +2.9% |
-| Joe Cole | 87 | RW | Premier League | 12.500 coins | +4.2% |
-| Linda Caicedo | 85 | LW | Liga F | 1.600 coins | +57.9% |
+| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.900 coins | 0% |
+| Mary Fowler | 87 | RW | Barclays Women’s Super League | 11.000 coins | 0% |
+| Joe Cole | 87 | RW | Premier League | 14.750 coins | +4.2% |
+| Claudia Pina | 86 | LW | Liga F | 2.200 coins | +29.4% |
 
 
 ## 📈 Destaques
 
 - **Ivan Perišić (96, RW)** da —, a apenas **12.000 coins**
 
-- **Gabriel Silva (95, LW)** da —, a apenas **11.750 coins**
+- **Gabriel Silva (95, LW)** da —, a apenas **12.000 coins**
+
+- **Zizo (95, RW)** da —, a apenas **13.500 coins**
 
 - **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins**
-
-- **Kadidiatou Diani (91, RW)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Khvicha Kvaratskhelia (91, LW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
