@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:13:09.000Z
+pubDatetime: 2026-08-01T16:13:09.000Z
 title: "Investimentos EA FC: Pontas em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Mika Godts (93, sem liga) lidera, com +84.6% em 7 dias a 40k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Denis Bouanga (95, sem liga) lidera, com +58.6% em 7 dias a 23k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mika Godts (93) acumula **+84.6% em 7 dias** a 40k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Denis Bouanga (95) acumula **+58.6% em 7 dias** a 23k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.0% em 24h** e **+46.9% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+20.8% em 24h** e **+44.0% em 7 dias**.
+- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mika Godts | 93 | — | 40k coins | +14.3% | +84.6% | Esticada |
-| Denis Bouanga | 95 | — | 22k coins | +32.8% | +58.9% | Esticada |
-| Athenea | 95 | — | 22k coins | +32.8% | +58.9% | Esticada |
-| Roberto Alvarado | 94 | — | 18.500 coins | +15.9% | +52.1% | Momentum moderado |
-| Elijah Just | 94 | — | 18.500 coins | +14.1% | +52.1% | Momentum moderado |
-| Léo Scienza | 95 | — | 22k coins | +31.3% | +51.7% | Esticada |
-| Bartosz Nowak | 93 | — | 24k coins | +20% | +50% | Esticada |
-| Anders Dreyer | 94 | — | 23k coins | +38.2% | +46.9% | Esticada |
-| Oumar Camara | 90 | — | 17.000 coins | +26.9% | +43.5% | Esticada |
-| Oscar Bobb | 95 | — | 19.000 coins | +11.8% | +40.7% | Momentum moderado |
-| Zlatko Tripić | 96 | — | 22k coins | +27.5% | +39.7% | Esticada |
-| Ernest Muçi | 92 | — | 24k coins | +20% | +39.1% | Esticada |
-| Julian Quiñones | 96 | — | 20k coins | +4.1% | +35.7% | Momentum moderado |
-| Phil Foden | 86 | Premier League | 62k coins | +3.2% | +31.3% | Momentum moderado |
-| Edmilson Junior | 92 | — | 20k coins | +35.6% | +29% | Esticada |
+| Denis Bouanga | 95 | — | 23k coins | +35.3% | +58.6% | Esticada |
+| Athenea | 95 | — | 23k coins | +35.3% | +58.6% | Esticada |
+| Léo Scienza | 95 | — | 23k coins | +35.3% | +53.3% | Esticada |
+| Roberto Alvarado | 94 | — | 18.250 coins | +10.6% | +52.1% | Momentum moderado |
+| Elijah Just | 94 | — | 18.500 coins | +10.6% | +52.1% | Momentum moderado |
+| Oumar Camara | 90 | — | 17.250 coins | +27.8% | +46.8% | Esticada |
+| Zlatko Tripić | 96 | — | 23k coins | +29.2% | +45.3% | Esticada |
+| Oscar Bobb | 88 | Premier League | 15.000 coins | +33.3% | +44% | Esticada |
+| Bartosz Nowak | 93 | — | 24k coins | +20% | +41.2% | Esticada |
+| Ernest Muçi | 92 | — | 24k coins | +20.3% | +35.7% | Esticada |
+| Oscar Bobb | 95 | — | 18.250 coins | +2.8% | +35.2% | Momentum moderado |
+| Jerzy Dudek | 87 | Premier League | 54k coins | +38.5% | +35% | Esticada |
+| Florian Thauvin | 96 | — | 24k coins | +20.8% | +34.8% | Esticada |
+| Phil Foden | 86 | Premier League | 65k coins | +4.8% | +34.7% | Momentum moderado |
+| Cody Gakpo | 86 | Premier League | 60k coins | +20% | +29% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Mika Godts (93)** — 40k coins, **+84.6% em 7 dias** (+14.3% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Denis Bouanga (95)** — 23k coins, **+58.6% em 7 dias** (+35.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Denis Bouanga (95)** — 22k coins, **+58.9% em 7 dias** (+32.8% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Athenea (95)** — 23k coins, **+58.6% em 7 dias** (+35.3% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Athenea (95)** — 22k coins, **+58.9% em 7 dias** (+32.8% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Léo Scienza (95)** — 23k coins, **+53.3% em 7 dias** (+35.3% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Roberto Alvarado (94)** — 18.500 coins, **+52.1% em 7 dias** (+15.9% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roberto Alvarado (94)** — 18.250 coins, **+52.1% em 7 dias** (+10.6% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Elijah Just (94)** — 18.500 coins, **+52.1% em 7 dias** (+14.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Elijah Just (94)** — 18.500 coins, **+52.1% em 7 dias** (+10.6% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Mika Godts (93, sem liga) lidera, com +84.6% em 7 dias a 40k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Denis Bouanga (95, sem liga) lidera, com +58.6% em 7 dias a 23k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

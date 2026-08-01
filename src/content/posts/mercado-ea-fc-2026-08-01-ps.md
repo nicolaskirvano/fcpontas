@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:13:07.000Z
+pubDatetime: 2026-08-01T16:13:08.000Z
 title: "Mercado EA FC em 01/08: Pontas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Gabriel Martinelli (87, Premier League), com +58.7% em 24h, a 78k coins no Console (PS)."
+    a: "Juan Iturbe (85, Libertadores), com +57.6% em 24h, a 23k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Lukáš Haraslín (89), -46% em 24h, a 21k coins."
+    a: "Désiré Doué (96), -41.7% em 24h, a 325k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 68 cartas em alta contra 92 em queda (média -5.35%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 74 cartas em alta contra 73 em queda (média -4.49%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **01/08/2026** no Console (PS): mercado **em baixa** — predominam as quedas. **68 valorizações** contra **92 quedas** entre as cartas relevantes, com média de **-5.35%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **01/08/2026** no Console (PS): mercado **em baixa** — predominam as quedas. **74 valorizações** contra **73 quedas** entre as cartas relevantes, com média de **-4.49%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Gabriel Martinelli (87) **+58.7%** · 🔴 **Maior baixa:** Lukáš Haraslín (89) **-46%**
+> 🟢 **Maior alta:** Juan Iturbe (85) **+57.6%** · 🔴 **Maior baixa:** Désiré Doué (96) **-41.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Pontas — Console (PS)](/charts/mercado-ea-fc-2026-08-01-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **01/08/2026** no Console (PS): mercado **em baixa** — predominam as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.5% entre as cartas que se moveram; o universo observado reúne 192 cartas.
-- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 99.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.3% entre as cartas que se moveram; o universo observado reúne 179 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gabriel Martinelli | 87 | Premier League | 78k coins | +58.7% | +42.9% |
-| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 940k coins | +40.9% | +61.2% |
-| Anders Dreyer | 94 | — | 23k coins | +38.2% | +46.9% |
-| Bukayo Saka | 90 | Premier League | 895k coins | +36.1% | +35.7% |
-| Edmilson Junior | 92 | — | 20k coins | +35.6% | +29% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 880k coins | +26.6% | +31.6% |
-| Salma Paralluelo | 86 | Liga F | 460k coins | +24.4% | +39.7% |
-| Nico Williams | 99 | — | 1.10M coins | +20.1% | +58.5% |
-| Bartosz Nowak | 93 | — | 24k coins | +20% | +50% |
-| Ernest Muçi | 92 | — | 24k coins | +20% | +39.1% |
+| Juan Iturbe | 85 | Libertadores | 23k coins | +57.6% | -10.6% |
+| João Félix | 86 | ROSHN Saudi League | 147k coins | +46% | +25.9% |
+| Anders Dreyer | 94 | — | 25k coins | +41.4% | +50% |
+| Jeremie Frimpong | 86 | Premier League | 100k coins | +40.6% | +60.3% |
+| Jerzy Dudek | 87 | Premier League | 54k coins | +38.5% | +35% |
+| Denis Bouanga | 95 | — | 23k coins | +35.3% | +58.6% |
+| Léo Scienza | 95 | — | 23k coins | +35.3% | +53.3% |
+| Athenea | 95 | — | 23k coins | +35.3% | +58.6% |
+| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 939k coins | +34.3% | +69.4% |
+| Mika Godts | 93 | — | 40k coins | +31.1% | +110.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **01/08/2026** no Console (PS): mercado **em baixa** — predominam as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Gabriel Martinelli (87)** subiu **+58.7%** em 24h, a **78k coins** (faixa do dia: 50k–121k). Está em linha com a média de 7 dias (+4%).
+- **Juan Iturbe (85)** subiu **+57.6%** em 24h, a **23k coins** (faixa do dia: 11.000–29k). Está -32% abaixo da média de 7 dias (descontada).
 
-- **Khvicha Kvaratskhelia (91)** subiu **+40.9%** em 24h, a **940k coins** (faixa do dia: 650k–950k). Está +74% acima da média de 7 dias (aquecida).
+- **João Félix (86)** subiu **+46%** em 24h, a **147k coins** (faixa do dia: 82k–154k). Está +21% acima da média de 7 dias (aquecida).
 
-- **Anders Dreyer (94)** subiu **+38.2%** em 24h, a **23k coins** (faixa do dia: 17.000–25k). Está +16% acima da média de 7 dias (aquecida).
+- **Anders Dreyer (94)** subiu **+41.4%** em 24h, a **25k coins** (faixa do dia: 17.000–25k). Está +24% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lukáš Haraslín | 89 | Česká Liga | 21k coins | -46% | +8% |
-| Caroline Graham Hansen | 92 | Liga F | 129k coins | -45.8% | -16.1% |
-| Bradley Barcola | 92 | — | 42k coins | -45.7% | +9.4% |
-| Jérémy Doku | 86 | Premier League | 171k coins | -42.9% | -21.1% |
-| Gervinho | 87 | Serie A TIM | 44k coins | -41.5% | +28.4% |
-| Raphinha | 93 | — | 32k coins | -41.2% | -14.3% |
-| Christian Pulisic | 96 | — | 28k coins | -40.9% | -45% |
-| Désiré Doué | 96 | — | 350k coins | -40.2% | -46.1% |
-| Lee Kang In | 95 | — | 40k coins | -37.7% | -12.2% |
-| Antoine Semenyo | 94 | — | 70k coins | -34.4% | -8.6% |
+| Désiré Doué | 96 | — | 325k coins | -41.7% | -48.2% |
+| Noa Lang | 91 | Trendyol Süper Lig | 22k coins | -38.6% | -52% |
+| Claudia Pina | 88 | Liga F | 62k coins | -37.4% | -0.8% |
+| Bradley Barcola | 92 | — | 40k coins | -33.1% | +33.8% |
+| Christian Pulisic | 96 | — | 36k coins | -31.8% | -43.4% |
+| Paulo Futre | 92 | Liga Portugal | 27k coins | -29.4% | -25.7% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 145k coins | -26.8% | +46.3% |
+| Salma Paralluelo | 96 | — | 1.80M coins | -25.5% | -14% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 96k coins | -25.4% | +52.9% |
+| Evann Guessand | 96 | — | 37k coins | -25% | -51.2% |
 
 
 ### Análise das baixas
 
-- **Lukáš Haraslín (89)** caiu **-46%** em 24h, a **21k coins** (faixa do dia: 11.250–28k). Está em linha com a média de 7 dias (+6%).
+- **Désiré Doué (96)** caiu **-41.7%** em 24h, a **325k coins** (faixa do dia: 228k–635k). Está -43% abaixo da média de 7 dias (descontada).
 
-- **Caroline Graham Hansen (92)** caiu **-45.8%** em 24h, a **129k coins** (faixa do dia: 95k–250k). Está -33% abaixo da média de 7 dias (descontada).
+- **Noa Lang (91)** caiu **-38.6%** em 24h, a **22k coins** (faixa do dia: 17.500–60k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Bradley Barcola (92)** caiu **-45.7%** em 24h, a **42k coins** (faixa do dia: 25k–66k). Está -12% abaixo da média de 7 dias (descontada).
+- **Claudia Pina (88)** caiu **-37.4%** em 24h, a **62k coins** (faixa do dia: 42k–106k). Está -28% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Gabriel Martinelli já avançou 58.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Juan Iturbe já avançou 57.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Lukáš Haraslín recuou -46%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Désiré Doué recuou -41.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Gabriel Martinelli (87, Premier League), com +58.7% em 24h, a 78k coins no Console (PS).
+Juan Iturbe (85, Libertadores), com +57.6% em 24h, a 23k coins no Console (PS).
 
 **E a maior queda do dia?**
-Lukáš Haraslín (89), -46% em 24h, a 21k coins.
+Désiré Doué (96), -41.7% em 24h, a 325k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 68 cartas em alta contra 92 em queda (média -5.35%).
+Hoje o mercado está em baixa — predominam as quedas, com 74 cartas em alta contra 73 em queda (média -4.49%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
