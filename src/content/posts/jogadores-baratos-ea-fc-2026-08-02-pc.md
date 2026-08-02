@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T09:23:42.000Z
+pubDatetime: 2026-08-02T10:13:20.000Z
 title: "Jogadores baratos EA FC: Pontas em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.550 coins.
-- **Posição mais frequente:** RW, com 8 cartas.
-- **Faixa real:** 3.200 a 11.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.190 coins.
+- **Posição mais frequente:** RW, com 9 cartas.
+- **Faixa real:** 7.600 a 11.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ivan Perišić | 96 | RW | — | 11.750 coins | 0% |
-| Anis Hadj-Moussa | 95 | RW | — | 11.000 coins | -2.1% |
-| Gabriel Silva | 95 | LW | — | 11.500 coins | 0% |
+| Ivan Perišić | 96 | RW | — | 11.750 coins | -2.1% |
+| Matteo Politano | 95 | RW | — | 11.500 coins | -2.1% |
+| Gabriel Silva | 95 | LW | — | 11.750 coins | 0% |
+| Anis Hadj-Moussa | 95 | RW | — | 11.750 coins | -2.1% |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Antony | 91 | RW | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Tabitha Chawinga | 91 | LW | D1 Arkema | 11.500 coins | 0% |
-| Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
-| Caroline Graham Hansen | 90 | RW | Liga F | 7.300 coins | -8.8% |
-| Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
+| Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 11.500 coins | 0% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 7.600 coins | -8.8% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
+| Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | John Barnes | 89 | LW | Icons | 11.250 coins | 0% |
 | Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
-| Khvicha Kvaratskhelia | 87 | LW | Serie A Enilive | 3.200 coins | +5.7% |
 
 
 ## 📈 Destaques
 
 - **Ivan Perišić (96, RW)** da —, a apenas **11.750 coins**
 
-- **Anis Hadj-Moussa (95, RW)** da —, a apenas **11.000 coins**
+- **Matteo Politano (95, RW)** da —, a apenas **11.500 coins**
 
-- **Gabriel Silva (95, LW)** da —, a apenas **11.500 coins**
+- **Gabriel Silva (95, LW)** da —, a apenas **11.750 coins**
+
+- **Anis Hadj-Moussa (95, RW)** da —, a apenas **11.750 coins**
 
 - **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins**
-
-- **Antony (91, RW)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
