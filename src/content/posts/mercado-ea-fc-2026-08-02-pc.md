@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:13:17.000Z
+pubDatetime: 2026-08-02T13:13:17.000Z
 title: "Mercado EA FC em 02/08: Pontas — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
     a: "Anthony Gordon (88, Premier League), com +54.5% em 24h, a 190k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Debinha (89), -46.1% em 24h, a 96k coins."
+    a: "Anis Hadj-Moussa (86), -49.1% em 24h, a 42k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 67 cartas em alta contra 71 em queda (média 2.07%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 77 cartas em alta contra 72 em queda (média 3.05%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**02/08/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **67 subiram**, **71 caíram** (80+ e 5k+ coins), média de **2.07%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**02/08/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **77 subiram**, **72 caíram** (80+ e 5k+ coins), média de **3.05%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Anthony Gordon (88) **+54.5%** · 🔴 **Maior baixa:** Debinha (89) **-46.1%**
+> 🟢 **Maior alta:** Anthony Gordon (88) **+54.5%** · 🔴 **Maior baixa:** Anis Hadj-Moussa (86) **-49.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Pontas — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,8 +35,8 @@ Hoje (**02/08/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.6% entre as cartas que se moveram; o universo observado reúne 202 cartas.
+- **Amplitude do dia:** 103.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.7% entre as cartas que se moveram; o universo observado reúne 209 cartas.
 - **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
@@ -44,15 +44,15 @@ Hoje (**02/08/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Anthony Gordon | 88 | Premier League | 190k coins | +54.5% | -33.8% |
-| Yan Diomande | 84 | Bundesliga | 60k coins | +43.7% | +24.4% |
-| Raphinha | 91 | LALIGA EA SPORTS | 308k coins | +40% | -3.8% |
-| Chloe Kelly | 88 | Barclays WSL | 20k coins | +36.5% | -52% |
-| Rivaldo | 90 | Icons | 98k coins | +34.5% | +22.8% |
+| Ronaldinho | 93 | Icons | 1.13M coins | +43.4% | -17.2% |
+| Claudia Pina | 96 | — | 1M coins | +41% | +46.9% |
+| Gustav Isaksen | 87 | Serie A TIM | 68k coins | +37% | +37% |
 | Santiago Hidalgo | 84 | Ligue 1 McDonald's | 50k coins | +30.3% | +26.9% |
-| Ronaldinho | 93 | Icons | 1.20M coins | +29.2% | -2.4% |
-| Tabitha Chawinga | 86 | D1 Arkema | 90k coins | +28.6% | +84.6% |
+| Ousmane Dembélé | 97 | — | 1.90M coins | +28.4% | +57% |
+| Chloe Kelly | 88 | Barclays WSL | 20k coins | +28.4% | -50.3% |
+| Bradley Barcola | 92 | — | 50k coins | +27.7% | -1% |
 | Esmir Bajraktarević | 91 | — | 262k coins | +27.2% | +8.3% |
-| Raphinha | 91 | LALIGA EA SPORTS | 109k coins | +26.7% | -15.5% |
+| Harvey Barnes | 84 | Premier League | 50k coins | +24.2% | +19.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**02/08/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Anthony Gordon (88)** subiu **+54.5%** em 24h, a **190k coins** (faixa do dia: 123k–190k). Está +22% acima da média de 7 dias (aquecida).
+- **Anthony Gordon (88)** subiu **+54.5%** em 24h, a **190k coins** (faixa do dia: 123k–190k). Está +23% acima da média de 7 dias (aquecida).
 
-- **Yan Diomande (84)** subiu **+43.7%** em 24h, a **60k coins** (faixa do dia: 40k–60k). Está +8% acima da média de 7 dias (aquecida).
+- **Ronaldinho (93)** subiu **+43.4%** em 24h, a **1.13M coins** (faixa do dia: 799k–1.55M). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Raphinha (91)** subiu **+40%** em 24h, a **308k coins** (faixa do dia: 220k–320k). Está +24% acima da média de 7 dias (aquecida).
+- **Claudia Pina (96)** subiu **+41%** em 24h, a **1M coins** (faixa do dia: 670k–1.20M). Está +14% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Debinha | 89 | NWSL | 96k coins | -46.1% | -49.7% |
-| Linda Caicedo | 87 | Liga F | 40k coins | -45.6% | -23.3% |
-| Olivia Smith | 86 | Barclays WSL | 54k coins | -30% | -8.2% |
-| Jérémy Doku | 86 | Premier League | 999k coins | -28.6% | -37.6% |
-| Jérémy Doku | 91 | Premier League | 300k coins | -28.6% | +15.4% |
-| Reyes Cleary | 90 | — | 28k coins | -23.8% | +85.5% |
-| Gareth Bale | 88 | Icons | 380k coins | -23.5% | -48.4% |
-| Tabitha Chawinga | 97 | — | 65k coins | -23.2% | -49.3% |
-| Khvicha Kvaratskhelia | 96 | — | 450k coins | -22.8% | -45.2% |
-| Quaresma | 97 | — | 116k coins | -20.9% | — |
+| Anis Hadj-Moussa | 86 | Eredivisie | 42k coins | -49.1% | -26.7% |
+| Noa Lang | 91 | Trendyol Süper Lig | 24k coins | -40.5% | -34.2% |
+| Linda Caicedo | 87 | Liga F | 40k coins | -38.6% | -22.9% |
+| Debinha | 89 | NWSL | 96k coins | -37.7% | -49.7% |
+| Quaresma | 85 | Liga Portugal | 30k coins | -35.9% | -71.9% |
+| Caroline Graham Hansen | 96 | — | 152k coins | -35.6% | -34.8% |
+| Jérémy Doku | 91 | Premier League | 218k coins | -34.9% | +3.8% |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 50k coins | -33.7% | +0.5% |
+| Olivia Smith | 86 | Barclays WSL | 49k coins | -32.4% | -16.9% |
+| Gabriel Pec | 81 | MLS | 35k coins | -30% | -30% |
 
 
 ### Análise das baixas
 
-- **Debinha (89)** caiu **-46.1%** em 24h, a **96k coins** (faixa do dia: 85k–178k). Está -19% abaixo da média de 7 dias (descontada).
+- **Anis Hadj-Moussa (86)** caiu **-49.1%** em 24h, a **42k coins** (faixa do dia: 40k–84k). Está -28% abaixo da média de 7 dias (descontada).
 
-- **Linda Caicedo (87)** caiu **-45.6%** em 24h, a **40k coins** (faixa do dia: 40k–73k). Está -34% abaixo da média de 7 dias (descontada).
+- **Noa Lang (91)** caiu **-40.5%** em 24h, a **24k coins** (faixa do dia: 24k–56k). Está -48% abaixo da média de 7 dias (descontada).
 
-- **Olivia Smith (86)** caiu **-30%** em 24h, a **54k coins** (faixa do dia: 47k–80k). Está -16% abaixo da média de 7 dias (descontada).
+- **Linda Caicedo (87)** caiu **-38.6%** em 24h, a **40k coins** (faixa do dia: 40k–63k). Está -33% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Anthony Gordon já avançou 54.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Debinha recuou -46.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Anis Hadj-Moussa recuou -49.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -112,10 +112,10 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 Anthony Gordon (88, Premier League), com +54.5% em 24h, a 190k coins no PC.
 
 **E a maior queda do dia?**
-Debinha (89), -46.1% em 24h, a 96k coins.
+Anis Hadj-Moussa (86), -49.1% em 24h, a 42k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 67 cartas em alta contra 71 em queda (média 2.07%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 77 cartas em alta contra 72 em queda (média 3.05%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
