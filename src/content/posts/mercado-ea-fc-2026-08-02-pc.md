@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T19:13:18.000Z
+pubDatetime: 2026-08-02T22:13:17.000Z
 title: "Mercado EA FC em 02/08: Pontas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Iago Aspas (86, LALIGA EA SPORTS), com +42.9% em 24h, a 45k coins no PC."
+    a: "Bradley Barcola (92, sem liga), com +42.5% em 24h, a 49k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Rafael Leão (87), -36.5% em 24h, a 1.40M coins."
+    a: "Rayan Cherki (93), -47.4% em 24h, a 26k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 62 cartas em alta contra 76 em queda (média 0.45%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 81 cartas em alta contra 62 em queda (média 2.64%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**02/08/2026**, PC) o Ultimate Team está **de lado** — altas e quedas se equilibram — **62 subiram**, **76 caíram** (80+ e 5k+ coins), média de **0.45%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**02/08/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **81 subiram**, **62 caíram** (80+ e 5k+ coins), média de **2.64%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Iago Aspas (86) **+42.9%** · 🔴 **Maior baixa:** Rafael Leão (87) **-36.5%**
+> 🟢 **Maior alta:** Bradley Barcola (92) **+42.5%** · 🔴 **Maior baixa:** Rayan Cherki (93) **-47.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Pontas — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**02/08/2026**, PC) o Ultimate Team está **de lado** — altas e quedas s
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 79.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 44.9% entre as cartas que se moveram; o universo observado reúne 196 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 89.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 56.6% entre as cartas que se moveram; o universo observado reúne 204 cartas.
+- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Iago Aspas | 86 | LALIGA EA SPORTS | 45k coins | +42.9% | +19% |
-| Olivia Smith | 91 | Barclays WSL | 700k coins | +39.2% | +18% |
+| Bradley Barcola | 92 | — | 49k coins | +42.5% | +12.9% |
+| Bukayo Saka | 90 | Premier League | 1.40M coins | +41.3% | +44% |
+| Olivia Smith | 91 | Barclays WSL | 650k coins | +39.2% | +18.6% |
+| Reyes Cleary | 90 | — | 39k coins | +38.5% | +66.2% |
 | Caroline Graham Hansen | 92 | Liga F | 346k coins | +28.6% | -17.6% |
-| Saeed Al Owairan | 85 | ROSHN Saudi League | 58k coins | +27.9% | +18.8% |
-| Jairzinho | 94 | Icons | 899k coins | +23.7% | +5.8% |
-| Bradley Barcola | 97 | — | 550k coins | +22.8% | +55.4% |
-| Tabitha Chawinga | 86 | D1 Arkema | 110k coins | +22.2% | +22.2% |
-| Pernille Harder | 87 | Liga F | 60k coins | +19% | +19% |
-| Daniela Agote | 91 | — | 28k coins | +18.8% | +21.3% |
-| Ronaldinho | 94 | Icons | 1.40M coins | +17.5% | -30.1% |
+| Sultan Mandash | 93 | — | 22k coins | +27.8% | +32.9% |
+| Timo Werner | 87 | Bundesliga | 70k coins | +24.9% | +45% |
+| Denis Bouanga | 95 | — | 23k coins | +24.7% | +73.8% |
+| Pernille Harder | 87 | Liga F | 54k coins | +24% | +2.6% |
+| Désiré Doué | 96 | — | 329k coins | +23.1% | -75.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**02/08/2026**, PC) o Ultimate Team está **de lado** — altas e quedas s
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Iago Aspas (86)** subiu **+42.9%** em 24h, a **45k coins** (faixa do dia: 35k–50k). Está em linha com a média de 7 dias (+5%).
+- **Bradley Barcola (92)** subiu **+42.5%** em 24h, a **49k coins** (faixa do dia: 24k–64k). Está em linha com a média de 7 dias (-8%).
 
-- **Olivia Smith (91)** subiu **+39.2%** em 24h, a **700k coins** (faixa do dia: 503k–700k). Está +17% acima da média de 7 dias (aquecida).
+- **Bukayo Saka (90)** subiu **+41.3%** em 24h, a **1.40M coins** (faixa do dia: 991k–1.40M). Está +19% acima da média de 7 dias (aquecida).
 
-- **Caroline Graham Hansen (92)** subiu **+28.6%** em 24h, a **346k coins** (faixa do dia: 269k–350k). Está em linha com a média de 7 dias (+4%).
+- **Olivia Smith (91)** subiu **+39.2%** em 24h, a **650k coins** (faixa do dia: 503k–700k). Está +8% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rafael Leão | 87 | Serie A TIM | 1.40M coins | -36.5% | +22.7% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 153k coins | -32.1% | +19% |
-| Antony | 86 | LALIGA EA SPORTS | 65k coins | -31.2% | -11.3% |
-| Jens Petter Hauge | 91 | Eliteserien | 58k coins | -30.7% | +18.6% |
-| Gabriel Pec | 81 | MLS | 35k coins | -30% | -29.6% |
-| Quaresma | 97 | — | 110k coins | -28.1% | — |
-| Tabitha Chawinga | 97 | — | 55k coins | -27.9% | -73.8% |
-| Víctor Ibarbo | 85 | Serie A TIM | 35k coins | -27.6% | +20.9% |
-| Saeed Al Owairan | 91 | ROSHN Saudi League | 178k coins | -26.5% | -28% |
-| Mika Godts | 93 | — | 28k coins | -25.3% | +16.7% |
+| Rayan Cherki | 93 | — | 26k coins | -47.4% | +3.4% |
+| Athenea | 86 | Liga F | 25k coins | -42.7% | -18.5% |
+| Oscar Bobb | 88 | Premier League | 20k coins | -39.8% | +25% |
+| Tabitha Chawinga | 97 | — | 40k coins | -37.2% | -74.9% |
+| Antony | 86 | LALIGA EA SPORTS | 50k coins | -36.6% | +16% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 135k coins | -33.8% | -3.5% |
+| Gustav Isaksen | 87 | Serie A TIM | 44k coins | -32.8% | +10% |
+| Jeremie Frimpong | 86 | Premier League | 117k coins | -31.2% | -25.3% |
+| Quaresma | 97 | — | 120k coins | -29.9% | — |
+| Saeed Al Owairan | 91 | ROSHN Saudi League | 178k coins | -27.9% | -33.2% |
 
 
 ### Análise das baixas
 
-- **Rafael Leão (87)** caiu **-36.5%** em 24h, a **1.40M coins** (faixa do dia: 529k–1.40M). Está +105% acima da média de 7 dias (aquecida).
+- **Rayan Cherki (93)** caiu **-47.4%** em 24h, a **26k coins** (faixa do dia: 22k–53k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Désiré Doué (87)** caiu **-32.1%** em 24h, a **153k coins** (faixa do dia: 100k–268k). Está +9% acima da média de 7 dias (aquecida).
+- **Athenea (86)** caiu **-42.7%** em 24h, a **25k coins** (faixa do dia: 14.500–52k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **Antony (86)** caiu **-31.2%** em 24h, a **65k coins** (faixa do dia: 55k–86k). Está em linha com a média de 7 dias (-2%).
+- **Oscar Bobb (88)** caiu **-39.8%** em 24h, a **20k coins** (faixa do dia: 16.250–28k). Está em linha com a média de 7 dias (+5%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Iago Aspas já avançou 42.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Bradley Barcola já avançou 42.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Rafael Leão recuou -36.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Rayan Cherki recuou -47.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Iago Aspas (86, LALIGA EA SPORTS), com +42.9% em 24h, a 45k coins no PC.
+Bradley Barcola (92, sem liga), com +42.5% em 24h, a 49k coins no PC.
 
 **E a maior queda do dia?**
-Rafael Leão (87), -36.5% em 24h, a 1.40M coins.
+Rayan Cherki (93), -47.4% em 24h, a 26k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 62 cartas em alta contra 76 em queda (média 0.45%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 81 cartas em alta contra 62 em queda (média 2.64%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
