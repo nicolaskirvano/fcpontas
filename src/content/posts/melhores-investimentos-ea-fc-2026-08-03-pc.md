@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:13:18.000Z
+pubDatetime: 2026-08-03T22:13:18.000Z
 title: "Investimentos EA FC: Pontas em 03/08 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.4% em 24h** e **+48.4% em 7 dias**.
-- **4 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Hellas Liga** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.7% em 24h** e **+36.2% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Anass Zaroury | 86 | Hellas Liga | 60k coins | +5.3% | +86% | Esticada |
-| Oscar Bobb | 88 | Premier League | 29k coins | +6.6% | +84.1% | Esticada |
-| Mikel Gogorza | 86 | 3F Superliga | 84k coins | +22.2% | +12.8% | Esticada |
-| Malcom | 87 | ROSHN Saudi League | 85k coins | +39.2% | +10.8% | Esticada |
+| Anass Zaroury | 86 | Hellas Liga | 60k coins | +6.2% | +86% | Esticada |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 88k coins | +22.3% | +81.9% | Esticada |
+| Athenea | 95 | — | 25k coins | +11.1% | +58.7% | Momentum moderado |
+| Ernest Muçi | 92 | — | 40k coins | +5.1% | +47.6% | Momentum moderado |
+| Oumar Camara | 90 | — | 20k coins | +3.9% | +43.6% | Momentum moderado |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 20k coins | +15.1% | +40.4% | Momentum moderado |
+| Oscar Bobb | 85 | Premier League | 24k coins | +22.8% | +38.6% | Esticada |
+| Sultan Mandash | 93 | — | 26k coins | +23.9% | +36.2% | Esticada |
+| Luís Figo | 89 | Icons | 80k coins | +10.5% | +25.2% | Momentum moderado |
+| Merveille Kanjinga | 86 | D1 Arkema | 50k coins | +13% | +22.7% | Momentum moderado |
+| Ivan Perišić | 86 | Eredivisie | 16.750 coins | +11.7% | +19.6% | Momentum moderado |
+| Jeremie Frimpong | 86 | Premier League | 146k coins | +24% | +19% | Esticada |
+| Edmilson Junior | 92 | — | 22k coins | +2.3% | +18.9% | Entrada a observar |
+| Mikel Gogorza | 86 | 3F Superliga | 106k coins | +25% | +17% | Esticada |
+| Denis Bouanga | 86 | — | 49k coins | +8.9% | +15.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Anass Zaroury (86)** — 60k coins, **+86% em 7 dias** (+5.3% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Anass Zaroury (86)** — 60k coins, **+86% em 7 dias** (+6.2% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oscar Bobb (88)** — 29k coins, **+84.1% em 7 dias** (+6.6% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bradley Barcola (90)** — 88k coins, **+81.9% em 7 dias** (+22.3% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mikel Gogorza (86)** — 84k coins, **+12.8% em 7 dias** (+22.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Athenea (95)** — 25k coins, **+58.7% em 7 dias** (+11.1% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Malcom (87)** — 85k coins, **+10.8% em 7 dias** (+39.2% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ernest Muçi (92)** — 40k coins, **+47.6% em 7 dias** (+5.1% em 24h). Preço +81% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Oumar Camara (90)** — 20k coins, **+43.6% em 7 dias** (+3.9% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

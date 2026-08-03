@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:13:10.000Z
+pubDatetime: 2026-08-03T22:13:10.000Z
 title: "Jogadores baratos EA FC: Pontas em 03/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.940 coins.
-- **Posição mais frequente:** RW, com 8 cartas.
-- **Faixa real:** 2.200 a 11.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 9.393 coins.
+- **Posição mais frequente:** RW, com 9 cartas.
+- **Faixa real:** 2.000 a 11.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,14 +46,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Tabitha Chawinga | 91 | LW | D1 Arkema | 11.500 coins | 0% |
 | Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
-| Caroline Graham Hansen | 90 | RW | Liga F | 8.200 coins | +21.9% |
-| Vini Jr. | 90 | LW | LALIGA EA SPORTS | 10.000 coins | -4.4% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 7.500 coins | -8.1% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
-| Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
+| Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | John Barnes | 89 | LW | Icons | 11.250 coins | 0% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2.200 coins | +16.7% |
-| Lionel Messi | 88 | RW | MLS | 3.700 coins | 0% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2.000 coins | 0% |
+| Beth Mead | 88 | RW | Barclays WSL | 2.800 coins | 0% |
+| Lionel Messi | 88 | RW | MLS | 3.600 coins | -12.5% |
 | Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
 
 
