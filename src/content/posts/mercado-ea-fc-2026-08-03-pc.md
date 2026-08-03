@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:13:17.000Z
+pubDatetime: 2026-08-03T13:13:17.000Z
 title: "Mercado EA FC em 03/08: Pontas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Jairzinho (89, Icons), com +54.8% em 24h, a 193k coins no PC."
+    a: "Marco Asensio (85, Trendyol Süper Lig), com +50% em 24h, a 26k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Armand Laurienté (86), -38.5% em 24h, a 21k coins."
+    a: "Malcom (87), -48.5% em 24h, a 43k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 85 cartas em alta contra 58 em queda (média 3.86%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 84 cartas em alta contra 70 em queda (média 4.45%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **85 subiram** e **58 caíram**, com variação média de **3.86%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **84 subiram** e **70 caíram**, com variação média de **4.45%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Jairzinho (89) **+54.8%** · 🔴 **Maior baixa:** Armand Laurienté (86) **-38.5%**
+> 🟢 **Maior alta:** Marco Asensio (85) **+50%** · 🔴 **Maior baixa:** Malcom (87) **-48.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Pontas — PC](/charts/mercado-ea-fc-2026-08-03-pc.svg)
 
@@ -35,24 +35,24 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 93.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 59.4% entre as cartas que se moveram; o universo observado reúne 209 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 98.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.5% entre as cartas que se moveram; o universo observado reúne 202 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jairzinho | 89 | Icons | 193k coins | +54.8% | -27.2% |
-| George Best | 90 | Icons | 205k coins | +51.1% | +56.7% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 68k coins | +46.6% | +100% |
-| Bradley Barcola | 96 | — | 410k coins | +46.4% | +2.5% |
-| Raphinha | 93 | — | 42k coins | +42.9% | +1.5% |
+| Marco Asensio | 85 | Trendyol Süper Lig | 26k coins | +50% | +3% |
+| George Best | 90 | Icons | 180k coins | +45.9% | +60.2% |
+| Gareth Bale | 88 | Icons | 650k coins | +45.4% | -24.1% |
 | Gabriel Pec | 81 | MLS | 50k coins | +42.9% | +11.1% |
-| Bukayo Saka | 90 | Premier League | 1.40M coins | +41.3% | +29.6% |
-| Jadon Sancho | 96 | — | 500k coins | +36% | +35.2% |
-| Chloe Kelly | 88 | Barclays WSL | 28k coins | +34.9% | -25.2% |
-| Olivia Smith | 86 | Barclays WSL | 70k coins | +33.3% | +20% |
+| Iago Aspas | 86 | LALIGA EA SPORTS | 50k coins | +42.9% | +19.8% |
+| Bukayo Saka | 90 | Premier League | 1.40M coins | +41.3% | +16.7% |
+| Olivia Smith | 86 | Barclays WSL | 64k coins | +37.5% | +1.5% |
+| Jeremie Frimpong | 86 | Premier League | 194k coins | +29.4% | +52.3% |
+| Ronaldinho | 95 | — | 200k coins | +22.9% | -84.6% |
+| Rayan Cherki | 87 | Premier League | 56k coins | +22.3% | -9.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jairzinho (89)** subiu **+54.8%** em 24h, a **193k coins** (faixa do dia: 124k–272k). Está -31% abaixo da média de 7 dias (descontada).
+- **Marco Asensio (85)** subiu **+50%** em 24h, a **26k coins** (faixa do dia: 10.750–32k). Está em linha com a média de 7 dias (-1%).
 
-- **George Best (90)** subiu **+51.1%** em 24h, a **205k coins** (faixa do dia: 86k–270k). Está +18% acima da média de 7 dias (aquecida).
+- **George Best (90)** subiu **+45.9%** em 24h, a **180k coins** (faixa do dia: 86k–270k). Está em linha com a média de 7 dias (+3%).
 
-- **Ethan Nwaneri (91)** subiu **+46.6%** em 24h, a **68k coins** (faixa do dia: 30k–70k). Está +50% acima da média de 7 dias (aquecida).
+- **Gareth Bale (88)** subiu **+45.4%** em 24h, a **650k coins** (faixa do dia: 379k–650k). Está em linha com a média de 7 dias (+5%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Armand Laurienté | 86 | Serie A TIM | 21k coins | -38.5% | 0% |
-| Rafael Leão | 87 | Serie A TIM | 874k coins | -37.6% | +44.5% |
-| Antony | 86 | LALIGA EA SPORTS | 44k coins | -37% | +1.7% |
-| Claudia Pina | 96 | — | 699k coins | -36.5% | -19.7% |
-| Lukáš Haraslín | 89 | Česká Liga | 22k coins | -35.7% | -21.7% |
+| Malcom | 87 | ROSHN Saudi League | 43k coins | -48.5% | -43.9% |
+| Noni Madueke | 86 | Premier League | 30k coins | -45.5% | +41.2% |
+| Alex Pfeiffer | 97 | — | 45k coins | -43.8% | — |
+| Lukáš Haraslín | 89 | Česká Liga | 22k coins | -38.6% | -25.2% |
 | Désiré Doué | 91 | Ligue 1 McDonald's | 990k coins | -33.9% | -50.5% |
-| Linda Caicedo | 87 | Liga F | 28k coins | -31.5% | -53.4% |
-| Evann Guessand | 96 | — | 118k coins | -27.6% | -70.5% |
-| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 645k coins | -27.3% | -46.2% |
-| Wilson Odobert | 87 | Premier League | 30k coins | -24.4% | +27.8% |
+| Linda Caicedo | 87 | Liga F | 28k coins | -29.7% | -53.4% |
+| Sandy Baltimore | 87 | Barclays WSL | 47k coins | -28.7% | -13.7% |
+| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 645k coins | -28.3% | -28.3% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 370k coins | -26% | +48% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 129k coins | -25.9% | -7.9% |
 
 
 ### Análise das baixas
 
-- **Armand Laurienté (86)** caiu **-38.5%** em 24h, a **21k coins** (faixa do dia: 19.750–40k). Está -27% abaixo da média de 7 dias (descontada).
+- **Malcom (87)** caiu **-48.5%** em 24h, a **43k coins** (faixa do dia: 41k–94k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Rafael Leão (87)** caiu **-37.6%** em 24h, a **874k coins** (faixa do dia: 540k–1.40M). Está +23% acima da média de 7 dias (aquecida).
+- **Noni Madueke (86)** caiu **-45.5%** em 24h, a **30k coins** (faixa do dia: 30k–70k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Antony (86)** caiu **-37%** em 24h, a **44k coins** (faixa do dia: 44k–71k). Está -35% abaixo da média de 7 dias (descontada).
+- **Alex Pfeiffer (97)** caiu **-43.8%** em 24h, a **45k coins** (faixa do dia: 44k–80k). Está -55% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jairzinho já avançou 54.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Marco Asensio já avançou 50% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Armand Laurienté recuou -38.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Malcom recuou -48.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Jairzinho (89, Icons), com +54.8% em 24h, a 193k coins no PC.
+Marco Asensio (85, Trendyol Süper Lig), com +50% em 24h, a 26k coins no PC.
 
 **E a maior queda do dia?**
-Armand Laurienté (86), -38.5% em 24h, a 21k coins.
+Malcom (87), -48.5% em 24h, a 43k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 85 cartas em alta contra 58 em queda (média 3.86%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 84 cartas em alta contra 70 em queda (média 4.45%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
