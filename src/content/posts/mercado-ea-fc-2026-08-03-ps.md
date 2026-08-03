@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T16:13:07.000Z
+pubDatetime: 2026-08-03T19:13:07.000Z
 title: "Mercado EA FC em 03/08: Pontas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Gustav Isaksen (87, Serie A TIM), com +58.8% em 24h, a 66k coins no Console (PS)."
+    a: "Harry Kewell (91, Premier League), com +57.3% em 24h, a 511k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Jens Petter Hauge (88), -48.2% em 24h, a 38k coins."
+    a: "Jens Petter Hauge (88), -47.2% em 24h, a 37k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 91 cartas em alta contra 64 em queda (média 2.36%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 82 cartas em alta contra 63 em queda (média 1.63%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **91 subiram** e **64 caíram**, com variação média de **2.36%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **82 subiram** e **63 caíram**, com variação média de **1.63%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Gustav Isaksen (87) **+58.8%** · 🔴 **Maior baixa:** Jens Petter Hauge (88) **-48.2%**
+> 🟢 **Maior alta:** Harry Kewell (91) **+57.3%** · 🔴 **Maior baixa:** Jens Petter Hauge (88) **-47.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Pontas — Console (PS)](/charts/mercado-ea-fc-2026-08-03-ps.svg)
 
@@ -35,24 +35,24 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 58.7% entre as cartas que se moveram; o universo observado reúne 199 cartas.
-- **Concentração:** Serie A TIM aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 104.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 56.6% entre as cartas que se moveram; o universo observado reúne 185 cartas.
+- **Concentração:** Bundesliga aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gustav Isaksen | 87 | Serie A TIM | 66k coins | +58.8% | +14.4% |
-| Johan Bakayoko | 88 | Bundesliga | 28k coins | +55.3% | +50% |
-| Debinha | 89 | NWSL | 271k coins | +51.4% | +49.7% |
-| Anis Hadj-Moussa | 86 | Eredivisie | 31k coins | +46.6% | -58.7% |
-| Olivia Smith | 86 | Barclays WSL | 88k coins | +40.8% | +66% |
-| Emilie Haavi | 87 | Calcio A Femminile | 31k coins | +39.8% | +28.1% |
-| Couhaib Driouech | 86 | Eredivisie | 120k coins | +38.9% | +172.7% |
-| Armand Laurienté | 86 | Serie A TIM | 25k coins | +37.5% | +54% |
-| Claudia Pina | 87 | Liga F | 130k coins | +37.5% | +43.2% |
-| Lukáš Haraslín | 89 | Česká Liga | 26k coins | +36% | +98.3% |
+| Harry Kewell | 91 | Premier League | 511k coins | +57.3% | +8.9% |
+| Kim Seung Sub | 90 | — | 45k coins | +44.1% | +50.9% |
+| Antoine Semenyo | 94 | — | 133k coins | +40.3% | +13.4% |
+| Anthony Gordon | 88 | Premier League | 254k coins | +40.3% | +46.8% |
+| Iago Aspas | 86 | LALIGA EA SPORTS | 60k coins | +31.8% | +24.7% |
+| David Neres | 86 | Serie A TIM | 75k coins | +28.2% | +14.5% |
+| Garrincha | 93 | Icons | 850k coins | +27.1% | +45.8% |
+| Yan Diomande | 84 | Bundesliga | 48k coins | +25.7% | 0% |
+| Raphinha | 93 | — | 34k coins | +24.1% | -13.1% |
+| Saeed Al Owairan | 91 | ROSHN Saudi League | 200k coins | +22.8% | +77.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Gustav Isaksen (87)** subiu **+58.8%** em 24h, a **66k coins** (faixa do dia: 41k–80k). Está +19% acima da média de 7 dias (aquecida).
+- **Harry Kewell (91)** subiu **+57.3%** em 24h, a **511k coins** (faixa do dia: 298k–568k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Johan Bakayoko (88)** subiu **+55.3%** em 24h, a **28k coins** (faixa do dia: 19.750–44k). Está -12% abaixo da média de 7 dias (descontada).
+- **Kim Seung Sub (90)** subiu **+44.1%** em 24h, a **45k coins** (faixa do dia: 25k–46k). Está +48% acima da média de 7 dias (aquecida).
 
-- **Debinha (89)** subiu **+51.4%** em 24h, a **271k coins** (faixa do dia: 180k–390k). Está +53% acima da média de 7 dias (aquecida).
+- **Antoine Semenyo (94)** subiu **+40.3%** em 24h, a **133k coins** (faixa do dia: 85k–133k). Está em linha com a média de 7 dias (+8%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jens Petter Hauge | 88 | Eliteserien | 38k coins | -48.2% | -17.4% |
-| Ashley Sanchez | 87 | NWSL | 56k coins | -37% | -36.6% |
+| Jens Petter Hauge | 88 | Eliteserien | 37k coins | -47.2% | -15.7% |
+| Couhaib Driouech | 86 | Eredivisie | 102k coins | -41.2% | +11.1% |
 | Ousmane Dembélé | 90 | Ligue 1 McDonald's | 39k coins | -35.5% | -92.2% |
-| Khvicha Kvaratskhelia | 88 | Ligue 1 McDonald's | 210k coins | -20.5% | +188.1% |
-| Bradley Barcola | 92 | — | 33k coins | -20% | -20% |
-| Timo Werner | 87 | Bundesliga | 45k coins | -19.6% | +16.3% |
-| John Barnes | 87 | Icons | 82k coins | -19.6% | +11.3% |
-| Sandy Baltimore | 87 | Barclays WSL | 49k coins | -19.3% | +8.2% |
-| Gareth Bale | 89 | Icons | 750k coins | -19.1% | -33.2% |
-| Evann Guessand | 96 | — | 40k coins | -17.1% | -65.5% |
+| Jens Petter Hauge | 91 | Eliteserien | 25k coins | -33.1% | -17.1% |
+| Malcom | 87 | ROSHN Saudi League | 54k coins | -30.6% | -19.9% |
+| Timo Werner | 87 | Bundesliga | 39k coins | -30% | +11.3% |
+| Johan Bakayoko | 88 | Bundesliga | 26k coins | -29.3% | +23.8% |
+| Bradley Barcola | 92 | — | 30k coins | -29.1% | -30.4% |
+| Ashley Sanchez | 87 | NWSL | 50k coins | -28.5% | -28.5% |
+| Ousmane Dembélé | 86 | Ligue 1 McDonald's | 22k coins | -19.5% | -19.5% |
 
 
 ### Análise das baixas
 
-- **Jens Petter Hauge (88)** caiu **-48.2%** em 24h, a **38k coins** (faixa do dia: 36k–71k). Está -18% abaixo da média de 7 dias (descontada).
+- **Jens Petter Hauge (88)** caiu **-47.2%** em 24h, a **37k coins** (faixa do dia: 36k–70k). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Ashley Sanchez (87)** caiu **-37%** em 24h, a **56k coins** (faixa do dia: 48k–80k). Está em linha com a média de 7 dias (-2%).
+- **Couhaib Driouech (86)** caiu **-41.2%** em 24h, a **102k coins** (faixa do dia: 60k–170k). Está +66% acima da média de 7 dias (aquecida).
 
-- **Ousmane Dembélé (90)** caiu **-35.5%** em 24h, a **39k coins** (faixa do dia: 39k–60k). Está -91% abaixo da média de 7 dias (descontada).
+- **Ousmane Dembélé (90)** caiu **-35.5%** em 24h, a **39k coins** (faixa do dia: 39k–60k). Está -90% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Gustav Isaksen já avançou 58.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Harry Kewell já avançou 57.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jens Petter Hauge recuou -48.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jens Petter Hauge recuou -47.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Gustav Isaksen (87, Serie A TIM), com +58.8% em 24h, a 66k coins no Console (PS).
+Harry Kewell (91, Premier League), com +57.3% em 24h, a 511k coins no Console (PS).
 
 **E a maior queda do dia?**
-Jens Petter Hauge (88), -48.2% em 24h, a 38k coins.
+Jens Petter Hauge (88), -47.2% em 24h, a 37k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 91 cartas em alta contra 64 em queda (média 2.36%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 82 cartas em alta contra 63 em queda (média 1.63%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
