@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T09:20:05.000Z
+pubDatetime: 2026-08-03T10:13:09.000Z
 title: "Investimentos EA FC: Pontas em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Johan Bakayoko (88, Bundesliga) lidera, com +83.9% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Désiré Doué (87, Ligue 1 McDonald's) lidera, com +61.9% em 7 dias a 190k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Johan Bakayoko (88) acumula **+83.9% em 7 dias** a 42k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Désiré Doué (87) acumula **+61.9% em 7 dias** a 190k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 03/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-03-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.5% em 24h** e **+46.5% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+18.1% em 24h** e **+45.8% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Johan Bakayoko | 88 | Bundesliga | 42k coins | +25% | +83.9% | Esticada |
-| Gabriel Martinelli | 87 | Premier League | 133k coins | +31.4% | +62.4% | Esticada |
-| Malcom | 87 | ROSHN Saudi League | 100k coins | +16% | +60.3% | Esticada |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 190k coins | +3.2% | +61.9% | Esticada |
+| Jérémy Doku | 84 | Premier League | 80k coins | +28.2% | +59% | Esticada |
 | Mary Fowler | 87 | Barclays Women’s Super League | 26k coins | +30% | +57.6% | Esticada |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 121k coins | +21.1% | +56.8% | Esticada |
-| Lukáš Haraslín | 89 | Česká Liga | 22k coins | +3.5% | +50.8% | Momentum moderado |
+| Gabriel Martinelli | 87 | Premier League | 133k coins | +37.1% | +56.5% | Esticada |
 | Athenea | 95 | — | 24k coins | +15.3% | +48.5% | Momentum moderado |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 43k coins | +6.8% | +46.5% | Momentum moderado |
-| Jérémy Doku | 84 | Premier League | 88k coins | +16.9% | +45.7% | Momentum moderado |
-| Denis Bouanga | 95 | — | 24k coins | +14.5% | +43.9% | Momentum moderado |
-| Léo Scienza | 95 | — | 24k coins | +13.3% | +42.4% | Momentum moderado |
-| Aoba Fujino | 91 | — | 25k coins | +23.2% | +42.3% | Esticada |
-| Rayan Cherki | 93 | — | 27k coins | +25.3% | +41.7% | Esticada |
-| Caroline Weir | 86 | Liga F | 55k coins | +16.5% | +41.2% | Momentum moderado |
-| Anders Dreyer | 94 | — | 25k coins | +9.9% | +38.9% | Momentum moderado |
+| Oumar Camara | 90 | — | 21k coins | +12.7% | +48.1% | Momentum moderado |
+| Léo Scienza | 95 | — | 24k coins | +15.5% | +47% | Momentum moderado |
+| Lukáš Haraslín | 89 | Česká Liga | 25k coins | +32.3% | +45.8% | Esticada |
+| Jens Petter Hauge | 91 | Eliteserien | 29k coins | +15.2% | +45% | Momentum moderado |
+| Ernest Muçi | 92 | — | 27k coins | +25.6% | +44.9% | Esticada |
+| Denis Bouanga | 95 | — | 25k coins | +18.1% | +44.1% | Momentum moderado |
+| Zlatko Tripić | 96 | — | 24k coins | +21.2% | +42.6% | Esticada |
+| Aoba Fujino | 91 | — | 38k coins | +27.8% | +42.3% | Esticada |
+| Elijah Just | 94 | — | 20k coins | +6.8% | +39.3% | Momentum moderado |
+| Paulo Futre | 88 | LALIGA EA SPORTS | 22k coins | +17.1% | +39.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Johan Bakayoko (88)** — 42k coins, **+83.9% em 7 dias** (+25% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Désiré Doué (87)** — 190k coins, **+61.9% em 7 dias** (+3.2% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gabriel Martinelli (87)** — 133k coins, **+62.4% em 7 dias** (+31.4% em 24h). Preço +65% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Malcom (87)** — 100k coins, **+60.3% em 7 dias** (+16% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jérémy Doku (84)** — 80k coins, **+59% em 7 dias** (+28.2% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Mary Fowler (87)** — 26k coins, **+57.6% em 7 dias** (+30% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Désiré Doué (87)** — 121k coins, **+56.8% em 7 dias** (+21.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gabriel Martinelli (87)** — 133k coins, **+56.5% em 7 dias** (+37.1% em 24h). Preço +64% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Athenea (95)** — 24k coins, **+48.5% em 7 dias** (+15.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Johan Bakayoko (88, Bundesliga) lidera, com +83.9% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Désiré Doué (87, Ligue 1 McDonald's) lidera, com +61.9% em 7 dias a 190k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
