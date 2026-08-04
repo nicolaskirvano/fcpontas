@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:13:16.000Z
+pubDatetime: 2026-08-04T13:13:17.000Z
 title: "Mercado EA FC em 04/08: Pontas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 04/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (04/08/2026)?"
-    a: "Khvicha Kvaratskhelia (96, sem liga), com +53.8% em 24h, a 440k coins no PC."
+    a: "Jairzinho (89, Icons), com +29.4% em 24h, a 230k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Jens Petter Hauge (91), -27.8% em 24h, a 80k coins."
+    a: "Kim Seung Sub (90), -22.7% em 24h, a 24k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 41 cartas em alta contra 30 em queda (média 8.21%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 28 cartas em alta contra 17 em queda (média 4.14%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **04/08/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **41 em alta** e **30 em queda**, média de **8.21%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **04/08/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **28 em alta** e **17 em queda**, média de **4.14%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Khvicha Kvaratskhelia (96) **+53.8%** · 🔴 **Maior baixa:** Jens Petter Hauge (91) **-27.8%**
+> 🟢 **Maior alta:** Jairzinho (89) **+29.4%** · 🔴 **Maior baixa:** Kim Seung Sub (90) **-22.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 04/08: Pontas — PC](/charts/mercado-ea-fc-2026-08-04-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **04/08/2026** (PC): mercado **em alta** — predominam as valoriza�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 81.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 57.7% entre as cartas que se moveram; o universo observado reúne 91 cartas.
-- **Concentração:** Icons aparece em 1 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 52.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 62.2% entre as cartas que se moveram; o universo observado reúne 70 cartas.
+- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Khvicha Kvaratskhelia | 96 | — | 440k coins | +53.8% | -19.4% |
-| Jairzinho | 89 | Icons | 266k coins | +35.2% | -7.6% |
-| Antonio Di Natale | 89 | Serie A TIM | 157k coins | +33.1% | -39.8% |
-| Noa Lang | 91 | Trendyol Süper Lig | 65k coins | +30% | -7.1% |
-| Rodrygo | 89 | LALIGA EA SPORTS | 1M coins | +29.2% | +36.8% |
-| Naomie Feller | 88 | — | 36k coins | +23.3% | -23.3% |
-| Lamine Yamal | 97 | — | 430k coins | +22.6% | +55.2% |
-| Temwa Chawinga | 97 | — | 260k coins | +20.4% | +18.2% |
-| Kim Seung Sub | 90 | — | 26k coins | +15.8% | +19.6% |
-| Ronaldinho | 95 | — | 210k coins | +14.9% | -80.9% |
+| Jairzinho | 89 | Icons | 230k coins | +29.4% | -6.5% |
+| Naomie Feller | 88 | — | 41k coins | +29.1% | -9.9% |
+| Said El Mala | 90 | — | 24k coins | +11.4% | -26.9% |
+| Yan Diomande | 96 | — | 309k coins | +10.7% | -8.5% |
+| Temwa Chawinga | 97 | — | 219k coins | +10.3% | +55.3% |
+| Saeed Al Owairan | 91 | ROSHN Saudi League | 220k coins | +9.5% | -6.8% |
+| Ousmane Dembélé | 98 | — | 1.40M coins | +8.1% | +32.6% |
+| Florian Thauvin | 96 | — | 24k coins | +6.7% | -2% |
+| Bradley Barcola | 97 | — | 547k coins | +5.9% | +21.6% |
+| Gareth Bale | 89 | Icons | 2.80M coins | +3.7% | +23.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,42 @@ Panorama de **04/08/2026** (PC): mercado **em alta** — predominam as valoriza�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Khvicha Kvaratskhelia (96)** subiu **+53.8%** em 24h, a **440k coins** (faixa do dia: 247k–570k). Está -27% abaixo da média de 7 dias (descontada).
+- **Jairzinho (89)** subiu **+29.4%** em 24h, a **230k coins** (faixa do dia: 193k–272k). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Jairzinho (89)** subiu **+35.2%** em 24h, a **266k coins** (faixa do dia: 193k–272k). Está em linha com a média de 7 dias (-4%).
+- **Naomie Feller (88)** subiu **+29.1%** em 24h, a **41k coins** (faixa do dia: 27k–50k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Antonio Di Natale (89)** subiu **+33.1%** em 24h, a **157k coins** (faixa do dia: 118k–306k). Está -37% abaixo da média de 7 dias (descontada).
+- **Said El Mala (90)** subiu **+11.4%** em 24h, a **24k coins** (faixa do dia: 18.250–25k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jens Petter Hauge | 91 | Eliteserien | 80k coins | -27.8% | +91% |
-| Jadon Sancho | 96 | — | 439k coins | -19.6% | -8% |
-| Heung Min Son | 88 | MLS | 59k coins | -14.5% | -17.5% |
-| Reyes Cleary | 90 | — | 23k coins | -11.9% | -5% |
-| Oscar Bobb | 88 | Premier League | 26k coins | -11% | +89.4% |
-| Désiré Doué | 96 | — | 367k coins | -9.2% | -50.4% |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 80k coins | -9.1% | +77.8% |
-| Yan Diomande | 92 | — | 39k coins | -8.3% | +8.6% |
-| Julian Quiñones | 96 | — | 20k coins | -7.7% | +21.7% |
-| Ernest Muçi | 92 | — | 26k coins | -7.7% | +30.1% |
+| Kim Seung Sub | 90 | — | 24k coins | -22.7% | +10.9% |
+| Antonio Di Natale | 89 | Serie A TIM | 157k coins | -18.7% | -38.9% |
+| Bradley Barcola | 92 | — | 58k coins | -10.1% | 0% |
+| Gareth Bale | 88 | Icons | 540k coins | -8.3% | -31.6% |
+| Claudia Pina | 96 | — | 631k coins | -7.8% | -27.9% |
+| Bradley Barcola | 96 | — | 396k coins | -6.7% | +5% |
+| Olivia Smith | 91 | Barclays WSL | 665k coins | -3.5% | +29.1% |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 56k coins | -3.3% | -10.8% |
+| Nico Williams | 99 | — | 1.28M coins | -3.1% | +34.5% |
 
 
 ### Análise das baixas
 
-- **Jens Petter Hauge (91)** caiu **-27.8%** em 24h, a **80k coins** (faixa do dia: 50k–88k). Está +85% acima da média de 7 dias (aquecida).
+- **Kim Seung Sub (90)** caiu **-22.7%** em 24h, a **24k coins** (faixa do dia: 22k–60k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Jadon Sancho (96)** caiu **-19.6%** em 24h, a **439k coins** (faixa do dia: 400k–550k). Está +8% acima da média de 7 dias (aquecida).
+- **Antonio Di Natale (89)** caiu **-18.7%** em 24h, a **157k coins** (faixa do dia: 118k–306k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Heung Min Son (88)** caiu **-14.5%** em 24h, a **59k coins** (faixa do dia: 59k–69k). Está -15% abaixo da média de 7 dias (descontada).
+- **Bradley Barcola (92)** caiu **-10.1%** em 24h, a **58k coins** (faixa do dia: 42k–75k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Khvicha Kvaratskhelia já avançou 53.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Jairzinho já avançou 29.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jens Petter Hauge recuou -27.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Kim Seung Sub recuou -22.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +108,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (04/08/2026)?**
-Khvicha Kvaratskhelia (96, sem liga), com +53.8% em 24h, a 440k coins no PC.
+Jairzinho (89, Icons), com +29.4% em 24h, a 230k coins no PC.
 
 **E a maior queda do dia?**
-Jens Petter Hauge (91), -27.8% em 24h, a 80k coins.
+Kim Seung Sub (90), -22.7% em 24h, a 24k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 41 cartas em alta contra 30 em queda (média 8.21%).
+Hoje o mercado está em alta — predominam as valorizações, com 28 cartas em alta contra 17 em queda (média 4.14%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
@@ -131,6 +130,5 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ## Continue a análise
 
 - [Jogadores baratos EA FC: Pontas em 04/08 — PC](/posts/jogadores-baratos-ea-fc-2026-08-04-pc/)
-- [Investimentos EA FC: Pontas em 04/08 — PC](/posts/melhores-investimentos-ea-fc-2026-08-04-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
