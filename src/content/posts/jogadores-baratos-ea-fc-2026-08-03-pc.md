@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:13:19.000Z
+pubDatetime: 2026-08-04T01:13:21.000Z
 title: "Jogadores baratos EA FC: Pontas em 03/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.307 coins.
+- **Preço médio das 15 opções:** 10.267 coins.
 - **Posição mais frequente:** RW, com 9 cartas.
-- **Faixa real:** 2.300 a 11.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.600 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,18 +43,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Antony | 91 | RW | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Tabitha Chawinga | 91 | LW | D1 Arkema | 11.500 coins | 0% |
-| Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
-| Caroline Graham Hansen | 90 | RW | Liga F | 8.600 coins | +7.6% |
-| Vini Jr. | 90 | LW | LALIGA EA SPORTS | 9.000 coins | -5.2% |
+| Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 11.500 coins | 0% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 7.000 coins | +5.1% |
 | Mohammed Kudus | 90 | RW | Premier League | 11.250 coins | 0% |
 | Ivan Perišić | 90 | LW | Eredivisie | 11.250 coins | 0% |
 | Lauren Hemp | 90 | LW | Barclays WSL | 11.250 coins | 0% |
 | John Barnes | 89 | LW | Icons | 11.250 coins | 0% |
-| Beth Mead | 88 | RW | Barclays WSL | 2.600 coins | -3.2% |
-| Lionel Messi | 88 | RW | MLS | 3.600 coins | -11.9% |
+| Beth Mead | 88 | RW | Barclays WSL | 3.600 coins | +20% |
+| Lionel Messi | 88 | RW | MLS | 3.900 coins | -10.5% |
 | Joe Cole | 88 | RW | Premier League | 11.000 coins | 0% |
-| Bukayo Saka | 87 | RW | Premier League | 2.300 coins | +4.5% |
+| Joe Cole | 87 | RW | Premier League | 12.500 coins | 0% |
+| Bradley Barcola | 87 | LW | Ligue 1 McDonald's | 13.500 coins | 0% |
 
 
 ## 📈 Destaques
@@ -65,9 +65,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Tabitha Chawinga (91, LW)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Khvicha Kvaratskhelia (91, LW)** da Ligue 1 McDonald's, a apenas **11.500 coins**
-
 - **Kadidiatou Diani (91, RW)** da D1 Arkema, a apenas **11.500 coins**
+
+- **Khvicha Kvaratskhelia (91, LW)** da Ligue 1 McDonald's, a apenas **11.500 coins**
 
 
 ## Como distribuir a banca

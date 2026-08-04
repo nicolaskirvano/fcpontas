@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:13:09.000Z
+pubDatetime: 2026-08-04T01:13:09.000Z
 title: "Investimentos EA FC: Pontas em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Timo Werner (87, Bundesliga) lidera, com +90% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Athenea (86, Liga F) lidera, com +88.7% em 7 dias a 22k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Timo Werner (87) acumula **+90% em 7 dias** a 48k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Athenea (86) acumula **+88.7% em 7 dias** a 22k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Pontas em 03/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-03-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.2% em 24h** e **+48.6% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.2% em 24h** e **+47.2% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Timo Werner | 87 | Bundesliga | 48k coins | +16.3% | +90% | Esticada |
-| Mika Godts | 93 | — | 45k coins | +15.4% | +80% | Esticada |
-| Garrincha | 92 | Icons | 195k coins | +30% | +77.3% | Esticada |
-| Elijah Just | 94 | — | 22k coins | +8% | +62.1% | Esticada |
-| Oumar Camara | 90 | — | 23k coins | +9.5% | +55.9% | Momentum moderado |
-| Roberto Alvarado | 94 | — | 22k coins | +5.7% | +55.9% | Momentum moderado |
-| Léo Scienza | 95 | — | 26k coins | +8.2% | +53.6% | Momentum moderado |
-| Athenea | 95 | — | 26k coins | +6.1% | +48.6% | Momentum moderado |
-| Denis Bouanga | 95 | — | 26k coins | +7.1% | +45.2% | Momentum moderado |
-| Zlatko Tripić | 96 | — | 26k coins | +7.2% | +42.5% | Momentum moderado |
-| Noa Lang | 91 | Trendyol Süper Lig | 52k coins | +35.5% | +39.2% | Esticada |
-| Oscar Bobb | 95 | — | 22k coins | +9.1% | +39.1% | Momentum moderado |
-| Jérémy Doku | 86 | Premier League | 245k coins | +37% | +36.3% | Esticada |
-| Raphinha | 91 | LALIGA EA SPORTS | 81k coins | +3.1% | +35.2% | Momentum moderado |
-| Florian Thauvin | 96 | — | 26k coins | +6.1% | +35.1% | Momentum moderado |
+| Athenea | 86 | Liga F | 22k coins | +33.3% | +88.7% | Esticada |
+| Gabriel Martinelli | 87 | Premier League | 122k coins | +32.6% | +88.1% | Esticada |
+| Mika Godts | 93 | — | 45k coins | +21.6% | +80% | Esticada |
+| Jeremie Frimpong | 86 | Premier League | 124k coins | +22.8% | +65.7% | Esticada |
+| Gervinho | 85 | Serie A TIM | 15.000 coins | +25% | +50% | Esticada |
+| Roberto Alvarado | 94 | — | 22k coins | +4.8% | +49.2% | Momentum moderado |
+| Elijah Just | 94 | — | 22k coins | +3.5% | +49.2% | Momentum moderado |
+| Léo Scienza | 95 | — | 26k coins | +8.2% | +47.2% | Momentum moderado |
+| Oumar Camara | 90 | — | 22k coins | +6% | +46.7% | Momentum moderado |
+| Athenea | 95 | — | 26k coins | +8.2% | +41.3% | Momentum moderado |
+| Denis Bouanga | 95 | — | 26k coins | +9.3% | +39.5% | Momentum moderado |
+| Bartosz Nowak | 93 | — | 28k coins | +1.9% | +37.5% | Momentum moderado |
+| John Barnes | 93 | — | 22k coins | +7% | +37.3% | Momentum moderado |
+| Zlatko Tripić | 96 | — | 26k coins | +10.4% | +35.9% | Momentum moderado |
+| Florian Thauvin | 96 | — | 26k coins | +8.2% | +35.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Timo Werner (87)** — 48k coins, **+90% em 7 dias** (+16.3% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Athenea (86)** — 22k coins, **+88.7% em 7 dias** (+33.3% em 24h). Preço -22% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mika Godts (93)** — 45k coins, **+80% em 7 dias** (+15.4% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gabriel Martinelli (87)** — 122k coins, **+88.1% em 7 dias** (+32.6% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Garrincha (92)** — 195k coins, **+77.3% em 7 dias** (+30% em 24h). Preço -70% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mika Godts (93)** — 45k coins, **+80% em 7 dias** (+21.6% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Elijah Just (94)** — 22k coins, **+62.1% em 7 dias** (+8% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jeremie Frimpong (86)** — 124k coins, **+65.7% em 7 dias** (+22.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oumar Camara (90)** — 23k coins, **+55.9% em 7 dias** (+9.5% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gervinho (85)** — 15.000 coins, **+50% em 7 dias** (+25% em 24h). Preço -33% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Timo Werner (87, Bundesliga) lidera, com +90% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Athenea (86, Liga F) lidera, com +88.7% em 7 dias a 22k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

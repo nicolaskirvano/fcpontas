@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:13:07.000Z
+pubDatetime: 2026-08-04T01:13:08.000Z
 title: "Mercado EA FC em 03/08: Pontas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Anass Zaroury (86, Hellas Liga), com +52.2% em 24h, a 67k coins no Console (PS)."
+    a: "Anthony Gordon (88, Premier League), com +43.5% em 24h, a 239k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Désiré Doué (91), -43.8% em 24h, a 900k coins."
+    a: "Johan Bakayoko (88), -44.5% em 24h, a 40k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 86 cartas em alta contra 52 em queda (média 2.84%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 91 cartas em alta contra 69 em queda (média -1.01%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **86 subiram** e **52 caíram**, com variação média de **2.84%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **91 subiram** e **69 caíram**, com variação média de **-1.01%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Anass Zaroury (86) **+52.2%** · 🔴 **Maior baixa:** Désiré Doué (91) **-43.8%**
+> 🟢 **Maior alta:** Anthony Gordon (88) **+43.5%** · 🔴 **Maior baixa:** Johan Bakayoko (88) **-44.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Pontas — Console (PS)](/charts/mercado-ea-fc-2026-08-03-ps.svg)
 
@@ -35,24 +35,24 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 96.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 62.3% entre as cartas que se moveram; o universo observado reúne 184 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 88.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 56.9% entre as cartas que se moveram; o universo observado reúne 202 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anass Zaroury | 86 | Hellas Liga | 67k coins | +52.2% | +185.4% |
-| Lukáš Haraslín | 89 | Česká Liga | 27k coins | +44.9% | +105.5% |
-| Anthony Gordon | 88 | Premier League | 251k coins | +44.3% | +46.8% |
-| Jérémy Doku | 86 | Premier League | 245k coins | +37% | +36.3% |
-| Antoine Semenyo | 94 | — | 124k coins | +33.7% | +7.9% |
-| Debinha | 89 | NWSL | 292k coins | +32.7% | +77% |
-| Ousmane Dembélé | 86 | Ligue 1 McDonald's | 36k coins | +32.4% | +32.4% |
-| Garrincha | 93 | Icons | 699k coins | +32.3% | +35.7% |
-| Caroline Graham Hansen | 92 | Liga F | 200k coins | +32.1% | -9.5% |
-| Tabitha Chawinga | 86 | D1 Arkema | 65k coins | +31.1% | +28.3% |
+| Anthony Gordon | 88 | Premier League | 239k coins | +43.5% | +63.8% |
+| Khvicha Kvaratskhelia | 88 | Ligue 1 McDonald's | 242k coins | +43.2% | +238.5% |
+| Claudia Pina | 88 | Liga F | 70k coins | +42.9% | -11.9% |
+| Athenea | 86 | Liga F | 22k coins | +33.3% | +88.7% |
+| Gabriel Martinelli | 87 | Premier League | 122k coins | +32.6% | +88.1% |
+| Garrincha | 93 | Icons | 837k coins | +31.9% | +52.4% |
+| Kerem Aktürkoğlu | 91 | — | 65k coins | +30.7% | +225% |
+| Jérémy Doku | 86 | Premier League | 257k coins | +29.6% | +30.3% |
+| Tabitha Chawinga | 86 | D1 Arkema | 60k coins | +25% | +30.4% |
+| Jeremie Frimpong | 86 | Premier League | 124k coins | +22.8% | +65.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Anass Zaroury (86)** subiu **+52.2%** em 24h, a **67k coins** (faixa do dia: 44k–90k). Está +31% acima da média de 7 dias (aquecida).
+- **Anthony Gordon (88)** subiu **+43.5%** em 24h, a **239k coins** (faixa do dia: 169k–259k). Está +27% acima da média de 7 dias (aquecida).
 
-- **Lukáš Haraslín (89)** subiu **+44.9%** em 24h, a **27k coins** (faixa do dia: 15.000–35k). Está +21% acima da média de 7 dias (aquecida).
+- **Khvicha Kvaratskhelia (88)** subiu **+43.2%** em 24h, a **242k coins** (faixa do dia: 169k–288k). Está +21% acima da média de 7 dias (aquecida).
 
-- **Anthony Gordon (88)** subiu **+44.3%** em 24h, a **251k coins** (faixa do dia: 169k–259k). Está +35% acima da média de 7 dias (aquecida).
+- **Claudia Pina (88)** subiu **+42.9%** em 24h, a **70k coins** (faixa do dia: 44k–98k). Está -16% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 900k coins | -43.8% | -32.1% |
-| Jens Petter Hauge | 88 | Eliteserien | 36k coins | -43% | -9.3% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 39k coins | -35.5% | -92.2% |
-| Johan Bakayoko | 88 | Bundesliga | 24k coins | -35.3% | +15.5% |
-| Antonio Di Natale | 89 | Serie A TIM | 176k coins | -26.2% | +7.5% |
-| Gervinho | 87 | Serie A TIM | 28k coins | -21% | -30.2% |
-| Matthis Abline | 81 | Ligue 1 McDonald's | 44k coins | -12% | -9.7% |
-| Antoine Semenyo | 96 | — | 80k coins | -9.1% | -33.9% |
-| Denis Bouanga | 86 | — | 46k coins | -9% | +14.5% |
-| Claudia Pina | 97 | — | 485k coins | -8.1% | +6.2% |
+| Johan Bakayoko | 88 | Bundesliga | 40k coins | -44.5% | +17.1% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 950k coins | -37.8% | -27.6% |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 39k coins | -35.5% | -92.3% |
+| Juan Iturbe | 85 | Libertadores | 22k coins | -30.2% | -35.7% |
+| Saeed Al Owairan | 85 | ROSHN Saudi League | 86k coins | -26.7% | +21.3% |
+| Debinha | 89 | NWSL | 285k coins | -26.2% | +78.1% |
+| Evann Guessand | 96 | — | 38k coins | -24.9% | -61.1% |
+| Ferran Torres | 86 | LALIGA EA SPORTS | 46k coins | -23.7% | -3.3% |
+| Mary Fowler | 87 | Barclays Women’s Super League | 25k coins | -22.2% | -6.7% |
+| Kim Seung Sub | 90 | — | 29k coins | -21.9% | +14.2% |
 
 
 ### Análise das baixas
 
-- **Désiré Doué (91)** caiu **-43.8%** em 24h, a **900k coins** (faixa do dia: 809k–1.12M). Está em linha com a média de 7 dias (+3%).
+- **Johan Bakayoko (88)** caiu **-44.5%** em 24h, a **40k coins** (faixa do dia: 24k–44k). Está +25% acima da média de 7 dias (aquecida).
 
-- **Jens Petter Hauge (88)** caiu **-43%** em 24h, a **36k coins** (faixa do dia: 36k–70k). Está -22% abaixo da média de 7 dias (descontada).
+- **Désiré Doué (91)** caiu **-37.8%** em 24h, a **950k coins** (faixa do dia: 610k–1.12M). Está +9% acima da média de 7 dias (aquecida).
 
 - **Ousmane Dembélé (90)** caiu **-35.5%** em 24h, a **39k coins** (faixa do dia: 39k–60k). Está -90% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Anass Zaroury já avançou 52.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Anthony Gordon já avançou 43.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Désiré Doué recuou -43.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Johan Bakayoko recuou -44.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Anass Zaroury (86, Hellas Liga), com +52.2% em 24h, a 67k coins no Console (PS).
+Anthony Gordon (88, Premier League), com +43.5% em 24h, a 239k coins no Console (PS).
 
 **E a maior queda do dia?**
-Désiré Doué (91), -43.8% em 24h, a 900k coins.
+Johan Bakayoko (88), -44.5% em 24h, a 40k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 86 cartas em alta contra 52 em queda (média 2.84%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 91 cartas em alta contra 69 em queda (média -1.01%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
