@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-05T19:13:09.000Z
+pubDatetime: 2026-08-05T22:13:10.000Z
 title: "Investimentos EA FC: Pontas em 05/08 — Console (PS)"
 draft: false
 featured: true
