@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-08T10:13:10.000Z
+pubDatetime: 2026-08-08T13:13:10.000Z
 title: "Jogadores baratos EA FC: Pontas em 08/08 — Console (PS)"
 draft: false
 featured: false
